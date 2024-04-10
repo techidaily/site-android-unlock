@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Oppo Find N3 Flip Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-07T21:55:06.676Z
-updated: 2024-04-08T21:55:06.676Z
+date: 2024-04-09T05:01:58.974Z
+updated: 2024-04-10T05:01:58.974Z
 tags: 
   - unlock
   - remove screen lock

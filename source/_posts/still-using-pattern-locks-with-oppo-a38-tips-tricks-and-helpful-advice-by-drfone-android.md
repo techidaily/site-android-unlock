@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with Oppo A38? Tips, Tricks and Helpful Advice
-date: 2024-04-07T21:55:07.634Z
-updated: 2024-04-08T21:55:07.634Z
+date: 2024-04-09T05:01:59.028Z
+updated: 2024-04-10T05:01:59.028Z
 tags: 
   - unlock
   - remove screen lock

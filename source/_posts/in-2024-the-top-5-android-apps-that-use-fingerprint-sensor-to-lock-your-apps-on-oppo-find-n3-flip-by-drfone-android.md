@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Find N3 Flip
-date: 2024-04-07T21:55:06.664Z
-updated: 2024-04-08T21:55:06.664Z
+date: 2024-04-09T05:01:58.962Z
+updated: 2024-04-10T05:01:58.962Z
 tags: 
   - unlock
   - remove screen lock

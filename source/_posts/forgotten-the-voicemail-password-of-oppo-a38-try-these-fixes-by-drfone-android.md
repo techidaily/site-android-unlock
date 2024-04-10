@@ -1,7 +1,7 @@
 ---
 title: Forgotten The Voicemail Password Of Oppo A38? Try These Fixes
-date: 2024-04-07T21:55:07.691Z
-updated: 2024-04-08T21:55:07.691Z
+date: 2024-04-09T05:01:59.067Z
+updated: 2024-04-10T05:01:59.067Z
 tags: 
   - unlock
   - remove screen lock

@@ -1,7 +1,7 @@
 ---
 title: 7 Ways to Unlock a Locked Oppo A38 Phone
-date: 2024-04-07T21:55:07.682Z
-updated: 2024-04-08T21:55:07.682Z
+date: 2024-04-09T05:01:59.057Z
+updated: 2024-04-10T05:01:59.057Z
 tags: 
   - unlock
   - remove screen lock

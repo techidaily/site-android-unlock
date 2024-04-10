@@ -1,7 +1,7 @@
 ---
 title: Unlock Your Oppo A38s Potential The Top 20 Lock Screen Apps You Need to Try
-date: 2024-04-07T21:55:07.697Z
-updated: 2024-04-08T21:55:07.697Z
+date: 2024-04-09T05:01:59.084Z
+updated: 2024-04-10T05:01:59.084Z
 tags: 
   - unlock
   - remove screen lock

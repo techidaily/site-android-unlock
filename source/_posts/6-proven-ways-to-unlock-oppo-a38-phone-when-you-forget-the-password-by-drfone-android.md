@@ -1,7 +1,7 @@
 ---
 title: 6 Proven Ways to Unlock Oppo A38 Phone When You Forget the Password
-date: 2024-04-07T21:55:07.678Z
-updated: 2024-04-08T21:55:07.679Z
+date: 2024-04-09T05:01:59.053Z
+updated: 2024-04-10T05:01:59.053Z
 tags: 
   - unlock
   - remove screen lock

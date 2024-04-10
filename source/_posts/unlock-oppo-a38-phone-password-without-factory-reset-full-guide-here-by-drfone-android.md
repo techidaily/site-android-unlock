@@ -1,7 +1,7 @@
 ---
 title: Unlock Oppo A38 Phone Password Without Factory Reset Full Guide Here
-date: 2024-04-07T21:55:07.681Z
-updated: 2024-04-08T21:55:07.681Z
+date: 2024-04-09T05:01:59.056Z
+updated: 2024-04-10T05:01:59.056Z
 tags: 
   - unlock
   - remove screen lock

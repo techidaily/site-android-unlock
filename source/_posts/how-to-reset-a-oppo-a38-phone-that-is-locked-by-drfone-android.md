@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Oppo A38 Phone that is Locked?
-date: 2024-04-07T21:55:07.690Z
-updated: 2024-04-08T21:55:07.690Z
+date: 2024-04-09T05:01:59.066Z
+updated: 2024-04-10T05:01:59.066Z
 tags: 
   - unlock
   - remove screen lock

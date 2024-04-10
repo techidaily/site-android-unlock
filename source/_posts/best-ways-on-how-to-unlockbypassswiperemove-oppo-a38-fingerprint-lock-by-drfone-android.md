@@ -1,7 +1,7 @@
 ---
 title: Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A38 Fingerprint Lock
-date: 2024-04-07T21:55:07.674Z
-updated: 2024-04-08T21:55:07.674Z
+date: 2024-04-09T05:01:59.033Z
+updated: 2024-04-10T05:01:59.033Z
 tags: 
   - unlock
   - remove screen lock

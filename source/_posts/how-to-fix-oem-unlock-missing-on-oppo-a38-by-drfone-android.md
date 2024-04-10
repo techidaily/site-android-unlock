@@ -1,7 +1,7 @@
 ---
 title: How To Fix OEM Unlock Missing on Oppo A38?
-date: 2024-04-07T21:55:07.728Z
-updated: 2024-04-08T21:55:07.728Z
+date: 2024-04-09T05:01:59.090Z
+updated: 2024-04-10T05:01:59.090Z
 tags: 
   - unlock
   - remove screen lock

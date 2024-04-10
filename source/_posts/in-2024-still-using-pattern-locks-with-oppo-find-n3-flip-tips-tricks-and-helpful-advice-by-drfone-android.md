@@ -1,7 +1,7 @@
 ---
 title: In 2024, Still Using Pattern Locks with Oppo Find N3 Flip? Tips, Tricks and Helpful Advice
-date: 2024-04-07T21:55:06.636Z
-updated: 2024-04-08T21:55:06.636Z
+date: 2024-04-09T05:01:58.926Z
+updated: 2024-04-10T05:01:58.926Z
 tags: 
   - unlock
   - remove screen lock

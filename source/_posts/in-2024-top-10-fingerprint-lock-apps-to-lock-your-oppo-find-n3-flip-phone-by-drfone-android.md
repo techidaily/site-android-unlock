@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo Find N3 Flip Phone
-date: 2024-04-07T21:55:06.640Z
-updated: 2024-04-08T21:55:06.640Z
+date: 2024-04-09T05:01:58.939Z
+updated: 2024-04-10T05:01:58.939Z
 tags: 
   - unlock
   - remove screen lock

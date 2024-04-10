@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Oppo A38 Pattern Lock Screen
-date: 2024-04-07T21:55:07.680Z
-updated: 2024-04-08T21:55:07.680Z
+date: 2024-04-09T05:01:59.055Z
+updated: 2024-04-10T05:01:59.055Z
 tags: 
   - unlock
   - remove screen lock

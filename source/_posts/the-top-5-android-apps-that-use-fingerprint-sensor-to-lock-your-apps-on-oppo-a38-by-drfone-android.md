@@ -1,7 +1,7 @@
 ---
 title: The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo A38
-date: 2024-04-07T21:55:07.696Z
-updated: 2024-04-08T21:55:07.696Z
+date: 2024-04-09T05:01:59.083Z
+updated: 2024-04-10T05:01:59.083Z
 tags: 
   - unlock
   - remove screen lock

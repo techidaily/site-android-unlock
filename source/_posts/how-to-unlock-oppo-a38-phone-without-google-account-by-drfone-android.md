@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Oppo A38 Phone without Google Account?
-date: 2024-04-07T21:55:07.692Z
-updated: 2024-04-08T21:55:07.692Z
+date: 2024-04-09T05:01:59.078Z
+updated: 2024-04-10T05:01:59.078Z
 tags: 
   - unlock
   - remove screen lock

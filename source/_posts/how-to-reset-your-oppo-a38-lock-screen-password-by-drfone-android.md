@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Oppo A38 Lock Screen Password
-date: 2024-04-07T21:55:07.323Z
-updated: 2024-04-08T21:55:07.323Z
+date: 2024-04-09T05:01:59.013Z
+updated: 2024-04-10T05:01:59.013Z
 tags: 
   - unlock
   - remove screen lock

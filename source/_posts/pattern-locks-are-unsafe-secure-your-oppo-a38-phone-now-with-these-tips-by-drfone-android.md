@@ -1,7 +1,7 @@
 ---
 title: Pattern Locks Are Unsafe Secure Your Oppo A38 Phone Now with These Tips
-date: 2024-04-07T21:55:07.685Z
-updated: 2024-04-08T21:55:07.685Z
+date: 2024-04-09T05:01:59.061Z
+updated: 2024-04-10T05:01:59.061Z
 tags: 
   - unlock
   - remove screen lock

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Fingerprint Lock Apps to Lock Your Oppo A38 Phone
-date: 2024-04-07T21:55:07.673Z
-updated: 2024-04-08T21:55:07.673Z
+date: 2024-04-09T05:01:59.032Z
+updated: 2024-04-10T05:01:59.032Z
 tags: 
   - unlock
   - remove screen lock

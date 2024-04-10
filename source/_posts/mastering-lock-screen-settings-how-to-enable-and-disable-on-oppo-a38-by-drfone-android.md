@@ -1,7 +1,7 @@
 ---
 title: Mastering Lock Screen Settings How to Enable and Disable on Oppo A38
-date: 2024-04-07T21:55:07.609Z
-updated: 2024-04-08T21:55:07.609Z
+date: 2024-04-09T05:01:59.027Z
+updated: 2024-04-10T05:01:59.027Z
 tags: 
   - unlock
   - remove screen lock

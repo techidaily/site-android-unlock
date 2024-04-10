@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset a Oppo Find N3 Flip Phone that is Locked?
-date: 2024-04-07T21:55:06.658Z
-updated: 2024-04-08T21:55:06.658Z
+date: 2024-04-09T05:01:58.956Z
+updated: 2024-04-10T05:01:58.956Z
 tags: 
   - unlock
   - remove screen lock

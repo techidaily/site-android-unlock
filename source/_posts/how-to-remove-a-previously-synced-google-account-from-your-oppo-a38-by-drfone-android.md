@@ -1,7 +1,7 @@
 ---
 title: How to Remove a Previously Synced Google Account from Your Oppo A38
-date: 2024-04-07T21:55:07.689Z
-updated: 2024-04-08T21:55:07.689Z
+date: 2024-04-09T05:01:59.065Z
+updated: 2024-04-10T05:01:59.065Z
 tags: 
   - unlock
   - remove screen lock

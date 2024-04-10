@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Oppo A38
-date: 2024-04-07T21:55:07.298Z
-updated: 2024-04-08T21:55:07.298Z
+date: 2024-04-09T05:01:59.012Z
+updated: 2024-04-10T05:01:59.012Z
 tags: 
   - unlock
   - remove screen lock

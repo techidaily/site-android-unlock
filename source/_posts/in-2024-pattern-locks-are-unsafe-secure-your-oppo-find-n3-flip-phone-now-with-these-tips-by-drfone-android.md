@@ -1,7 +1,7 @@
 ---
 title: In 2024, Pattern Locks Are Unsafe Secure Your Oppo Find N3 Flip Phone Now with These Tips
-date: 2024-04-07T21:55:06.653Z
-updated: 2024-04-08T21:55:06.653Z
+date: 2024-04-09T05:01:58.951Z
+updated: 2024-04-10T05:01:58.951Z
 tags: 
   - unlock
   - remove screen lock

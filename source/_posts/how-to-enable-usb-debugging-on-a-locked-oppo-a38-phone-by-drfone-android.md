@@ -1,7 +1,7 @@
 ---
 title: How To Enable USB Debugging on a Locked Oppo A38 Phone
-date: 2024-04-07T21:55:07.659Z
-updated: 2024-04-08T21:55:07.659Z
+date: 2024-04-09T05:01:59.029Z
+updated: 2024-04-10T05:01:59.029Z
 tags: 
   - unlock
   - remove screen lock

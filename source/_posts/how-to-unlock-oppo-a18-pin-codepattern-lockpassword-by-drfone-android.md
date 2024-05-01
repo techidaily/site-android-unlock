@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Oppo A18 PIN Code/Pattern Lock/Password
-date: 2024-04-12T00:59:01.500Z
-updated: 2024-04-13T00:59:01.500Z
+date: 2024-04-30T18:57:37.120Z
+updated: 2024-05-01T18:57:37.120Z
 tags: 
   - unlock
   - remove screen lock
@@ -631,3 +631,4 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-realme-gt-5-pro-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Realme GT 5 Pro for Free? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/motorola-edge-40-neo-cant-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Motorola Edge 40 Neo can't play MP4 video files</u></a></li>
 </ul></div>
+

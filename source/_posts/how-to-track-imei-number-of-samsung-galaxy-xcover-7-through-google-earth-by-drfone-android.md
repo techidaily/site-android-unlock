@@ -400,3 +400,4 @@ There are a handful of methods you can use to unlock a Samsung Galaxy XCover 7  
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+

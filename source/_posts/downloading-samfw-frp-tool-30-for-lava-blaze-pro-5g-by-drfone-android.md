@@ -450,3 +450,4 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://techidaily.com/best-fixes-for-infinix-note-30-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Note 30 Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-11-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 11 Pro Max Parental Restrictions With/Without Password</u></a></li>
 </ul></div>
+

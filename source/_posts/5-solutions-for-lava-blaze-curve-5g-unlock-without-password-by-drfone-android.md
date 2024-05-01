@@ -474,3 +474,4 @@ By following these simple steps, you would learn how to get into a locked phone.
 <li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-y36-phone-by-drfone-android/" ><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo Y36 Phone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-phone-without-any-data-loss-by-drfone-android/" ><u>How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Phone without Any Data Loss</u></a></li>
 </ul></div>
+

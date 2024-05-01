@@ -495,3 +495,4 @@ You will be given the option to input a new password or pattern right after you 
 <li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-6s-plus-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your iPhone 6s Plus</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-y27s-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo Y27s Is Unlocked</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Samsung Galaxy S23 Ultra Phone that is Locked?
-date: 2024-04-30T19:05:42.477Z
-updated: 2024-05-01T19:05:42.477Z
+date: 2024-05-19T14:17:54.274Z
+updated: 2024-05-20T14:17:54.274Z
 tags: 
   - unlock
   - remove screen lock
@@ -450,4 +450,5 @@ Being unable to unlock your device is never a good place to be. We hope one of t
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-k11x-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo K11x Wont Charge | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xiaomi Redmi K70 Pro?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Samsung Galaxy S23+ Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T19:05:11.420Z
-updated: 2024-05-01T19:05:11.420Z
+date: 2024-05-19T14:17:52.372Z
+updated: 2024-05-20T14:17:52.372Z
 tags: 
   - unlock
   - remove screen lock
@@ -571,4 +571,5 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 <li><a href="https://techidaily.com/unlock-a-disable-iphone-12-pro-using-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 12 Pro using itunes</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
 </ul></div>
+
 

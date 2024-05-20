@@ -500,3 +500,4 @@ Whether it is an easy pattern lock or a hard pattern lock, the fact is that patt
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
 </ul></div>
 
+

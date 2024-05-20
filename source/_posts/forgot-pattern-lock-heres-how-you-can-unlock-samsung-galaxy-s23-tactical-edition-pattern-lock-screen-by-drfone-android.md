@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy S23 Tactical Edition Pattern Lock Screen
-date: 2024-04-30T19:10:47.227Z
-updated: 2024-05-01T19:10:47.227Z
+date: 2024-05-19T14:18:12.608Z
+updated: 2024-05-20T14:18:12.608Z
 tags: 
   - unlock
   - remove screen lock
@@ -508,4 +508,5 @@ Wondershare Dr.Fone is a reliable tool for those challenging moments when you fo
 <li><a href="https://android-frp.techidaily.com/about-oneplus-ace-2-frp-bypass-by-drfone-android/"><u>About OnePlus Ace 2 FRP Bypass</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Samsung Galaxy S23 | Dr.fone</u></a></li>
 </ul></div>
+
 

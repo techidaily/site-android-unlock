@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 10 Password Cracking Tools For Samsung Galaxy A05s
-date: 2024-04-30T19:16:16.048Z
-updated: 2024-05-01T19:16:16.048Z
+date: 2024-05-19T14:18:32.380Z
+updated: 2024-05-20T14:18:32.380Z
 tags: 
   - unlock
   - remove screen lock
@@ -513,4 +513,5 @@ Enabling screen lock on your Android is the smartest thing to do especially if y
 <li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-11-pro-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 11 Pro</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8, Apples New iPhone</u></a></li>
 </ul></div>
+
 

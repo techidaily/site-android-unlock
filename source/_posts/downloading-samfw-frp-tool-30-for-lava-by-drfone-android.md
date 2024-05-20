@@ -384,3 +384,4 @@ Do not forget to share your experiences with the apps mentioned in our article. 
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo Y100t | Dr.fone</u></a></li>
 </ul></div>
 
+

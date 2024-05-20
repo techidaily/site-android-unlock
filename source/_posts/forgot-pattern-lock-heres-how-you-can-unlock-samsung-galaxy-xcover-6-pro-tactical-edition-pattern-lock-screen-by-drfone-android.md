@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Pattern Lock Screen
-date: 2024-04-30T19:11:21.342Z
-updated: 2024-05-01T19:11:21.342Z
+date: 2024-05-19T14:18:14.760Z
+updated: 2024-05-20T14:18:14.760Z
 tags: 
   - unlock
   - remove screen lock
@@ -498,4 +498,5 @@ Now when you know every essential thing about pattern lock screen on Android, yo
 <li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo X100 Pro | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-infinix-hot-40i-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Infinix Hot 40i.</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Samsung Galaxy S23 Tactical Edition Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T19:11:09.704Z
-updated: 2024-05-01T19:11:09.704Z
+date: 2024-05-19T14:18:14.105Z
+updated: 2024-05-20T14:18:14.105Z
 tags: 
   - unlock
   - remove screen lock
@@ -549,4 +549,5 @@ This guide provides insight into the most common Android issue. Here, we have di
 <li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-google-pixel-8-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Google Pixel 8 Pro Phone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-f5-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Poco F5 5G Phone Password Without Factory Reset?</u></a></li>
 </ul></div>
+
 

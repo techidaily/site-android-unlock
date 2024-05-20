@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Samsung Pattern Lock Screen
-date: 2024-04-30T19:02:31.343Z
-updated: 2024-05-01T19:02:31.343Z
+date: 2024-05-19T14:17:43.047Z
+updated: 2024-05-20T14:17:43.047Z
 tags: 
   - unlock
   - remove screen lock
@@ -516,4 +516,5 @@ Now you learned how to show the wifi password on your Android device.
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-8-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 8 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

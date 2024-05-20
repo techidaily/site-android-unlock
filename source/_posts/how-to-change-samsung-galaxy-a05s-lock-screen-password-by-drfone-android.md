@@ -1,7 +1,7 @@
 ---
 title: How To Change Samsung Galaxy A05s Lock Screen Password?
-date: 2024-04-30T19:15:54.952Z
-updated: 2024-05-01T19:15:54.952Z
+date: 2024-05-19T14:18:31.164Z
+updated: 2024-05-20T14:18:31.164Z
 tags: 
   - unlock
   - remove screen lock
@@ -627,4 +627,5 @@ _**Tips:** Forget your device password and can't get access to it? No worries as
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-honor-x50-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Honor X50</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oneplus-12r-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From OnePlus 12R To iPhone 15/14/13? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -462,3 +462,4 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-6-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 6 Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
 </ul></div>
 
+

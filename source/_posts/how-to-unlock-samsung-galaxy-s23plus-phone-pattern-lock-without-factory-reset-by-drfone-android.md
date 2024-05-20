@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Samsung Galaxy S23+ Phone Pattern Lock without Factory Reset
-date: 2024-04-30T19:05:15.930Z
-updated: 2024-05-01T19:05:15.930Z
+date: 2024-05-19T14:17:52.835Z
+updated: 2024-05-20T14:17:52.835Z
 tags: 
   - unlock
   - remove screen lock
@@ -622,4 +622,5 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 <li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-infinix-smart-8-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Infinix Smart 8?</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-iphone-13-mini-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From iPhone 13 mini?</u></a></li>
 </ul></div>
+
 

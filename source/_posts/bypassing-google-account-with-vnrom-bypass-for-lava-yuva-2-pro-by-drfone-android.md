@@ -611,3 +611,4 @@ Any method can solve the problems of using your device with your Android handset
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-hot-40-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Hot 40 Pro</u></a></li>
 </ul></div>
 
+

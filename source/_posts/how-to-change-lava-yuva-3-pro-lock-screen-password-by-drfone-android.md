@@ -657,3 +657,4 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 <li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-samsung-galaxy-s24plus-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Samsung Galaxy S24+</u></a></li>
 </ul></div>
 
+

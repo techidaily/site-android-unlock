@@ -580,3 +580,4 @@ You can choose a preferred option and rectify the issue whenever you [forgot the
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-redmi-note-13-pro-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi Redmi Note 13 Pro 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
 
+

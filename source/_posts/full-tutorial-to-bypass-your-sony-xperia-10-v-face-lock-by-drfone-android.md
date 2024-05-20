@@ -521,3 +521,4 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-15-plus-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone 15 Plus?</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy S23 Phone
-date: 2024-04-30T19:04:30.474Z
-updated: 2024-05-01T19:04:30.474Z
+date: 2024-05-19T14:17:50.007Z
+updated: 2024-05-20T14:17:50.007Z
 tags: 
   - unlock
   - remove screen lock
@@ -476,4 +476,5 @@ Gmail is undoubtedly a marvelous tool to use on Android devices, but have you re
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Motorola Edge 2023 | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Nubia Z50S Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

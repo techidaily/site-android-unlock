@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Samsung Galaxy A05 Phone
-date: 2024-04-30T19:15:26.105Z
-updated: 2024-05-01T19:15:26.105Z
+date: 2024-05-19T14:18:29.536Z
+updated: 2024-05-20T14:18:29.536Z
 tags: 
   - unlock
   - remove screen lock
@@ -411,4 +411,5 @@ Pattern locks are outdated and not safe to use an **easy pattern lock** – ther
 <li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-honor-x9b-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Honor X9b? Try These Fixes</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-x100-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo X100 Pro Screen Not Working | Dr.fone</u></a></li>
 </ul></div>
+
 

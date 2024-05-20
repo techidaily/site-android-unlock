@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy S23 Pattern Lock Screen
-date: 2024-04-30T19:04:48.498Z
-updated: 2024-05-01T19:04:48.498Z
+date: 2024-05-19T14:17:51.091Z
+updated: 2024-05-20T14:17:51.091Z
 tags: 
   - unlock
   - remove screen lock
@@ -609,4 +609,5 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-avs-video-editor-a-comprehensive-review/"><u>Updated AVS Video Editor A Comprehensive Review</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-ultimate-64-bit-video-editor-for-windows/"><u>Updated Discover the Ultimate 64-Bit Video Editor for Windows</u></a></li>
 </ul></div>
+
 

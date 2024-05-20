@@ -560,3 +560,4 @@ Smart Lock Android is a great feature and is only going to improve on time. With
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-hot-40-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Hot 40 to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

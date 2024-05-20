@@ -1,7 +1,7 @@
 ---
 title: Remove the Lock Screen Fingerprint Of Your Samsung Galaxy A05s
-date: 2024-04-30T19:16:00.194Z
-updated: 2024-05-01T19:16:00.194Z
+date: 2024-05-19T14:18:31.477Z
+updated: 2024-05-20T14:18:31.477Z
 tags: 
   - unlock
   - remove screen lock
@@ -455,4 +455,5 @@ To avoid forgetting your password or PIN next time, be sure to write the pattern
 <li><a href="https://location-social.techidaily.com/does-realme-gt-5-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Realme GT 5 Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-xiaomi-14-ultra-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Xiaomi 14 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

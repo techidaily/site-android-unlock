@@ -446,3 +446,4 @@ Then, it’s time to consider Dr.Fone - Screen Unlock (Android). It effortlessly
 <li><a href="https://howto.techidaily.com/why-does-my-tecno-spark-10c-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Tecno Spark 10C Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 
+

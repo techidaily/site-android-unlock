@@ -531,3 +531,4 @@ Use volume keys to select and power button to confirm. Once this is done, the Mo
 <li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-infinix-hot-30i-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Infinix Hot 30i Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
 
+

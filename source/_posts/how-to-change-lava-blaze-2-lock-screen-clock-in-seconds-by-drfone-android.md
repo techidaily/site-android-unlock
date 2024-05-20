@@ -548,3 +548,4 @@ On the other hand, other methods have their limitations. For example, SmartThing
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-infinix-smart-8-plus-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Infinix Smart 8 Plus Wont Charge | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Samsung Galaxy A05s PIN Code/Pattern Lock/Password
-date: 2024-04-30T19:16:04.709Z
-updated: 2024-05-01T19:16:04.709Z
+date: 2024-05-19T14:18:31.684Z
+updated: 2024-05-20T14:18:31.684Z
 tags: 
   - unlock
   - remove screen lock
@@ -632,4 +632,5 @@ And if you ever need to [unlock your SIM card](https://drfone.wondershare.com/si
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-find-x7-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Find X7 to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Apple iPhone 6s | Dr.fone</u></a></li>
 </ul></div>
+
 

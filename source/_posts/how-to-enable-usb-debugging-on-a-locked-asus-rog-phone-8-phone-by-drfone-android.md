@@ -485,3 +485,4 @@ By following these simple steps, you would learn how to get into a locked phone.
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-nokia-c22-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Nokia C22 Step-by-Step Solutions | Dr.fone</u></a></li>
 </ul></div>
 
+

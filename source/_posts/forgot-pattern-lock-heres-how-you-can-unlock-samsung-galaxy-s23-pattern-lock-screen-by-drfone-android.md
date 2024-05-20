@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy S23 Pattern Lock Screen
-date: 2024-04-30T19:04:31.323Z
-updated: 2024-05-01T19:04:31.323Z
+date: 2024-05-19T14:17:50.078Z
+updated: 2024-05-20T14:17:50.078Z
 tags: 
   - unlock
   - remove screen lock
@@ -509,4 +509,5 @@ Wondershare Dr.Fone is a reliable tool for those challenging moments when you fo
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-gt-10-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix GT 10 Pro to iPhone XS/11 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-iphone-11-pro-max-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your iPhone 11 Pro Max Is Unlocked</u></a></li>
 </ul></div>
+
 

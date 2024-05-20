@@ -530,3 +530,4 @@ You will be given the option to input a new password or pattern right after you 
 <li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-samsung-galaxy-xcover-6-pro-tactical-edition-phone-pattern-lock-by-drfone-android/" ><u>Tips and Tricks for Setting Up your Samsung Galaxy XCover 6 Pro Tactical Edition Phone Pattern Lock</u></a></li>
 </ul></div>
 
+

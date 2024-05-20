@@ -495,3 +495,4 @@ By following these simple steps, you would learn how to get into a locked phone.
 <li><a href="https://techidaily.com/how-to-reset-a-infinix-hot-40-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Hot 40 Pro Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
 
+

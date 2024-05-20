@@ -1,7 +1,7 @@
 ---
 title: How to Lock Apps on Samsung Galaxy A23 5G to Protect Your Individual Information
-date: 2024-04-30T19:02:15.697Z
-updated: 2024-05-01T19:02:15.697Z
+date: 2024-05-19T14:17:41.664Z
+updated: 2024-05-20T14:17:41.664Z
 tags: 
   - unlock
   - remove screen lock
@@ -543,4 +543,5 @@ The article above gives useful information on some of the important tools for th
 <li><a href="https://howto.techidaily.com/vivo-v27-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V27 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-realme-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Realme</u></a></li>
 </ul></div>
+
 

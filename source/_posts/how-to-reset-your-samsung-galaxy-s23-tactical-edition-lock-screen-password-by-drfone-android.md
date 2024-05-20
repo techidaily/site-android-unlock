@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Samsung Galaxy S23 Tactical Edition Lock Screen Password
-date: 2024-04-30T19:10:42.885Z
-updated: 2024-05-01T19:10:42.885Z
+date: 2024-05-19T14:18:12.314Z
+updated: 2024-05-20T14:18:12.314Z
 tags: 
   - unlock
   - remove screen lock
@@ -584,4 +584,5 @@ And if you ever need to [unlock your SIM card](https://drfone.wondershare.com/si
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-new-to-video-editing-find-the-best-mac-movie-maker-software-for-you/"><u>2024 Approved New to Video Editing? Find the Best Mac Movie Maker Software for You</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-15-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 15 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
 </ul></div>
+
 

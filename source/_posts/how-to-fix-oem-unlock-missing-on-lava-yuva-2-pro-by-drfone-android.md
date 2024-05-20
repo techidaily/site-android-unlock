@@ -469,3 +469,4 @@ Use volume keys to select and power button to confirm. Once this is done, the La
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-pop-7-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Pop 7 Pro? | Dr.fone</u></a></li>
 </ul></div>
 
+

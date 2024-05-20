@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Samsung Galaxy S23 Tactical Edition Phone that is Locked?
-date: 2024-04-30T19:10:49.348Z
-updated: 2024-05-01T19:10:49.348Z
+date: 2024-05-19T14:18:12.953Z
+updated: 2024-05-20T14:18:12.953Z
 tags: 
   - unlock
   - remove screen lock
@@ -473,4 +473,5 @@ Enter the primary Gmail account and password you used to set up your Android sma
 <li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-15-pro-max-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 15 Pro Max without Apple ID?</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-spark-20c-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno Spark 20C</u></a></li>
 </ul></div>
+
 

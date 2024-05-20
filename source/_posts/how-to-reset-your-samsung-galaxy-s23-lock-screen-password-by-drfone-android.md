@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Samsung Galaxy S23 Lock Screen Password
-date: 2024-04-30T19:04:26.883Z
-updated: 2024-05-01T19:04:26.883Z
+date: 2024-05-19T14:17:49.776Z
+updated: 2024-05-20T14:17:49.776Z
 tags: 
   - unlock
   - remove screen lock
@@ -469,4 +469,5 @@ Now when you know every essential thing about pattern lock screen on Android, yo
 <li><a href="https://techidaily.com/how-to-reset-oppo-f23-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo F23 5G Without the Home Button | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-nokia-c12-pro-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Nokia C12 Pro</u></a></li>
 </ul></div>
+
 

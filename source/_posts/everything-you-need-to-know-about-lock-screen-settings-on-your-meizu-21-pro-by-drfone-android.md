@@ -472,3 +472,4 @@ Forgetting your password is a perplexing situation though you have the solution 
 <li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-a24-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy A24 Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
 
+

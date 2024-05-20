@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Samsung Galaxy S23 Tactical Edition Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T19:10:52.537Z
-updated: 2024-05-01T19:10:52.537Z
+date: 2024-05-19T14:18:13.167Z
+updated: 2024-05-20T14:18:13.167Z
 tags: 
   - unlock
   - remove screen lock
@@ -517,4 +517,5 @@ Now you learned how to show the wifi password on your Android device.
 <li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-lava-yuva-2-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Lava Yuva 2 Pro Black and White | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-best-public-domain-image-websites/"><u>In 2024, 10 Best Public Domain Image Websites</u></a></li>
 </ul></div>
+
 

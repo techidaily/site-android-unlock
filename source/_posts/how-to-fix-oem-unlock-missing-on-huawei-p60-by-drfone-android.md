@@ -435,3 +435,4 @@ Use volume keys to select and power button to confirm. Once this is done, the Hu
 <li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-xiaomi-redmi-k70-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Xiaomi Redmi K70 Phone Pattern Lock</u></a></li>
 </ul></div>
 
+

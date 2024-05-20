@@ -445,3 +445,4 @@ The unlock method that was described in the beginning of our content, is the mos
 <li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-infinix-smart-7-hd-pattern-lock-screen-by-drfone-android/" ><u>Forgot Pattern Lock? Heres How You Can Unlock Infinix Smart 7 HD Pattern Lock Screen</u></a></li>
 </ul></div>
 
+

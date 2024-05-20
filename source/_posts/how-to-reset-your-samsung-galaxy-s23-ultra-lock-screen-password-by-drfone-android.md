@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Samsung Galaxy S23 Ultra Lock Screen Password
-date: 2024-04-30T19:05:36.214Z
-updated: 2024-05-01T19:05:36.214Z
+date: 2024-05-19T14:17:53.894Z
+updated: 2024-05-20T14:17:53.894Z
 tags: 
   - unlock
   - remove screen lock
@@ -506,4 +506,5 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-samsung-galaxy-m54-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Samsung Galaxy M54 5G IMEI without Root A Comprehensive Guide</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-lava-blaze-2-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Lava Blaze 2 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 </ul></div>
+
 

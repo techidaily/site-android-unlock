@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy S23
-date: 2024-04-30T19:04:26.659Z
-updated: 2024-05-01T19:04:26.659Z
+date: 2024-05-19T14:17:49.754Z
+updated: 2024-05-20T14:17:49.755Z
 tags: 
   - unlock
   - remove screen lock
@@ -533,4 +533,5 @@ This comprehensive guide describes the significance of **Google Smart Lock**. It
 <li><a href="https://meme-emoji.techidaily.com/generating-the-nut-button-meme-for-2024/"><u>Generating the Nut Button Meme for 2024</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-motorola-moto-g24-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Motorola Moto G24 Pattern Lock Screen</u></a></li>
 </ul></div>
+
 

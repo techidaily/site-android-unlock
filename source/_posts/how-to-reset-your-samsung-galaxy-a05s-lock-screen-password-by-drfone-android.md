@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Samsung Galaxy A05s Lock Screen Password
-date: 2024-04-30T19:15:49.176Z
-updated: 2024-05-01T19:15:49.176Z
+date: 2024-05-19T14:18:30.788Z
+updated: 2024-05-20T14:18:30.788Z
 tags: 
   - unlock
   - remove screen lock
@@ -531,4 +531,5 @@ On the other hand, if you accidentally lock yourself out of your smartphone, Dr.
 <li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-y28-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo Y28 5G | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/best-websites-to-download-animated-gifs-for-free-free-gif-download/"><u>Best Websites to Download Animated GIFs for Free-Free GIF Download</u></a></li>
 </ul></div>
+
 

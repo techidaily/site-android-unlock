@@ -490,3 +490,4 @@ Pattern locks are outdated and not safe to use an **easy pattern lock** – ther
 <li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-se-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/" ><u>Is Your Apple iPhone SE in Security Lockout? Proper Ways To Unlock</u></a></li>
 </ul></div>
 
+

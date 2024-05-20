@@ -449,3 +449,4 @@ Having the ability to lock your Apps is an easy way to keep information out of t
 <li><a href="https://techidaily.com/how-to-soft-reset-itel-p55plus-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel P55+ phone? | Dr.fone</u></a></li>
 </ul></div>
 
+

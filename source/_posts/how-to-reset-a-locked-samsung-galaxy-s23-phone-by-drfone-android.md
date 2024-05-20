@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Samsung Galaxy S23 Phone
-date: 2024-04-30T19:04:38.568Z
-updated: 2024-05-01T19:04:38.568Z
+date: 2024-05-19T14:17:50.523Z
+updated: 2024-05-20T14:17:50.523Z
 tags: 
   - unlock
   - remove screen lock
@@ -463,4 +463,5 @@ Any of the aforementioned methods can be used to overcome the obstacle of using 
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-xr-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone XR online without SIM Card?</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/nubia-z50s-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Z50S Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -739,3 +739,4 @@ In summary, this article detailed various methods to fix **the Lava Yuva 3 Pro f
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-itel-a70-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/" ><u>How to Repair a Damaged video file of Itel A70 using Video Repair Utility on Mac?</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: How to Use Google Assistant on Your Lock Screen Of Oppo A2 Phone
-date: 2024-04-30T18:57:53.206Z
-updated: 2024-05-01T18:57:53.206Z
+date: 2024-05-19T14:17:25.594Z
+updated: 2024-05-20T14:17:25.594Z
 tags: 
   - unlock
   - remove screen lock
@@ -461,4 +461,5 @@ As Android reaches new heights every year, gestures are getting more and more en
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-oppo-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Oppo .</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-resolve-infinix-note-30-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Infinix Note 30 Pro Screen Not Working | Dr.fone</u></a></li>
 </ul></div>
+
 

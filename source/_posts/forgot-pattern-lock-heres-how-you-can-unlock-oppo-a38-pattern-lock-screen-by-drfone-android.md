@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Oppo A38 Pattern Lock Screen
-date: 2024-04-30T18:57:36.731Z
-updated: 2024-05-01T18:57:36.731Z
+date: 2024-05-19T14:17:16.747Z
+updated: 2024-05-20T14:17:16.747Z
 tags: 
   - unlock
   - remove screen lock
@@ -580,4 +580,5 @@ This guide provides insight into the most common Android issue. Here, we have di
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-itel-p55-drfone-by-drfone-virtual-android/" ><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Itel P55 | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-t2-5g-drfone-by-drfone-virtual/" ><u>10 Fake GPS Location Apps on Android Of your Vivo T2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

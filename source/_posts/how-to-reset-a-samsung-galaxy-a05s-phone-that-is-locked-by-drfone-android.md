@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Samsung Galaxy A05s Phone that is Locked?
-date: 2024-04-30T19:15:55.699Z
-updated: 2024-05-01T19:15:55.699Z
+date: 2024-05-19T14:18:31.229Z
+updated: 2024-05-20T14:18:31.229Z
 tags: 
   - unlock
   - remove screen lock
@@ -560,4 +560,5 @@ When you know about all the popular options for the fingerprint screen lock app,
 <li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-15-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone 15</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lava-blaze-2-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava Blaze 2</u></a></li>
 </ul></div>
+
 

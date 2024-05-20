@@ -501,3 +501,4 @@ Now when you know how to unlock the Android phone pattern lock without a factory
 <li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-12-mini-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 12 mini</u></a></li>
 </ul></div>
 
+

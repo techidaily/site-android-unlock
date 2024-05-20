@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy A23 5G Pattern Lock Screen
-date: 2024-04-30T19:02:13.959Z
-updated: 2024-05-01T19:02:13.959Z
+date: 2024-05-19T14:17:41.580Z
+updated: 2024-05-20T14:17:41.580Z
 tags: 
   - unlock
   - remove screen lock
@@ -514,4 +514,5 @@ Whether you prefer user-friendly software like [Dr.Fone – Screen Unlock (Andro
 <li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-13-ultra-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi 13 Ultra Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 <li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-huawei-nova-y91-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Huawei Nova Y91 FRP Without Computer</u></a></li>
 </ul></div>
+
 

@@ -548,3 +548,4 @@ In summary, this article detailed various methods to fix **the Samsung Galaxy F1
      data-full-width-responsive="true"></ins>
 
 
+

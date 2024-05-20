@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Samsung Galaxy S23 Ultra Phone
-date: 2024-04-30T19:05:47.307Z
-updated: 2024-05-01T19:05:47.307Z
+date: 2024-05-19T14:17:54.583Z
+updated: 2024-05-20T14:17:54.583Z
 tags: 
   - unlock
   - remove screen lock
@@ -503,4 +503,5 @@ We know that losing or forgetting your Android lock code can be a real pain, and
 <li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Motorola Edge 40 Pro | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-motorola-moto-g24-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Motorola Moto G24</u></a></li>
 </ul></div>
+
 

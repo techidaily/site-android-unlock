@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Samsung Galaxy A05 PIN Code/Pattern Lock/Password
-date: 2024-04-30T19:15:30.187Z
-updated: 2024-05-01T19:15:30.187Z
+date: 2024-05-19T14:18:29.716Z
+updated: 2024-05-20T14:18:29.716Z
 tags: 
   - unlock
   - remove screen lock
@@ -535,4 +535,5 @@ For those facing a locked phone due to Knox and unable to follow conventional me
 <li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-redmi-note-12-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi Note 12 5G Pattern Lock Screen</u></a></li>
 <li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-15-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 15 Plus</u></a></li>
 </ul></div>
+
 

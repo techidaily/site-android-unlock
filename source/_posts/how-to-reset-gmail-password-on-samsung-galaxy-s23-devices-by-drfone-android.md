@@ -1,7 +1,7 @@
 ---
 title: How to Reset Gmail Password on Samsung Galaxy S23 Devices
-date: 2024-04-30T19:04:38.352Z
-updated: 2024-05-01T19:04:38.352Z
+date: 2024-05-19T14:17:50.511Z
+updated: 2024-05-20T14:17:50.511Z
 tags: 
   - unlock
   - remove screen lock
@@ -384,4 +384,5 @@ Learning to unlock your phone screen ensures you’re never locked out of your d
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-xiaomi-redmi-13c-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Xiaomi Redmi 13C?</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-contacts-from-tecno-spark-20-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Tecno Spark 20 Pro.</u></a></li>
 </ul></div>
+
 

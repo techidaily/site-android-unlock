@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy S23 Tactical Edition
-date: 2024-04-30T19:10:42.678Z
-updated: 2024-05-01T19:10:42.678Z
+date: 2024-05-19T14:18:12.293Z
+updated: 2024-05-20T14:18:12.293Z
 tags: 
   - unlock
   - remove screen lock
@@ -452,4 +452,5 @@ Wondershare Dr.Fone is a reliable tool for those challenging moments when you fo
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-m6-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco M6 5G to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-realme-11-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Realme 11 Pro to Another | Dr.fone</u></a></li>
 </ul></div>
+
 

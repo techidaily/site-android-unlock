@@ -1,7 +1,7 @@
 ---
 title: Top 12 Prominent Samsung Galaxy A05 Fingerprint Not Working Solutions
-date: 2024-04-30T19:15:18.223Z
-updated: 2024-05-01T19:15:18.223Z
+date: 2024-05-19T14:18:29.067Z
+updated: 2024-05-20T14:18:29.067Z
 tags: 
   - unlock
   - remove screen lock
@@ -558,4 +558,5 @@ Enabling screen lock on your Android is the smartest thing to do especially if y
 <li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-infinix-zero-30-5g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Infinix Zero 30 5G</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max Without Passcode?</u></a></li>
 </ul></div>
+
 

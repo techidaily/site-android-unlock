@@ -1,7 +1,7 @@
 ---
 title: In 2024, Lock Your Samsung Galaxy A23 5G Phone in Style The Top 5 Gesture Lock Screen Apps
-date: 2024-05-19T14:17:44.108Z
-updated: 2024-05-20T14:17:44.108Z
+date: 2024-06-08T21:24:12.833Z
+updated: 2024-06-09T21:24:12.833Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Lock Your Samsung Galaxy A23 5G Phone in Style The Top 5 Gesture Lock Screen Apps
 excerpt: This article describes Lock Your Samsung Galaxy A23 5G Phone in Style The Top 5 Gesture Lock Screen Apps
 keywords: bypass lock screen password,forgot pattern lock,android emergency call bypass,lock screen wallpaper on android,Samsung Galaxy A23 5G unlock phone guide,lock apps with fingerprint,top anti theft apps
-thumbnail: https://www.lifewire.com/thmb/ifJDA6ScbZuUR7Omss65zhVMxok=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155159821-8881bead1d894a0b95bca3c3e288ff54.jpg
+thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6244e3ee7a3676c38fda1900.jpg
 ---
 
 ## Lock Your Samsung Galaxy A23 5G Phone in Style: The Top 5 Gesture Lock Screen Apps

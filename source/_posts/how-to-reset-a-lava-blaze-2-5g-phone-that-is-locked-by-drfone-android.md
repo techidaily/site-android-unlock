@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Lava Blaze 2 5G Phone that is Locked?
-date: 2024-05-19T14:20:00.824Z
-updated: 2024-05-20T14:20:00.824Z
+date: 2024-06-08T21:25:01.175Z
+updated: 2024-06-09T21:25:01.175Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Lava Blaze 2 5G Phone that is Locked?
 excerpt: This article describes How to Reset a Lava Blaze 2 5G Phone that is Locked?
 keywords: fingerprint lock for android,enable usb debugging,change android lock screen,Lava Blaze 2 5G turn off google smart lock,Lava Blaze 2 5G unlock apps for android,universal unlock pattern for android,disable lock screen,bypass android lock screen using emergency call,easy pattern lock,remove forgotten pin android device,Lava Blaze 2 5G unlock phone guide
-thumbnail: https://www.lifewire.com/thmb/7wWwLeV8KAaB-XqPIbKe8lIgaY4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reddit-app-for-andoird-652f6fcd646245e9807afbac25a072ee.jpg
+thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff412fbb14fb93882fc8d1dc09.jpg
 ---
 
 ## How to Reset a Lava Blaze 2 5G Phone that is Locked?

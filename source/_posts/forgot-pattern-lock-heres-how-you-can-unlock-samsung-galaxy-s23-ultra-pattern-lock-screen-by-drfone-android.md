@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy S23 Ultra Pattern Lock Screen
-date: 2024-05-19T14:17:54.171Z
-updated: 2024-05-20T14:17:54.171Z
+date: 2024-06-08T21:24:40.239Z
+updated: 2024-06-09T21:24:40.239Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy S23 Ultra Pattern Lock Screen
 excerpt: This article describes Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy S23 Ultra Pattern Lock Screen
 keywords: android device show wifi password,unlock apps for android device,android device lock screen settings,unlock android device phone without password,turn off google smart lock,android device emergency call bypass,bypass lock screen password,fingerprint lock for android,android device pattern lock remover,Samsung Galaxy S23 Ultra how to lock apps on android,Samsung Galaxy S23 Ultra unlock bootloader
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## Forgot Pattern Lock? Here's How You Can Unlock Samsung Galaxy S23 Ultra Pattern Lock Screen

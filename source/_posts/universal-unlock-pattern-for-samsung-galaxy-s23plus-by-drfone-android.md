@@ -1,7 +1,7 @@
 ---
 title: Universal Unlock Pattern for Samsung Galaxy S23+
-date: 2024-05-19T14:17:52.812Z
-updated: 2024-05-20T14:17:52.812Z
+date: 2024-06-08T21:23:40.245Z
+updated: 2024-06-09T21:23:40.245Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Universal Unlock Pattern for Samsung Galaxy S23+
 excerpt: This article describes Universal Unlock Pattern for Samsung Galaxy S23+
 keywords: unlock android phone pattern lock without factory reset,reset locked android phone,Samsung Galaxy S23+ unlock bootloader,android device password reset,Samsung Galaxy S23+ android password reset,android device manager unlock,fingerprint lock for android,bypass android device face lock
-thumbnail: https://www.lifewire.com/thmb/TYGiT5X9QiOC8P7-lx0tWOT-IQI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airpodbatterylevelonandroid-15c1db7e9fac43248d130a42540c12a6.jpg
+thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb88709675b4845f86d9c07123c1.jpg
 ---
 
 ## Universal Unlock Pattern for Samsung Galaxy S23+

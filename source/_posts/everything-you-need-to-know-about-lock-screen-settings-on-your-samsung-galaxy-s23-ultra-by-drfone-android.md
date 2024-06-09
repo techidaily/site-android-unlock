@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy S23 Ultra
-date: 2024-05-19T14:17:53.873Z
-updated: 2024-05-20T14:17:53.873Z
+date: 2024-06-08T21:24:26.765Z
+updated: 2024-06-09T21:24:26.765Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy S23 Ultra
 excerpt: This article describes Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy S23 Ultra
 keywords: Samsung Galaxy S23 Ultra lock screen pattern,pattern lock,unlock android device phone without pin,remove screen lock pin on android device,Samsung Galaxy S23 Ultra gusture lock screen,Samsung Galaxy S23 Ultra android device manager unlock,vnrom bypass google account verification,forgot pattern lock,enable usb debugging
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy S23 Ultra

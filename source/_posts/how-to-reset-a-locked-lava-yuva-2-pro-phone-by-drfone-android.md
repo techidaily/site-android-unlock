@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Lava Yuva 2 Pro Phone
-date: 2024-05-19T14:20:10.603Z
-updated: 2024-05-20T14:20:10.603Z
+date: 2024-06-08T21:24:50.671Z
+updated: 2024-06-09T21:24:50.671Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Locked Lava Yuva 2 Pro Phone
 excerpt: This article describes How to Reset a Locked Lava Yuva 2 Pro Phone
 keywords: Lava Yuva 2 Pro how to reset a phone that is locked,Lava Yuva 2 Pro rootjunky frp bypass,how to unlock android phone without google account,Lava Yuva 2 Pro password cracker tools,Lava Yuva 2 Pro best sim location trackers,reset locked android device phone,Lava Yuva 2 Pro unlock android phone without pin,how to unlock android device phone without google account,locked out of android device phone
-thumbnail: https://www.lifewire.com/thmb/oj9f0wuX7XGgnL3sQwetCIX5y6c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-pngs-wont-open-in-windows-11-41107f6a55db4318b6c2b64437de5b75.jpg
+thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1cb979a99a698fecfb5d28b74.jpg
 ---
 
 ## How to Reset a Locked Lava Yuva 2 Pro Phone

@@ -1,7 +1,7 @@
 ---
 title: How to Lock Apps on Sony Xperia 10 V to Protect Your Individual Information
-date: 2024-05-19T14:18:58.933Z
-updated: 2024-05-20T14:18:58.933Z
+date: 2024-06-08T21:24:19.274Z
+updated: 2024-06-09T21:24:19.274Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Lock Apps on Sony Xperia 10 V to Protect Your Individual Information
 excerpt: This article describes How to Lock Apps on Sony Xperia 10 V to Protect Your Individual Information
 keywords: Sony Xperia 10 V full guide to unlock,full guide to unlock,vnrom bypass google account verification,unlock,unlock phone guide,remove screen lock pin on android,android device screen lock,remove forgotten pin android,Sony Xperia 10 V bypass android lock screen using emergency call,Sony Xperia 10 V android lock screen settings
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## How to Lock Apps on Sony Xperia 10 V to Protect Your Individual Information

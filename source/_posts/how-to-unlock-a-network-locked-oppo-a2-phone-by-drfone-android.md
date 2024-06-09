@@ -1,7 +1,7 @@
 ---
 title: How to Unlock a Network Locked Oppo A2 Phone?
-date: 2024-05-19T14:17:25.252Z
-updated: 2024-05-20T14:17:25.252Z
+date: 2024-06-08T21:24:20.206Z
+updated: 2024-06-09T21:24:20.206Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Unlock a Network Locked Oppo A2 Phone?
 excerpt: This article describes How to Unlock a Network Locked Oppo A2 Phone?
 keywords: samfw frp tool,top anti theft apps,fingerprint not working,how to unlock android phone,change android device lock screen,how to use oem unlocking
-thumbnail: https://www.lifewire.com/thmb/tP3PGqv5XalObxjPn5UrSpbUwa0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/preaknessstakes-5c804f1b46e0fb00019b8ee0.jpg
+thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be090a3ce22bfc91cc23bb5f7.jpg
 ---
 
 ## How to Unlock a Network Locked Oppo A2 Phone?

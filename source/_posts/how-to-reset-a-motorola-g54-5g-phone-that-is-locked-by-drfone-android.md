@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Motorola G54 5G Phone that is Locked?
-date: 2024-05-19T14:20:20.476Z
-updated: 2024-05-20T14:20:20.476Z
+date: 2024-06-08T21:24:36.514Z
+updated: 2024-06-09T21:24:36.514Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Motorola G54 5G Phone that is Locked?
 excerpt: This article describes How to Reset a Motorola G54 5G Phone that is Locked?
 keywords: reset locked android device phone,Motorola G54 5G android password reset,password unlock tool,forgot pattern lock,bypass android device lock screen using emergency call,disable lock screen,Motorola G54 5G pattern lock screen
-thumbnail: https://www.lifewire.com/thmb/XF8XZEIjsJng0yh72ZnUp_8O804=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/young-muslim-woman-using-phone-1137305438-75947aa7fb484506bf9da8c38fc68a03.jpg
+thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913b07ba9cca730be764e6c410.jpg
 ---
 
 ## How to Reset a Motorola G54 5G Phone that is Locked?

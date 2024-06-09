@@ -1,7 +1,7 @@
 ---
 title: 5 Solutions For Lava Yuva 2 Unlock Without Password
-date: 2024-04-07T02:09:06.847Z
-updated: 2024-04-08T02:09:06.847Z
+date: 2024-06-08T21:23:49.452Z
+updated: 2024-06-09T21:23:49.452Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes 5 Solutions For Lava Yuva 2 Unlock Without Password
 excerpt: This article describes 5 Solutions For Lava Yuva 2 Unlock Without Password
 keywords: bypass android lock screen using emergency call,Lava Yuva 2 android password reset,Lava Yuva 2 unlock phone guide,samfw frp tool,network unlock,unlock with google assistant,unlock android phone pattern lock without factory reset
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## 5 Solutions For Lava Yuva 2  Unlock Without Password

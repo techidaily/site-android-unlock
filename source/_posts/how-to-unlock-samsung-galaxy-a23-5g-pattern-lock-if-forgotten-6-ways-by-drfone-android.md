@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Samsung Galaxy A23 5G Pattern Lock if Forgotten? 6 Ways
-date: 2024-05-19T14:17:41.902Z
-updated: 2024-05-20T14:17:41.902Z
+date: 2024-06-08T21:24:32.690Z
+updated: 2024-06-09T21:24:32.690Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Unlock Samsung Galaxy A23 5G Pattern Lock if Forgotten? 6 Ways
 excerpt: This article describes How to Unlock Samsung Galaxy A23 5G Pattern Lock if Forgotten? 6 Ways
 keywords: enable usb debugging,top 10 frp bypass tools,Samsung Galaxy A23 5G how to reset a phone that is locked,android screen lock,Samsung Galaxy A23 5G pattern lock screen,Samsung Galaxy A23 5G network unlock,unlock android phone with broken screen,fingerprint not working,android pattern lock remover,Samsung Galaxy A23 5G oem unlock missing
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## How to Unlock Samsung Galaxy A23 5G Pattern Lock if Forgotten? 6 Ways

@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Motorola Moto E13 Phone
-date: 2024-05-19T14:20:14.250Z
-updated: 2024-05-20T14:20:14.250Z
+date: 2024-06-08T21:24:08.174Z
+updated: 2024-06-09T21:24:08.174Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Locked Motorola Moto E13 Phone
 excerpt: This article describes How to Reset a Locked Motorola Moto E13 Phone
 keywords: lock apps with fingerprint,unlock apps for android,Motorola Moto E13 unlock android phone with broken screen,gusture lock screen,forgot pattern lock,Motorola Moto E13 bypass lock screen password,bypass android device lock screen using emergency call,Motorola Moto E13 pattern lock
-thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
 ---
 
 ## How to Reset a Locked Motorola Moto E13 Phone

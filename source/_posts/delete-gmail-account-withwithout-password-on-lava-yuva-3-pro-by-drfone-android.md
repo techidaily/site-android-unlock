@@ -1,7 +1,7 @@
 ---
 title: Delete Gmail Account With/Without Password On Lava Yuva 3 Pro
-date: 2024-04-12T01:00:20.229Z
-updated: 2024-04-13T01:00:20.229Z
+date: 2024-06-16T17:51:52.367Z
+updated: 2024-06-17T17:51:52.367Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Delete Gmail Account With/Without Password On Lava Yuva 3 Pro
 excerpt: This article describes Delete Gmail Account With/Without Password On Lava Yuva 3 Pro
 keywords: Lava Yuva 3 Pro forgot android password,disable lock screen,Lava Yuva 3 Pro smart lock android,pattern unlock,Lava Yuva 3 Pro fingerprint lock for android,Lava Yuva 3 Pro how to remove previously synced google account from android,delete gmail account with without password
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## Delete Gmail Account With/Without Password On Lava Yuva 3 Pro

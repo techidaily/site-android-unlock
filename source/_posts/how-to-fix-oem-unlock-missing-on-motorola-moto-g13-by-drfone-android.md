@@ -1,7 +1,7 @@
 ---
 title: How To Fix OEM Unlock Missing on Motorola Moto G13?
-date: 2024-05-19T14:18:42.185Z
-updated: 2024-05-20T14:18:42.185Z
+date: 2024-06-16T17:51:54.523Z
+updated: 2024-06-17T17:51:54.523Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Fix OEM Unlock Missing on Motorola Moto G13?
 excerpt: This article describes How To Fix OEM Unlock Missing on Motorola Moto G13?
 keywords: easy pattern lock,hard pattern lock,Motorola Moto G13 how to use oem unlocking,unlock apps for android,change android lock screen,unlock phone forgot password
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## How To Fix OEM Unlock Missing on Motorola Moto G13?

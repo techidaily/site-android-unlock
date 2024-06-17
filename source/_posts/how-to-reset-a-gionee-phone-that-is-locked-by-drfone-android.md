@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Gionee Phone that is Locked?
-date: 2024-05-19T14:19:58.238Z
-updated: 2024-05-20T14:19:58.238Z
+date: 2024-06-16T17:50:37.598Z
+updated: 2024-06-17T17:50:37.598Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Gionee Phone that is Locked?
 excerpt: This article describes How to Reset a Gionee Phone that is Locked?
 keywords: bypass knox enrollment service,Gionee F3 Pro find lost phone with google map,android device pattern lock remover,Gionee F3 Pro forgot pattern lock,change android lock screen,oem unlock missing,unlock phone guide,Gionee F3 Pro how to use oem unlocking,Gionee F3 Pro unlock android phone pattern lock without factory reset
-thumbnail: https://www.lifewire.com/thmb/7wWwLeV8KAaB-XqPIbKe8lIgaY4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reddit-app-for-andoird-652f6fcd646245e9807afbac25a072ee.jpg
+thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff412fbb14fb93882fc8d1dc09.jpg
 ---
 
 ## How to Reset a Gionee F3 Pro Phone that is Locked?

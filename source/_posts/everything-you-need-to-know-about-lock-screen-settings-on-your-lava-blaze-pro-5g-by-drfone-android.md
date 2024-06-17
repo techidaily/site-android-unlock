@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Lava Blaze Pro 5G
-date: 2024-04-12T01:00:34.732Z
-updated: 2024-04-13T01:00:34.732Z
+date: 2024-06-16T17:51:33.993Z
+updated: 2024-06-17T17:51:33.993Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Everything You Need to Know about Lock Screen Settings on your Lava Blaze Pro 5G
 excerpt: This article describes Everything You Need to Know about Lock Screen Settings on your Lava Blaze Pro 5G
 keywords: unlock phone forgot password,change android lock screen,turn off google smart lock,Lava Blaze Pro 5G unlock bootloader,Lava Blaze Pro 5G unlock with google assistant,reset locked android phone,unlock bootloader,unlock apps for android device,reset locked android device phone,Lava Blaze Pro 5G fingerprint not working,unlock with google assistant,top 10 frp bypass tools
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## Everything You Need to Know about Lock Screen Settings on your Lava Blaze Pro 5G

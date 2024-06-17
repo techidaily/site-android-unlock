@@ -1,7 +1,7 @@
 ---
 title: How to Change Lock Screen Wallpaper on Gionee F3 Pro
-date: 2024-04-30T19:18:57.872Z
-updated: 2024-05-01T19:18:57.872Z
+date: 2024-06-16T17:51:28.834Z
+updated: 2024-06-17T17:51:28.834Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Change Lock Screen Wallpaper on Gionee F3 Pro
 excerpt: This article describes How to Change Lock Screen Wallpaper on Gionee F3 Pro
 keywords: Gionee F3 Pro turn off google smart lock,unlock phone forgot password,unlock android device phone without pin,top anti theft apps,Gionee F3 Pro how to lock apps on android,unlock android phone with broken screen,Gionee F3 Pro unlock android phone with broken screen
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## How to Change Lock Screen Wallpaper on Gionee F3 Pro

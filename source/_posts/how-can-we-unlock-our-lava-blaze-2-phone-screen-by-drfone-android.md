@@ -1,7 +1,7 @@
 ---
 title: How Can We Unlock Our Lava Blaze 2 Phone Screen?
-date: 2024-04-30T19:18:28.643Z
-updated: 2024-05-01T19:18:28.643Z
+date: 2024-06-16T17:50:00.407Z
+updated: 2024-06-17T17:50:00.407Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How Can We Unlock Our Lava Blaze 2 Phone Screen?
 excerpt: This article describes How Can We Unlock Our Lava Blaze 2 Phone Screen?
 keywords: fingerprint not working,Lava Blaze 2 top anti theft apps,android show wifi password,samfw frp tool,Lava Blaze 2 pattern unlock,Lava Blaze 2 remove screen lock pin on android,Lava Blaze 2 unlock phone forgot password,Lava Blaze 2 full guide to unlock,Lava Blaze 2 how to reset voicemail password
-thumbnail: https://www.lifewire.com/thmb/q2YzogdKG5J-JDQw9ed7I5Iu49A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-frame-shot-of-speakers-1138109687-33289baddc314b44ae87abc2fc8060cd-e7bccad6d81244509ed97ddf557f89e4.jpg
+thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90367153732b7b65655c151cd.jpg
 ---
 
 ## How Can We Unlock Our Lava Blaze 2 Phone Screen?

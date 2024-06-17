@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Lava Blaze Curve 5G Phone that is Locked?
-date: 2024-05-19T14:20:01.643Z
-updated: 2024-05-20T14:20:01.643Z
+date: 2024-06-16T17:50:19.241Z
+updated: 2024-06-17T17:50:19.241Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Lava Blaze Curve 5G Phone that is Locked?
 excerpt: This article describes How to Reset a Lava Blaze Curve 5G Phone that is Locked?
 keywords: pattern unlock without password,android device manager unlock,Lava Blaze Curve 5G how to reset voicemail password,bypass android device lock screen using emergency call,bypass knox enrollment service,universal unlock pattern for android device,Lava Blaze Curve 5G remove screen lock pin on android,remove screen lock pin on android,Lava Blaze Curve 5G fingerprint not working
-thumbnail: https://www.lifewire.com/thmb/U4MhHoz9AdQJe4tEoeV-ONBuCas=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-ps5-d3975e63d2ff47e6ac4e81768b79801c.jpg
+thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f0c8ef179d1c62c13237705d.jpg
 ---
 
 ## How to Reset a Lava Blaze Curve 5G Phone that is Locked?

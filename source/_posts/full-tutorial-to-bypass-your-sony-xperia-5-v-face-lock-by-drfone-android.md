@@ -1,7 +1,7 @@
 ---
 title: Full Tutorial to Bypass Your Sony Xperia 5 V Face Lock?
-date: 2024-04-30T19:18:25.288Z
-updated: 2024-05-01T19:18:25.288Z
+date: 2024-06-16T17:51:27.755Z
+updated: 2024-06-17T17:51:27.755Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Full Tutorial to Bypass Your Sony Xperia 5 V Face Lock?
 excerpt: This article describes Full Tutorial to Bypass Your Sony Xperia 5 V Face Lock?
 keywords: Sony Xperia 5 V reset locked android phone,reset gmail password on android device,Sony Xperia 5 V unlock android phone with broken screen,Sony Xperia 5 V unlock android phone password without factory reset,top 10 frp bypass tools,smart lock android device
-thumbnail: https://www.lifewire.com/thmb/UgZFn1LjdiPD7yj2MRRWCGpAQWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d-link-default-password-list-2619152-d6281a924f45426f879c8707220ce92d.png
+thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01fc1cf31d37490fb679a3c33d.png
 ---
 
 ## Full Tutorial to Bypass Your Sony Xperia 5 V Face Lock?

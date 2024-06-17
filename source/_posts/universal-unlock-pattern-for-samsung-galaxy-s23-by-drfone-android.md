@@ -1,7 +1,7 @@
 ---
 title: Universal Unlock Pattern for Samsung Galaxy S23
-date: 2024-05-19T14:17:50.670Z
-updated: 2024-05-20T14:17:50.670Z
+date: 2024-06-16T17:50:31.069Z
+updated: 2024-06-17T17:50:31.069Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Universal Unlock Pattern for Samsung Galaxy S23
 excerpt: This article describes Universal Unlock Pattern for Samsung Galaxy S23
 keywords: how to lock apps on android device,Samsung Galaxy S23 turn off google smart lock,Samsung Galaxy S23 unlock android phone without pin,hack wifi password android device,forgot pattern lock,Samsung Galaxy S23 pattern unlock without password,unlock android device phone with broken screen,Samsung Galaxy S23 lock screen wallpaper on android,forgot android password,Samsung Galaxy S23 full guide to unlock,Samsung Galaxy S23 best sim location trackers,pattern unlock
-thumbnail: https://www.lifewire.com/thmb/uOuMw8_e1pBrdfuZB3txnHBxmfk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sofya-NomETWcv2Fo-unsplash-be3fc2855a7e477db0273993fd22e822.jpg
+thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735f93f6027b47c78945bb4e75.jpg
 ---
 
 ## Universal Unlock Pattern for Samsung Galaxy S23

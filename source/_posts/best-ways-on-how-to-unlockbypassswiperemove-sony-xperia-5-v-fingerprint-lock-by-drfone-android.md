@@ -1,7 +1,7 @@
 ---
 title: Best Ways on How to Unlock/Bypass/Swipe/Remove Sony Xperia 5 V Fingerprint Lock
-date: 2024-04-09T01:29:18.907Z
-updated: 2024-04-10T01:29:18.907Z
+date: 2024-06-16T17:50:47.056Z
+updated: 2024-06-17T17:50:47.056Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Best Ways on How to Unlock/Bypass/Swipe/Remove Sony Xperia 5 V Fingerprint Lock
 excerpt: This article describes Best Ways on How to Unlock/Bypass/Swipe/Remove Sony Xperia 5 V Fingerprint Lock
 keywords: Sony Xperia 5 V get into locked phone,bypass android device face lock,Sony Xperia 5 V android password reset,remove screen lock pin on android device,forgot android device password,android pattern lock remover,forgot android password,Sony Xperia 5 V smart lock android
-thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139232374-700d343900854115ad26acf3f1dd80b3.jpg
+thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba8907f6c40cdafb2c11a8f5a83.jpg
 ---
 
 ## Best Ways on How to Unlock/Bypass/Swipe/Remove Sony Xperia 5 V Fingerprint Lock

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset a Locked Samsung Galaxy A05s Phone
-date: 2024-05-19T14:18:32.517Z
-updated: 2024-05-20T14:18:32.517Z
+date: 2024-06-16T17:51:38.413Z
+updated: 2024-06-17T17:51:38.413Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Locked Samsung Galaxy A05s Phone
 excerpt: This article describes How to Reset a Locked Samsung Galaxy A05s Phone
 keywords: pattern lock screen,Samsung Galaxy A05s forgot pattern lock,Samsung Galaxy A05s android show wifi password,disable lock screen,bypass android face lock,pattern unlock without password
-thumbnail: https://www.lifewire.com/thmb/sx5hd7He1vcpR0KajATX8cwq3zM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Twitter-and-X-4c4103f6bc3c42e0b7197b60a50317ca.jpg
+thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f8bcbe092ec793162bb9610d.jpg
 ---
 
 ## How to Reset a Locked Samsung Galaxy A05s Phone

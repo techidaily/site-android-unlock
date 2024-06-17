@@ -1,7 +1,7 @@
 ---
 title: How to Reset Gmail Password on Lava Blaze 2 Pro Devices
-date: 2024-05-19T14:20:29.801Z
-updated: 2024-05-20T14:20:29.801Z
+date: 2024-06-16T17:50:13.941Z
+updated: 2024-06-17T17:50:13.941Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset Gmail Password on Lava Blaze 2 Pro Devices
 excerpt: This article describes How to Reset Gmail Password on Lava Blaze 2 Pro Devices
 keywords: Lava Blaze 2 Pro forgot android password,unlock,Lava Blaze 2 Pro unlock android phone without password,hack wifi password android device,Lava Blaze 2 Pro unlock phone forgot password,unlock android phone password without factory reset,Lava Blaze 2 Pro change android lock screen
-thumbnail: https://www.lifewire.com/thmb/-_m0G8vbbxxIlkvVQDjlQ1eCN-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541916248-593842a43df78c537be2cf44.jpg
+thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc35052e19faef90f3eeabcd3dc4.jpg
 ---
 
 ## How to Reset Gmail Password on Lava Blaze 2 Pro Devices

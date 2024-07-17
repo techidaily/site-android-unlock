@@ -1,7 +1,7 @@
 ---
 title: How Can We Unlock Our Sony Xperia 10 V Phone Screen?
-date: 2024-04-30T19:18:35.263Z
-updated: 2024-05-01T19:18:35.263Z
+date: 2024-07-16T12:55:17.999Z
+updated: 2024-07-17T12:55:17.999Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How Can We Unlock Our Sony Xperia 10 V Phone Screen?
 excerpt: This article describes How Can We Unlock Our Sony Xperia 10 V Phone Screen?
 keywords: best sim location trackers,remove forgotten pin android device,full guide to unlock,enable usb debugging,how to reset a phone that is locked,Sony Xperia 10 V smart lock android,Sony Xperia 10 V remove forgotten pin android
-thumbnail: https://www.lifewire.com/thmb/n7XTjADWmcwt2P_LF7WoPjqi8O4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-538600261-56c643115f9b5879cc3d6bde.jpg
+thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d56bb43f9e5c26e9a6768a6cd.jpg
 ---
 
 ## How Can We Unlock Our Sony Xperia 10 V Phone Screen?
@@ -30,6 +30,9 @@ Once you decide on the **phone lock** type, you can enable or disable them from 
 
 Here you will see how to set up a screen lock on your Android device:
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen lock](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-1.jpg)
 
 ## Part 2: Quickly Unlock Your Screen By Dr.Fone
@@ -42,7 +45,10 @@ So, look no further if you want to remove your **Android screen lock** in just a
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to unlock Android Phone Screen!
 
@@ -55,6 +61,9 @@ The Best Tool to unlock Android Phone Screen!
 
 **Step 1. Open Dr.Fone on your PC and select the "Screen Unlock" tool.**
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2. Select Unlock Android Screen**
@@ -67,6 +76,9 @@ This is the page to start your unlock process with two options here, please sele
 
 For most Brands, it should be "100% Remove Screen Lock". These two solutions unlock screens for almost all Android devices, for example, Samsung, Huawei, OPPO, Vivo, Lenovo, LG, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
 In the supported device brands list, please find the right one for you.
@@ -83,16 +95,25 @@ Get into Recovery Mode on Samsung phone with Bixby:
 
 Get into Recovery Mode on Samsung phone without Bixby:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
 
 Get into Recovery Mode in Samsung phone with Home Button:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
 
 **Step 5. Instructions to Wipe Cache Partition**
 
 During the steps in Recovery Mode, please don't pick the wrong choices!
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![instructions to wipe cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
 You're now able to access your Android device again when the whole process is over. And you no longer need a password or pattern!
@@ -102,6 +123,9 @@ You're now able to access your Android device again when the whole process is ov
 
 ## Part 3: Solutions to Unlock Android Screen
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Google Find My Device
 
 **Step 1:** Open the "Find my Device" webpage from a browser on your PC.
@@ -110,6 +134,9 @@ You're now able to access your Android device again when the whole process is ov
 
 **Step 2:** Click "Erase my device," which you will see on the left half of your screen. After affirming the Delete capability, your phone will boot into recovery and begin playing out a production line reset. It is difficult to stop or drop on your android gadget when you endorse this activity. Regardless of whether you shut down your Android phone - the reboot will continue on startup.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Recovery Mode
 
 Depending on your phone, the steps for this process might vary a little. Most phones will allow you to reset by getting to the recovery mode. Follow the steps below to remove the **Android screen lock:**
@@ -124,6 +151,9 @@ Depending on your phone, the steps for this process might vary a little. Most ph
 
 After that, your Android will start the process, which can require a few minutes. However, this process will erase all your user data.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Use ADB
 
 This method is very confusing, so follow the steps cautiously on your Android phone to remove the **phone lock**. With your phone connected to your PC, and the cmd open, type the accompanying commands altogether:
@@ -141,6 +171,9 @@ With your Android phone connected and the cmd opens, enter:
 
 - abd shell rm/data/system/gesture.key
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cmd command](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-4.jpg)
 
 After entering, reboot your phone once more.
@@ -157,6 +190,9 @@ This strategy to sidestep a locked screen is only a crisis workaround for the ph
 
 - Enter ten asterisks (\*) through the dialer application.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ten asterisks](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-5.jpg)
 
 - Copy and paste asterisks on the dialer until the "Paste" choice no longer appears.
@@ -175,8 +211,14 @@ Losing your smartphone can be a distressing experience. It's not just a device; 
 
 Whether you call it a **SIM location tracker**, a **SIM card locator**, a **SIM card finder**, or even a **SIM card number finder**, these smart solutions are your best friends in times of need. So dive in and discover the top 4 **SIM location trackers** to make device retrieval a breeze.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sim location tracker](https://images.wondershare.com/drfone/article/2023/09/top-4-sim-location-trackers-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Why You Need SIM Location Trackers at Your Disposal
 
 In today's fast-paced world, losing a smartphone happens more often than one would like to admit. Picture this: You're in a rush, juggling tasks, and suddenly, your phone slips out of your pocket or bag. Panic sets in as you realize it's nowhere to be found.
@@ -197,6 +239,9 @@ Check out some of the most common scenarios where a phone might get lost:
 
 With lives deeply intertwined with technology, the demand for easy and effective device tracking is rising. People want solutions that don't require a tech genius to operate. They want something simple, straightforward, and, as much as possible, free **SIM card locators**.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Factors To Consider When Choosing a SIM Location Tracker
 
 Now, here are the top factors you need to check when you are about to choose an **online SIM location tracker**.
@@ -214,10 +259,16 @@ In the next part of this journey, this article will delve into the top 4 **SIM l
 
 Now that you understand why **SIM location trackers** are essential let's dive into the world of these handy tools. This section explores four of the most popular **SIM card finder** that can help you track your **SIM card location online for free**.
 
-### [Hoverwatch](https://www.hoverwatch.com/)
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Hoverwatch
 
 Hoverwatch is your go-to solution for simple and effective SIM location tracking. Designed with user-friendliness in mind, it offers accurate GPS tracking call and SMS monitoring and operates in stealth mode.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hoverwatch home](https://images.wondershare.com/drfone/article/2023/09/top-4-sim-location-trackers-03.jpg)
 
 **Key Features**
@@ -242,7 +293,7 @@ Below is the drawback of using Hoverwatch:
 
 - Some advanced features may require rooting or jailbreaking the target device.
 
-### [mSpy](https://www.mspy.com/)
+### mSpy
 
 For a comprehensive monitoring solution that includes SIM location tracking, mSpy is a top choice. It not only provides real-time location tracking but also offers geo-fencing and social media monitoring. mSpy is particularly popular among parents who want to ensure their children's safety online.
 
@@ -304,6 +355,9 @@ The drawbacks of utilizing Spyic are as follows:
 
 Spyzie is a versatile monitoring tool covering SIM location tracking and more. It provides accurate location updates, social media monitoring, and call/text tracking. One of its standout features is that it doesn't require complex technical procedures like rooting or jailbreaking, making it accessible to users of all levels.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![spyzie home](https://images.wondershare.com/drfone/article/2023/09/top-4-sim-location-trackers-06.jpg)
 
 **Key Features**
@@ -332,11 +386,14 @@ The Spyzie's drawback is detailed here:
 
 Now, what if you don't only want to **track your SIM number location** but also want to deal with other iPhone SIM-related issues like SIM not supported, invalid SIM, locked SIM, or no network servicing? Luckily, this article is also set to share a robust solution - [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) – SIM Unlock. This versatile tool helps you locate your device and ensures your iPhone's SIM card functions smoothly.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![drfone remove sim locked](https://images.wondershare.com/drfone/guide/remove-iphone-sim-1.png)
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Best SIM Unlock for iPhone.
 
@@ -363,6 +420,9 @@ Here's a simple step-by-step guide to unlocking your iPhone SIM using Dr.Fone - 
 
 - **Step 1:** After downloading and installing the software, start Wondershare Dr.Fone on your computer. Continue to the **Toolbox** area, then select **Screen Unlock** and **iOS** to launch the tool in a new window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone v13 home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 
@@ -381,6 +441,9 @@ Here's a simple step-by-step guide to unlocking your iPhone SIM using Dr.Fone - 
 - **Step 5:** The screen will invite you to perform several actions, starting with removing the SIM card from the iDevice. To access the Sony Xperia 10 V device's network settings, go to **Settings,** then **WLAN**. Find the Wi-Fi networks you've joined and select **Forget This Network**.
 - **Step 6:** Unlink all connected networks from **My Networks** and turn off Wi-Fi. After that, re-insert your SIM card and press the **Continue** button. The following screen will offer a prompt box with the status of the unlocking process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone continues with sim unlock operation](https://images.wondershare.com/drfone/guide/remove-iphone-sim-5.png)
 
 - **Step 7:** After a few moments, the window will display a completion notification, and you must click **Done** to complete the process.
@@ -395,6 +458,18 @@ Losing your smartphone is more common than you might think. Thankfully, **SIM lo
 
 And if you ever need to [unlock your SIM card](https://drfone.wondershare.com/sim-unlock/android-unlock-software.html), Dr.Fone - SIM Unlock is your best companion. Enjoy the enhanced security, broad compatibility, and user-friendliness that come with it.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6 Solutions to Unlock Sony Phones If You Forgot Password, PIN, Pattern
 
 Too many times, we forget the passcode of our smartphones, only to regret it later. Don't worry if you are facing the same issue. It happens to all of us at times. Fortunately, there are many ways to unlock an Android device even when you have **forgotten its password/pin/pattern lock**. This guide will teach you how to unlock Sony phones if you forgot the password in five different ways. Read on and choose your preferred option if you forgot the password on your Sony phone and move past every setback you face.
@@ -402,13 +477,19 @@ Too many times, we forget the passcode of our smartphones, only to regret it lat
 <iframe width="560" height="315" src="https://www.youtube.com/embed/68FqgS6Ym8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 1: Unlock Sony Phone using Dr.Fone - Screen Unlock (5 mins solution)
 
 Among all the solutions we are going to introduce in this article, this is the easiest one. [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) can help you remove the lock screen of [some Sony and Samsung devices](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) without any data loss. After the lock screen is removed, the phone will work like it's never been locked before, and all your data are there. Besides, you can use this tool to bypass the passcode on other Android phones, such as Huawei, Lenovo, Oneplus, etc. The only defect of Dr.Fone is that it will erase all the data beyond Samsung and Sony after unlocking.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Get into the Locked Sony Phone within Minutes
 
@@ -425,6 +506,9 @@ Step 1. Launch Dr.Fone.
 
 Download Dr.Fone from the download buttons above. Install and launch it on your computer. Then select the "**Screen Unlock**" function.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![unlock lg phone - launch drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2. Connect your phone.
@@ -451,6 +535,9 @@ Step 5. Remove the lock screen.
 
 After your phone boot in download mode, click on Remove to start to remove the lock screen. This process only takes a few minutes. Then your phone will restart in normal mode without any lock screen.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock lg phone - remove lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 For more detailed steps, please go to our guide on [unlocking Android phones with/without data loss](https://drfone.wondershare.com/guide/android-lock-screen-removal.html).
@@ -461,6 +548,9 @@ This is probably the most convenient solution to set up a new lock for your Sony
 
 - **Step 1.** Start by logging in to [Android Device Manager](https://www.google.co.in/android/devicemanager) by entering the credentials of your respective Google Account that is configured with your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock lg forgot password - login android device manager](https://images.wondershare.com/drfone/article/2017/03/14892201986480.jpg)
 
 - **Step 2.** Select your device's icon to get access to various features like ring, lock, erase, and more. Out of all the provided options, click on “**lock**” to change the security lock of your device.
@@ -469,20 +559,32 @@ This is probably the most convenient solution to set up a new lock for your Sony
 
 - **Step 3.** Now, a new pop-up window will open. Here, provide the new password for your device, confirm it, and click on the “lock” button again to save these changes.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock lg forgot password - lock with new password](https://images.wondershare.com/drfone/article/2017/03/14892202692339.jpg)
 
 That's it! Your phone will reset its password, and you would be able to move past any problem related to forgetting the password on the Sony phone using [Android Device Manager unlock](https://drfone.wondershare.com/unlock/android-device-manager-unlock.html).
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 3: Unlock the Sony Phone Using Google Login (only Android 4.4 and below)
 
 If your Sony device runs on Android 4.4 and previous versions, then you can easily move past the password/pattern lock without any trouble. The provision is not available on devices, which run on newer versions of Android. Nevertheless, for all the Sony Xperia 10 V devices running on older versions than Android 4.4, this is undoubtedly the easiest way to set a new passcode. Follow these steps to learn how to unlock your Sony phone if you forgot your password using your Google credentials.
 
 - **Step 1.** Try bypassing the pattern lock at least 5 times. After all the failed attempts, you will get the option to either make an emergency call or choose the option of “**Forget pattern**”.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock lg forgot password - forgot pattern](https://images.wondershare.com/drfone/article/2017/03/14892203178747.jpg)
 
 - **Step 2.** Select the “Forget pattern” option and provide the correct credentials of your Google account to unlock your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock lg forgot password - log in google account](https://images.wondershare.com/drfone/article/2017/03/14892203377058.jpg)
 
 ## Solution 4: Unlock the Sony Phone Using Custom Recovery (SD card needed)
@@ -501,6 +603,9 @@ Also, since you can't move anything to your device when it is locked, you need t
 
 - **Step 3.** Install the above-mentioned application and wait for a few minutes. Afterward, restart your Sony phone. Ideally, your phone will be restarted without any lock screen. If you get a lock screen, you can bypass it by entering any random digits.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 5: Factory Reset Sony Phone in Recovery Mode (erases all phone data)
 
 If none of the above-mentioned alternatives work, then you can also try to factory reset your device. This will erase every kind of data from your device and make it look brand new by resetting it. Though, you can easily resolve the forgot password on the Sony phone with it. Therefore, before proceeding, you need to be familiar with all the repercussions of performing a factory reset. All you got to do is follow these steps.
@@ -536,6 +641,9 @@ After making your device ready and downloading all the essential software on you
 - _update system set value=0 where name='lockscreen__.lockedoutpermanently';_
 - _.quit_
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock lg forgot password - command code](https://images.wondershare.com/drfone/article/2017/03/14892205231542.jpg)
 
 - **Step 3.** If the above code doesn't work, try providing the code “ADB _shell rm /data/system/gesture. the key_” to it and follow the same drill.
@@ -565,3 +673,59 @@ You can choose a preferred option and rectify the issue whenever you [forgot the
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-tackling-youtube-challenges-head-on-with-insights-from-hub-of-creators/"><u>[New] Tackling YouTube Challenges Head-On with Insights From Hub of Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-effortlessly-run-apps-and-videos-together-in-chrome/"><u>2024 Approved  How to Effortlessly Run Apps & Videos Together In Chrome</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-pitch-in-words-crafting-captivating-podcast-episodes/"><u>2024 Approved  Perfect Pitch in Words  Crafting Captivating Podcast Episodes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-procure-no-cost-visual-aids-from-prominent-4-youtube-feeds/"><u>2024 Approved  Procure No-Cost Visual Aids From Prominent 4 Youtube Feeds</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-vn-video-editor-pc-version-a-quick-overview/"><u>2024 Approved VN Video Editor PC Version A Quick Overview</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-find-x7-ultra-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-find-x7-ultra-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/custom-soundtracks-simplified-converting-from-spotify-playlists-to-youtube-music/"><u>Custom Soundtracks Simplified  Converting From Spotify Playlists to YouTube Music</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/essential-knowledge-what-to-understand-before-using-an-m4r-converter-for-2024/"><u>Essential Knowledge What to Understand Before Using an M4R Converter for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-motorola-moto-g-stylus-5g-2023-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Motorola Moto G Stylus 5G (2023)? </u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-oppo-find-x7-ultra-easily-by-drfone-android/"><u>How To Unlock a Oppo Find X7 Ultra Easily?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-x7-ultra-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo Find X7 Ultra Bootloader Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-x7-ultra-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo Find X7 Ultra Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-x7-ultra-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo Find X7 Ultra Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-x7-ultra-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo Find X7 Ultra Phone with Broken Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-x7-ultra-phone-without-password-by-drfone-android/"><u>How To Unlock Oppo Find X7 Ultra Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-x7-ultra-phone-without-pin-by-drfone-android/"><u>How to Unlock Oppo Find X7 Ultra Phone without PIN</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-x7-ultra-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Oppo Find X7 Ultra PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oppo-find-x7-ultra-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Oppo Find X7 Ultra Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-find-x7-ultra-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo Find X7 Ultra Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-oppo-find-x7-ultra-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Oppo Find X7 Ultra Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-find-x7-ultra-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo Find X7 Ultra Fingerprint Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Oppo Find X7 Ultra?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-find-x7-ultra-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Oppo Find X7 Ultra Pattern Lock Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-oppo-find-x7-ultra-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Oppo Find X7 Ultra Face Lock?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-oppo-find-x7-ultra-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo Find X7 Ultra Phone Screen?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-gt-neo-5-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme GT Neo 5 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo Find X7 Ultra?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-oppo-find-x7-ultra-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Oppo Find X7 Ultra Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-find-x7-ultra-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo Find X7 Ultra Phone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y36i-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-oppo-find-x7-ultra-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo Find X7 Ultra Lock Screen Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-oppo-find-x7-ultra-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Oppo Find X7 Ultra Through Google Earth?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y100a-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y100A to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-oppo-find-x7-ultra-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Oppo Find X7 Ultra Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-find-x7-ultra-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Find X7 Ultra Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-find-x7-ultra-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo Find X7 Ultra? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-speedy-way-effortlessly-add-a-vimeo-video-to-your-slides/"><u>In 2024, The Speedy Way  Effortlessly Add a Vimeo Video to Your Slides</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-find-x7-ultra-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo Find X7 Ultra Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-oppo-find-x7-ultra-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo Find X7 Ultra Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-oppo-find-x7-ultra-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Find X7 Ultra Device</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-instant-cartoon-effects-for-your-photos/"><u>New In 2024, Instant Cartoon Effects for Your Photos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-oppo-find-x7-ultra-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Oppo Find X7 Ultra Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/top-rated-music-photo-video-editors-for-2024/"><u>Top-Rated Music Photo Video Editors for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-oppo-find-x7-ultra-by-drfone-android/"><u>Universal Unlock Pattern for Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-find-x7-ultra-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo Find X7 Ultra Device</u></a></li>
+</ul></div>

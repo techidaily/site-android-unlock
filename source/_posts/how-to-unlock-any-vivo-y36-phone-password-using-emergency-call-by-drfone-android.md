@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Any Vivo Y36 Phone Password Using Emergency Call
-date: 2024-04-04 12:50:35
-updated: 2024-04-05 10:19:42
+date: 2024-07-16T11:45:05.440Z
+updated: 2024-07-17T11:45:05.440Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Unlock Any Vivo Y36 Phone Password Using Emergency Call
 excerpt: This article describes How To Unlock Any Vivo Y36 Phone Password Using Emergency Call
 keywords: full guide to unlock,Vivo Y36 change android lock screen,Vivo Y36 pattern unlock,Vivo Y36 unlock phone guide,Vivo Y36 android emergency call bypass,android emergency call bypass,fingerprint not working,Vivo Y36 remove lock screen fingerprint,lock screen wallpaper on android device,locked out of android phone,Vivo Y36 fingerprint lock app
-thumbnail: https://www.lifewire.com/thmb/5m3PFyS3dMrqXFE2iOSfA4BUn2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-smart-tv-12dcac76114b4747b9b3db8bb3551ddc.jpg
+thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d8ff765825e636a33b833fec.jpg
 ---
 
 ## How To Unlock Any Vivo Y36 Phone Password Using Emergency Call
@@ -21,6 +21,9 @@ But you have to face it: sometimes, people forget the codes they set to protect 
 
 That’s where emergency call bypass is a nifty little trick that can be a lifesaver. In this article, you’ll learn **how to unlock any phone password using the emergency call** technique. The article will also explore other methods for when your memory fails you. So, read through and never go through this trouble again.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android emergency call screen](https://images.wondershare.com/drfone/article/2024/01/unlock-emergency-call-phone-01.jpeg)
 
 ## Part 1: What Is the Emergency Call Bypass Method?
@@ -29,6 +32,9 @@ The **Android emergency call bypass** method is a lesser-known workaround for th
 
 **“How can unlocking Vivo, Oppo, and Samsung phones using emergency calls** be effective?” You may ask. Imagine you need to access important information on your phone but can’t remember your lock screen code. Instead of panicking or rushing to a technician, the emergency call bypass can be a quick and handy solution. It’s particularly useful when immediate access to your phone is crucial and you don’t have time to [<u>reset your password </u>](https://drfone.wondershare.com/reset-android/how-to-reset-privacy-password-in-oppo.html) through official channels.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Limitations of the Emergency Call Bypass Method
 
 However, it’s important to note that this method has its limitations. It primarily works on older Android devices, specifically those running Android 5.0 (Lollipop) and below. As smartphone technology has evolved, manufacturers have patched many loopholes to enhance security. So, this method might not work for you if you have a more recent Android version.
@@ -37,6 +43,9 @@ But don’t worry – if you’re locked out of a newer phone, you can try sever
 
 ![android emergency screen](https://images.wondershare.com/drfone/article/2024/01/unlock-emergency-call-phone-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How To Perform Emergency Call Bypass To Unlock Screen
 
 Unlocking your Android phone without a password using the Emergency Call Bypass method can be tricky, but it’s doable, especially on devices running Android OS 5.0 (Lollipop) and below. Here’s a step-by-step guide on **how to unlock any phone password using the emergency call** feature:
@@ -52,10 +61,16 @@ Unlocking your Android phone without a password using the Emergency Call Bypass 
 - **Step 6:** When prompted for a password, long-press and paste the copied string into the password field. Repeat this several times until the option to paste is no longer available.
 - **Step 7:** Keep pasting the string until the interface crashes. The lock screen should disappear, and the camera interface will expand. After some time, the camera app should also crash, and your device will unlock, displaying the home screen.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![android home screen](https://images.wondershare.com/drfone/article/2024/01/unlock-emergency-call-phone-04.jpg)
 
 This method, while unconventional, has been known to work on various Android 5 devices, including Samsung models. However, using this technique responsibly and only on devices you own or have permission to access is important. Remember, this method exploits a security flaw and should be used as a last resort.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Other Ways To Unlock Your Screen
 
 While the **emergency call bypass for Android** method is interesting, it’s largely unreliable and outdated, mainly effective on older Android versions. Modern devices have significantly improved security, making this method obsolete. There are other, more reliable methods for those needing to unlock their phone’s screen.
@@ -66,7 +81,10 @@ While the **emergency call bypass for Android** method is interesting, it’s la
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
@@ -79,6 +97,9 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 - **Step 1:** Launch the Dr.Fone toolkit and go to **Toolbox** > **Screen Unlock.** Connect your Android device to your PC.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 
@@ -88,10 +109,16 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 - **Step 3:** Select **Unlock Android Screen**, as this is specifically for bypassing the lock screen
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android or google frp lock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 4:** Select the brand of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![device selection screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 - **Step 5:** Click **Remove without Data Loss** to ensure your data stays intact.
@@ -110,14 +137,23 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 ![screen unlock success](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Using “Forgot PIN/Passcode” and Google Account
 
 You can use the **Forgot PIN/Passcode** feature if you’ve linked your phone to a Google account. After multiple failed attempts to unlock your phone, you’ll see a prompt to reset the password via your Google account credentials.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Forcing a Data Reset on Your Android Phone
 
 As a last resort, you can [<u>perform a factory reset</u>](https://drfone.wondershare.com/reset-android/how-to-factory-reset-huawei-phone-when-locked.html). This will erase all data on your device but remove the lock screen. Access the recovery mode by pressing a combination of keys (usually volume up/down and the power button) and then selecting **Wipe data/Factory reset**.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4: Booting Into Safe Mode
 
 Booting into safe mode can bypass third-party lock screens. This method won’t work on the default lock screen but can be helpful if an app sets the lock.
@@ -132,6 +168,9 @@ Learning to unlock your phone screen ensures you’re never locked out of your d
 
 ## Top 12 Prominent Vivo Y36 Fingerprint Not Working Solutions
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1. Optimal Solution: Unlock With Wondershare Dr.Fone Directly
 
 Facing a malfunctioning fingerprint on your Vivo Y36 can be frustrating. In this scenario, the most effective resolution is the removal of the registered fingerprint. Yet, traditional methods of removing the fingerprint can be difficult and pose security risks. In this case, going for tools like [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is the best choice. This tool ensures your Pixel device is at no risk.
@@ -140,7 +179,7 @@ Dr.Fone offers a swift solution to remove the Android lock screen in five minute
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
@@ -151,6 +190,9 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 **4,008,672** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Prominent Features of Wondershare Dr.Fone
 
 1. FRP bypass is enabled for brands like Samsung, Xiaomi, Redmi, Oppo, [Realme](https://drfone.wondershare.com/unlock/how-to-unlock-realme-phone-without-losing-data.html), and Vivo.
@@ -172,6 +214,9 @@ Open Wondershare Dr.Fone and connect your Android device via a USB cable. Once t
 
 Afterward, you'll be guided to a subsequent screen prompting you to choose the Vivo Y36 device brand, Google. Once you select the brand, you'll be directed to enter a specific mode corresponding to it. For Google Pixel Devices, the specific mode to enter is Recovery Mode. Simply follow the on-screen instructions to activate Recovery Mode on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![put your device in recovery mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 - **Step 3: Initiate the Fingerprint Removal Process**
@@ -208,6 +253,9 @@ One of the easiest and simplest solutions is to restart your Pixel phone. You ca
 
 ![restart google pixel device](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Outdated Firmware
 
 #### Problem
@@ -220,6 +268,9 @@ The best way to resolve this issue is to update your Pixel device. Having an out
 
 **Instructions.** On your Pixel device, access the “Settings” app. Within Settings, scroll down to tap the "System" option. On the following screen, hit the "System update" option to check if any latest update is available. Here, if you see any updates, download and install them promptly. Before initiating the update, ensure your device is connected to a stable Wi-Fi network with sufficient battery charge.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![update device to latest version](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-7.jpg)
 
 ### 4\. Dirty Phone or Sensor
@@ -268,6 +319,9 @@ Ensure the screen protector is designed to be compatible with fingerprint sensor
 
 There can be air bubbles trapped under the screen protector. If there are, gently press them out towards the edges using a card designed for this purpose.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![protector screen dirty or damaged](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-9.jpg)
 
 ### 6\. Clean Your Finger
@@ -288,6 +342,9 @@ Refrain from touching oily or greasy surfaces before using the fingerprint senso
 
 ![cleaning finger to use fingerprint](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 7\. Covering Screen if Fingerprint on Screen
 
 #### Problem
@@ -316,8 +373,14 @@ Misconfigured settings on your Pixel device can lead to situations where the fin
 
 You must adjust the display settings to ensure the fingerprint sensor is always visible. To do that, you can begin by opening the Settings app. Navigate to the "Display" tab and select "Lock Screen." On the following window, toggle on "Always show time and info."
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![put sensor to always display](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9\. Low Touch Sensitivity
 
 #### Problem
@@ -330,6 +393,9 @@ The fingerprint sensor may have [low touch sensitivity](https://drfone.wondersha
 
 Accessories like a screen protector might impact the performance of your Pixel device's touch sensitivity. When using a screen protector, your Pixel enhances touch sensitivity. To do that, navigate to the Settings app and open it. Move to the "Display" window and scroll down to the last option. Toggle on the "Screen protector mode" to increase the screen sensitivity.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn on screen protector mode](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-13.jpg)
 
 ##### 2\. Finger Re-Enrollment
@@ -342,8 +408,14 @@ Delete existing fingerprints and re-register them. This re-enrollment can someti
 
 - **Step 2.** Tap "Fingerprint Unlock" on the following screen and delete the previously enrolled fingerprints. Then, press "Add fingerprint" and follow the on-screen prompts to complete the process.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add new fingerprint](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 10\. Other Hardware Issues
 
 #### Problem
@@ -366,6 +438,9 @@ Boot the Vivo Y36 device in safe mode to determine if third-party apps are causi
 
 If you suspect hardware issues, seek professional help from authorized service centers. A clear sign of hardware issues can be visible damage or the sensor failing to function even in safe mode.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 11\. Factory Reset as Last Resort
 
 #### Problem
@@ -384,22 +459,34 @@ Proceed with the following steps to execute a factory reset on your Pixel device
 
 - **Step 1.** On your Pixel smartphone, navigate to Settings and access the "System" tab. Here, scroll down to the bottom and tap "Reset Options."
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![head to system settings](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-17.jpg)
 
 - **Step 2.** In "Reset Options," choose "Erase All Data (Factory Reset)” to continue. Afterward, select "Erase All Data" on the next screen and follow the instructions to complete the process.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![factory reset your device](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-18.jpg)
 
 In summary, this article detailed various methods to fix **the Vivo Y36 fingerprint not working**. Diverse approaches were explored, from simple steps like sensor cleaning to advanced solutions like factory resets. However, Dr.Fone stands out among these solutions as a top-tier option. It offers a secure and efficient resolution to the persistent problem of fingerprint failure on the Vivo Y36  .
 
 
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Pattern Locks Are Unsafe: Secure Your Vivo Y36 Phone Now with These Tips
 
 Pattern locks have been available for about as long as people can remember, and they have been hugely popular with people thanks to how easy it is to simply swipe your screen and unlock your smartphone, as against, say, keying in the 4-digit PIN/ 6-digit PIN. However, pattern locks are easy to crack, and today, we bring you all you want to know about pattern locks and how to create a **hard pattern lock**. Further to this, we also tell you how to move beyond pattern locks and what to do in case you forgot the hard pattern lock you just set and are unable to unlock your smartphone.
 
 ![creating more secure pattern locks](https://images.wondershare.com/drfone/article/2023/09/hard-pattern-lock-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: What You Need to Know About Pattern Locks
 
 Pattern lock is an Android-only feature that makes it easy for users to have a modicum of security on their smartphones. Most users do not prefer using and remembering a PIN to unlock the smartphone. Creating a pattern makes it easier, somehow.
@@ -452,6 +539,9 @@ These are some of the most common pattern locks people create:
 
 To understand how this is a security nightmare, the possible combinations for a 4-point pattern are a measly 1624, whereas by adding just 1 more point to the pattern and creating a 5-point pattern, the number of possible combinations becomes 7152, an increase of 5528 combinations. In stark contrast, creating a 9-point pattern would give you over 140,000 possible combinations!
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.2: How to Create a Hard Pattern Lock
 
 Knowing what most people do when creating a pattern lock, it becomes easy to avoid those mistakes and instead create a hard pattern lock for oneself.
@@ -481,9 +571,12 @@ While face recognition is available on both Android and Apple devices, it is tru
 
 Just in case you set a hard pattern lock and promptly forgot that abstruse pattern you just set, we have a tool for you to quickly unlock your phone in case of a forgotten hard pattern lock: Wondershare Dr.Fone - Screen Unlock.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove the Hard Pattern Lock on Your Vivo Y36 If You Forgot!
 
@@ -508,6 +601,9 @@ Step 2: Click Unlock Android Screen.
 
 Step 3: Select your device manufacturer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![drfone screen unlock manufacturer selection](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 Step 4: Prepare your device to unlock the screen.
@@ -540,3 +636,48 @@ Whether it is an easy pattern lock or a hard pattern lock, the fact is that patt
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-decade-of-youtube-dominance-breakthrough-videos-hitting-a-billion-views/"><u>[Updated] A Decade of YouTube Dominance  Breakthrough Videos Hitting a Billion Views</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-maximize-your-tiktok-experience-with-updated-numbers/"><u>[Updated] Maximize Your TikTok Experience with Updated Numbers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-start-streaming-the-simple-method-for-mac-book-air-recording/"><u>[Updated] Start Streaming  The Simple Method for Mac Book Air Recording</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-efficient-mobile-video-management/"><u>[Updated] The Ultimate Guide to Efficient Mobile Video Management</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oneplus-nord-n30-se-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevating-your-instagram-presence-with-optimized-video-sizes/"><u>2024 Approved  Elevating Your Instagram Presence with Optimized Video Sizes</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-ultimate-toolkit-for-top-notch-tiktok-cuts/"><u>2024 Approved  Ultimate Toolkit for Top-Notch TikTok Cuts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-samsung-galaxy-m14-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Samsung Galaxy M14 5G Unlock Without Password</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-google-pixel-fold-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Google Pixel Fold without App | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-m14-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/convert-and-store-webcam-footage-in-vlc-media/"><u>Convert & Store Webcam Footage in VLC Media</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-m14-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-m14-5g-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/getting-started-with-macos-11-big-sur-upgrade-for-2024/"><u>Getting Started with macOS 11 Big Sur Upgrade for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Samsung Galaxy M14 5G?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-m14-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-m14-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy M14 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>How to Reset a Locked Samsung Galaxy M14 5G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-m14-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy M14 5G Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy M14 5G Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-m14-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy M14 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/if-you-are-a-marketer-who-want-to-create-facebook-ads-to-boost-your-business-you-are-coming-to-the-right-place-well-share-you-some-useful-tips-to-start-your/"><u>If You Are a Marketer Who Want to Create Facebook Ads to Boost Your Business, You Are Coming to the Right Place. Well Share You some Useful Tips to Start Your First FB Ads Campaign</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-chaptered-cinema-the-essential-guide-to-vimeo-editing/"><u>In 2024, Chaptered Cinema  The Essential Guide to Vimeo Editing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-huawei-nova-y91-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Huawei Nova Y91 Device SIM</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-realme-12-pro-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Realme 12 Pro 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-moto-g23-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola Moto G23 for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-m14-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-m14-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-m14-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy M14 5G Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-galaxy-m14-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Galaxy M14 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-infinix-smart-8-plus-frp-by-drfone-android/"><u>The Updated Method to Bypass Infinix Smart 8 Plus FRP</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-samsung-galaxy-m14-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Samsung Galaxy M14 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-m14-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-m14-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy M14 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-m14-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy M14 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-m14-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Samsung Galaxy M14 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-m14-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy M14 5G Users</u></a></li>
+</ul></div>

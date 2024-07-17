@@ -1,7 +1,7 @@
 ---
 title: How To Easily Unlock Sony Screen?
-date: 2024-04-30T19:19:17.923Z
-updated: 2024-05-01T19:19:17.923Z
+date: 2024-07-16T12:59:58.693Z
+updated: 2024-07-17T12:59:58.693Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Easily Unlock Sony Screen?
 excerpt: This article describes How To Easily Unlock Sony Screen?
 keywords: Sony Xperia 5 V unlock bootloader,how to use oem unlocking,lock screen apps for android,hack wifi password android device,delete gmail account with without password,swipe screen to unlock,forgot pattern lock,Sony Xperia 5 V password cracker tools,Sony Xperia 5 V top anti theft apps,unlock apps for android device,Sony Xperia 5 V unlock phone guide
-thumbnail: https://www.lifewire.com/thmb/YDOkX4KOrU-1Gfk6Kj7DPlg333E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows11contextmenu-f4d6ebb14db4444d851b4338aa553e21.png
+thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b903378f876b3f4cc7ee4fa520.png
 ---
 
 ## How To Easily Unlock Sony Screen?
@@ -31,6 +31,9 @@ Like most people, you probably lock your Sony phone as soon as you turn it on. I
 
 There are a few different ways to unlock your Sony phone. We'll show you how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 1. Google Find My Device (Without Password/Pin/Pattern)
 
 If you're like me, you've probably tried a million different ways to unlock your Sony phone, only to be frustrated by the results. Luckily, there's an easy way to unlock your Sony phone using Google's Find My Device feature.
@@ -57,6 +60,9 @@ Follow these steps to unlock the Sony lock screen password without losing data:
 
 You can use it to unlock your Sony if you have activated the Android Device Manager or Google Find My Device before your phone was locked.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### A few conditions, however, must be met for this to work
 
 - You must turn on your Sony phone.
@@ -65,6 +71,9 @@ You can use it to unlock your Sony if you have activated the Android Device Mana
 - You must be connected to WiFi on your device to log into your Google account.
 - Your phone needs to be set to location.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2. Unlock Sony Lock Screen With Hard Reset
 
 If you perform a hard reset on your Sony lock screen, all data, and user information will be erased, including your screen lock, password, pattern lock, and PIN.
@@ -96,6 +105,9 @@ Follow the steps below on how to unlock the Sony phone pin code:
 - **Step 7**: Change your password or PIN.
 - **Step 8**: You will see your Sony unlocked soon.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4. Unlock the Keypad With a Security Code
 
 You could reset your Sony lock screen phone using the default security code, even if you haven't set any security code. Here's how to quickly unlock the Sony lock screen security code.
@@ -110,6 +122,9 @@ You could reset your Sony lock screen phone using the default security code, eve
 
 `o 12345.`
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you have a classic-style keypad phone or an Android device, unlocking a locked Sony phone keypad is not easy. However, we believe that every problem has a solution. You can unlock Sony Android phones using any of the methods listed above.
@@ -122,8 +137,14 @@ Google services are pivotal in enhancing user experience and securing personal d
 
 This article goes through the details of Google Smart Lock and its significance. It offers a solution to address unexpected screen lock scenarios on Android devices.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disabling google smart lock feature](https://images.wondershare.com/drfone/article/2024/01/guide-to-remove-or-disable-google-smart-lock-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Understanding Google Smart Lock and How It Works?
 
 Want to know **what is Google Smart Lock**? [Google Smart Lock](https://get.google.com/smartlock/) serves as a multi-purpose tool within the Google ecosystem. It is designed to streamline security measures and password management access across platforms. At its core, Google Smart Lock operates as a feature that manages passwords. Google Smart Lock aims to enhance authentication processes. Primarily, it operates across Android devices and computers.
@@ -156,6 +177,9 @@ These features significantly ease the burden of password management and enhance 
 
 Despite its array of benefits, there are times when users consider removing or disabling Google Smart Lock. Described below are these limitations to better grasp why users might choose to **Google Smart Lock turn off**:
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Privacy Concerns
 
 Some users focus on privacy and feel uncomfortable with Google Smart Lock's access to their passwords. The reason behind this is how easily anyone can access the saved password. All they need to do is access "Manage Passwords" in Google Chrome, and all their passwords will be open. This leads them to opt for more private password management options.
@@ -168,6 +192,9 @@ Technical glitches in the functioning of Google Smart Lock can be frustrating. T
 
 You should be aware that Google Smart Lock for Passwords has been deprecated. This indicates it no longer receives updates or support from Google. Developers are advised to opt for Google's One Tap Sign-in feature as an alternative by Google. It provides a more efficient and secure method for signing in to apps and websites.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### 4\. Preference for Third-Party Tools
 
 Certain users might have a preference for specialized third-party password management tools. They can go for solutions that offer a wider array of features. Many users might want to find options better aligned with their specific needs. This prompts them to disable Google Smart Lock.
@@ -186,6 +213,9 @@ To deactivate Google Smart Lock on your Android device, you can use Chrome. Goog
 
 - **Step 2.** Within the Settings, choose "Passwords,” and on the following screen, look for the “Save passwords” and “Auto Sign-in” options. Toggle off both options to disable the **Google Smart Lock** feature from your Android.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![toggle off save password and sign in](https://images.wondershare.com/drfone/article/2024/01/guide-to-remove-or-disable-google-smart-lock-3.jpg)
 
 ### Way 2. Removing Google Smart Lock From Android Settings
@@ -210,6 +240,9 @@ While you can manage this feature on Android devices, it is also available on Go
 
 - **Step 1.** On your computer, access Google Chrome and click the “three dots” near the top right corner. From the context menu, choose "Settings" and tap "Autofill and passwords" from the left side.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![locate autofill and password in chrome](https://images.wondershare.com/drfone/article/2024/01/guide-to-remove-or-disable-google-smart-lock-6.jpg)
 
 - **Step 2.** Now, click “Google Password Manager" on the ensuing window, and choose "Settings" from the left side. Toggle off "Offer to save passwords" and "Sign in automatically" to disable Google Smart Lock.
@@ -222,6 +255,9 @@ Disabling the Google Smart Lock can have a side effect, which is the danger of f
 
 In such instances, regaining access becomes crucial. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) offers a robust solution in these cases. This software specializes in unlocking Android devices when users forget their device passcodes. It offers a swift solution to eliminate Android lock screens within 5 minutes. If you own a Samsung or LG device, you can unlock it without data loss.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Notable Features of Wondershare Dr.Fone
 
 1. This tool bypasses the Android FRP lock without necessitating a PIN or Google account.
@@ -236,6 +272,9 @@ Dr.Fone makes the process of unlocking an Android device a breeze. Here's a step
 
 To begin, install the most recent edition of Wondershare Dr.Fone and connect your Android device using a USB cable. Access the "Toolbox" menu and locate the "Screen Unlock" tool upon successful connection. Once opened, choose the "Android" option when prompted. Next, select "Unlock Android Screen" from the available options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![head to screen unlock feature](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 
@@ -247,27 +286,36 @@ Select your device brand and "100% Remove Screen Lock." Selecting the Sony Xperi
 
 _**Tips:** Forget your device password and can't get access to it? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This comprehensive guide describes the significance of **Google Smart Lock**. It explains its features and various methods to disable it from Android devices and Chrome. Exploring scenarios of forgotten passcodes highlighted the critical need for a reliable solution. Wondershare Dr.Fone emerges as a savior in such situations. It offers a secure means to regain access when locked out of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Unlock Sony Xperia 5 V Phone without Any Data Loss
 
 In today's digital age, our Android phones serve as the primary hub of our lives, holding a treasure trove of personal and professional data. Yet, the frustration of being locked out due to forgotten passwords or malfunctioning security features can be overwhelming, compounded by the fear of data loss during the recovery process. However, there's a beacon of hope - a way to unlock your Android phone without any data loss. In this comprehensive guide, we will explore the latest techniques, tools, and methods to regain access to your Android device safely without a password, PIN, or fingerprint. Let's dive into it now.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. How to Unlock Sony Xperia 5 V Phone with Dr.Fone - Screen Unlock (Android)
 
 If you or someone accidentally forgot or mistyped/misentered your lock password and caused it to lock permanently, of course, you will find ways to unlock it at first. But if you are not connected to the internet, or did not register a Google account for your device, your last resort would be to factory reset your device. That will totally wipe everything you have and save it on your device. If you want to unlock your lock screen without having to worry that your device data will be erased, [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is your [phone unlocking software](https://drfone.wondershare.com/sim-unlock/android-unlock-software.html).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WOBqlRz2IaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 Note: This tool temporarily support unlocking part of Samsung and LG locked screen without losing data, but other Android phone will be wiped all data if you try to unlock the screen with Dr.Fone - Screen Unlock (Android).
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove 4 Types of Android Screen Lock without Data Loss
 
@@ -284,6 +332,9 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 **Step 2.** Then, you should see the "Screen Unlock" tool, so proceed into it. After that,  click "Android" > "Unlock Android Screen."
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dr.Fone home](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 3.** Then choose "Remove without Data loss" to unlock part Samsung/LG devices without data loss and find your device model.
@@ -300,10 +351,16 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 **Step 5.** The loading process will take you a few minutes because it is going to verify first your device's compatibility.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dr.Fone removing lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
 **Step 6.** Wait until everything is done. You should then see your device already has no lock screen.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dr.Fone lock screen removed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 That's how to unlock an Android phone with just one click using Wondershare's Dr.Fone. If your device is not Samsung or LG, you can use a more advanced mode to [unlock your phone](https://drfone.wondershare.com/guide/android-lock-screen-removal.html).
@@ -329,12 +386,30 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 **Step 4.** Paste the copied Aroma zip file. Once copied, eject it from your PC, then insert it into your Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Paste aroma file manager](https://images.wondershare.com/drfone/article/2016/06/14647610796449.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arom file manager pasted](https://images.wondershare.com/drfone/article/2016/06/14647610819837.jpg)
 
 **Step 5.** Enter Recovery Mode for your device. Each Android device has its own ways of entering recovery mode, so take a look at this [link](http://www.digitaltrends.com/mobile/use-recovery-mode-android/) and find your device.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Enter recovery mode android](https://images.wondershare.com/drfone/article/2016/06/14647615647569.jpg)
 
 **Step 6.** When you are already in Android Recovery Mode, use your volume keys to navigate to ''apply update from external storage'', then select the zip file you copied a while ago. It will be flashed on your device.
@@ -362,16 +437,25 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 
 **Step 1.** Go to [Minimal ADB and Fastboot](https://androidmtk.com/download-minimal-adb-and-fastboot-tool) download page.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Minimal adb and fastboot dowload page](https://images.wondershare.com/drfone/article/2016/06/14648313491726.jpg)
 
 **Step 2.** Download the tool's latest version.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Minimal adb and fastboot downloaded](https://images.wondershare.com/drfone/article/2016/06/14648313521345.jpg)
 
 **Step 3.** Open the downloaded Minimal ADB and Fastbootzip file and install it.
 
 ![Minimal adb and fastboot installer zip](https://images.wondershare.com/drfone/article/2016/06/14648313544528.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Minimal adb and fastboot setup](https://images.wondershare.com/drfone/article/2016/06/14648313551732.jpg)
 
 ![Minimal adb and fastboot installation complete](https://images.wondershare.com/drfone/article/2016/06/14648313566582.jpg)
@@ -380,8 +464,14 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 
 This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[primary drive\]> Program Files \[for 32-bit\] or Program Files (x86) \[for 64-bit\] > Minimal ADB and Fasboot.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Local Disk](https://images.wondershare.com/drfone/article/2016/06/14648313589887.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Program Files (x86) folder](https://images.wondershare.com/drfone/article/2016/06/14648313591963.jpg)
 
 ![Minimal adb and fastboot folder](https://images.wondershare.com/drfone/article/2016/06/14648313625020.jpg)
@@ -392,6 +482,9 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 
 **Step 6.** ADB terminal will pop out. Now, the first is to type in ADB _devices_. This is to check if your device is recognized by ADB. If there is no device listed below, try to remove and reconnect your Sony Xperia 5 V and retype the command. If there are listed devices already, proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Minimal adb and fastboot command window adb devices command](https://images.wondershare.com/drfone/article/2016/06/14648317691463.jpg)
 
 **Step 7.** Finally, type in the following commands **one by one****.** These commands will remove your lock screen.
@@ -405,6 +498,9 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 - _name='lockscreen.lockedoutpermanently';_
 - _.quit_
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Minimal adb and fastboot adb shell command](https://images.wondershare.com/drfone/article/2016/06/14648317729484.jpg)
 
 This would work if you have your USB debugging turned on before it was locked. That's how to unlock Android using ADB.
@@ -431,6 +527,9 @@ One way to unlock your Android phone without losing the data is by utilizing Saf
 
 ![restart android device in safe mode](https://images.wondershare.com/drfone/article/2023/09/unlock-android-phone-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 6. How to Unlock Android Phone without Any Data Loss Using Google Account (Android 4.4 or lower)
 
 If luckily, you left your Wi-Fi open and luckily connected to the internet, this is the easiest way to unlock your Android phone.
@@ -439,6 +538,9 @@ If luckily, you left your Wi-Fi open and luckily connected to the internet, this
 
 **Step 1:** Retry the incorrect password or pattern until the ''Forgotten Password/Pattern'' appears below. Then select that.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android forgot pattern lock](https://images.wondershare.com/drfone/article/2016/06/14648495587136.jpg)
 
 **Step 2:** Check ''Enter your Google Account details'' then tap next.
@@ -470,3 +572,65 @@ You will be given the option to input a new password or pattern right after you 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-beginning-the-video-odyssey-how-to-create-an-engaging-youtube-channel/"><u>[New] 2024 Approved  Beginning the Video Odyssey  How to Create an Engaging YouTube Channel</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-express-exuberance-create-memetic-content-with-kapwing/"><u>[New] 2024 Approved  Express Exuberance  Create Memetic Content With Kapwing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-instagrams-square-shots-with-imovie/"><u>[New] 2024 Approved  Mastering Instagram's Square Shots with iMovie</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-perfecting-the-science-of-instagram-highlight-recovery/"><u>[New] 2024 Approved  Perfecting the Science of Instagram Highlight Recovery</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-driving-traffic-and-likes-a-guide-for-instagram-pros-for-2024/"><u>[New] Driving Traffic & Likes  A Guide for Instagram Pros for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-frost-your-view-freezing-desktop-on-pcs/"><u>[New] Frost Your View  Freezing Desktop on PCs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-full-review-of-camstudios-screen-capture-features/"><u>[New] Full Review of CamStudio's Screen Capture Features</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-pcsmartphone-session-recorder/"><u>[Updated] 2024 Approved  The Ultimate PC/Smartphone Session Recorder</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-steps-for-starting-a-youtube-channel-for-2024/"><u>[Updated] Essential Steps for Starting a YouTube Channel for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultimate-guide-using-vlc-for-videos/"><u>[Updated] In 2024, Ultimate Guide  Using VLC for Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-navigating-tiktok-uploads-on-chromeandroid-and-iphone-with-ease-new-guide-for-2024/"><u>[Updated] Navigating TikTok Uploads on Chrome/Android & iPhone with Ease - New Guide for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-best-buys-for-extreme-weather-shooting-top-7-edition/"><u>2024 Approved  Best Buys for Extreme Weather Shooting, Top 7 Edition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-v27e-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo V27e Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-v27e-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo V27e Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-v27e-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo V27e</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-deeper-dive-into-user-experience-revamping-windows-11-widgets/"><u>A Deeper Dive Into User Experience: Revamping Windows 11 Widgets</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-v27e-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo V27e Fingerprint Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-v27e-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo V27e?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-v27e-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo V27e</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-v27e-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo V27e Pattern Lock Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-v27e-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo V27e? Try These Fixes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gopro-and-yi-the-2023-ultimate-actions-camera-verdict/"><u>GoPro & YI  The 2023 Ultimate Actions Camera Verdict</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-v27e-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo V27e</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-v27e-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo V27e Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-v27e-lock-screen-password-by-drfone-android/"><u>How To Change Vivo V27e Lock Screen Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-v27e-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo V27e Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-v27e-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo V27e to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-v27e-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo V27e</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-v27e-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo V27e Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-vivo-v27e-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo V27e Through Google Earth?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27e-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo V27e Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27e-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo V27e Phone without Google Account?</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/in-2024-12-animated-slideshow-powerpoint-templates-and-tools-to-make-them/"><u>In 2024, 12 Animated Slideshow PowerPoint Templates and Tools to Make Them</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-soundstage-networking/"><u>In 2024, Best Soundstage Networking</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-honor-magic-5-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Honor Magic 5 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-nubia-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Nubia</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-creativity-adding-fonts-to-your-ae-workflow/"><u>In 2024, Unleashing Creativity  Adding Fonts to Your AE Workflow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/introducing-automatic-system-updates-notice-to-windows-11-ui/"><u>Introducing Automatic System Updates Notice to Windows 11 UI</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-7-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 7 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-vivo-v27e-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo V27e Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-v27e-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo V27e</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-elevate-your-mobile-filmmaking-the-top-iphone-video-editing-apps/"><u>New 2024 Approved Elevate Your Mobile Filmmaking The Top iPhone Video Editing Apps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-smooth-audio-transitions-2-methods-to-fade-in-and-out-in-fcp/"><u>New Smooth Audio Transitions 2 Methods to Fade In and Out in FCP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/on-the-go-cinematographers-essentials-for-2024/"><u>On-the-Go Cinematographer’s Essentials for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-v27e-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo V27e Phone Now with These Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-apple-iphone-12-pro-and-browser-drfone-by-drfone-virtual-ios/"><u>Prevent Cross-Site Tracking on Apple iPhone 12 Pro and Browser | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pros-best-top-8-tripods-excelling-at-4k-video-capture/"><u>Pro's Best  Top 8 Tripods Excelling at 4K Video Capture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/seamless-live-recording-on-fb-uncover-4-critical-steps-for-2024/"><u>Seamless Live Recording on FB  Uncover 4 Critical Steps for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-v27e-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo V27e? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-v27e-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo V27e</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-free-video-looping-software-for-windows-and-mac-for-2024/"><u>The Ultimate Guide to Free Video Looping Software for Windows and Mac for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-v27e-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo V27e Phone Pattern Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-v27e-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo V27e Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-v27e-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo V27e Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-v27e-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo V27e</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-vivo-v27e-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo V27e Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-v27es-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo V27es Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+</ul></div>

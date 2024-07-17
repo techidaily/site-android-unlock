@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Motorola Defy 2 Phone that is Locked?
-date: 2024-05-19T14:20:19.398Z
-updated: 2024-05-20T14:20:19.398Z
+date: 2024-07-16T13:09:36.061Z
+updated: 2024-07-17T13:09:36.061Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Motorola Defy 2 Phone that is Locked?
 excerpt: This article describes How to Reset a Motorola Defy 2 Phone that is Locked?
 keywords: get into locked phone,Motorola Defy 2 password cracker tools,Motorola Defy 2 android pattern lock remover,Motorola Defy 2 lock screen apps for android,hack wifi password android,Motorola Defy 2 unlock android phone without pin,universal unlock pattern for android device,Motorola Defy 2 how to lock apps on android,easy pattern lock,android device manager unlock
-thumbnail: https://www.lifewire.com/thmb/kSmIkt41HTX2fBvFrYUa0wu300k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TikTok-vs-YouTube-a42ac0c72a4f4b1d9da8b7ae85b4205e.jpg
+thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1eb26d7f5f5a9a68662ceb542.jpg
 ---
 
 ## How to Reset a Motorola Defy 2 Phone that is Locked?
@@ -39,19 +39,28 @@ Resetting a locked Motorola Defy 2  phone through Google Find My Device presents
 
 **Step 2:** Upon successful login, a list of devices linked to your Google account will be displayed. Locate your locked Motorola Defy 2  phone from the list and select it. Select the "Erase Device" option from the left-hand panel, and it will trigger a remote factory reset for your locked phone.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on erase device](https://images.wondershare.com/drfone/article/2023/09/reset-a-motorola-phone-1.jpg)
 
 **Step 3:** A confirmation dialog will appear, prompting you to input your Google account password. Finally, click the "Erase" button to initiate the factory reset process.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to reset a Motorola Defy 2  phone that is locked without a password?
 
 In order to reset your Motorola Defy 2  phone without a password, you need to have a single software known as [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It's a powerful and versatile software tool designed to help you unlock your devices under various circumstances. Whether you've forgotten your device's password, PIN, pattern, or fingerprint, or you're dealing with a locked device due to a broken screen, Dr.Fone - Screen Unlock (Android) can assist you. In order to reset phone correctly, go through the steps given below:
 
 Before resetting your Motorola Defy 2  phone that is locked, you can install the [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) application on your Windows PC or Mac first.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Unlock Tool to Reset a Motorola Defy 2  Phone That Is Locked Without a Password!
 
@@ -72,23 +81,40 @@ First of all, launch the Dr.Fone Screen Unlock on your computer, and you will be
 
 Now, you need to connect your Motorola Defy 2  phone to the computer via a USB cable and select "Android" > "Unlock Android Screen." This particular step is an application for all the Android phones out there.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 3: Choose Device Model**
 
 Here you need to select the exact brand of your phone. In your case, you can just tap "Motorola Defy 2 ." The program then will start the process for the lock screen removal.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone advanced unlock 1](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 4: Unlock Screen**
 
 Go along with the instructions on the screen and remove all the settings of the Motorola Defy 2 device. Within a short while, the screen will be unlocked.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![unlock motorola phone successfully](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 After the entire process is completed, you can easily access your Motorola Defy 2  Phone without the need to enter your password. All the restrictions that were set properly to unlock will be removed so that you can use your phone as intended.
 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to reset a Motorola Defy 2  phone that is locked with a hard reset
 
 **Disclaimer:** Only perform this step if you are well accustomed to the Android recovery system or at least know your way around your Motorola Defy 2  phone.
@@ -111,6 +137,9 @@ Now, you need to press the Volume Down + Power button simultaneously until the M
 
 Now, press the Volume Down button to navigate to the Recovery Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset a motorola phone that is locked 3](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-3.jpg)
 
 **Step 4: Factory Reset**
@@ -145,10 +174,16 @@ Once you hit the option, you will be redirected to another page, where you need 
 
 Once you get everything right, this will bypass any password or pattern you once had put on your Phone. Just remember, you need to have a stable internet connection in order for the step to work seamlessly.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Tip: Are There Preventive Measures To Avoid Future Lockouts?
 
 Want to prevent future lockouts and ensure a smoother smartphone experience? Consider implementing the following preventive measures:
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Setting Up Alternative Lock Methods
 
 One way to avoid getting locked out of your Motorola Defy 2  phone is to set up alternative lock methods. In addition to PINs, passwords, and patterns, you can use biometric methods. These include fingerprint recognition or facial recognition if your device supports them. Such options provide convenient and secure ways to unlock your phone.
@@ -167,6 +202,9 @@ There is no point in arguing that looking through how to reset a Motorola Defy 2
 
 To our recommendation, we would suggest going through [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) so that you can make the entire process as seamless as possible. It is by far the easiest and most convenient process to work around. Neither less to say, there are a ton of video tutorials that can assist you in case you get stuck in the middle of the process.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Ultimate Guide to Motorola Defy 2 Pattern Lock Screen: Everything You Need to Know
 
 Do you want to revamp your phone’s pattern lock screen and give it a new life? Well, you are not the only one! Lots of Android users keep looking for numerous ways to change their screen lock pattern and make it more secure. After all, if your lock screen pattern is strong, then it will certainly keep an intruder away. In today’s world, our privacy is everything and we should take every needed measure to protect it. To help you do the same, we have come up with this informative guide. Read on and learn how to set up a strong pattern lock screen on your device and what to do if you have forgotten it.
@@ -185,12 +223,18 @@ Out of all the provided options for screen locks, pattern lock is mostly used du
 - 5\. This will provide a list of all the different kinds of locks that you can apply. Ideally, it would be password, pin, pattern, swipe, or none. In “Swipe”, you can unlock a device just by swiping the screen. Whereas, in pattern, pin, or password, you would be needed to provide the respective pattern/pin/password to unlock the Motorola Defy 2 device.
 - 6\. We recommend setting up a lock screen pattern instead. To do this, tap on the “Pattern” option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![setup android pattern lock screen-tap on the “Screen lock type” feature](https://images.wondershare.com/drfone/article/2017/09/15057379466607.jpg) ![setup android pattern lock screen- provide the respective pattern](https://images.wondershare.com/drfone/2020/15057379692063.jpg) ![setup android pattern lock screen-tap on the “Pattern” option](https://images.wondershare.com/drfone/article/2017/09/15057379835226.jpg)
 
 - 7\. From the next screen, you can simply draw any kind of pattern of your choice. Ideally, it should join at least 4 dots on the screen. We recommend using a strong screen lock pattern to provide unmatched security to your device.
 - 8\. Furthermore, you need to confirm your choice and provide the same pattern once again. Make sure that you draw the same pattern here.
 - 9\. Additionally, the interface will ask you to provide a security pin as well. In case if you will forget your pattern, then you can access your phone by taking the assistance of this pin.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![setup android pattern lock screen](https://images.wondershare.com/drfone/article/2017/09/15057380143598.jpg) ![setup android pattern lock screen-provide the same pattern](https://images.wondershare.com/drfone/article/2017/09/15057380317550.jpg) ![setup android pattern lock screen-provide a security pin](https://images.wondershare.com/drfone/article/2017/09/15057380506350.jpg)
 
 - 10\. Similarly, you would be required to confirm the pin as well to finish the setup.
@@ -206,7 +250,10 @@ Out of all the provided options, it is recommended to use [Dr.Fone - Screen Unlo
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 Remove 4 Types of Android Screen Lock without Data Loss
 
@@ -225,18 +272,27 @@ Your pattern lock is one of the most important security aspects on your device. 
 
 For your convenience, we have marked the dots as 1-9. This will help you know the exact sequence of the lock.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![android pattern lock idear 1](https://images.wondershare.com/drfone/article/2017/09/15057382355667.jpg)
 
 # 1
 
 8 > 7 > 4 > 3 > 5 > 9 > 6 > 2 > 1
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android pattern lock idear 2](https://images.wondershare.com/drfone/article/2017/09/15057385086356.jpg)
 
 # 2
 
 7 > 4 > 1 > 5 > 2 > 3 > 8 > 6
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android pattern lock idear 3](https://images.wondershare.com/drfone/article/2017/09/15057385333697.jpg)
 
 # 3
@@ -249,6 +305,9 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 7 > 4 > 2 > 3 > 1 > 5 > 9
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![android pattern lock idear 5](https://images.wondershare.com/drfone/article/2017/09/15057385873434.jpg)
 
 # 5
@@ -261,24 +320,36 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 8 > 4 > 1 > 5 > 9 > 6 > 2 > 3 > 7
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android pattern lock idear 6](https://images.wondershare.com/drfone/article/2017/09/15057386209876.jpg)
 
 # 7
 
 7 > 2 > 9 > 4 > 3 > 8 > 1 > 6 > 5
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![android pattern lock idear 7](https://images.wondershare.com/drfone/article/2017/09/15057386366638.jpg)
 
 # 8
 
 5 > 7 > 2 > 9 > 1 > 4 > 8 > 6 > 3
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android pattern lock idear 8](https://images.wondershare.com/drfone/article/2017/09/15057386529029.jpg)
 
 # 9
 
 1 > 5 > 9 > 4 > 8 > 2 > 6 > 3 > 7
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android pattern lock idear 9](https://images.wondershare.com/drfone/article/2017/09/15057386683110.jpg)
 
 # 10
@@ -293,6 +364,9 @@ Now when you know every essential thing about pattern lock screen on Android, yo
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 6 Solutions to Unlock Motorola Phones If You Forgot Password, PIN, Pattern
 
 Too many times, we forget the passcode of our smartphones, only to regret it later. Don't worry if you are facing the same issue. It happens to all of us at times. Fortunately, there are many ways to unlock an Android device even when you have **forgotten its password/pin/pattern lock**. This guide will teach you how to unlock Motorola phones if you forgot the password in five different ways. Read on and choose your preferred option if you forgot the password on your Motorola phone and move past every setback you face.
@@ -304,9 +378,15 @@ Too many times, we forget the passcode of our smartphones, only to regret it lat
 
 Among all the solutions we are going to introduce in this article, this is the easiest one. [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) can help you remove the lock screen of [some Motorola and Samsung devices](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) without any data loss. After the lock screen is removed, the phone will work like it's never been locked before, and all your data are there. Besides, you can use this tool to bypass the passcode on other Android phones, such as Huawei, Lenovo, Oneplus, etc. The only defect of Dr.Fone is that it will erase all the data beyond Samsung and Motorola after unlocking.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 Get into the Locked Motorola Phone within Minutes
 
@@ -329,6 +409,9 @@ Step 2. Connect your phone.
 
 Connect your Motorola phone to the computer using a USB cable. Click on **Unlock Android Screen** on Dr.Fone.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock lg phone - connect phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 Step 3. Select the phone model.
@@ -353,6 +436,9 @@ After your phone boot in download mode, click on Remove to start to remove the l
 
 For more detailed steps, please go to our guide on [unlocking Android phones with/without data loss](https://drfone.wondershare.com/guide/android-lock-screen-removal.html).
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 2: Unlock the Motorola Phone Using Android Device Manager (Need a Google account)
 
 This is probably the most convenient solution to set up a new lock for your Motorola device. With Android Device Manager, you can locate your device, ring it, erase its data, and even change its lock remotely. All you got to do is log in to the Motorola Defy 2 device Manager account using the credentials of your Google Account. Needless to say, your Motorola phone should be linked to your Google Account. Learn how to unlock the Motorola phone if forgot your password using Android Device Manager.
@@ -377,6 +463,9 @@ If your Motorola device runs on Android 4.4 and previous versions, then you can 
 
 - **Step 1.** Try bypassing the pattern lock at least 5 times. After all the failed attempts, you will get the option to either make an emergency call or choose the option of “**Forget pattern**”.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock lg forgot password - forgot pattern](https://images.wondershare.com/drfone/article/2017/03/14892203178747.jpg)
 
 - **Step 2.** Select the “Forget pattern” option and provide the correct credentials of your Google account to unlock your phone.
@@ -438,6 +527,9 @@ After making your device ready and downloading all the essential software on you
 
 - **Step 3.** If the above code doesn't work, try providing the code “ADB _shell rm /data/system/gesture. the key_” to it and follow the same drill.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![unlock lg forgot password - code](https://images.wondershare.com/drfone/article/2017/03/14892205424871.jpg)
 
 - **Step 4.** After restarting your device, if you still get a lock screen, then give a random password to bypass it.
@@ -462,3 +554,73 @@ You can choose a preferred option and rectify the issue whenever you [forgot the
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-climb-the-popularity-ladder-essential-youtube-seo-practices-uncovered/"><u>[New] 2024 Approved  Climb the Popularity Ladder  Essential YouTube SEO Practices Uncovered</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-essential-tips-for-a-novice-using-facebook-analytics/"><u>[New] 2024 Approved  Essential Tips for a Novice Using Facebook Analytics</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-boost-engagement-top-8-youtube-video-trackers-unveiled/"><u>[New] Boost Engagement - Top 8 YouTube Video Trackers Unveiled</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-traffic-ethically-youtubes-best-practices/"><u>[New] Elevate Your Traffic Ethically  YouTube's Best Practices</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-free-software-roundup-mac-compatible-tiktok-editors/"><u>[New] Free Software Roundup  Mac-Compatible TikTok Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hone-your-image-by-removing-surroundings/"><u>[New] Hone Your Image by Removing Surroundings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-internet-aid-social-story-recorder/"><u>[New] In 2024, Internet Aid  Social Story Recorder</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-learn-to-turn-videos-on-the-fly-using-vlc/"><u>[New] In 2024, Learn to Turn Videos on the Fly Using VLC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-delving-into-mr-beasts-economic-dominance/"><u>[Updated] In 2024, Delving Into Mr. Beast's Economic Dominance</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-best-choices-in-game-livestream-technology/"><u>2024 Approved  Best Choices in Game Livestream Technology</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-note-12r-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi Note 12R by Name | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-vivo-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Fingerprint Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-y55s-5g-2023-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-endless-creativity-discover-the-best-in-cheap-online-video-downloading-for-2024/"><u>Enjoy Endless Creativity  Discover the Best in Cheap, Online Video Downloading for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/essential-5-platforms-beyond-twitter-for-2024/"><u>Essential 5 Platforms Beyond Twitter for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/exploring-the-expanded-toolset-of-nero-waveedit/"><u>Exploring the Expanded Toolset of Nero WaveEdit</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo Pattern Lock Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-vivo-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo Face Lock?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-camon-20withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Camon 20with/without a PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/high-definition-screenshots-best-apps-for-w11w10-users-for-2024/"><u>High-Definition Screenshots  Best Apps for W11/W10 Users for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo Phone Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-20-proplus-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 20 Pro+?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-lock-screen-password-by-drfone-android/"><u>How To Change Vivo Lock Screen Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-easily-unlock-vivo-screen-by-drfone-android/"><u>How To Easily Unlock Vivo Screen?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-vivo-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo Lock Screen Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-vivo-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo Through Google Earth?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-y55s-5g-2023-easily-by-drfone-android/"><u>How To Unlock a Vivo Y55s 5G (2023) Easily?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-y55s-5g-2023-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo Y55s 5G (2023) Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-nokia-105-classic-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Nokia 105 Classic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-virtual-worlds-pcs-1-list-of-vr-360-game-streamers/"><u>In 2024, Explore Virtual Worlds  PC's #1 List of VR 360 Game Streamers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-tecno-pop-7-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Tecno Pop 7 Pro FRP</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-how-to-make-your-memoji-talk-get-creative-with-your-messaging/"><u>In 2024, How To Make Your Memoji Talk? Get Creative With Your Messaging</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-gt-10-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Infinix GT 10 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-best-voice-alteration-programs-for-vtubers/"><u>In 2024, Unveiling the Best Voice Alteration Programs for VTubers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/kinemaster-app-for-android-complete-review-2023/"><u>KineMaster App for Android - Complete Review 2023</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-vivo-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-zte-nubia-z60-ultra-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on ZTE Nubia Z60 Ultra – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-ditch-imovie-top-10-android-video-editors-you-should-try/"><u>New Ditch iMovie Top 10 Android Video Editors You Should Try</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo Phone Now with These Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/prime-routines-for-documenting-live-sports-events-for-2024/"><u>Prime Routines for Documenting Live Sports Events for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-soundscapes-of-success-building-youtube-playlists-with-precision-for-2024/"><u>The Soundscapes of Success  Building YouTube Playlists with Precision for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-guide-to-forming-your-instagram-company-identity/"><u>The Ultimate Guide to Forming Your Instagram Company Identity</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-potential-vr-innovations-for-fun-and-games-for-2024/"><u>Unleashing Potential  VR Innovations for Fun & Games for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-vivo-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-16-avi-trimmers-cut-and-edit-avi-files-with-ease-windows-mac-android/"><u>Updated 2024 Approved Best 16 AVI Trimmers Cut and Edit AVI Files with Ease Windows, MAC, Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/xbox-game-memories-save-them-with-screenshots-for-2024/"><u>Xbox Game Memories, Save Them with Screenshots for 2024</u></a></li>
+</ul></div>

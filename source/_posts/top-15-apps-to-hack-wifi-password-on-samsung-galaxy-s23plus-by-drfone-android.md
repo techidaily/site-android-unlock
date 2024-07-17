@@ -1,7 +1,7 @@
 ---
 title: Top 15 Apps To Hack WiFi Password On Samsung Galaxy S23+
-date: 2024-05-19T14:17:52.129Z
-updated: 2024-05-20T14:17:52.129Z
+date: 2024-07-16T09:12:49.647Z
+updated: 2024-07-17T09:12:49.647Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Top 15 Apps To Hack WiFi Password On Samsung Galaxy S23+
 excerpt: This article describes Top 15 Apps To Hack WiFi Password On Samsung Galaxy S23+
 keywords: android device password reset,find lost phone with google map,hard pattern lock,reset gmail password on android device,fingerprint lock app,easy pattern lock,hack wifi password android,Samsung Galaxy S23+ unlock apps for android,Samsung Galaxy S23+ how to unlock android phone,unlock,remove forgotten pin android
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## Top 15 Apps To Hack WiFi Password On Samsung Galaxy S23+
@@ -19,6 +19,9 @@ In today's fast-paced world, having a stable internet connection has become a ne
 
 ## Part 1: Wi-Fi Password Hacker Prank
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wifi password hacker prank](https://images.wondershare.com/drfone/article/2023/05/wifi-password-hacker-prank-logo.jpg)
 
 The [Wi-Fi Password Hacker Prank](https://play.google.com/store/apps/details?id=com.droid.developer.wifipassword&hl=en&gl=US) app is a fun tool for pranking friends and family. It does not **hack Wi-Fi password** but displays a fake password that cannot be used. This app is free of charge and easy to use, making it a great tool for pranking purposes. However, it is important to remember that this app is only for entertainment and should not be used for malicious purposes.
@@ -48,6 +51,9 @@ The [Wi-Fi Password Hacker Prank](https://play.google.com/store/apps/details?id=
 
 **Download link:** [https://play.google.com/store/apps/details?id=com.droid.developer.wifipassword&hl=en\_US&gl=US](https://play.google.com/store/apps/details?id=com.droid.developer.wifipassword&hl=en_US&gl=US)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Wi-Fi Password (ROOT)
 
 ![wifi password](https://images.wondershare.com/drfone/article/2023/05/wifi-password-root.jpg)
@@ -58,6 +64,9 @@ The app may not work with all networks and not with all types of networks (such 
 
 **Steps to usage:**
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wifi password](https://images.wondershare.com/drfone/article/2023/05/wifi-password-root-2.jpg)
 
 - **Step 1.** Root your device.
@@ -91,6 +100,9 @@ Only routers connected via a WPS router with few features are susceptible to hac
 
 **Steps to usage:**
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wfi wps wpa tester app](https://images.wondershare.com/drfone/article/2023/04/wifi-hacker-without-root-1.jpg)
 
 - **Step 1.** Download the app using the link given below from the Google Play Store.
@@ -116,7 +128,7 @@ Only routers connected via a WPS router with few features are susceptible to hac
 
 
 
-### [Dr.Fone - Password Manager (iOS)](https://drfone.wondershare.com/android-transfer.html)
+### Dr.Fone - Password Manager (iOS)
 
 Find Wifi Passwords on Your iPhone and iPad
 
@@ -137,6 +149,9 @@ One such program that has been Android-ported is the well-known Aircrack-ng secu
 
 **Steps to usage:**
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![aircrack ng](https://images.wondershare.com/drfone/article/2023/05/aircrack-ng.jpg)
 
 - **Step 1.** Utilize the link provided below to download the app from the Google Play Store.
@@ -161,6 +176,9 @@ One such program that has been Android-ported is the well-known Aircrack-ng secu
 
 ## Part 5: Wi-Fi WPS Connect
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wifi wps connect](https://images.wondershare.com/drfone/article/2023/05/wifi-wps-connect.jpg)
 
 [Wi-Fi WPS Connect](https://play.google.com/store/apps/details?id=teampro.wifi.wpsconnect&hl=en&gl=US) is a simple app for testing the security of a Wi-Fi network. The app is free of charge and easy to use, making it accessible to many users.
@@ -204,6 +222,9 @@ You must launch Kali's Wifite program in order to utilize this application for W
 
 **Steps to usage:**
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![kali nethunter](https://images.wondershare.com/drfone/article/2023/05/nethunter.jpg)
 
 - **Step 1.** Utilize the link provided below to download the app from the Google Play Store.
@@ -227,6 +248,9 @@ You must launch Kali's Wifite program in order to utilize this application for W
 
 ## Part 7: AndroDumpper
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![androdumpper app](https://images.wondershare.com/drfone/article/2023/04/wifi-hacker-without-root-6.jpg)
 
 Another app that uses WPS PINs to hack WiFi passwords, AndroDumpper is straightforward to use and has a user-friendly interface, making it a favorite amongst beginners.
@@ -235,6 +259,9 @@ It is easy to use and does not require any technical knowledge or skills. With A
 
 **Steps to usage:**
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ndrodumpper app](https://images.wondershare.com/drfone/article/2023/04/wifi-hacker-without-root-10.jpg)
 
 - **Step 1.** Download and install AndroDumpper from the Google Play Store or a trusted third-party app store.
@@ -272,6 +299,9 @@ It can only display the password and does not evaluate the security of a network
 
 **Steps to usage:**
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![router keygen](https://images.wondershare.com/drfone/article/2023/05/router-keygen.jpg)
 
 - **Step 1.** Utilize the following link to the Google Play Store to download the app.
@@ -293,8 +323,14 @@ It can only display the password and does not evaluate the security of a network
 
 **Download link:** [https://play.google.com/store/apps/details?id=io.github.routerkeygen&hl=en&gl=US](https://play.google.com/store/apps/details?id=io.github.routerkeygen&hl=en&gl=US)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 9: Arcai.com's Netcut
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![netcut](https://images.wondershare.com/drfone/article/2023/05/netcut.jpg)
 
 With the help of the program [Netcut](https://arcai.com/netcut-for-android/), you may disable a particular device's Internet access. You may remove unused users from your network by using a straightforward interface.
@@ -324,6 +360,9 @@ Other functions include showing device traffic, and network names, and recording
 
 **Download link:** [https://arcai.com/netcut-for-android/](https://arcai.com/netcut-for-android/)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 10: Nmap
 
 ![nmap](https://images.wondershare.com/drfone/article/2023/05/nmap-logo.png)
@@ -355,6 +394,9 @@ Nmap for Android is beneficial for both rooted and non-rooted Android smartphone
 
 **Download link:** [https://nmap.org/](https://nmap.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 11: dSploit
 
 ![dsploit](https://images.wondershare.com/drfone/article/2023/05/dsploit.jpg)
@@ -386,6 +428,9 @@ The tool's creators claim that this application offers the most comprehensive an
 
 **Download link:** [https://dsploit.en.softonic.com/](https://dsploit.en.softonic.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 12: WiFi Kill
 
 ![wifi kill](https://images.wondershare.com/drfone/article/2023/05/wifi-kill-logo.jpg)
@@ -427,6 +472,9 @@ The tool's creators claim that this application offers the most comprehensive an
 
 **Steps to usage:**
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wifi inspect](https://images.wondershare.com/drfone/article/2023/05/wifi-inspect.jpg)
 
 - **Step 1.** Download and install WiFi Inspect app on your Android device.
@@ -454,6 +502,9 @@ The tool's creators claim that this application offers the most comprehensive an
 
 ## Part 14: WiFi Analyzer
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![wifi inspector](https://images.wondershare.com/drfone/article/2023/05/wifi-analyzer.jpg)
 
 This [WiFi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer&hl=en&gl=US) app helps you find the best WiFi channels for your network, improving your signal strength and allowing you to hack passwords easily. This process involves using a WiFi analyzer app to scan for nearby wireless networks, analyze their signal strength, and identify potential vulnerabilities. The app then attempts to exploit these weaknesses and gain access to the network's password. While this approach may seem like an easy way to access a password-protected WiFi network, it is important to note that hacking into someone else's network without their permission is illegal and can lead to serious legal consequences.
@@ -485,6 +536,9 @@ This [WiFi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.w
 
 **Download link:** [https://play.google.com/store/apps/details?id=cz.webprovider.wifianalyzer](https://play.google.com/store/apps/details?id=cz.webprovider.wifianalyzer&hl=en&gl=US)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 15: WiFi Warden
 
 ![wifi inspector](https://images.wondershare.com/drfone/article/2023/05/wifi-warden-logo.jpg)
@@ -493,6 +547,9 @@ This [WiFi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.w
 
 **Steps to usage:**
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wifi inspector](https://images.wondershare.com/drfone/article/2023/05/wifi-warden.jpg)
 
 - **Step 1.** Download WiFi Warden from Google Play Store on your Android device.
@@ -531,8 +588,14 @@ Most of the time, we use Android phones, we get faced with the need to access th
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/78mNMIr_wpI"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Show Wifi Password on Rooted Android Device
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What is Rooting?
 
 First of all, what does rooting mean? You have probably used a Windows computer or even Linux. For the case of Windows, when installing a new program or software, it always prompts a dialog box saying, "Administrator permission required to run this program." If you don't have the administrator permission, you won't install the program. In Android, this is called rooting. In simple terms, it means having the root permission to your phone. Some Android apps will require you the root permission, e.g., flashing your ROM. In this part, we will explain how you can show the Wi-Fi password on your Android with root.
@@ -549,12 +612,18 @@ Step 1: Install the ES File Explorer
 
 Download the ES File Explorer from your play store, install it, and open it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556286507084.jpg)
 
 Step 2: Enable Root Explorer
 
 The root explorer needs to be enabled so that you can reach the root folders of the Wi-Fi passwords you need. By default, the root feature in this ES explorer is not enabled. To enable it, just tap on the list menu on the top left corner.:
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556292611536.jpg)
 
 This will drop down a list of controls. Scroll down and find the **Root Explorer** option and enable it.
@@ -565,6 +634,9 @@ Step 3: Get the passwords' file.
 
 Go back to ES file explorer, and this time, find the folder named **data**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556293412707.jpg)
 
 When this folder opens, find another one named **misc**. Open it and find another one named **wifi**. Here, find a file named **wpa\_supplicant.conf**.
@@ -579,10 +651,16 @@ Make sure that you don't edit anything in the file. You might mess up with impor
 
 As you can see above, we have found the Wi-Fi passwords on the android device. On each network profile, we have the name of the network represented by _name (ssid="{the name}")_, the network's password represented by _psk_, the network's access point represented by _key\_mgmt=WPA-PSK_ and its priority represented by _priority_.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Show Wifi Password on Android without Root
 
 What if I don't have root access to my Android, can I still see Android Wi-Fi password? The short answer is yes. However, this is a bit involving but simple. You don't need to be a computer guru to do it, but you need to have a computer and some internet access of course. The key thing is to find a way through which we can fetch the password file from the phone without using a root access protocol in the Android. This is made possible by some little programming insight using the Windows Command prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to show Wi-Fi password on Android without root
 
 Step 1: Access the Developer authority
@@ -595,12 +673,18 @@ Get your Android phone and go to settings. Scroll down and find "About phone." T
 
 Tap on this "build number" 5 to 6 times until a message pops up, saying, "You are now a developer".
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556303263992.jpg)
 
 Step 2: Enable the debugging.
 
 Go back to Settings. Scroll down for developer options. Turn on the button for "Android/USB debugging".
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556308665697.jpg)
 
 Step 3: Install ADB drivers.
@@ -613,6 +697,9 @@ Step 4: Test the ADB
 
 Here, we would like to test whether the ABD is working properly. To do this, connect your phone to the PC using a USB. In the command prompt, type **adb services** and then press enter. If it's working properly, you should see a device on this list.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556329984622.jpg)
 
 Step 5: Find the Android wifi password.
@@ -635,6 +722,9 @@ We've recently received many feedback and questions from users who want to use a
 
 ## Part 1: Common universal unlock pattern for Samsung Galaxy S23+
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![universal unlock pattern](https://images.wondershare.com/drfone/article/2021/12/universal-unlock-patterns.jpg)
 
 Today, many mobile phone users present a simple lock pattern that isn't particularly strong or difficult to detect. That is something that many of us are guilty of. Lock patterns were intended to take the place of traditional passwords, however, we frequently forgo security in favor of easier lock patterns. Let's look at some of the most frequent pattern locks in use today.
@@ -652,7 +742,7 @@ If you need to unlock a pin, pattern, password, fingerprint, or any other type o
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Android lock screen in 5 minutes
 
@@ -670,6 +760,9 @@ Remove Android lock screen in 5 minutes
 
 **Step 2**: Make sure your device is connected to the system. Select "Android" to continue, then click the "Unlock Android Screen" button once it has been recognized.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android screen 2](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 3**: On the next screen, choose the correct model and other information of your device.
@@ -678,6 +771,9 @@ Remove Android lock screen in 5 minutes
 
 **Step 4**: Now, turn your phone into download mode. Turn it off and simultaneously hit the Home, Power, and Volume Down keys. Then, on your device, hit the Volume Up key to enter Download Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android screen 4](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 **Step 5**: Relax while downloading the recovery software and completing the necessary steps to unlock your handset.
@@ -686,9 +782,12 @@ Remove Android lock screen in 5 minutes
 
 **Step 7**: When the process is finished, you will be alerted. Simply unplug your device and use it without a password or pattern lock.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android screen 7](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 3: Other ways to Unlock Pattern for Android
 
@@ -706,6 +805,9 @@ The first method is ADB, which stands for Android Debug Bridge. With the help of
 
 **Step 3**: Connect your Android to PC now. Before that, make sure to enable USB Debugging. If you don't know-how, simply head to the "Settings"> “About Phone” and tap on “Build Number” 7 times. This will enable the Developer's Options.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android screen 9](https://images.wondershare.com/drfone/article/2021/12/adb-2.jpg)
 
 **Step 4**: Now go to the Developer Options menu and turn on the USB Debugging.
@@ -732,6 +834,9 @@ It's one of the most straightforward ways to get past the lock screen. One thing
 
 **Step 4**: This will turn off the third-party lock screen for the time being. Clear the lock screen app's data, uninstall it, and then reboot to exit safe mode.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android screen 12](https://images.wondershare.com/drfone/article/2021/12/safe-mode-2.jpg)
 
 ### Way 3: Unlock Pattern Lock via Factory Reset
@@ -752,16 +857,25 @@ Please note that the Recovery mode method may vary from device to device. So ple
 
 **Step 4**: The phone will perform the factory reset. In a short while, restart your device and there will be no lock screen.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 4: Unlock Pattern Lock with Android Device Manager
 
 Android Device Manager unlocking is the second-best service for bypassing the Android lock screen on locked Android devices and tablets. Working on this service is quite straightforward, and it only works if the user has a Google account. This service is accessible and usable from any device or computer.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![unlock android screen 15](https://images.wondershare.com/drfone/article/2021/12/android-device-manager-1.jpg)
 
 There are a few things to keep in mind as you use this service to get around the lock screen. If the Android device is compatible, the Android Device Manager will connect it after a few tries. After it has been connected to the Samsung Galaxy S23+ device, we can begin by pressing the "Lock" button.
 
 After pressing the "Lock" button, a popup will appear, asking for a new password to replace the forgotten pin, pattern, or password.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![unlock android screen 16](https://images.wondershare.com/drfone/article/2021/12/android-device-manager-2.jpg)
 
 Type the new password once, then confirm it by typing it again. This will change the password in a few minutes and the new password can be used to unlock the Samsung Galaxy S23+ device.
@@ -778,6 +892,9 @@ If you use an older Android version, you can get rid of the **universal unlock p
 
 Enter the primary Gmail account and password you used to set up your Android smartphone after selecting the same. Then you must provide your Google account information. A new unlock pattern will be emailed to you by Google.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![aunlock android screen 18](https://images.wondershare.com/drfone/article/2021/12/forgot-pattern-2.jpg)
 
 ## Conclusion
@@ -803,3 +920,62 @@ Enter the primary Gmail account and password you used to set up your Android sma
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-audio-visual-transcript-maker/"><u>[New] 2024 Approved  Audio Visual Transcript Maker</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-comprehensive-review-by-inclusive-experts/"><u>[New] 2024 Approved  Comprehensive Review by Inclusive Experts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-find-your-vfx-match-top-8-sites-for-free-high-quality-green-screen-footage/"><u>[New] 2024 Approved  Find Your VFX Match - Top 8 Sites for FREE High Quality Green Screen Footage</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-best-twitter-video-downloaders-how-to-save-twitter-videos-for-2024/"><u>[New] Best Twitter Video Downloaders  How to Save Twitter Videos for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-maximizing-visibility-a-comprehensive-guide-to-yt-gaming-hashes/"><u>[New] Maximizing Visibility  A Comprehensive Guide to YT Gaming Hashes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-path-to-prominence-elevating-brands-with-telegram-strategies/"><u>[Updated] The Path to Prominence  Elevating Brands with Telegram Strategies</u></a></li>
+<li><a href="https://article-files.techidaily.com/13-creative-ways-to-save-and-store-online-audio-broadcasts/"><u>13 Creative Ways to Save and Store Online Audio Broadcasts</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-decoding-popular-themes-in-youtube-commentary/"><u>2024 Approved  Decoding Popular Themes in YouTube Commentary</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-poco-x5-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Poco X5</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/earn-on-youtube-decoding-recent-policy-changes-for-2024/"><u>Earn on YouTube  Decoding Recent Policy Changes for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-y56-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo Y56 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-y56-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo Y56 5G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-y56-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo Y56 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-y56-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y56 5G Fingerprint Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y56-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y56 5G?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-y56-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo Y56 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y56-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y56 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-y56-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo Y56 5G? Try These Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-y56-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo Y56 5G Face Lock?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-x-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone X</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-y56-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo Y56 5G Phone Screen?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y56-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo Y56 5G?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-y56-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo Y56 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-y56-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo Y56 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-y56-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo Y56 5G Lock Screen Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-y56-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo Y56 5G Phone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-apple-iphone-6s-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your Apple iPhone 6s and iPad</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-y56-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo Y56 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-y56-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo Y56 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y56-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo Y56 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y56-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y56 5G Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-y56-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo Y56 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y56-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y56 5G Through Google Earth?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-y56-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo Y56 5G Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y56-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y56 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y56-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y56 5G Phone without Google Account?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-y56-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo Y56 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y56-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo Y56 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y56-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y56 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-y56-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo Y56 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y56-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y56 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-y56-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo Y56 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-y56-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo Y56 5G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-vivo-y56-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo Y56 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-y56-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo Y56 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y56-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y56 5G Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-vivo-y56-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo Y56 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-y56-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y56 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/luts-simplified-your-guide-to-better-photos/"><u>LUTs Simplified  Your Guide to Better Photos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-photos-to-hollywood-style-videos-top-5-slideshow-creators/"><u>New From Photos to Hollywood-Style Videos Top 5 Slideshow Creators</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-top-rated-mp4-video-tag-editing-tools-for-windows-and-mac/"><u>New Top-Rated MP4 Video Tag Editing Tools for Windows and Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-and-convenient-video-edits-in-windows-11-photos-for-2024/"><u>Quick & Convenient Video Edits in Windows 11 Photos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-clip-sound-and-format-transformation-for-2024/"><u>Twitter Clip  Sound and Format Transformation for 2024</u></a></li>
+</ul></div>

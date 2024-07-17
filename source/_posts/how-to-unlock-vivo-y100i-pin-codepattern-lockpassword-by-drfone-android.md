@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Vivo Y100i PIN Code/Pattern Lock/Password
-date: 2024-04-04 10:10:28
-updated: 2024-04-05 12:23:54
+date: 2024-07-16T12:33:33.815Z
+updated: 2024-07-17T12:33:33.815Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Unlock Vivo Y100i PIN Code/Pattern Lock/Password
 excerpt: This article describes How to Unlock Vivo Y100i PIN Code/Pattern Lock/Password
 keywords: Vivo Y100i network unlock,Vivo Y100i vnrom bypass google account verification,Vivo Y100i reset locked android phone,unlock android device phone without password,Vivo Y100i smart lock android,password cracker tools,Vivo Y100i lock screen apps for android,Vivo Y100i swipe screen to unlock,Vivo Y100i top 10 frp bypass tools
-thumbnail: https://www.lifewire.com/thmb/0xgLnS3M6CP4FiP4I-VE1zFOiLo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-ps5-controller-on-your-pc-or-mac-5089439-b56739aa27bd48858200878a6b64f952.jpg
+thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
 ## How to Unlock Vivo Y100i  PIN Code/Pattern Lock/Password
@@ -19,6 +19,9 @@ _I have forgotten the pattern, PIN, or password needed to unlock my Vivo Y100i  
 
 If you have a Vivo Y100i  phone and have forgotten the screen unlock PIN code, pattern lock, or password, you can still access it using some tried and tested tricks and hacks. This article will discuss 5 different ways on how to unlock **Vivo Y100i  smartphone**. Some methods might work without erasing your data, while others, like factory resetting, may erase all content from your phone. Regardless of which method you use, you will be able to unlock your phone! So, let’s get started!
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. How to Unlock Vivo Y100i  With Google Find My Vivo Y100i?
 
 A way to unlock the Vivo Y100i  phone is via Google Find My Device feature. While this method can help unlock your phone, it erases all content from it.
@@ -27,16 +30,25 @@ For this method, you need a PC and your Google account details. Here are the ste
 
 **Step 1:** Open your browser and go to [Google Find My Device](https://www.google.com/android/find) on your PC.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![google account verification](https://images.wondershare.com/drfone/article/2022/05/google-account-verification.jpg)
 
 **Step 2:** Log in to the Google account you used to set up your Vivo Y100i  phone.
 
 **Step 3:** It will show you 3 options: Play Sound, Secure Device, and Erase Device.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find my device](https://images.wondershare.com/drfone/article/2022/05/google-find-my-device.jpg)
 
  And then select “**Erase Device.**”
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select erase data](https://images.wondershare.com/drfone/article/2022/05/select-erase-device.jpg)
 
 Selecting this option will erase all content from your device, including screen unlock PIN, password, and pattern.
@@ -45,19 +57,28 @@ Selecting this option will erase all content from your device, including screen 
 
 Use this method only if your phone is backed up so you can restore all your data later.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. How to Unlock Android device Using Lock Remove Tool?
 
 Another foolproof method on how to unlock Android pattern lock is by using a lock removal tool like [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/).
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/QWpE8NykOWc"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 Dr.Fone - Screen Unlock is a screen unlock tool that can unlock your Android phone if you forget its screen unlock PIN, password, or pattern in just 5 minutes. It has a simple operation that requires just a few clicks to unlock your phone screen. Plus, this method is reliable, secure, and has a high success rate. However, there’s a possibility that it might not work with older phone models.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 Unlock Android PIN Code/Pattern Lock/Password within Minutes
 
@@ -78,6 +99,9 @@ Here are the steps to unlock Android phone using Dr.Fone - Screen Unlock (Androi
 
 **Step 3:** A device brand will appear. Select your phone’s brand, i.e., Samsung.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 4:** Now, follow the instructions as you see to unlock your Android device.
@@ -86,6 +110,9 @@ Here are the steps to unlock Android phone using Dr.Fone - Screen Unlock (Androi
 
 Your phone is now unlocked, and you can access it without entering a PIN, password, or pattern.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android lock screen bypassed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 Now, if you don’t remember your Google account details and don’t have access to a PC to use a screen unlock tool, you can unlock Android phone using the conventional way.
@@ -114,6 +141,9 @@ Here's how to unlock the Vivo Y100i  pattern lock without losing data using your
 
 If you don't remember your Google account details, you can still unlock your Vivo Y100i  phone using a third-party tool.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Using Security Question
 
 Another way to unlock your Vivo Y100i  phone using Google is by answering the security question. When we set up our Google account, we usually choose a security question and an answer. This comes in handy if you want to recover your Google account, reset the password, or if you want to unlock your phone's screen.
@@ -125,6 +155,9 @@ For the latter, here are the steps:
 - **Step 3:** Click on “Unlock” after which you will be asked if you want to set a new PIN or pattern. Select “Yes.”
 - **Step 4:** Your Vivo Y100i  phone will be unlocked, and you can set a new PIN or pattern for your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Unlock Vivo Y100i  by Hard Reset?
 
 Hard resetting your smartphone usually solves everything! Hence, it can also help you unlock your Vivo Y100i  phone; however, using this method will erase all the data on your phone. So, if you still want to unlock Vivo Y100i  phone using this method, only do so if you have backed up your device and have no other way to unlock your phone. This includes forgetting your Google account details or not having access to a PC to download and use Dr Fone - Screen Unlock (Android).
@@ -148,6 +181,9 @@ If you've forgotten the screen lock of your Vivo Y100i  device, you can use Sony
 
 **Step 2:** Now, plug in your laptop to power, as the process will take some time, and choose "repair my phone/tablet." Here, agree to the warning that you will lose your data and click “Next” to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap repair my phone tablet](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-2.jpg)
 
 **Step 3:** Allow the program to download files to prepare for the update process and choose your Vivo Y100i  model. Click “Next” and connect your Vivo Y100i  to the PC. Ensure that the phone is turned off, and press and hold the "Volume Down" button when connecting the cable to the phone.
@@ -158,6 +194,9 @@ If you've forgotten the screen lock of your Vivo Y100i  device, you can use Sony
 
 ![updating the xiaomi device](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Remove Operator Lock on Vivo Y100i ?
 
 An operator lock, also called a carrier lock, constitutes a limitation imposed on a mobile phone by a network provider. This measure is implemented to guarantee that the Vivo Y100i device exclusively functions with the services provided by that specific carrier. If you wish to remove the operator lock from your Vivo Y100i  device, you'll need to follow specific steps and meet certain criteria. Here's how to remove the operator lock on a Vivo Y100i :
@@ -174,6 +213,9 @@ An operator lock, also called a carrier lock, constitutes a limitation imposed o
 
 ![enter the sim unlock code](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Tip: How to Unlock Bootloader?
 
 Unlocking the bootloader on your Android device provides significant advantages. These actions encompass obtaining root access, installing custom ROMs, configuring custom recoveries, and carrying out advanced procedures. Here's an essential guide on unlocking the bootloader of your Sony device while keeping all precautions in mind:
@@ -204,8 +246,14 @@ While this voice-unlocking feature is no longer available, there are still many 
 
 Let's dig deeper into how you can **use Google Assistant on the lock screen** and make the most out of this tool in the following article.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How to use Google Assistant](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. What You Can Do With Voice Google Assistant
 
 Google Assistant is a virtual assistant powered by artificial intelligence (AI) developed by tech giant Google. This application is readily available on most recent mobile phone models, especially those operating on Android 6.0 and newer versions.
@@ -219,6 +267,9 @@ Although you can no longer use the **Google Assistant unlock** feature, you can 
 - Making a call
 - Asking Google for information, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Enable Google Assistant on Lock Screen: A Step-by-Step Guide
 
 Now that you're eager to try the potential of Google Assistant on your lock screen, let's walk through the simple steps on how to enable this tool.
@@ -261,6 +312,9 @@ When you can still **unlock with Google Assistant**, you can ask it to “unlock
 
 Google Assistant will then provide spoken responses and display relevant information on the lock screen. For instance, if you ask for the weather, it might verbally provide the current conditions and display a brief summary on your lock screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Using Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-3.jpg)
 
 ## Part 3. Common Problems When Using Google Assistant
@@ -301,6 +355,9 @@ Ensure that your device's microphone is in good working condition. Dirt or debri
 
 Background noise can interfere with voice recognition. Try to issue commands in a quiet environment to minimize any potential confusion caused by external sounds.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. How to Unlock Android Phone Screen Without Passcode
 
 Now, you know that you can't **unlock phone via Google Assistant** anymore. But what if you accidentally [<u>forget your phone’s passcode</u>](https://drfone.wondershare.com/unlock/forgot-android-password.html)? Is there a reliable method to regain access to your Android device without the passcode?
@@ -309,7 +366,7 @@ Fortunately, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondersha
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best UnlockJunky Alternative to Solve Your Screen Locks
 
@@ -356,6 +413,9 @@ Type "000000" continue by clicking Confirm.
 
 Dr.Fone will then guide you to put your Android device into Download Mode according to the model you have identified. After you have followed the instructions, Dr.Fone will automatically lead to the next screen to proceed the unlocking process.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Follow instructions to put Android in Download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 After that, you can monitor the progress and wait for a few minutes until it shows “Unlocked successfully.”
@@ -384,6 +444,9 @@ To this day, it is known that Gmail accounts can be removed with or without a pa
 
 ![deleting gmail account permanently](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Synopsis: Things To Know Before Deleting Gmail Account
 
 Although the process of deleting a Gmail account sounds basic, there are many pointers connected to it. For that, this part is putting up a discussion on the important things that a user should know before they **delete their Gmail account permanently:**
@@ -393,6 +456,9 @@ Although the process of deleting a Gmail account sounds basic, there are many po
 - **Access to Other Services:** Although you are deleting your Gmail account, you can still access Google Photos, Google Drive, and other services.
 - **Lookout For Emails:** Ensure that the emails in your account are saved. You can easily download them anywhere before deleting the Gmail account.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2. Delete Your Gmail Account Using Your Password: Desktop Solution
 
 For the first method, we will discuss **how to delete a Google account** with your password. You will use your computer for this process and access the [Google Account](https://myaccount.google.com/) services. The service helps you save all your essential Gmail data before you remove it. To understand how it makes it possible, look through the steps provided below:
@@ -421,6 +487,9 @@ For the first method, we will discuss **how to delete a Google account** with yo
 
 If you use a smartphone device and want to delete your Gmail account from that particular device, you are at the right place. The following methods will help you understand **how to delete Gmail** from your Android and iOS devices:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Android Devices
 
 - **Step 1.** Look for “Settings” on your Android and continue to the “Accounts & sync” option in the list. As you proceed into the next window, look for the Google account and select it.
@@ -429,12 +498,18 @@ If you use a smartphone device and want to delete your Gmail account from that p
 
 - **Step 2.** Select the "More" option at the bottom on the following screen. Choose the "Remove account" option in the pop-up menu and provide your credentials to execute the deletion of your Gmail account.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![remove gmail account android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-8.jpg)
 
 ### iOS Devices
 
 - **Step 1.** Open your iPhone's "Settings" app and scroll down to the "Mail" option. You will find the "Accounts" option on the following screen, which you need to tap to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open signed in accounts apple](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-9.jpg)
 
 - **Step 2.** Discover the option of "Gmail" in the list of signed-in accounts and continue to the next screen. Select "Delete Account" to remove the account from your iOS device.
@@ -445,6 +520,9 @@ If you use a smartphone device and want to delete your Gmail account from that p
 
 What if you've [forgotten the password](https://drfone.wondershare.com/app-password/find-gmail-password.html) to your smartphone device, and you have to **delete your Gmail account permanently?** In such cases, you are left with the option of accessing the Vivo Y100i device’s Recovery Mode and factory resetting the Vivo Y100i device, where possible. To know how it is done flawlessly, look through the steps provided next:
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Android Devices
 
 - **Step 1.** Those owning an Android device need to put it in Recovery Mode first. For that, use the combination of the "Power" and "Volume" keys to put the Vivo Y100i device in Recovery Mode.
@@ -457,8 +535,14 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 - **Step 3.** Select "Factory data reset" on the next screen and confirm that factory reset your Android device successfully. The device automatically gets out of Recovery Mode and starts normally after resetting.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm factory reset android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### iOS Devices
 
 - **Step 1.** You need to turn on Finder if you own a macOS Catalina or later device. Conversely, use iTunes if you have a macOS Mojave or earlier version or if you are using Windows. Connect your iPhone to the computer using the lightning cable and put it in Recovery Mode.
@@ -469,25 +553,40 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 - **For iPhone 7 Models:** Hold the “Side” and “Volume Down” button until the Recovery Mode screen appears.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recovery mode iphone 7 models](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-15.jpg)
 
 - **For iPhone 6 and Earlier Models:** Hold the "Side" and "Home" buttons simultaneously until the Recovery Mode screen appears.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![recovery mode iphone 6 or earlier](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-16.jpg)
 
 - **Step 2.** The device automatically gets detected on Finder/iTunes, and a pop-up appears on the screen. Click "Restore" to reset your iOS device to factory settings.
 
 ![restore ios device](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5. Remove Gmail Account From Device Without Password: Using Wondershare Dr.Fone
 
 While you seek some appropriate way **to close a Gmail account** from a device whose password you’ve forgotten, you might get into Wondershare Dr.Fone. This all-in-one service offers a unique Screen Unlock feature that helps you restore your device. If you have forgotten the lock screen password of your Android device, Dr.Fone – Screen Unlock (Android) makes it exceptionally easy to recover.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Features of Wondershare Dr.Fone
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
@@ -504,6 +603,9 @@ Whether it is your latest Samsung or other Android smartphone, the process is ea
 2. Provides support to the latest Android devices, along with all mainstream brands.
 3. You can recover your device with and without data loss, according to your discretion.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps To Remove Google Account While Removing Screen Lock
 
 The following steps highlight the way to remove screen lock from your Android device, which would also cover removing the Google Account automatically:
@@ -546,3 +648,59 @@ This article has specifically provided you with some important details on **how 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-android-recording-at-your-fingertips-explore-our-top-8-free-choices/"><u>[New] 2024 Approved  Android Recording at Your Fingertips – Explore Our Top 8 Free Choices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-command-attention-elevating-your-page-to-the-social-summit/"><u>[New] Command Attention  Elevating Your Page to the Social Summit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterful-blur-techniques-for-personal-privacy-in-imagery/"><u>[New] Masterful Blur Techniques for Personal Privacy in Imagery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-radial-magic-transforming-ordinary-photos-into-art/"><u>[New] Radial Magic  Transforming Ordinary Photos Into Art</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-sharpsight-screen-snag-report/"><u>[Updated] 2024 Approved  SharpSight Screen Snag Report</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-visual-impact-strategic-planning-for-viral-video-campaigns-for-2024/"><u>[Updated] Instagram Visual Impact  Strategic Planning for Viral Video Campaigns for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-economical-360-cameras-for-quality-videography/"><u>2024 Approved  Economical 360° Cameras for Quality Videography</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-tapping-into-the-digital-fortune-filmmoras-role-in-tiktok-success/"><u>2024 Approved  Tapping Into the Digital Fortune  Filmmora's Role in TikTok Success</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/achieve-professional-looking-motion-blur-with-just-a-few-steps-in-photoshop-for-2024/"><u>Achieve Professional-Looking Motion Blur with Just a Few Steps in Photoshop for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-interactive-boundaries-the-vision-of-mixed-reality/"><u>Exploring Interactive Boundaries  The Vision of Mixed Reality</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-se-2020-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone SE (2020) with iTunes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-htc-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On HTC Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-htc-u23-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On HTC U23 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-htc-u23-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On HTC U23 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-huawei-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Huawei Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-huawei-nova-y71-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Huawei Nova Y71 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-huawei-nova-y91-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Huawei Nova Y91 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-huawei-p60-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Huawei P60 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-agni-2-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Agni 2 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-blaze-2-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Blaze 2 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-blaze-2-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Blaze 2 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-blaze-2-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Blaze 2 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-blaze-curve-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Blaze Curve 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-blaze-pro-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Blaze Pro 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-storm-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Storm 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-yuva-2-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Yuva 2 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-yuva-2-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Yuva 2 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-yuva-3-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Yuva 3 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-yuva-3-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Yuva 3 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lenovo-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lenovo Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lenovo-thinkphone-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lenovo ThinkPhone Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-meizu-21-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Meizu 21 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-meizu-21-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Meizu 21 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-meizu-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Meizu Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-defy-2-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Defy 2 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-edge-40-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Edge 40 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-edge-40-neo-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Edge 40 Neo Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-edge-40-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Edge 40 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-g54-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola G54 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-moto-e13-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Moto E13 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-moto-g-5g-2023-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Moto G 5G (2023) Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-moto-g-stylus-2023-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Moto G Stylus (2023) Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-12-mini-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 12 mini for Free? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/iphone-13-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>iPhone 13 Pro iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-nokia-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Nokia Device</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-aria-elimination-kit-compose-one-of-a-kind-background-scores/"><u>Updated In 2024, Aria Elimination Kit Compose One-of-a-Kind Background Scores</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-tool/"><u>What Is an AI Tool?</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-oneplus-12-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My OnePlus 12 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>

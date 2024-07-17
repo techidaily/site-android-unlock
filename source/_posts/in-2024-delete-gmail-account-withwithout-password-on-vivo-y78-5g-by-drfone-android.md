@@ -1,7 +1,7 @@
 ---
 title: In 2024, Delete Gmail Account With/Without Password On Vivo Y78 5G
-date: 2024-04-04 11:28:21
-updated: 2024-04-05 14:22:52
+date: 2024-07-16T11:28:05.390Z
+updated: 2024-07-17T11:28:05.390Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Delete Gmail Account With/Without Password On Vivo Y78 5G
 excerpt: This article describes Delete Gmail Account With/Without Password On Vivo Y78 5G
 keywords: Vivo Y78 5G android device manager unlock,Vivo Y78 5G pattern lock,android device emergency call bypass,rootjunky frp bypass,Vivo Y78 5G bypass lock screen password,Vivo Y78 5G change android lock screen,Vivo Y78 5G delete gmail account with without password,techeligible frp bypass,unlock android device phone with broken screen
-thumbnail: https://www.lifewire.com/thmb/mQGqL0eWRfBieVMGM5ZlJAtwh3c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-mobile-boarding-pass-eb61458058f44011ad7ed012566127e4.jpg
+thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9ade996e1956601a5424d0a8.jpg
 ---
 
 ## Delete Gmail Account With/Without Password On Vivo Y78 5G
@@ -44,10 +44,16 @@ For the first method, we will discuss **how to delete a Google account** with yo
 
 - **Step 3.** You will be led to a new screen where you need to provide your password credentials again. On successfully providing your password, look for the “Gmail” option on the next screen. Click the “Trash” icon to continue deleting the Gmail account.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select gmail to delete](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-4.jpg)
 
 - **Step 4.** A new pop-up window opens, demanding another email address that can help connect to other Google services. Provide the email address and continue to click "[Send verification email](https://drfone.wondershare.com/factory-reset-protection/bypass-gmail-phone-verification.html) ." The Gmail account won't be deleted until the user verifies the email sent to the new address.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![provide alternative email address](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-5.jpg)
 
 - **Step 5.** For those who want to save their email data, look for the "Download your data" option in the same window. This leads you to the Google Takeout window, where you need to select the data to include. After selecting the data, define the file type, frequency, and destination for exporting all important data.
@@ -58,6 +64,9 @@ For the first method, we will discuss **how to delete a Google account** with yo
 
 If you use a smartphone device and want to delete your Gmail account from that particular device, you are at the right place. The following methods will help you understand **how to delete Gmail** from your Android and iOS devices:
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Android Devices
 
 - **Step 1.** Look for “Settings” on your Android and continue to the “Accounts & sync” option in the list. As you proceed into the next window, look for the Google account and select it.
@@ -94,6 +103,9 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 - **Step 3.** Select "Factory data reset" on the next screen and confirm that factory reset your Android device successfully. The device automatically gets out of Recovery Mode and starts normally after resetting.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm factory reset android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-13.jpg)
 
 ### iOS Devices
@@ -106,10 +118,16 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 - **For iPhone 7 Models:** Hold the “Side” and “Volume Down” button until the Recovery Mode screen appears.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![recovery mode iphone 7 models](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-15.jpg)
 
 - **For iPhone 6 and Earlier Models:** Hold the "Side" and "Home" buttons simultaneously until the Recovery Mode screen appears.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recovery mode iphone 6 or earlier](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-16.jpg)
 
 - **Step 2.** The device automatically gets detected on Finder/iTunes, and a pop-up appears on the screen. Click "Restore" to reset your iOS device to factory settings.
@@ -124,7 +142,10 @@ While you seek some appropriate way **to close a Gmail account** from a device w
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
@@ -141,6 +162,9 @@ Whether it is your latest Samsung or other Android smartphone, the process is ea
 2. Provides support to the latest Android devices, along with all mainstream brands.
 3. You can recover your device with and without data loss, according to your discretion.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps To Remove Google Account While Removing Screen Lock
 
 The following steps highlight the way to remove screen lock from your Android device, which would also cover removing the Google Account automatically:
@@ -149,6 +173,18 @@ The following steps highlight the way to remove screen lock from your Android de
 
 To start with the process, launch Dr.Fone on your computer and navigate to the "Toolbox" section. Proceed to the "Screen Unlock" feature, which opens a new window. After selecting "Android" as your device type, select "Unlock Android Screen" from the available options.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select to unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 
@@ -156,6 +192,9 @@ To start with the process, launch Dr.Fone on your computer and navigate to the "
 
 As you direct into the next window, select the brand of your Android device. Continue to select “100% Remove Screen Lock” from the following window.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![perform advanced screen lock](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
 
 - **Step 3. Follow the Instructions and Successfully Remove the Screen Lock**
@@ -168,6 +207,9 @@ According to your selected device brand, Dr.Fone provides guidelines for enterin
 
 This article has specifically provided you with some important details on **how to delete a Gmail account** with ease. The article explains everything from the methods of deleting it from the computer to removing it from the Vivo Y78 5G device. Furthermore, it also serves as a guidance for those who have forgotten their device passwords. For that, they've provided an insight into Wondershare Dr.Fone – Screen Unlock and its unique functions.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Enable USB Debugging on a Locked Vivo Y78 5G Phone
 
 Unlocking your Android’s potential goes beyond its surface features. Understanding USB debugging is key to troubleshooting and maximizing your device’s capabilities. In simple terms, USB debugging allows deeper access to your phone’s functionalities, aiding in software development and data recovery.
@@ -176,10 +218,16 @@ However, enabling USB debugging becomes crucial yet challenging when your phone 
 
 ![allow usb debugging](https://images.wondershare.com/drfone/article/2024/01/enable-usb-debugging-locked-phone-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part I. Challenges in Enabling USB Debugging on a Locked Android Phone
 
 USB debugging is a nifty tool that lets you peek behind the scenes of your Android phone’s software. It’s like having a secret key that unlocks deeper access to your device, enabling tasks like software tweaking, app testing, and even data recovery.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![usb debugging android](https://images.wondershare.com/drfone/article/2024/01/enable-usb-debugging-locked-phone-02.jpg)
 
 ### Challenges in Enabling USB Debugging on a Locked Phone
@@ -205,6 +253,18 @@ This section outlines the traditional method of enabling USB debugging on an And
 - **Step 1:** Unlock your device**.** If needed, enter your phone’s passcode or pattern to gain access to the **Settings**.
 - **Step 2:** Go to **Settings**, scroll down to **About Phone**, and tap on **Build number** seven or eight times to unlock the **Developer Options**.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android developer options](https://images.wondershare.com/drfone/article/2024/01/enable-usb-debugging-locked-phone-03.jpg)
 
 **Step 3:** Once unlocked, return to **Setting**s, find **Developer Options** (usually at the bottom), and enter the menu. Enable USB Debugging by tapping **OK** once the **Allow USB Debugging?** message appears.
@@ -217,6 +277,9 @@ However, what if your phone remains locked, making these steps impossible? Such 
 
 Enabling USB debugging on a locked phone can feel like navigating a maze with no clear exit. Sometimes, despite your best efforts, the traditional method fails to grant access. Fret not! There’s a smoother path that unlocks your phone and eases the USB debugging hurdle.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ### Why Unlocking First Makes Sense
@@ -245,10 +308,16 @@ Below are the steps on how you can unlock your Android device using Dr.Fone:
 
 - **Step 2:** Once prompted, choose **Android** to unlock your Android screen lock. On the following screen, you’ll see two options; choose **Unlock Android Screen**.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 3:** After that, you’ll be taken to a new screen where you can choose the brand of your mobile device.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone screen unlock select device brand](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 - **Step 4:** Once done, click the **Remove without Data Loss** button from the two options presented on the screen.
@@ -257,6 +326,9 @@ Below are the steps on how you can unlock your Android device using Dr.Fone:
 
 - **Step 5:** Unlocking the Android screen requires choosing the **Brand**, **Device Name**, and **Device Model** next. Enable the option that says **I agree with the warning, and I am ready to proceed** by clicking the corresponding checkbox. To proceed with unlocking the screen, click **Next**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![drfone choose device model](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-2.png)
 
 - **Step 6:** Type **000000** when asked to confirm the process. After entering the code, click **Confirm** to run the program.
@@ -265,6 +337,9 @@ Below are the steps on how you can unlock your Android device using Dr.Fone:
 
 - **Step 7:** Once you’ve recognized your Android device’s model, Dr. Fone will walk you through entering **Download Mode**. Following the on-screen prompts will take you directly to the next screen. It then depicts the progress of the screen unlocking procedure, in which the platform’s required drivers and configuration files are downloaded.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![drfone enter download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 - **Step 8:** A new screen will appear, indicating the process has been completed. Click **Done** if your device’s screen unlock issue has been successfully fixed. If not, click the **Try Again** button.
@@ -279,6 +354,9 @@ Dr.Fone – Screen Unlock (Android) acts as your trusty guide, leading you throu
 
 [<u>The Best Android Unlock Software of 2024</u>](https://drfone.wondershare.com/sim-unlock/android-unlock-software.html)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In face of locked screens, USB debugging is a beacon of access and troubleshooting for your Android device. Remember, enabling USB debugging on a locked phone is crucial, opening doors to unforeseen solutions. However, what if you want to **enable USB debugging on locked phones,** but the process gets messy?
@@ -293,17 +371,23 @@ The device becomes inaccessible and requires an Android password reset. But ther
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yjlTG2d0gSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Solution 1: Dr.Fone - Screen Unlock (Android): A Direct Way to Unlock the Phone
 
 Using [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is a direct way to Android reset the password and unlock the phone. There is no tension of data loss, and this [phone unlocking software](https://drfone.wondershare.com/sim-unlock/android-unlock-software.html) works for different lock systems. It can reset the Android password, pattern, PIN, and fingerprint lock in under 5 minutes. It is straightforward to operate and does not require any technical knowledge.
 
-Wondershare offers you 100% security as it only authorizes you access. It is simple and user-friendly and keeps all the data on the Android device ( Samsung and LG only) intact.
+Wondershare offers you 100% security as it only authorizes you access. It is simple and user-friendly and keeps all the data on the Android device (Samsung and LG only) intact.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Android Phones Within Minutes
 
@@ -314,16 +398,25 @@ Get into Locked Android Phones Within Minutes
 
 **4,008,669** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### How to reset an Android phone password with Dr.Fone - Screen Unlock (Android)
 
 **Step 1: Select "Screen Unlock"**
 
 Open the program. After that, select and click on "Screen Unlock" on the right side of the window. With this option, you can Android reset your password and remove the lock screen of PIN, password, pattern, and fingerprints.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Now get the Android phone connected to the PC and select the Vivo Y78 5G device model in the list to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 2: Activate download mode**
@@ -334,6 +427,9 @@ You have to put your device into download mode. For that, follow the instruction
 - 2\. Tap and keep holding the volume decrease button along with the power and home button simultaneously
 - 3\. Now tap the volume increase button to initiate download mode
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 **Step 3: Download the recovery package**
@@ -351,6 +447,9 @@ Soon the recovery package finishes downloading. Then the program begins to remov
 These simple steps will ensure that you can secure your Android lock screen easily, without any worries. You do not have to worry about data loss, and you will reset your Android phone. Even if you have forgotten your Android password and are thinking about starting your Android phone again, these simple tips will help.
 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 2: How to reset Android Phone Password with Smart Lock?
 
 Setting up Smart Lock on your Android device adds a convenient and straightforward method for unlocking your screen. Smart Lock provides different alternatives to bypass the lock screen based on specific situations.
@@ -377,6 +476,9 @@ Unlocking an Android phone using SmartThings is an option available for Samsung 
 
 ![unlock your samsung device](https://images.wondershare.com/drfone/article/2023/12/how-to-reset-your-android-lock-screen-password-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 4: How to Reset Android Password using Google？
 
 To reset the Android password using Google, it is necessary to remember the Google password and ID. Google account must also be activated on the phone. Also, this method only works on devices running Android 4.4 or below. Follow the steps below for the Android password reset.
@@ -385,6 +487,9 @@ To reset the Android password using Google, it is necessary to remember the Goog
 
 Enter the wrong password 5 times till the Android device gives you a "Forgot password?" prompt. Click on the tab and choose "Enter Google Account details."
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![uReset your Android Lock Screen Password](https://images.wondershare.com/drfone/others/reset-lock-screen-password-1.jpg)
 
 **Step 2: Enter credentials and do an Android reset password**
@@ -399,6 +504,9 @@ Familiar with Android Device Manager? Well, it has been renamed now as Find My D
 
 **Instructions.** On a computer or another device, go to the “[Google Find My Device](https://www.google.com/android/find/)” website. Here, sign in using your Google account linked to the locked Android device. Once you've logged in, the website will present a map revealing the most recent location of your device. Next, navigate to the left side and select "Erase Device." Follow the prompts on the screen to finalize the process.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase all device data](https://images.wondershare.com/drfone/article/2023/12/how-to-reset-your-android-lock-screen-password-5.jpg)
 
 ## Solution 6: How to reset Android Phone Password using Factory Reset?
@@ -415,12 +523,18 @@ Turn your Android device off. Press and hold the power button + home button + vo
 
 Now use the volume +/- button to navigate to the "Wipe Data / Factory Reset" option and press the power button to select it. Wait till the process complete.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![uReset your Android Lock Screen Password](https://images.wondershare.com/drfone/others/reset-lock-screen-password-4.jpg)
 
 **Step 3: Reboot and reset the password.**
 
 From the available options, choose "Reboot System Now." After the Android device powers on, you will be able to do the Android password reset.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Part: Useful Tips to Prevent Future Lockouts on Android
 
 Here are some helpful tips to prevent future lockouts on your Android device and ensure better password management.
@@ -431,6 +545,9 @@ Here are some helpful tips to prevent future lockouts on your Android device and
 - **4\. Enable Two-Factor Authentication (2FA)**: Enable two-factor authentication whenever possible for your accounts. Likewise, this provides an added layer of security by requiring a secondary verification method. It could be a text message code or authentication app in addition to your password.
 - **5\. Regularly Back Up Your Data**: Make it a habit to consistently [back up your device data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). To prevent potential data loss from forgotten passwords or unexpected issues, take precautions. Safeguard your crucial data by creating backups, whether in the cloud or on an external storage device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article guided all the possible ways available in 2024 to reset your Android lock screen password, such as using the Smart Lock, Google Find My, Samsung SmartThings, and Wondershare Dr.Fone - Screen Unlock (Android). The most recommended method out of these methods is Dr.Fone because it can handle all Android brands without restrictions.
@@ -454,3 +571,69 @@ On the other hand, other methods have their limitations. For example, SmartThing
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-essence-of-elegance-premium-filters-for-your-snap/"><u>[New] 2024 Approved  The Essence of Elegance  Premium Filters for Your Snap</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-beyond-the-hype-facebooks-most-critical-24-trends/"><u>[New] Beyond the Hype – Facebook's Most Critical '24 Trends</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-captivate-viewers-create-success-a-strategy-for-gamers-channels-for-2024/"><u>[New] Captivate Viewers, Create Success  A Strategy for Gamers' Channels for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ideal-choices-the-very-best-6-video-grabber-tools-for-2024/"><u>[New] Ideal Choices  The Very Best 6 Video Grabber Tools for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-premier-12-screen-recording-solutions-uncapped-recording/"><u>[New] In 2024, Premier 12 Screen Recording Solutions - Uncapped Recording</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-periscope-users-handbook/"><u>[New] The Complete Periscope User's Handbook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-gamers-blueprint-techniques-to-record-virtual-realms/"><u>[New] The Gamer's Blueprint  Techniques to Record Virtual Realms</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-theme-wizards-at-work-bestdiscords-top-picks/"><u>[New] Theme Wizards at Work  BestDiscord’s Top Picks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-tips-and-tricks-voice-overseas-that-elevate-your-film-projects/"><u>[New] Tips & Tricks  Voice Overseas That Elevate Your Film Projects</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-become-a-filter-fanatic-with-these-top-10-tiktok-additions/"><u>[Updated] 2024 Approved  Become a Filter Fanatic with These Top 10 TikTok Additions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-savory-screens-culinary-content-creation-for-2024/"><u>[Updated] Savory Screens  Culinary Content Creation for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-funimate-simplified-your-compreayer-guide/"><u>2024 Approved  Funimate Simplified  Your Compreayer Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-manycam-review-is-there-a-better-alternative/"><u>2024 Approved  ManyCam Review  Is There A Better Alternative?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-streamline-screen-recording-processes-during-facetime/"><u>2024 Approved  Streamline Screen-Recording Processes During FaceTime</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-vivo-v27e-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo V27e Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/boost-traffic-elevate-rankings-essential-youtube-seo-for-2024/"><u>Boost Traffic, Elevate Rankings - Essential YouTube SEO for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/comedy-gold-twitters-hottest-jokes/"><u>Comedy Gold  Twitter's Hottest Jokes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-v27e-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo V27e</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-13-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 13 Lock Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-vivo-v27e-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo V27e Lock Screen Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-v27e-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo V27e Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-v27-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo V27 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-v27-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo V27 Pro Unlock Without Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-v27-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo V27 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-13-pro-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone 13 Pro? Find the Best Solution Here</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-v27-pro-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo V27 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-v27-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo V27 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-v27-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo V27 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-v27-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo V27 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-v27-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo V27 Pro?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-v27-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo V27 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-v27-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo V27 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-v27-pro-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo V27 Pro Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-v27-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo V27 Pro Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-v27-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo V27 Pro Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-vivo-v27-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo V27 Pro Easily?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27 Pro Bootloader Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27-pro-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo V27 Pro Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27 Pro Phone without PIN</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-v27-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo V27 Pro Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-v27-pro-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo V27 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-v27-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo V27 Pro</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-echo-eradicator-recording-room-reduction/"><u>In 2024, The Echo Eradicator  Recording Room Reduction</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-v27-pro-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo V27 Pro Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-vivo-v27-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo V27 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-top-10-omegle-alternative-videochat-websites/"><u>In 2024, Top 10 Omegle Alternative Videochat Websites</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-v27-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo V27 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-v27-pro-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo V27 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-v27-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo V27 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-v27-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo V27 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-v27-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo V27 Pro Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-v27-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo V27 Pro Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-v27e-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo V27e Device</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-sound-engineers-toolkit-in-depth-strategies-for-effective-mp3-manipulation-for-2024/"><u>New The Sound Engineers Toolkit In-Depth Strategies for Effective MP3 Manipulation for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/rising-above-the-rest-crafting-content-for-top-spot-at-vimeo-for-2024/"><u>Rising Above the Rest  Crafting Content for Top Spot at Vimeo for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-list-6-must-have-voice-amplification-tools-for-mobile-phones-for-2024/"><u>Updated The Ultimate List 6 Must-Have Voice Amplification Tools for Mobile Phones for 2024</u></a></li>
+</ul></div>

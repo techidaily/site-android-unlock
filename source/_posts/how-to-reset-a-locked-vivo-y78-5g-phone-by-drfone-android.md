@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Vivo Y78 5G Phone
-date: 2024-04-04 10:10:24
-updated: 2024-04-05 22:26:57
+date: 2024-07-16T11:27:21.197Z
+updated: 2024-07-17T11:27:21.197Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Locked Vivo Y78 5G Phone
 excerpt: This article describes How to Reset a Locked Vivo Y78 5G Phone
 keywords: Vivo Y78 5G unlock apps for android,how to reset a phone that is locked,Vivo Y78 5G full guide to unlock,oem unlock missing,Vivo Y78 5G forgot android password,android device show wifi password,how to change lock screen password
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## How to Reset a Locked Vivo Y78 5G Phone
@@ -27,6 +27,9 @@ Here you can learn **how to reset a locked phone** from different brands, as dif
 
 Now we will show you how to unlock HTC phone by hard reset.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![reset a locked htc](https://images.wondershare.com/drfone/article/2016/07/14696881054139.jpg)
 
 You will have to press and hold the volume down button along with the power button. Keep holding until you see Android images. Then release the buttons and then follow the volume down button to go for factory reset, afterward select the power button.
@@ -35,6 +38,9 @@ You will have to press and hold the volume down button along with the power butt
 
 Press and hold the volume up key, along with the power button and home key. You will see the Samsung logo onscreen. Go down to wipe data/factory reset by holding the volume down key. Now choose Yes. You could delete all the data on your phone by tapping on the volume down key. Your phone will start rebooting.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset a locked samsung](https://images.wondershare.com/drfone/article/2016/07/14696881309064.jpg)
 
 ### **3\. How to reset an LG phone that is locked?**
@@ -43,6 +49,14 @@ To unlock your LG Android phone, you will have to press and hold the volume key 
 
 ![reset a locked lg](https://images.wondershare.com/drfone/article/2016/07/14696881591213.jpg)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **4\. How to reset a locked Sony phone?**
 
 You have to confirm that your phone is switched off. Press and hold three keys altogether. The keys are Volume Up, Power, and Home keys. You have to release the buttons once you see the logo on the screen. Now follow volume down to scroll down. Power or Home key is used for selection. Choose factory reset or wipe data.
@@ -65,7 +79,7 @@ In this part, we will discuss Wondershare Dr.Fone for unlocking your locked Andr
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Android lock screen in 5 minutes
 
@@ -86,6 +100,18 @@ The first thing that you will have to do is open Dr.Fone on your PC and then cli
 
 **Step 2. Select the Vivo Y78 5G device from the list.**
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset android screen lock with drfone](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 3. Go for Specific Mode**
@@ -96,10 +122,16 @@ The first thing that you will have to do is open Dr.Fone on your PC and then cli
 
 Once the previous step is complete, you will see the lock screen removal process started. After completing the lock screen removal process, you could enter into your phone without needing any password.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset android phone screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Forgetting your password is a perplexing situation though you have the solution to unlock your Android phone, as hard reset does not give your data back, you should rely on the software called [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) for smooth operation. So have the software and cheer up. I hope you will enjoy and forget about the hassle when you lost your password.
@@ -108,6 +140,9 @@ Forgetting your password is a perplexing situation though you have the solution 
 
 Do you want to revamp your phone’s pattern lock screen and give it a new life? Well, you are not the only one! Lots of Android users keep looking for numerous ways to change their screen lock pattern and make it more secure. After all, if your lock screen pattern is strong, then it will certainly keep an intruder away. In today’s world, our privacy is everything and we should take every needed measure to protect it. To help you do the same, we have come up with this informative guide. Read on and learn how to set up a strong pattern lock screen on your device and what to do if you have forgotten it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to set up Pattern Lock Screen on Vivo Y78 5G?
 
 Out of all the provided options for screen locks, pattern lock is mostly used due to its ease of access and added security. If you haven’t set up a screen lock pattern on your device, then we recommend you to do the same right away. Not only will it keep intruders away, it will also protect your privacy. To learn how to set up a lock screen pattern on an Android device, simply follow these steps:
@@ -116,18 +151,27 @@ Out of all the provided options for screen locks, pattern lock is mostly used du
 - 2\. Under the personal or privacy section, you can access the “Lock Screen and Security” option.
 - 3\. In some versions, the option is also listed right at the top of the settings (in its quick access).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![setup android pattern lock screen-unlock your device](https://images.wondershare.com/drfone/article/2017/09/15057378431872.jpg) ![setup android pattern lock screen-Under the personal or privacy section](https://images.wondershare.com/drfone/article/2017/09/15057378838236.jpg) ![setup android pattern lock screen-access Lock Screen and Security](https://images.wondershare.com/drfone/article/2017/09/15057379016188.jpg)
 
 - 4\. To set up a pattern lock screen, tap on the “Screen lock type” feature.
 - 5\. This will provide a list of all the different kinds of locks that you can apply. Ideally, it would be password, pin, pattern, swipe, or none. In “Swipe”, you can unlock a device just by swiping the screen. Whereas, in pattern, pin, or password, you would be needed to provide the respective pattern/pin/password to unlock the Vivo Y78 5G device.
 - 6\. We recommend setting up a lock screen pattern instead. To do this, tap on the “Pattern” option.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![setup android pattern lock screen-tap on the “Screen lock type” feature](https://images.wondershare.com/drfone/article/2017/09/15057379466607.jpg) ![setup android pattern lock screen- provide the respective pattern](https://images.wondershare.com/drfone/2020/15057379692063.jpg) ![setup android pattern lock screen-tap on the “Pattern” option](https://images.wondershare.com/drfone/article/2017/09/15057379835226.jpg)
 
 - 7\. From the next screen, you can simply draw any kind of pattern of your choice. Ideally, it should join at least 4 dots on the screen. We recommend using a strong screen lock pattern to provide unmatched security to your device.
 - 8\. Furthermore, you need to confirm your choice and provide the same pattern once again. Make sure that you draw the same pattern here.
 - 9\. Additionally, the interface will ask you to provide a security pin as well. In case if you will forget your pattern, then you can access your phone by taking the assistance of this pin.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![setup android pattern lock screen](https://images.wondershare.com/drfone/article/2017/09/15057380143598.jpg) ![setup android pattern lock screen-provide the same pattern](https://images.wondershare.com/drfone/article/2017/09/15057380317550.jpg) ![setup android pattern lock screen-provide a security pin](https://images.wondershare.com/drfone/article/2017/09/15057380506350.jpg)
 
 - 10\. Similarly, you would be required to confirm the pin as well to finish the setup.
@@ -143,7 +187,10 @@ Out of all the provided options, it is recommended to use [Dr.Fone - Screen Unlo
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 Remove 4 Types of Android Screen Lock without Data Loss
 
@@ -162,6 +209,9 @@ Your pattern lock is one of the most important security aspects on your device. 
 
 For your convenience, we have marked the dots as 1-9. This will help you know the exact sequence of the lock.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![android pattern lock idear 1](https://images.wondershare.com/drfone/article/2017/09/15057382355667.jpg)
 
 # 1
@@ -174,12 +224,18 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 7 > 4 > 1 > 5 > 2 > 3 > 8 > 6
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android pattern lock idear 3](https://images.wondershare.com/drfone/article/2017/09/15057385333697.jpg)
 
 # 3
 
 1 > 8 > 3 > 4 > 9
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![android pattern lock idear 4](https://images.wondershare.com/drfone/article/2017/09/15057385588612.jpg)
 
 # 4
@@ -216,18 +272,27 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 1 > 5 > 9 > 4 > 8 > 2 > 6 > 3 > 7
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android pattern lock idear 9](https://images.wondershare.com/drfone/article/2017/09/15057386683110.jpg)
 
 # 10
 
 7 > 5 > 3 > 4 > 2 > 6 > 1 > 9
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![android pattern lock idear 10](https://images.wondershare.com/drfone/article/2017/09/15057386838919.jpg)
 
 After selecting and setting up a new screen lock pattern on your device, make sure that you remember it. You can lock and unlock your phone a few times with your new pattern lock in order to memorize it. Nevertheless, if you forget your lock screen pattern, then you can take the assistance of Dr.Fone Android Pattern Lock Removal to get an instant solution.
 
 Now when you know every essential thing about pattern lock screen on Android, you can certainly keep your device safe from any unforeseen intrusion. A strong lock screen pattern will certainly be of a great use to you. It will protect your apps, data, and device accessibility in an effortless manner. Go ahead and set up a strong and secure pattern lock screen on your device and provide an added layer of security to it.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Delete Gmail Account With/Without Password On Vivo Y78 5G
 
 Email accounts have proven their worth in digital devices beyond sending emails. Lately, Android devices have only operated with a Gmail account. This is because most of the data, such as contact information, messages, and other details, are saved across the storage space offered with the email. Against all recognizable uses of Gmail accounts, users look for ways **how to delete Gmail accounts.**
@@ -245,16 +310,25 @@ Although the process of deleting a Gmail account sounds basic, there are many po
 - **Access to Other Services:** Although you are deleting your Gmail account, you can still access Google Photos, Google Drive, and other services.
 - **Lookout For Emails:** Ensure that the emails in your account are saved. You can easily download them anywhere before deleting the Gmail account.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. Delete Your Gmail Account Using Your Password: Desktop Solution
 
 For the first method, we will discuss **how to delete a Google account** with your password. You will use your computer for this process and access the [Google Account](https://myaccount.google.com/) services. The service helps you save all your essential Gmail data before you remove it. To understand how it makes it possible, look through the steps provided below:
 
 - **Step 1.** Access the website [https://myaccount.google.com/](https://myaccount.google.com/) on your desktop browser and log in with your credentials. Proceed to the “Data & privacy” section from the left panel.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![login and access data and privacy](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-2.jpg)
 
 - **Step 2.** On the following window, scroll down and look for the “Delete a Google service” option. Accessing this would allow you to **delete your Gmail account permanently**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![proceed to delete a google service](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-3.jpg)
 
 - **Step 3.** You will be led to a new screen where you need to provide your password credentials again. On successfully providing your password, look for the “Gmail” option on the next screen. Click the “Trash” icon to continue deleting the Gmail account.
@@ -273,10 +347,16 @@ For the first method, we will discuss **how to delete a Google account** with yo
 
 If you use a smartphone device and want to delete your Gmail account from that particular device, you are at the right place. The following methods will help you understand **how to delete Gmail** from your Android and iOS devices:
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Android Devices
 
 - **Step 1.** Look for “Settings” on your Android and continue to the “Accounts & sync” option in the list. As you proceed into the next window, look for the Google account and select it.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access accounts in android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-7.jpg)
 
 - **Step 2.** Select the "More" option at the bottom on the following screen. Choose the "Remove account" option in the pop-up menu and provide your credentials to execute the deletion of your Gmail account.
@@ -291,8 +371,14 @@ If you use a smartphone device and want to delete your Gmail account from that p
 
 - **Step 2.** Discover the option of "Gmail" in the list of signed-in accounts and continue to the next screen. Select "Delete Account" to remove the account from your iOS device.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![delete gmail account ios](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. Don’t Know Password of Device? Reset To Delete Gmail Account
 
 What if you've [forgotten the password](https://drfone.wondershare.com/app-password/find-gmail-password.html) to your smartphone device, and you have to **delete your Gmail account permanently?** In such cases, you are left with the option of accessing the Vivo Y78 5G device’s Recovery Mode and factory resetting the Vivo Y78 5G device, where possible. To know how it is done flawlessly, look through the steps provided next:
@@ -317,18 +403,30 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 - **For iPhone X or Later Models:** Press and release the “Volume Up” button, followed by the “Volume Down" button. Hold the “Side” button until the Recovery Mode screen appears.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recovery mode iphone x or later](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-14.jpg)
 
 - **For iPhone 7 Models:** Hold the “Side” and “Volume Down” button until the Recovery Mode screen appears.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recovery mode iphone 7 models](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-15.jpg)
 
 - **For iPhone 6 and Earlier Models:** Hold the "Side" and "Home" buttons simultaneously until the Recovery Mode screen appears.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recovery mode iphone 6 or earlier](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-16.jpg)
 
 - **Step 2.** The device automatically gets detected on Finder/iTunes, and a pop-up appears on the screen. Click "Restore" to reset your iOS device to factory settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore ios device](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-17.jpg)
 
 ## Part 5. Remove Gmail Account From Device Without Password: Using Wondershare Dr.Fone
@@ -339,7 +437,7 @@ While you seek some appropriate way **to close a Gmail account** from a device w
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
@@ -356,6 +454,9 @@ Whether it is your latest Samsung or other Android smartphone, the process is ea
 2. Provides support to the latest Android devices, along with all mainstream brands.
 3. You can recover your device with and without data loss, according to your discretion.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps To Remove Google Account While Removing Screen Lock
 
 The following steps highlight the way to remove screen lock from your Android device, which would also cover removing the Google Account automatically:
@@ -371,6 +472,9 @@ To start with the process, launch Dr.Fone on your computer and navigate to the "
 
 As you direct into the next window, select the brand of your Android device. Continue to select “100% Remove Screen Lock” from the following window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![perform advanced screen lock](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
 
 - **Step 3. Follow the Instructions and Successfully Remove the Screen Lock**
@@ -400,3 +504,41 @@ This article has specifically provided you with some important details on **how 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-simple-screen-recorder-for-windows-10-for-2024/"><u>[Updated] Simple Screen Recorder for Windows 10 for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-earnings-per-watch-average-income-breakdown/"><u>[Updated] YouTube Earnings per Watch  Average Income Breakdown</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-m14-4g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy M14 4G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-m14-4g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy M14 4G?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/decoding-the-mysteries-of-outdated-facebook-sharing-pcmobile-style-for-2024/"><u>Decoding the Mysteries of Outdated Facebook Sharing, PC/Mobile Style for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-m14-4g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-note-30-vip-racing-edition-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Note 30 VIP Racing Edition Face Lock?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-samsung-galaxy-m14-4g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Samsung Galaxy M14 4G Face Lock?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-m14-4g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy M14 4G Phone Screen?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy M14 4G?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-m14-4g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy M14 4G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-m14-4g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy M14 4G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-samsung-galaxy-m14-4g-lock-screen-password-by-drfone-android/"><u>How to Reset your Samsung Galaxy M14 4G Lock Screen Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-m14-4g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy M14 4G Through Google Earth?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-m14-4g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy M14 4G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-pinnacle-of-photography-frames/"><u>In 2024, Explore the Pinnacle of Photography Frames</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-online-glitch-effects-the-top-picks/"><u>In 2024, Free Online Glitch Effects The Top Picks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-f15-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy F15 5G Easily?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-f15-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy F15 5G Phone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-samsung-galaxy-s24-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Samsung Galaxy S24 Android SIM Unlock APK</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mac-enthusiasts-take-on-screenflow-software-review/"><u>Mac Enthusiast's Take on ScreenFlow Software Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-m14-4g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy M14 4G Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/mirthful-mayhem-a-top-20-list-of-hilarious-tiktok-jokes-and-riddles/"><u>Mirthful Mayhem  A Top 20 List of Hilarious TikTok Jokes & Riddles</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-video-invitation-makers-the-top-choices-events/"><u>New In 2024, Free Video Invitation Makers The Top Choices Events</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-m14-4g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy M14 4G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-m14-4g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy M14 4G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-m14-4g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy M14 4G Device</u></a></li>
+</ul></div>

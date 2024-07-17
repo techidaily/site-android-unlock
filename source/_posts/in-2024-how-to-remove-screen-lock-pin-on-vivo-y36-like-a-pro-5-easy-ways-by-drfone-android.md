@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Remove Screen Lock PIN On Vivo Y36 Like A Pro 5 Easy Ways
-date: 2024-06-16T17:51:23.170Z
-updated: 2024-06-17T17:51:23.170Z
+date: 2024-07-16T11:47:43.631Z
+updated: 2024-07-17T11:47:43.631Z
 tags: 
   - unlock
   - remove screen lock
@@ -19,12 +19,18 @@ When protecting personal information on your phone, setting up a lock screen is 
 
 It depends on your phone and the type of lock code you have set up. Note that this will erase all your data from the phone, so be sure to back it up first. This post will teach you how to remove the screen lock PIN on Android devices using several methods. So if you cannot use your device, keep reading for the steps!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![remove forgotten screen lock pin](https://images.wondershare.com/drfone/article/2022/10/how-to-remove-screen-lock-pin-on-android-1.jpg)
 
 ## Part 1: How To Remove Screen Lock PIN On Vivo Y36? 5 Simple Ways
 
 If you've forgotten your screen lock pin, there's no need to worry. Here are quick and easy ways to remove the screen lock PIN on your Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Change or Remove in Settings
 
 When you go to Settings > Lock Screen > Screen lock type, several lock screen options are available. These options are given below:
@@ -61,6 +67,18 @@ Verify that only the contents of your phone are visible to your eyes.
 
 Unlock your device with both facial and iris recognition.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen lock type](https://images.wondershare.com/drfone/article/2022/10/how-to-remove-screen-lock-pin-on-android-2.jpg)
 
 If you've forgotten your lock PIN on your Android device, don't worry - there are a few ways to reset it. Here's how:
@@ -85,6 +103,9 @@ It is not possible to remove the PIN from some Android devices. The Android devi
 
 **Step 4**: Click on "Disable."
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Remove PIN from Google Find My Device
 
 Even if you don't remember your Android lock PIN, you can use Find My Device to eliminate your Android lock PIN. Sign in to Google Play, turn on Find My Device and Location, and connect your locked phone to the internet.
@@ -99,6 +120,9 @@ Here's the guide to universal unlock PIN for Android:
 
 ![unlock any phone password](https://images.wondershare.com/drfone/article/2022/10/how-to-remove-screen-lock-pin-on-android-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Factory Reset Your Vivo Y36 (Data Loss)
 
 A factory reset in Recovery mode can also be used to remove the forgotten phone PIN lock on an Android device. It is important to note that you will lose everything on your device if you universal unlock your PIN for android.
@@ -117,9 +141,12 @@ Steps to get rid of forgotten phone PIN via factory reset:
 
 ## Part 2: Is There Any Universal Unlock PIN For Android?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove the Screen Lock Pin Without Any Hassle!
 
@@ -140,6 +167,18 @@ While there is no "universal unlock pin" for Android devices, Dr.Fone - Screen U
 
 We provide 2 options for you, and to unlock screen, you should select "Unlock Android Screen".
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 3. Select device model**
@@ -164,6 +203,9 @@ Note: The specific processes are various according to different brands.
 
 **Recovery Mode in Samsung phone without Bixby**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
 
 **Recovery Mode in Samsung phone with Home Button**
@@ -184,10 +226,16 @@ Now it's a phone everyone can access without a password or pattern.
 
 There are a few reasons why you might want to remove the phone PIN from your Android:
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Failed Attempts
 
 If you've tried to unlock your phone with a pin too many times and failed, your phone will become locked. In this case, you'll need to remove the PIN to unlock it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Buy a Used Android phone
 
 When you buy a second-hand Android phone, it's best to remove the previous owner's pin for security reasons. You can enter the phone's settings and remove the PIN under the security section.
@@ -206,17 +254,23 @@ The device becomes inaccessible and requires an Android password reset. But ther
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yjlTG2d0gSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Solution 1: Dr.Fone - Screen Unlock (Android): A Direct Way to Unlock the Phone
 
 Using [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is a direct way to Android reset the password and unlock the phone. There is no tension of data loss, and this [phone unlocking software](https://drfone.wondershare.com/sim-unlock/android-unlock-software.html) works for different lock systems. It can reset the Android password, pattern, PIN, and fingerprint lock in under 5 minutes. It is straightforward to operate and does not require any technical knowledge.
 
-Wondershare offers you 100% security as it only authorizes you access. It is simple and user-friendly and keeps all the data on the Android device ( Samsung and LG only) intact.
+Wondershare offers you 100% security as it only authorizes you access. It is simple and user-friendly and keeps all the data on the Android device (Samsung and LG only) intact.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Android Phones Within Minutes
 
@@ -247,6 +301,9 @@ You have to put your device into download mode. For that, follow the instruction
 - 2\. Tap and keep holding the volume decrease button along with the power and home button simultaneously
 - 3\. Now tap the volume increase button to initiate download mode
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 **Step 3: Download the recovery package**
@@ -259,6 +316,9 @@ After the download mode has been entered, the program will begin to download the
 
 Soon the recovery package finishes downloading. Then the program begins to remove the lock screen. After the process is over, you can access all your data on your Android device and reset your Android password.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 These simple steps will ensure that you can secure your Android lock screen easily, without any worries. You do not have to worry about data loss, and you will reset your Android phone. Even if you have forgotten your Android password and are thinking about starting your Android phone again, these simple tips will help.
@@ -272,6 +332,9 @@ These alternatives encompass trusted locations, connected devices, or facial rec
 
 **Step 1.** Set a pattern, PIN, or password for your screen lock if you haven't already. Open the Settings on your Android device and tap on "Security & Privacy." Here, tap "More Security & Privacy" and select "Trust agents."
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access trust agents feature](https://images.wondershare.com/drfone/article/2023/12/how-to-reset-your-android-lock-screen-password-1.jpg)
 
 **Step 2.** Within "Trust agents," toggle on "Extend Unlock" and then return to the previous screen. Select "Extend Unlock" and input your pattern, PIN, or password to confirm. Next, pick your desired Smart Lock type and follow the on-screen prompts to activate.
@@ -288,8 +351,14 @@ Unlocking an Android phone using SmartThings is an option available for Samsung 
 
 **Step 2.** Select the "Unlock" button located in the top right corner of the menu. Then, proceed by clicking "Unlock," and entering your Samsung password. Finally, confirm by clicking Unlock once more. This action will reset all your lock settings, comprising biometric security, PIN, password, and swipe pattern.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock your samsung device](https://images.wondershare.com/drfone/article/2023/12/how-to-reset-your-android-lock-screen-password-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 4: How to Reset Android Password using Google？
 
 To reset the Android password using Google, it is necessary to remember the Google password and ID. Google account must also be activated on the phone. Also, this method only works on devices running Android 4.4 or below. Follow the steps below for the Android password reset.
@@ -306,6 +375,9 @@ Now enter the Google ID and password and log in. You will be able to Android res
 
 ![uReset your Android Lock Screen Password](https://images.wondershare.com/drfone/others/reset-lock-screen-password-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 5: How to Reset Android Password using Android Device Manager？
 
 Familiar with Android Device Manager? Well, it has been renamed now as Find My Device. This service provided by Google helps you find, lock, or wipe your Android device. Plus, if you have enabled Find My Device, it might prove very helpful to assist you in unlocking your device. Check out these easy-to-follow steps for unlocking your Android device. For this, you need to use Find My Device, the upgraded Android Device Manager:
@@ -314,6 +386,9 @@ Familiar with Android Device Manager? Well, it has been renamed now as Find My D
 
 ![erase all device data](https://images.wondershare.com/drfone/article/2023/12/how-to-reset-your-android-lock-screen-password-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 6: How to reset Android Phone Password using Factory Reset?
 
 This method can be used when no other means of Android password reset works. This will erase all your data, so it is better to have backups created before. Now perform the steps to Android reset the password.
@@ -363,6 +438,9 @@ Here is the complete guide with five methods to unlock an Vivo  device that work
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/PNC9VCRYu18" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Lock System About Vivo Y36  
 
 ### 1: Lock Types
@@ -378,6 +456,9 @@ Follow these steps to set up any type of lock on your Vivo Y36  .
 - Select the "Lockscreen Password" option at the top and tap on the "Enable Lock Screen" button.
 - Select the type of lock you want to set and create a password.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3: How to Remove Them with Password or Pattern?
 
 You can easily remove the lock screen of your Vivo Y36  if you remember your password or pattern.
@@ -388,6 +469,9 @@ You can easily remove the lock screen of your Vivo Y36  if you remember your pas
 
 ## Part 2: 5 Solutions to Unlock Vivo Y36  Without Password or Pattern
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1: Google Find My Device
 
 You can use the Google Find My Device for your **Vivo Y36  pattern unlock**. It is a simple privacy and security Google feature that enables users to reset their android phones. Most people use it to factory reset their phones when someone steals their phones. Although Google Find My Device works every time, it is not the ideal solution if you don't want to lose your data. With a hard reset, you lose all your data and settings. It is not worth it if all you want to do is unlock your screen. Here are the steps to unlock Vivo Y36  with Find My Device.
@@ -404,6 +488,9 @@ You can use the Google Find My Device for your **Vivo Y36  pattern unlock**. It 
 
 Here is how you can do an **Vivo Y36  pattern unlock without PC**. You don't need any third-party software or device for this method. Every step is easy to follow, and it only takes a few minutes for you to unlock your phone. This method requires your Google account and password. Don't use this method if you don't know your Google password. If you are a beginner, it is better to use other methods because this method involves the risk of blocking your device. Follow these steps to unlock your Vivo  device using your Google Account.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Vivo Y36  lock screen](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-02.jpg)
 
 - Enter a random password or PIN on your phone's lock screen five times.
@@ -413,10 +500,16 @@ Here is how you can do an **Vivo Y36  pattern unlock without PC**. You don't nee
 - Now the system will ask for your Google account and password.
 - After you verify your Google account, you can enter your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3: Answer Security Questions
 
 If you want to unlock your Vivo  phone, you can also answer some security questions and reset the password. This method does not work on all Vivo  devices, but you can use it for **Vivo Y36  screen unlock without PC**. You will see various questions if your Google account is linked with the Vivo Y36 device. All questions are based on your profile and credentials. You have to answer precisely with proper spaces. Here are the steps to unlock Vivo Y36  with security questions.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Vivo Y36  forgot pattern interface](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-03.jpg)
 
 - Use a random password or PIN five times and wait for the 30 seconds alert message.
@@ -425,12 +518,18 @@ If you want to unlock your Vivo  phone, you can also answer some security questi
 - Tap on the “Next” button and answer every question that comes up.
 - If you give correct answers, the system will open the screen lock.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4: Hard Reset (data loss)
 
 A hard reset would be the best solution if you forgot your phone's lock screen password or pattern. However, you can unlock your phone with your Google account as well. Do a hard reset if you can't remember your Google account password and don't want to use third-party tools. The only problem with hard resetting is that you lose all your data, images, files, settings, and personalization. That is why you can't recover any of your data after the hard reset if you don't have a data backup. The process of hard reset is different for every device. Here are the steps for **Vivo Y36  pattern unlock without a PC** through a hard reset.
 
 - Switch off your Vivo Y36  with the power button.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![power key](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-04.jpg)
 
 - Press and hold the Volume down + Power buttons together for a few seconds. Hold the keys until you see the Vivo  logo on the screen.
@@ -443,19 +542,28 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 
 - Go to the "Wipe Data and Cache" option and select twice using the power key.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recovery mode menu](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-07.jpg)
 
 - For confirmation, select the “OK” option and wait for the system to reboot.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hard reset confirmation](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 5: Dr.Fone - Screen Unlock
 
 You can easily unlock your Vivo  device without your Google account password and losing data. The best way is to use an Vivo Y36  pattern lock removal tool. If you want an easy-to-use tool with fast and safe working, we recommend Dr.Fone - Screen Unlock. Dr.Fone enables users to unlock any android device within five minutes without password, Google account. You can unlock your Vivo Y36  without effort. With Dr.Fone, you can also [back up and restore your data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/), do a [system repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) for your mobile, and transfer WhatsApp with a few clicks. Here are the steps to remove the pattern lock from Vivo Y36  with Dr.Fone – Screen Unlock.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to Unlock Vivo Y36  Without Any Hassle!
 
@@ -474,12 +582,18 @@ Open Dr.Fone on the PC with a USB cable connected to your phone > click “Scree
 
 With the button “Unlock Android Screen”, you can unlock your Vivo Y36  via this part.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 3. Select Unlock mode: 100% Remove Screen Lock**
 
 When you’re on this page, “100% Remove Screen Lock” can unlock most phone brands’ screens. Because of the different recovery modes of different phone models, selecting the Vivo Y36 device brand plays a great role in removing the lock.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 4. Now, it's time to start removing the lock screen**
@@ -514,3 +628,62 @@ If you know your Google account password, then you can easily unlock your phone 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-virtual-horizons-on-android-a-guide-to-the-top-15-games/"><u>[New] 2024 Approved  Virtual Horizons on Android  A Guide to the Top 15 Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-and-easy-method-for-clearing-image-backdrops/"><u>[New] Quick and Easy Method for Clearing Image Backdrops</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-brief-overview-of-the-quickest-chroma-key-tricks-for-2024/"><u>[Updated] Brief Overview of the Quickest Chroma Key Tricks for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-frenzied-fun-top-10-outrageous-tiktok-gaming-quests-for-2024/"><u>[Updated] Frenzied Fun  Top 10 Outrageous TikTok Gaming Quests for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-get-your-pc-listening-to-you-not-too-x-recorder/"><u>[Updated] Get Your PC Listening to You, Not Too - X-Recorder</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmony-and-rhythm-discover-the-best-15-youtube-educational-videos/"><u>[Updated] In 2024, Harmony & Rhythm  Discover the Best 15 YouTube Educational Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-supreme-scene-scriber-version-11/"><u>[Updated] Supreme Scene Scriber, Version 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-y55s-5g-2023-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo Y55s 5G (2023) Unlock Without Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-y55s-5g-2023-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo Y55s 5G (2023) Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-y55s-5g-2023-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/clip-narration-devisee/"><u>Clip Narration Devisee</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/flourishing-in-virtual-dialogue-top-strategies-to-master-zoom-chats/"><u>Flourishing in Virtual Dialogue  Top Strategies to Master ZOOM Chats</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-y55s-5g-2023-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo Y55s 5G (2023) Pattern Lock Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-y55s-5g-2023-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo Y55s 5G (2023)? Try These Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-y55s-5g-2023-by-drfone-android/"><u>Full Guide to Unlock Your Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-y55s-5g-2023-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y55s-5g-2023-lock-screen-password-by-drfone-android/"><u>How To Change Vivo Y55s 5G (2023) Lock Screen Password?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-xiaomi-redmi-13c-screen-sharing-drfone-by-drfone-android/"><u>How To Do Xiaomi Redmi 13C Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y55s-5g-2023-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo Y55s 5G (2023)?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-y55s-5g-2023-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo Y55s 5G (2023) to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-y55s-5g-2023-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-y55s-5g-2023-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-vivo-y55s-5g-2023-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Vivo Y55s 5G (2023) Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-y55s-5g-2023-phone-by-drfone-android/"><u>How to Reset a Locked Vivo Y55s 5G (2023) Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-y55s-5g-2023-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo Y55s 5G (2023) Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-y55s-5g-2023-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo Y55s 5G (2023) Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-y55s-5g-2023-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo Y55s 5G (2023) Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y55s-5g-2023-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo Y55s 5G (2023) Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y55s-5g-2023-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo Y55s 5G (2023) Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y55s-5g-2023-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo Y55s 5G (2023) Phone without Google Account?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-y78-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo Y78 5G?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-12-pro-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme 12 Pro 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premiere-changes-for-images-pictureshift-genius/"><u>In 2024, Premiere Changes for Images  PictureShift Genius</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-shoguns-call-a-list-of-top-10-games-reflecting-tsushi-values/"><u>In 2024, Shogun's Call  A List of Top 10 Games Reflecting Tsushi Values</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-nubia-z50-ultra-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nubia Z50 Ultra FRP Bypass</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-depth-insights-perfecting-the-craft-of-screen-recording-on-macbooks-for-2024/"><u>In-Depth Insights  Perfecting the Craft of Screen Recording on MacBooks for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-vivo-y55s-5g-2023-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo Y55s 5G (2023) Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-y55s-5g-2023-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo Y55s 5G (2023) Phone Now with These Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-y55s-5g-2023-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nsider-guide-to-gaming-channel-header-templates/"><u>The Insider Guide to Gaming Channel Header Templates</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y55s-5g-2023-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-y55s-5g-2023-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo Y55s 5G (2023) Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-y55s-5g-2023-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo Y55s 5G (2023) Phone Pattern Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-y55s-5g-2023-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-10-strategies-for-youtube-shorts-that-make-an-impact/"><u>Top 10 Strategies for Youtube Shorts That Make an Impact</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-y55s-5g-2023-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/trending-vids-unveiling-twits-highest-viewed-content/"><u>Trending Vids  Unveiling Twit's Highest-Viewed Content</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-vivo-y55s-5g-2023-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo Y55s 5G (2023) Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y55s-5g-2023-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo Y55s 5G (2023) Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y55s-5g-2023s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo Y55s 5G (2023)s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-final-cut-pro-project-backup-a-beginners-guide-to-securing-your-work/"><u>Updated Final Cut Pro Project Backup A Beginners Guide to Securing Your Work</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-10-best-video-editing-apps-for-creating-mind-bending-glitch-art-on-mobile/"><u>Updated In 2024, 10 Best Video Editing Apps for Creating Mind-Bending Glitch Art on Mobile</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-essential-list-of-best-no-price-tag-open-source-audio-cutters-for-pc-users/"><u>Updated In 2024, Essential List of Best No-Price-Tag Open-Source Audio Cutters for PC Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-minitool-movie-maker-review-is-it-the-best-video-editor-for-you-in-2024/"><u>Updated Minitool Movie Maker Review Is It the Best Video Editor for You, In 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-youtubes-ultimate-playlist-of-irresistible-sounds/"><u>Updated YouTubes Ultimate Playlist of Irresistible Sounds</u></a></li>
+</ul></div>

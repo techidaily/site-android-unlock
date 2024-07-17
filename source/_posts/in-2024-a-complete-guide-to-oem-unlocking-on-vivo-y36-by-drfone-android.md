@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Complete Guide To OEM Unlocking on Vivo Y36
-date: 2024-04-03 12:23:24
-updated: 2024-04-05 13:43:21
+date: 2024-07-16T11:47:23.503Z
+updated: 2024-07-17T11:47:23.503Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Complete Guide To OEM Unlocking on Vivo Y36
 excerpt: This article describes A Complete Guide To OEM Unlocking on Vivo Y36
 keywords: password unlock tool,full guide to unlock,forgot pattern lock,how to remove previously synced google account from android,rootjunky frp bypass,Vivo Y36 how to remove previously synced google account from android
-thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139232374-700d343900854115ad26acf3f1dd80b3.jpg
+thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba8907f6c40cdafb2c11a8f5a83.jpg
 ---
 
 ## A Complete Guide To OEM Unlocking on Vivo Y36
@@ -19,18 +19,27 @@ Android, known worldwide as a major player in phone operating systems, stands ou
 
 For those looking to truly unleash the full potential of their Android device, an OEM unlock is an essential step. This article will delve into the process of **OEM unlocking on Android**, guiding you through its benefits and how to safely perform it.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android phone with padlock](https://images.wondershare.com/drfone/article/2024/01/what-is-oem-unlock-01.jpg)
 
 **OEM lock** might sound like technical jargon to many. However, it’s a key concept for those who wish to dive deeper into Android customization. OEM stands for Original Equipment Manufacturer. Unlocking in this context refers to removing restrictions made by the manufacturer on the Vivo Y36 device.
 
 This process allows you to gain deeper access to the Vivo Y36 device’s software. Thus, OEM unlocking is often required for customizing or modifying the system at a more advanced level.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Why Enable OEM Unlock?
 
 The primary reason to enable **OEM unlocking** is to gain the ability to root your device or install custom firmware, also known as ROMs. Rooting is the Android equivalent of jailbreaking. It allows users to access and modify the Vivo Y36 device’s software at the deepest level.
 
 This can enable the installation of apps and software that require more permissions than what is typically available. On the other hand, custom ROMs can change your device’s interface. They can also add features not available in the stock version of Android.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android oem unlocking settings](https://images.wondershare.com/drfone/article/2024/01/what-is-oem-unlock-02.jpg)
 
 ### Pros and Cons of OEM Unlocking
@@ -47,6 +56,9 @@ On the other hand, here are some cons that you must consider before performing t
 - **Void warranty.** OEM unlocking often voids the manufacturer’s warranty.
 - **Potential for bricking.** Incorrect procedures can render the Vivo Y36 device unusable, known as ‘bricking’.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Understanding the Risks
 
 It’s crucial to understand that OEM unlocking is not without its risks. It does open the door to several customizations and tweaks. However, it can also compromise the security of your device. There’s always a chance of bricking your phone, especially if the unlocking process isn’t followed correctly or an unstable custom ROM is installed.
@@ -74,12 +86,21 @@ Here are some common links where you might find the needed PIN or password:
 
 After these steps, your device’s bootloader is now unlocked, and you can proceed with rooting or installing custom ROMs. Remember that this is a significant change to your device’s system, and it should be done cautiously and ideally only if you’re comfortable with potential risks.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: What Can You Do After OEM Unlock?
 
 Unlocking your phone’s OEM opens up a world of possibilities. It allows you to customize your device beyond what’s available in its factory settings. This newfound freedom, however, comes with its own set of responsibilities and risks. Here’s what you can do after having your phone **OEM unlocked**.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android custom roms](https://images.wondershare.com/drfone/article/2024/01/what-is-oem-unlock-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Root Your Device
 
 Rooting is akin to having the master key to your device’s software. It allows you to gain superuser access, enabling modifications and access to system files that were previously restricted. With rooting, you can:
@@ -106,15 +127,21 @@ With an OEM unlocked device, the sky’s the limit regarding customization. You 
 
 However, it’s crucial to proceed with caution. Rooting and installing custom ROMs can void your warranty and, if not done correctly, can turn your device into an expensive paperweight (a state often referred to as “bricking”). Always use reliable sources for your custom ROMs and root-access apps.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus: How To Unlock Your Android Screen When You Forgot Password
 
 [<u>Forgetting the password </u>](https://drfone.wondershare.com/unlock/guide-to-unlock-mi-account-without-password.html) to your Android phone can be a stressful experience. It locks you out of your device. It cuts your access to personal data, contacts, and essential apps. However, aside from OEM unlocking, learning the skill of screen unlocking is incredibly useful in such situations. It’s not just about regaining access. It’s about harnessing control over your device during forgetfulness or emergency.
 
 [<u>Wondershare Dr. Fone’s</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) Screen Unlock (Android) will save you in these situations. It’s designed to unlock your phone without requiring a factory reset. It saves your data from being erased. This feature supports [<u>unlocking patterns</u>](https://drfone.wondershare.com/unlock/pattern-lock.html), PINs, passwords, and [<u>fingerprints</u>](https://drfone.wondershare.com/unlock/9-ways-to-bypass-samsung-lock-screen-pattern-pin-password-fingerprint.html), offering a comprehensive solution for regaining access to your device.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
@@ -132,6 +159,9 @@ The process is straightforward. It involves connecting your device to a computer
 
 - **Step 1:** Go to **Toolbox** > **Screen Unlock**. Connect your Android device with your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 2:** Select **Android** on this page.
@@ -148,6 +178,9 @@ The process is straightforward. It involves connecting your device to a computer
 
 - **Step 5:** Click **Remove without Data Loss**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screen unlock options](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
 
 - **Step 6:** After confirming device details, type “000000” to execute the operation.
@@ -156,10 +189,16 @@ The process is straightforward. It involves connecting your device to a computer
 
 - **Step 7:** Follow the on-screen instructions for putting your device into download mode. Then, wait for the process to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![download mode instructions](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 - **Step 8:** Once complete, click **Done**. If your device still isn’t accessible, click **Try again**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![screen unlock success](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 ## Conclusion
@@ -168,6 +207,9 @@ In wrapping up, you’ve explored the ins and outs of “**what is OEM unlock”
 
 Diving into OEM
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Reset a Vivo Y36 Phone that is Locked?
 
 We all have been there when put a tough to crack the lock on the smartphone and forget the password all along. Such circumstances can be tedious at times, but there is a way around it. If you have spent countless hours on **how to reset a Vivo Y36  phone that is locked**, or how to get into a locked Vivo Y36  phone quickly with or without Factory Reset. This is the right article for you. Here we will describe all the different ways in which you can reset your phone with the convenience of software to even reset it manually. So, without making further due, let’s jump right into it.
@@ -176,6 +218,9 @@ We all have been there when put a tough to crack the lock on the smartphone and 
 
 Before you go to reset your locked Vivo Y36  phone, it's crucial to learn about a few key factors. These factors will enable you to make a well-informed choice and help avoid potential complications during the factory reset process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Data Loss
 
 Resetting your locked Vivo Y36  phone typically involves performing a factory reset. The process erases all data and settings on the Vivo Y36 device. This includes your files, apps, contacts, and other information stored on the phone. You can easily restore these data if you have backed up data before. It's crucial to [back up essential data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) regularly to avoid data loss.
@@ -198,6 +243,9 @@ Resetting a locked Vivo Y36  phone through Google Find My Device presents a conv
 
 **Step 3:** A confirmation dialog will appear, prompting you to input your Google account password. Finally, click the "Erase" button to initiate the factory reset process.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to reset a Vivo Y36  phone that is locked without a password?
 
 In order to reset your Vivo Y36  phone without a password, you need to have a single software known as [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It's a powerful and versatile software tool designed to help you unlock your devices under various circumstances. Whether you've forgotten your device's password, PIN, pattern, or fingerprint, or you're dealing with a locked device due to a broken screen, Dr.Fone - Screen Unlock (Android) can assist you. In order to reset phone correctly, go through the steps given below:
@@ -206,7 +254,7 @@ Before resetting your Vivo Y36  phone that is locked, you can install the [Dr.Fo
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Unlock Tool to Reset a Vivo Y36  Phone That Is Locked Without a Password!
 
@@ -221,12 +269,18 @@ The Best Unlock Tool to Reset a Vivo Y36  Phone That Is Locked Without a Passwor
 
 First of all, launch the Dr.Fone Screen Unlock on your computer, and you will be greeted with a welcome screen like this. Now, head over to the "Screen Unlock" section.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Connect Device**
 
 Now, you need to connect your Vivo Y36  phone to the computer via a USB cable and select "Android" > "Unlock Android Screen." This particular step is an application for all the Android phones out there.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 3: Choose Device Model**
@@ -244,6 +298,9 @@ Go along with the instructions on the screen and remove all the settings of the 
 After the entire process is completed, you can easily access your Vivo Y36  Phone without the need to enter your password. All the restrictions that were set properly to unlock will be removed so that you can use your phone as intended.
 
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to reset a Vivo Y36  phone that is locked with a hard reset
 
 **Disclaimer:** Only perform this step if you are well accustomed to the Android recovery system or at least know your way around your Vivo Y36  phone.
@@ -260,6 +317,9 @@ Now, you need to press the Volume Down + Power button simultaneously until the V
 
 ![reset a motorola phone that is locked 1](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset a motorola phone that is locked 2](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-2.jpg)
 
 **Step 3: Enter Recovery Mode**
@@ -272,6 +332,9 @@ Now, press the Volume Down button to navigate to the Recovery Mode.
 
 Use the buttons to navigate to the “Wipe data/factory reset” option and select it by pressing the Power button. Now, choose the option ”Factory data Reset” and wait for a few seconds till it is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset a motorola phone that is locked 4](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-4.jpg)
 
 **Step 5: Reboot Now**
@@ -312,10 +375,16 @@ One way to avoid getting locked out of your Vivo Y36  phone is to set up alterna
 
 Regular data backups are crucial to safeguarding your essential files and information. Utilize cloud backup services or local backup solutions to routinely save your data. In case of a lockout or a factory reset, you can quickly restore your data without loss.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Using Secure and Memorable Passwords
 
 When setting up lock methods, opt for strong, unique, and memorable passwords. Avoid using easily guessable information like birthdays or simple patterns. Strong passwords can enhance security while minimizing the chances of forgetting your credentials.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 There is no point in arguing that looking through how to reset a Vivo Y36  phone that is locked after you have forgotten the password is indeed a hectic process. But, there is a way around it too. By going through all the steps mentioned above, you can always get an unlocked phone with ease.
@@ -330,6 +399,9 @@ To this day, it is known that Gmail accounts can be removed with or without a pa
 
 ![deleting gmail account permanently](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1. Synopsis: Things To Know Before Deleting Gmail Account
 
 Although the process of deleting a Gmail account sounds basic, there are many pointers connected to it. For that, this part is putting up a discussion on the important things that a user should know before they **delete their Gmail account permanently:**
@@ -339,12 +411,18 @@ Although the process of deleting a Gmail account sounds basic, there are many po
 - **Access to Other Services:** Although you are deleting your Gmail account, you can still access Google Photos, Google Drive, and other services.
 - **Lookout For Emails:** Ensure that the emails in your account are saved. You can easily download them anywhere before deleting the Gmail account.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Part 2. Delete Your Gmail Account Using Your Password: Desktop Solution
 
 For the first method, we will discuss **how to delete a Google account** with your password. You will use your computer for this process and access the [Google Account](https://myaccount.google.com/) services. The service helps you save all your essential Gmail data before you remove it. To understand how it makes it possible, look through the steps provided below:
 
 - **Step 1.** Access the website [https://myaccount.google.com/](https://myaccount.google.com/) on your desktop browser and log in with your credentials. Proceed to the “Data & privacy” section from the left panel.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![login and access data and privacy](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-2.jpg)
 
 - **Step 2.** On the following window, scroll down and look for the “Delete a Google service” option. Accessing this would allow you to **delete your Gmail account permanently**.
@@ -385,6 +463,9 @@ If you use a smartphone device and want to delete your Gmail account from that p
 
 - **Step 2.** Discover the option of "Gmail" in the list of signed-in accounts and continue to the next screen. Select "Delete Account" to remove the account from your iOS device.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![delete gmail account ios](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-10.jpg)
 
 ## Part 4. Don’t Know Password of Device? Reset To Delete Gmail Account
@@ -395,6 +476,9 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 - **Step 1.** Those owning an Android device need to put it in Recovery Mode first. For that, use the combination of the "Power" and "Volume" keys to put the Vivo Y36 device in Recovery Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![put android in recovery mode](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-11.jpg)
 
 - **Step 2.** Once you boot into the Recovery Mode, use the Power and Volume buttons to scroll through the menu. Scroll down with the Volume buttons and select the "Wipe data/factory reset" option with the Power button.
@@ -403,8 +487,14 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 - **Step 3.** Select "Factory data reset" on the next screen and confirm that factory reset your Android device successfully. The device automatically gets out of Recovery Mode and starts normally after resetting.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm factory reset android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### iOS Devices
 
 - **Step 1.** You need to turn on Finder if you own a macOS Catalina or later device. Conversely, use iTunes if you have a macOS Mojave or earlier version or if you are using Windows. Connect your iPhone to the computer using the lightning cable and put it in Recovery Mode.
@@ -415,6 +505,9 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 - **For iPhone 7 Models:** Hold the “Side” and “Volume Down” button until the Recovery Mode screen appears.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![recovery mode iphone 7 models](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-15.jpg)
 
 - **For iPhone 6 and Earlier Models:** Hold the "Side" and "Home" buttons simultaneously until the Recovery Mode screen appears.
@@ -423,6 +516,9 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 - **Step 2.** The device automatically gets detected on Finder/iTunes, and a pop-up appears on the screen. Click "Restore" to reset your iOS device to factory settings.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore ios device](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-17.jpg)
 
 ## Part 5. Remove Gmail Account From Device Without Password: Using Wondershare Dr.Fone
@@ -433,7 +529,7 @@ While you seek some appropriate way **to close a Gmail account** from a device w
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
@@ -465,14 +561,23 @@ To start with the process, launch Dr.Fone on your computer and navigate to the "
 
 As you direct into the next window, select the brand of your Android device. Continue to select “100% Remove Screen Lock” from the following window.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![perform advanced screen lock](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
 
 - **Step 3. Follow the Instructions and Successfully Remove the Screen Lock**
 
 According to your selected device brand, Dr.Fone provides guidelines for entering the specific mode. Follow the on-screen instructions to start unlocking the screen of your device. If the process is successful, click "Done" to conclude using Dr.Fone – Screen Unlock.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![successfully unlock device](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article has specifically provided you with some important details on **how to delete a Gmail account** with ease. The article explains everything from the methods of deleting it from the computer to removing it from the Vivo Y36 device. Furthermore, it also serves as a guidance for those who have forgotten their device passwords. For that, they've provided an insight into Wondershare Dr.Fone – Screen Unlock and its unique functions.
@@ -494,3 +599,55 @@ This article has specifically provided you with some important details on **how 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-expert-choice-top-12-non-time-restricted-recorders/"><u>[New] 2024 Approved  Expert Choice  Top 12 Non-Time Restricted Recorders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rafting-engaging-content-with-google-trends-analytics-for-2024/"><u>[New] Crafting Engaging Content with Google Trends Analytics for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-igtv-vs-youtube-should-video-content-creators-use-one-platform-or-the-other/"><u>[New] IGTV VS YouTube  Should Video Content Creators Use One Platform or The Other?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-brand-discover-the-riches-in-our-gallery-of-50-free-youtube-banners/"><u>[New] In 2024, Elevate Your Brand - Discover the Riches in Our Gallery of 50 Free YouTube Banners</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-s24-ultra-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy S24 Ultra Unlock Without Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-s24-ultra-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy S24 Ultra? Try These Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-s24-ultra-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy S24 Ultra Lock Screen Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Samsung Galaxy S24 Ultra?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-s24-ultra-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy S24 Ultra to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-samsung-galaxy-s24-ultra-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Samsung Galaxy S24 Ultra Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-s24-ultra-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy S24 Ultra Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-samsung-galaxy-s24-ultra-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Samsung Galaxy S24 Ultra Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-samsung-galaxy-s24-ultra-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Samsung Galaxy S24 Ultra Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-galaxy-s24-ultra-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Galaxy S24 Ultra Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s24-ultra-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S24 Ultra Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s24-ultra-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S24 Ultra Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s24-ultra-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S24 Ultra Phone without Google Account?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-samsung-galaxy-s24-ultra-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Samsung Galaxy S24 Ultra Phone Now with These Tips</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-quick-access-installing-and-using-tiktok-app-on-macbook/"><u>In 2024, Quick Access  Installing and Using TikTok App on MacBook</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-speedy-shots-for-immersive-narratives/"><u>In 2024, Speedy Shots for Immersive Narratives</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-s24-ultra-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy S24 Ultra Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-s24-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy S24 Ultra Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-s24-ultra-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy S24 Ultra Phone Pattern Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-samsung-galaxy-s24-ultra-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Samsung Galaxy S24 Ultra Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-s24-ultra-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy S24 Ultra Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-s24-ultras-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy S24 Ultras Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-s24-ultra-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy S24 Ultra Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/magical-alternatives-to-top-voice-changing-software-for-2024/"><u>Magical Alternatives to Top Voice-Changing Software for 2024</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a34-5g-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy A34 5G won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/techniques-to-perfectly-transcribe-ppts/"><u>Techniques to Perfectly Transcribe PPTs</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-infinix-gt-10-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Infinix GT 10 Pro</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-how-to-fade-inout-audio-with-keyframes-in-filmora-for-mac/"><u>Updated 2024 Approved How to Fade In/Out Audio with Keyframes in Filmora for Mac</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-soundless-filmmakers-handbook-techniques-for-removing-audio-from-iphones-for-2024/"><u>Updated The Soundless Filmmakers Handbook Techniques for Removing Audio From iPhones for 2024</u></a></li>
+</ul></div>

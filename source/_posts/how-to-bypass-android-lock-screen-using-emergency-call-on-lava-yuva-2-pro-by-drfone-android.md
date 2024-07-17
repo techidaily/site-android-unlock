@@ -1,7 +1,7 @@
 ---
 title: How to Bypass Android Lock Screen Using Emergency Call On Lava Yuva 2 Pro?
-date: 2024-04-30T19:18:40.084Z
-updated: 2024-05-01T19:18:40.084Z
+date: 2024-07-16T12:55:49.372Z
+updated: 2024-07-17T12:55:49.372Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Bypass Android Lock Screen Using Emergency Call On Lava Yuva 2 Pro?
 excerpt: This article describes How to Bypass Android Lock Screen Using Emergency Call On Lava Yuva 2 Pro?
 keywords: forgot android password,bypass lock screen password,bypass android face lock,Lava Yuva 2 Pro how to use oem unlocking,android device password reset,Lava Yuva 2 Pro pattern lock screen,pattern lock
-thumbnail: https://www.lifewire.com/thmb/x5hFLtVYVUkR-_nqhbxS_f11j5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netgear-default-password-list-2619154-b581fdcf136848d29e944638cd2ad444.png
+thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png
 ---
 
 ## How to Bypass Android Lock Screen Using Emergency Call On Lava Yuva 2 Pro?
@@ -31,6 +31,9 @@ All Lava devices come with the "Find My Mobile" feature. To bypass the Lava lock
 
 ![how to unlock samsung phone lock password-find my mobile](https://images.wondershare.com/drfone/others/14623529847658.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2. Use Android Device Manager to Bypass Lava Password
 
 To know how to unlock a Lava phone lock password with Android device manager, make sure the Android Device Manager is enabled on your device.
@@ -44,8 +47,14 @@ To know how to unlock a Lava phone lock password with Android device manager, ma
 - Step 7. Now you must get the password field on your phone where you can enter your new password, and your phone will be unlocked.
 - Step 8. Go to lock screen settings on your device and disable the temporary password.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![how to unlock samsung phone lock password-android device manager](https://images.wondershare.com/drfone/others/14623531102514.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3. Google Login (Supports Only Android 4.4 or Lower)
 
 If your device is still running on Android 4.4 or lower, here's how to bypass the Lava lock screen fast.
@@ -91,6 +100,9 @@ A factory reset is the best option in almost any case if one of these solutions 
 
 [Backup your Lava phone](https://drfone.wondershare.com/samsung/samsung-backup.html) regularly in case of any data loss in the future.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Method 7. Boot into Safe Mode
 
 Chances may be that you are using a third-party lock screen app. Then lucky for you, this way works best to bypass the Lava lock screen. Specifically, you can boot your Lava device into [Android Safe Mode](https://drfone.wondershare.com/android-tips/safe-mode-in-android.html).
@@ -102,8 +114,14 @@ Chances may be that you are using a third-party lock screen app. Then lucky for 
 - Step 5. Reboot your device and get out of safe mode.
 - Step 6. Now the irritating lock screen app is removed completely.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to unlock a samsung phone without the code-android safe mode](https://images.wondershare.com/drfone/others/14623549778321.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 8. Other Methods
 
 - Step 1. Take your friend's phone to call on your locked phone.
@@ -116,6 +134,9 @@ To avoid forgetting your password or PIN next time, be sure to write the pattern
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Unlock Lava Yuva 2 Pro Phone with Broken Screen
 
 Seeing as the only way to control your Lava Yuva 2 Pro deviceis the touch screen, a broken device can cause you a lot of worries. Most people think that there is no way to get their device to work again let alone be able to unlock it if [the screen is broken or cracked](https://www.wondershare.com/android/access-android-phone-with-broken-screen.html). It is, however, important to find a way to unlock the broken device so that you can gain access to your data and create a backup to restore to a new device.
@@ -126,6 +147,9 @@ In this article, we are going to look at a few simple ways you can unlock an And
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/KaWEiQhxBTQ" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 1: Using Android Debug Bridge (ADB)
 
 For this method, you will need your device and access to a PC. It is the most powerful method to unlock a broken Android device. It will however only work if you have enabled USB debugging on your android phone. If you haven’t, skip this method and see if method 2 or 3 might be of help.
@@ -147,9 +171,12 @@ _Shell input key event 66_
 
 **Step 6:** Your phone will now be unlocked and you can proceed to back up its contents.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to Reset Phones Without Android Factory Reset Codes
 
@@ -160,6 +187,9 @@ The Best Tool to Reset Phones Without Android Factory Reset Codes
 
 **4,008,670** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Using a USB Mouse and the On the Go Adapter
 
 This is a great solution if you don’t have USB debugging enabled on your device. You will need your device, an OTG adapter and a USB mouse. It involves connecting the Lava Yuva 2 Pro device to the USB mouse using the OTG adapter. Check if your device can be connected to a USB mouse. You can find an OTG adapter online, they are relatively inexpensive and very useful.
@@ -194,6 +224,9 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 
 Being unable to unlock your device is never a good place to be. We hope one of the above solutions will work for you. You can then gain access to your device and back up the files and contacts. This way your life doesn’t have to be disrupted- you can just restore the backup on a new device or the old one once the screen is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Remove a Previously Synced Google Account from Your Lava Yuva 2 Pro
 
 The setting up process of a new Android phone requires you to add a Google account that saves all activities and data of the phone like search history, details of online shipping, play store purchases, and more. Once the account is set, it cannot be changed till you delete everything from your phone. Moreover, with the introduction of FRP lock, even a factory reset will not remove the synced Google account.
@@ -213,6 +246,9 @@ Keep reading to know more in detail about **how to bypass previously synced goog
 
 In this part, we will discuss the methods that can be used for removing the previously synced account from your Android phone without a phone reset.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Removing Google Account using the Android Settings Menu
 
 If you just plan to reset your phone, maybe because of the lag caused by the phone cache, and you know the inconvenience of Google FRP as a protection mechanism, then you can remove Google FRP through the Settings menu.
@@ -225,6 +261,9 @@ The steps for this method are listed below.
 
 To confirm the removal of the account, click on the Remove account button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![remove-google-account-settings-menu](https://images.wondershare.com/drfone/article/2022/06/settings-menu-account-removal.jpg)
 
 ### Method 2: Remove the Google account from the Android phone using the computer
@@ -247,9 +286,15 @@ The Factory Reset Protection (FRP) is a security feature for the Android device 
 
 Though there are multiple tools available we recommend Dr. Fone - Screen Unlock (Android) as the best and the most reliable option. Using this excellent Windows and Mac-based software, FRP lock on all popular Android devices including Samsung, LG, HTC, and others. The tool is simple to use and requires no technology. There is also an option where you can unlock your device if you do not know the OS version.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Phones within Minutes
 
@@ -278,14 +323,23 @@ Steps to remove FRP lock using Dr. Fone-Screen Unlock (Android)
 
 **Step 5:** Now follow the notifications for removing the FRP lock and in the browser enter drfonetoolkit.com.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen unlock bypass google frp](https://images.wondershare.com/drfone/drfone/screen_unlock_frp_android10_1.jpg)
 
 **Step 6:** Next, click on the Android 6/9/10 button, choose Open Settings and select the PIN option to set a PIN to be used in the further steps.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google frp removal](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-android-6-9-10-4.png)
 
 **Step 7:** Keep following the steps as they appear till you reach the Google Account Sign-In page. Here click on the Skip option that will successfully remove and bypass the Google Account.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bypass google lock completed](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
 
 The above given are the brief steps for the FRP bypass process. To learn about the entire process in detail, check [Dr.Fone-Screen Unlock (Android) guide](https://drfone.wondershare.com/guide/google-frp-bypass.html).
@@ -338,3 +392,39 @@ Above we have listed several ways to **remove a previously synced Google account
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-stream-smoothness-tweets-buffering-in-chrome/"><u>[New] 2024 Approved  Stream Smoothness  Tweets Buffering in Chrome</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-enhancing-gaming-experience-with-steam-switch-control/"><u>[Updated] 2024 Approved  Enhancing Gaming Experience with Steam Switch Control</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-building-connections-online-start-with-a-facebook-account/"><u>[Updated] Building Connections Online  Start with a Facebook Account</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/blur-the-outside-sharpen-inside-bokeh-balance-guide-for-2024/"><u>Blur the Outside, Sharpen Inside  Bokeh Balance Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/building-an-audience-with-exceptional-fb-reel-content/"><u>Building an Audience with Exceptional FB Reel Content</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/corrected-clandestine-miniature-video-absence/"><u>Corrected  Clandestine Miniature Video Absence</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Fingerprint Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-samsung-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Samsung</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Pattern Lock Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Samsung Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-itel-p55t-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Itel P55T Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-samsung-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Samsung</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Through Google Earth?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-note-30i-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Note 30i to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Samsung</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-samsung-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Samsung Phone Now with These Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-samsung-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Samsung Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-how-to-make-a-video-with-photos-and-music-for-2024/"><u>New How to Make a Video with Photos and Music for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-slow-mo-to-fast-mo-top-10-free-video-speed-changing-apps-for-ios-and-android/"><u>New Slow Mo to Fast Mo Top 10 Free Video Speed Changing Apps for iOS and Android</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-moto-g04-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Motorola Moto G04 Device</u></a></li>
+</ul></div>

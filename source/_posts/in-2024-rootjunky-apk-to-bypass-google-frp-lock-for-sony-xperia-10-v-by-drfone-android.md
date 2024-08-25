@@ -1,0 +1,479 @@
+---
+title: In 2024, Rootjunky APK To Bypass Google FRP Lock For Sony Xperia 10 V
+date: 2024-08-24T09:35:01.560Z
+updated: 2024-08-25T09:35:01.560Z
+tags: 
+  - unlock
+  - remove screen lock
+categories:
+  - android
+description: This article describes Rootjunky APK To Bypass Google FRP Lock For Sony Xperia 10 V
+excerpt: This article describes Rootjunky APK To Bypass Google FRP Lock For Sony Xperia 10 V
+keywords: unlock android device phone pattern lock without factory reset,fingerprint lock for android device,how to reset voicemail password,Sony Xperia 10 V unlock screen,Sony Xperia 10 V bypass knox enrollment service,hack wifi password android device,Sony Xperia 10 V remove forgotten pin android,unlock android device phone password without factory reset,Sony Xperia 10 V get into locked phone,Sony Xperia 10 V lock screen apps for android,how to unlock android phone without google account,Sony Xperia 10 V unlock android phone without password
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
+---
+
+## Rootjunky APK To Bypass Google FRP Lock For Sony Xperia 10 V 
+
+Factory Reset Protection (FRP) is a security feature built into Android devices running Android 5.1 Lollipop and later versions. It prevents someone from using your phone after a factory data reset without Google account login credentials. The FRP makes it much less attractive for thieves to steal Android phones, knowing they will need help to access them.
+
+FRP automatically activates when you add a Google account to your Android phone. It links the Sony Xperia 10 V device to your account, making it the “trusted owner.” Once activated, FRP becomes embedded in the phone’s system.
+
+While Google FRP is a valuable security feature, it’s vital to acknowledge that there are legitimate situations where bypassing it might be necessary. These instances include forgotten Google account credentials, buying a second-hand device, and device issues. In these cases, tools like **RootJunky** can help you [<u>bypass FRP Lock</u>](https://drfone.wondershare.com/google-frp-unlock/bypass-frp-with-computer.html). We’ll explore how to use **RootJunky APK** later, but first, let’s define what it is and its role in FRP bypass.
+
+![holding an android smartphone](https://images.wondershare.com/drfone/article/2024/01/rootjunky-01.jpg)
+
+
+The **RootJunky APK** is a free Android application also called RootJunky SDL or **RootJunky FRP** Bypass tool. This app’s primary function is to bypass the Google Account FRP lock on Samsung devices. Rootjunky uses the weaknesses in Android’s setup process to create a new user account or switch existing ones, letting you bypass the FRP and regain control of your phone.
+
+You can complete this process using the app by connecting your phone to a computer through an OTG cable. **RootJunky** can be helpfu l if you’ve forgotten your Google account password or bought a second-hand phone locked to someone else’s account. However, only use it if you have legitimate reasons to bypass FRP lock, like accessing your device after forgetting your Google account details.
+
+![rootjunky logo](https://images.wondershare.com/drfone/article/2024/01/rootjunky-02.jpg)
+
+Downloading the **RootJunky FRP** bypass tool from unofficial sources can introduce malware risks, so stick to trusted sources like the official website. Additionally, when exploring RootJunky, it is vital to keep the following in mind:
+
+- Not all Android devices are susceptible to the methods used by RootJunky. It is necessary to check compatibility with your specific device model and Android version.
+- Using FRP bypass tools like RootJunkycan potentially compromise the security of your device. Be cautious and proceed if you fully understand the risks involved.
+- Bypassing FRP may involve data loss.
+- Download **RootJunky FRP** bypass APK from a reliable source to minimize the risk of malware or viruses. You can check the APK file from official websites or trusted forums.
+- Google constantly updates its security measures, so these tools may not always work effectively.
+
+## Part 2: How To Use RootJunky To Bypass Google FRP?
+
+Here are the general steps to use the **FRP Bypass APK RootJunky** app to bypass Google FRP lock. But remember that specific steps may vary depending on your device and Android version:
+
+- **Step 1:** On your computer, download the Rootjunky RealTerm program from the official Rootjunky website.
+
+![realterm program for windows desktop](https://images.wondershare.com/drfone/article/2024/01/rootjunky-03.jpg)
+
+- **Step 2:** On your phone, download the **Rootjunky APK** (com.rootjunky.frpbypass-1.0.apk) file from the official website or other reputable sites.
+
+![rootjunky frp bypass apk file](https://images.wondershare.com/drfone/article/2024/01/rootjunky-04.jpg)
+
+- **Step 3:** Go to **Settings** > **Security** and tap **Install unknown apps**. Then, enable unknown sources to allow installation of apps from outside the Play Store. Connect your device to a Wi-Fi network.
+
+![android phone security and privacy settings](https://images.wondershare.com/drfone/article/2024/01/rootjunky-05.jpg)
+
+- **Step 4:** On your Android phone, open a file explorer app and install the downloaded **RootJunky APK** file.
+- **Step 5:** Connect your smartphone to your computer using a USB cable.
+- **Step 6:** Launch the **Rootjunky** RealTerm program on your computer. Under the **Display** tab, check the **Half Duplex** option.
+- **Step 7:** On your computer, go to **Device Manager** > **Modems**. Locate your device’s port name (e.g., COM3).
+- **Step 8:** On the RealTerm program, enter the correct port number under the **Ports** tab, then click **Change**.
+
+![android phone security and privacy settings](https://images.wondershare.com/drfone/article/2024/01/rootjunky-06.jpg)
+
+- **Step 9:** Click **Send** to establish a connection. Enter the two commands:
+
+- at + creg? \\ r \\ n
+- atd1234; \\ r \\ n
+
+- **Step 10:** Once connected, the **Rootjunky APK** on your phone will provide on-screen instructions to bypass FRP.
+- **Step 11:** If prompted, [<u>perform a factory data reset</u>](https://drfone.wondershare.com/unlock/factory-reset-samsung-galaxy-a12-without-password-guide.html) of your device.
+
+While **RootJunky** offers a free method for FRP bypass, it can be incompatible with your device’s brand, requiring technical knowledge, tedious, and potentially risky. If you are looking for a simpler, safer, and more user-friendly solution, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) might be a better fit for you. If you want to learn how to use this tool to bypass FRP lock with minimal technical expertise, then keep reading.
+
+## Part 3: Easier Tool Than RootJunky APK To Bypass Google FRP
+
+[<u>Google FRP</u>](https://drfone.wondershare.com/google-frp-unlock/google-pixel-frp-bypass.html) adds an extra layer of security after a device reset. However, regaining access to the smartphone can be challenging if you forget your Google account details, forget your lock screen, or just buy a used device. While methods like the **FRP RootJunky** app exist, using it can be complex or risky.
+
+Consider exploring third-party options like Dr.Fone for a potentially easier and safer FRP bypass solution. Dr.Fone Screen Unlock tool helps remove the Android FRP lock without requiring a PIN or Google Account.
+
+Why Use Dr.Fone - Screen Unlock?
+
+Here are some of the key features of Dr.Fone - Screen Unlock:
+
+- **User-friendly:**Fone boasts an intuitive interface, eliminating the need for technical expertise. Even beginners can navigate the process with ease.
+- **Widespread Brand Compatibility:**Fone supports mainstream brands, such as Samsung, Xiaomi, Oppo, Redmi, Realme, and Vivo, catering to a broader user base.
+- **Fast and Efficient:**Regain access to your device in minutes without wasting time on tedious procedures.
+
+Step-by-step Guide to Removing FRP Lock With Dr.Fone - Screen Unlock
+
+Ready to leave the hassle of using **RootJunky** and easily bypass the FRP lock? Download and install Dr.Fone on your computer, then follow these steps to learn how to bypass Google FRP on your device:
+
+- **Step 1:** Launch Dr.Fone on your computer and connect it to your Android device. Choose **Screen Unlock** from the **Toolbox** in the main interface.
+
+![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+
+- **Step 2:** Choose **Android** as your device type. This will take you to the next screen, where you can select **Remove Google FRP Lock** to proceed.
+
+![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+- **Step 3:** Select your device’s brand from the list and click **Start** to continue.
+
+![select phone brand to remove frp](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
+
+**Note:**
+
+The next steps may vary depending on the brand you selected.
+
+- **Step 4:** Select the OS version of your device and click **Start** to continue.
+
+![remove google frp lock interface](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-4.png)
+
+- **Step 5:** Access the secret menu on your phone using the on-screen instructions, then click **Next** to proceed to the next step.
+
+![instructions to access device secret menu](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-5.png)
+
+- **Step 6:** When your Samsung prompts you to activate USB debugging, tap **Allow**. Then, on your computer screen, click **Authorized** to confirm.
+
+![allow usb debugging on phone](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-6.png)
+
+- **Step 7:** You will see the FRP lock being bypassed on your Android device on the next screen.
+
+![dr.fone bypassing google frp lock](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-7.png)
+
+- **Step 8:** Click **Done** if the FRP lock removal was successful, otherwise, click **Try Again** to repeat the process.
+
+![successful frp lock removal](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
+
+That’s it! With Dr.Fone Screen Unlock, you can easily bypass Google FRP and regain access to your Android device, leaving the complexities of **RootJunky** behind.
+
+_**Tips:** Are you searching for a powerful FRP bypass tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
+
+## Conclusion
+
+Both **RootJunky** and Dr.Fone offer options for you to regain control of phones with Google FRP lock. **FRP Bypass RootJunky** tool excels with its free-to-use approach, perfect for tech-savvy users comfortable with APK installations. While requiring a paid subscription, Dr. Fone provides pre-rooted firmware installations and broader device compatibility, which is ideal for those seeking a more streamlined but supported experience.
+
+The best choice boils down to your personal needs and budget. Remember, FRP bypass should only be utilized by rightful owners facing genuine lockouts. When used responsibly, these tools can help you access your phone after a factory reset even without your Google account credentials. Choose the tool that best fits your needs and proceed with caution. Use these tools responsibly and regain access to your device the right way.
+
+## How to Unlock Sony Xperia 10 V Phone with Broken Screen
+
+Seeing as the only way to control your Sony Xperia 10 V deviceis the touch screen, a broken device can cause you a lot of worries. Most people think that there is no way to get their device to work again let alone be able to unlock it if [the screen is broken or cracked](https://www.wondershare.com/android/access-android-phone-with-broken-screen.html). It is, however, important to find a way to unlock the broken device so that you can gain access to your data and create a backup to restore to a new device.
+
+In this article, we are going to look at a few simple ways you can unlock an Android device with a broken screen.
+
+**Here is a video for you to learn how to unlock Android phone or access phone with broken screen:**
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/KaWEiQhxBTQ" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## Method 1: Using Android Debug Bridge (ADB)
+
+For this method, you will need your device and access to a PC. It is the most powerful method to unlock a broken Android device. It will however only work if you have enabled USB debugging on your android phone. If you haven’t, skip this method and see if method 2 or 3 might be of help.
+
+ADB creates a bridge between the PC and your device which can then be used to unlock the Sony Xperia 10 V device. Here’s how to use this bridge.
+
+**Step 1:** Download the Android SDK package on your PC. You can download it here: [http://developer.android.com/sdk/index.html](http://developer.android.com/sdk/index.html). Extract the ZIP file on your PC.
+
+**Step 2:** Download the necessary drivers for your device. The USB drivers for your device can be found on the manufacturer’s website.
+
+**Step 3:** Launch Command Prompt on your PC and change the location of the ADB file. Type in the following into Command Prompt; _cd C:/android/platform-tools_
+
+**Step 4:** Connect the Sony Xperia 10 V device to your PC using USB cables. Enter the command “ ADB _device_” (without quotation marks). If your phone is recognized, you will see numbers in the Command Prompt message.
+
+**Step 5:** Type in the following two commands. You will need to type in the second one immediately after the first. Replace 1234 with your password.
+
+_ADB shell input text 1234_  
+_Shell input key event 66_
+
+**Step 6:** Your phone will now be unlocked and you can proceed to back up its contents.
+
+![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+
+The Best Tool to Reset Phones Without Android Factory Reset Codes
+
+- It enables your Android phones to get safe, simple, and trustful after reset.
+- It is still helpful even though you don't know the OS version of your devices.
+- Everybody can handle it without any technical background.
+- Provide specific removal solutions to promise good success rate.
+
+**4,008,670** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+## Method 2: Using a USB Mouse and the On the Go Adapter
+
+This is a great solution if you don’t have USB debugging enabled on your device. You will need your device, an OTG adapter and a USB mouse. It involves connecting the Sony Xperia 10 V device to the USB mouse using the OTG adapter. Check if your device can be connected to a USB mouse. You can find an OTG adapter online, they are relatively inexpensive and very useful.
+
+Before we begin, it is a good idea to ensure your device is sufficiently charged because the Mouse may drain your battery.
+
+**Step 1:** Connect the Micro USB side of the OTG adapter to your device and then plug in the USB mouse to the adapter.
+
+![connect broken screen android phone](https://images.wondershare.com/drfone/others/14531933625473.jpg)
+
+**Step 2:** As soon as the Sony Xperia 10 V devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the Sony Xperia 10 V device’s password lock.
+
+![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
+
+You can then go about backing up the contents of your device.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Method 3: Using your Samsung Account
+
+This method is a reliable way to unlock a Samsung device that has a broken screen or is not working correctly. While it is highly effective you will need to have a Samsung account registered with your device. The problem is that not many Samsung device users have registered their devices with the service. If you are among the lucky few who have, here’s how to use your account to unlock your device.
+
+**Step 1:** Visit the [https://findmymobile.samsung.com/login.do](https://findmymobile.samsung.com/login.do) on your PC or any other device and log in with your account information.
+
+![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933993021.jpg)
+
+**Step 2:** Select your device from the menu on the left-hand side of the screen.
+
+**Step 3:** You should see the option “Unlock my screen” on the sidebar. Click on it and you will get instructions on how to access your device.
+
+![unlock android using samsung account](https://images.wondershare.com/drfone/others/14531934188479.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+## Conclusion
+
+Being unable to unlock your device is never a good place to be. We hope one of the above solutions will work for you. You can then gain access to your device and back up the files and contacts. This way your life doesn’t have to be disrupted- you can just restore the backup on a new device or the old one once the screen is fixed.
+
+## Forgot Pattern Lock? Here's How You Can Unlock Sony Xperia 10 V Pattern Lock Screen
+
+Forgetting the pattern lock of a device and getting locked out of it is probably one of the most frustrating scenarios faced by Android users. Nevertheless, unlike popular operating systems, Android provides a seamless way to past the forgot pattern lock feature.
+
+You can either try Google’s native solution or a third-party tool in case you have forgotten the pattern lock on your device and reset it. In no time, you will be able to access your device (or even someone else’s phone by following these techniques). To make things easier for you, we have provided three simple solutions to resolve forgotten patterns on Android devices.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/68FqgS6Ym8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+## Part 1: How to bypass forgot pattern lock using the 'Forgot Pattern' feature?
+
+One of the easiest and fastest ways to fix the forgot pattern lock issue on a device is by using its inbuilt “Forgot Pattern” feature. If you are using an Android 4.4 or earlier version, then you can simply access this feature. Since users can hack an Android device just by knowing the Google credentials of the connected device, the solution was later discontinued (as it was considered a security vulnerability). Nevertheless, if your device hasn’t been updated and you are using an Android 4.4 or previous version, then you can bypass the forgot pattern lock by following these steps:
+
+**Step 1.** Firstly, provide the wrong pattern to your device. It will let you know that you applied the incorrect pattern.
+
+**Step 2.** On the same prompt, you can see an option of “Forgot pattern” on the bottom. Simply tap on it.
+
+![forgot pattern](https://images.wondershare.com/drfone/article/2017/09/15059289368742.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
+**Step 3.** This will open a new screen, which can be used to bypass the forgotten pattern of Android. Select the option for entering the Google Account details and proceed.
+
+**Step 4.** To reset the forgot pattern lock, you need to provide the correct Google credentials of the account already linked to the Sony Xperia 10 V device.
+
+![enter google account](https://images.wondershare.com/drfone/article/2017/09/15059290192675.jpg)
+
+**Step 5.** After signing in to the interface, you will be asked to provide a new pattern lock for the Sony Xperia 10 V device.
+
+![draw an unlock pattern](https://images.wondershare.com/drfone/article/2017/09/15059290477717.jpg)
+
+**Step 6.** Confirm your choice and set a new pattern lock on your device.
+
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
+## Part 2: How to get past forgot pattern lock using Dr.Fone - Screen Unlock (Android)?
+
+One of the major drawbacks of the “Forgot pattern” feature is that it doesn’t work on new Android devices. Since most of the Sony Xperia 10 V devices out there have been updated, the technique has been outdated. Therefore, you can simply take the assistance of [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) to bypass the forgot pattern lock on your device. Without causing any harm to your device or erasing its data, your device’s password or pattern would be removed.
+
+It is a part of the Dr.Fone toolkit and is compatible with all the leading Android devices out there. It can be used to remove passwords, patterns, pins, and more. It has an easy-to-use interface and provides a simple click-through process to resolve the forgot pattern Android lock on your device. However, this tool merely retains all the data after unlocking Samsung and LG screens. Other Android locked screens can also be unlocked, and the only thing is that it will wipe all the data after unlocking.
+
+
+
+### [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+
+Save You from Ending up with a Locked Phone After Too Many Pattern Attempts
+
+- It can remove 4 screen lock types - pattern, PIN, password & fingerprints.
+- Work for Samsung, LG, Huawei phones, Google Pixel, Xiaomi, Lenovo, etc.
+- Unlock 20,000+ models of Android phones & tablets.
+- Enable you to break your Android pattern lock without root.
+
+**4,008,669** people have downloaded it
+
+**Step 1.** To start with, visit the official website of Dr.Fone - Screen Unlock (Android) and download it on your system. After installing it, launch the tool and select the option of "Screen Unlock" from the home screen.
+
+![lock screen removal](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+**Step 2.** To use its forgot pattern lock feature, you need to connect your Sony Xperia 10 V to your system using a USB cable. Once your device has been detected automatically, just click on the "Android"> "Unlock Android Screen" button.
+
+![forgot pattern android - start to remove](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+**Step 3.** Select the correct phone brand. It is important to ensure phone brand correctness to prevent bricking.
+
+![forgot pattern lock - select model details](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+**Step 4.** Then, enter "confirm" in the box to tell the tool that you agree to proceed.
+
+![forgot pattern lock - confirm operation](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
+
+**Step 5.** Now, in order to fix the forgot pattern Android issue, you need to put your device into the Download Mode. To do this, you need to ensure that your device is switched off. Once it is off, hold the Power, Home, and Volume Down buttons simultaneously. After a while, press the Volume Up button to put your device into Download Mode.
+
+![boot device in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
+
+**Step 6.** After your device enters its Download Mode, it will automatically be detected by the interface. It will start downloading the needed recovery packages to resolve the issue. Sit back and relax, as it might take a while to download the recovery packages. Let the application process the essential operations, and don’t disconnect your Sony Xperia 10 V until it is completed successfully.
+
+![unlock android pattern](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
+
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+**Step 7.** In the end, you will get a prompt like this on the screen, informing you that the password/pattern on the Sony Xperia 10 V device has been removed.
+
+![unlock android pattern](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+That’s it! Now, you can disconnect the Sony Xperia 10 V device safely and use it how you like.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
+## Part 3: How to bypass forgot pattern lock using Android Device Manager?
+
+To make it easier for its users to locate, lock, or erase their devices remotely, Google has developed a dedicated feature of the Android Device Manager. It is also commonly known as “Find My Device” as it is mostly used to locate a lost (or stolen) device. Though you can use this feature to ring your device, lock it, unlock it, or erase it remotely. You can access it from anywhere by providing your Google credentials and resolving the forgot pattern Android problem.
+
+All of this can be done by following these steps:
+
+**Step 1.** Launch a web browser of any device and go to the Android Device Manager website by clicking right here: <https://www.google.com/android/find>.
+
+**Step 2.** You need to provide your Google credentials to sign in. Remember, this should be the same Google account that is linked to your device.
+
+**Step 3.** After signing in, select the target Android device.
+
+**Step 4.** You will get the location of the Sony Xperia 10 V device with several other options (lock, erase, and ring).
+
+![lock android phone](https://images.wondershare.com/drfone/article/2017/09/15059290696992.jpg)
+
+**Step 5.** Click on the “Lock” button to reset its password.
+
+**Step 6.** It will open a new pop-up window. From here, you can provide the new password for your device.
+
+**Step 7.** After confirming your password, you can also provide an optional recovery message and phone number (if your device has been lost or stolen).
+
+![enter new password](https://images.wondershare.com/drfone/article/2017/09/15059290882506.jpg)
+
+**Step 8.** Save your changes and sign out of your account from Android Device Manager.
+
+This will automatically reset the old pattern on your device to the new password.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
+## Part 4: How to bypass forgot Samsung pattern lock using Samsung Find My Mobile
+
+Bypassing a forgotten Samsung pattern lock using the Samsung Find My Mobile service is a method specifically designed for Samsung devices. This method allows you to unlock your Samsung device without losing any data. It's a convenient way to regain access to your device if you've forgotten the pattern lock.
+
+However, it relies on having previously set up Samsung Find My Mobile and linked your device. Here is how to unlock your Samsung device with Samsung Find My Mobile:
+
+**Step 1:** Access the Find My Mobile (SmartThings Find) website using either a computer or another mobile device. Sign in using the Samsung account details linked to the locked device.
+
+![login into samsung find my](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-1.jpg)
+
+**Step 2:** After successfully logging in, locate the locked Samsung device. Now, click on the "Unlock" feature. Upon choosing this option, a pop-up window will appear. It will prompt you to input your Samsung account password. Once you've entered your password, proceed to unlock the Sony Xperia 10 V device by pressing "Next."
+
+![use the unlock feature](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
+## Part 5: How to bypass forgot pattern lock using Safe Mode
+
+If you have locked your device using a third-party app, there exists a simple solution. You can use the Safe Mode to remove the problematic app. Safe Mode is intended for troubleshooting and disabling third-party apps. Following are the steps you need to follow to use Safe Mode to unlock your Android device:
+
+**Step 1:** Initiating Safe Mode requires a simultaneous three-second press of the "Volume Down" and "Power" keys. When the power menu becomes visible, proceed to long-press the "Power Off" icon.
+
+**Step 2:** In a moment, you'll see the option "Safe Mode" replacing the other "Power Off" menu options. Proceed to boot your device into Safe Mode and uninstall the troublesome application.
+
+![enable the safe mode](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-3.jpg)
+
+## Part 6: How to bypass forgot pattern lock using Factory Reset
+
+Bypassing a forgotten pattern lock on an Android device using a factory reset is a last resort. The reason is it will erase all data on your device, including apps, photos, and settings. However, it can be an effective way to regain access to your device when other methods have failed. Here's how to do it:
+
+**Step 1:** Turn off your Samsung device and connect it to your computer. Now press and hold “Volume Up” and “Power” keys for a while. Release the keys once the Sony Xperia 10 V device enters Recovery Mode.
+
+**Step 2:** In Recovery Mode, use the Volume keys to navigate to “Wipe data/factory reset” and select it with the “Power” key. Confirm the action on the next screen by selecting “Factory data reset.”
+
+![choose wipe data factory reset](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-4.jpg)
+
+## Wrap it up
+
+If you have also forgotten the pattern lock on your device, then you can simply remove or reset it by following these solutions. In this way, you won’t even lose your important data files or cause any harm to your device. Without facing any unwanted setbacks, you would be able to [bypass forgot pattern Android using Dr. Fone - Screen Unlock](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It provides a fast, reliable, and secure solution to remove the lock screen security of an Android device in an effortless way.
+
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-enhancing-iphoneandroid-video-clarity-on-facebook-for-2024/"><u>[New] Enhancing iPhone/Android Video Clarity on Facebook for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-archive-your-art-innovative-cost-effective-photo-storage-platforms/"><u>2024 Approved  Archive Your Art  Innovative, Cost-Effective Photo Storage Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-integrating-subtitles-into-your-online-social-videography-efforts/"><u>2024 Approved  Integrating Subtitles Into Your Online Social Videography Efforts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-motorola-unlock-without-password-by-drfone-android/"><u>5 Solutions For Motorola Unlock Without Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-samsung-galaxy-m14-4g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Samsung Galaxy M14 4G Unlock Without Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-s24plus-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy S24+ Fingerprint Lock</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-your-digital-presence-best-vocal-tweakers-for-vtubers/"><u>Elevating Your Digital Presence  Best Vocal Tweakers for VTubers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817829043-eliminate-video-stutter-in-minutes/"><u>Eliminate Video Stutter in Minutes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-gionee-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Gionee</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo? Try These Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-sony-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Sony?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a24-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy A24 Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-v27e-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo V27e?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-motorola-g54-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Motorola G54 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-meizu-21-devices-by-drfone-android/"><u>How to Reset Gmail Password on Meizu 21 Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-y27-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo Y27 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-vivo-y27-4g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo Y27 4G Through Google Earth?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-a14-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy A14 5G Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-s17-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo S17 Pro Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-y200-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo Y200 Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-t2-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo T2 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-realme-narzo-60x-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Realme Narzo 60x 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-access-unlimited-12-stream-livestream-content/"><u>In 2024, Access Unlimited 12-Stream Livestream Content</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-z-flip-5-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung Galaxy Z Flip 5?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-s17t-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo S17t?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-x-fold-2-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo X Fold 2</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-se-2022-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone SE (2022)? Heres the Best Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-x100-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo X100 Pro Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-a23-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy A23 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-s17-pro-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo S17 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-oppo-a59-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Oppo A59 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f15-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Samsung Galaxy F15 5G Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y55s-5g-2023-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y55s 5G (2023) PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-y17s-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Vivo Y17s without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-s17t-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo S17t Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-a14-4g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy A14 4G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-y36-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Y36 Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-a25-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-f34-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy F34 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y100-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y100 Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-samsung-galaxy-m54-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Samsung Galaxy M54 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-m34-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy M34 5G Phone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-memory-issues-in-cod-mobile-and-console-version-tackling-error-0-1766-efficiently/"><u>Troubleshoot Memory Issues in COD Mobile & Console Version: Tackling Error 0-1766 Efficiently</u></a></li>
+</ul></div>

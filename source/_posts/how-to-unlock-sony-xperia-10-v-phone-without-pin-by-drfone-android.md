@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Sony Xperia 10 V Phone without PIN
-date: 2024-09-11T20:06:44.567Z
-updated: 2024-09-13T23:53:54.419Z
+date: 2024-09-18T20:47:41.053Z
+updated: 2024-09-19T19:09:45.648Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,25 +22,11 @@ Being locked out of your device just because you forgot your lock screen pin can
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1.How to Unlock your Sony Xperia 10 V PIN Using Dr.Fone - Screen Unlock (Android)
 
 If your android lock screen is locked because you have forgotten the pin, you will, of course, think of finding the best android [phone unlocking software](https://drfone.wondershare.com/sim-unlock/android-unlock-software.html). Dr.Fone is the best android lock screen removal that you can use. Within five minutes, you can use this android lock screen removal to remove up to four types of android screen lock types which are: PIN, Pattern, Password, and Fingerprints.
 
 With [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/), you also can unlock your screen without any data loss. Using this lock removal is very easy as it doesn't require any technical knowledge. Anyone who knows how to use an android device can use it. This app is used to unlock Samsung Galaxy S, Note, Series and much more.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -65,13 +51,6 @@ Note：You can also use these tool to bypass other phone's screen including Huaw
 
 ![unlock your Android PIN-connect your android device](https://images.wondershare.com/drfone/drfone/android-unlock-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3**. Select your phone's model in the list provided. Type "000000" on the blank box provide and then click the "Confirm" button.Then follow the guide provided to enter download Mode. You can also Power off the android device, and then press Power, Home and Volume Down button simultaneously and then press the Volume Up in order to enter download mode.
 
 ![unlock your Android PIN-Select your phone's model](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
@@ -80,29 +59,9 @@ Note：You can also use these tool to bypass other phone's screen including Huaw
 
 ![unlock your Android PIN-download recovery package](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![unlock your Android PIN-remove the lock pin](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 Well done! you have now removed the distressing pin on your phone. Next time put a pin that you can easily remember.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2.How To Enable Your Android Screen Lock PIN
 
@@ -120,36 +79,15 @@ On your android device, open Settings. You can find the settings app in the app;
 
 ![enable or disable screen lock PIN- Select the ](https://images.wondershare.com/drfone/article/2016/05/14646056432103.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3**: Once you have clicked on "Security", Go to "Screen Lock." You will be provided with lock screen option such as None, Swipe, Pattern. PIN, and Password.
 
 ![enable or disable screen lock PIN-Go to Screen Lock](https://images.wondershare.com/drfone/article/2016/05/14646063398300.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4**. Click on "PIN" option. You will be prompted to enter preferred 4-didgit PIN number. You will then be required o key in the same 4 digits to confirm your security PIN. Click "OK" and you will have enabled your Android screen lock PIN.
 
 ![enable or disable screen lock PIN-confirm your security PIN](https://images.wondershare.com/drfone/article/2016/05/14646069136524.jpg)
 
 Good job. You will have to enter this PIN whenever your phone sleeps or when you reboot your phone.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3. How to Disable Your Android Screen Lock PIN
 
@@ -167,6 +105,19 @@ In most occasions, in fact, 99.9%, the first thing that you will see when you po
 
 ![enable or disable screen lock PIN-disable the screen lock PIN](https://images.wondershare.com/drfone/article/2016/05/14646081243209.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You will be prompted to enter the current PIN in order to disable it. Key in the PIN and you will have successfully disabled the Lock screen PIN. When you power off and the power on your android device, you will easily access your phone without any need for security PIN. Similarly, anyone can use your phone if they can gain access to it as it doesn't have any screen lock.
 
 Enabling screen lock on your Android is the smartest thing to do especially if you value your own privacy. On the other hand, it is a nightmare if you forget screen lock and you don't know how to go about it. But at this moment, at least you have known a perfect way that you can remove screen lock without losing data on your Android phone.
@@ -176,28 +127,21 @@ Enabling screen lock on your Android is the smartest thing to do especially if y
 If you cannot remember your pin, pattern or password to access your Android device, this content will introduce you to the most effective method to handle the fingerprint lock, unlocking, bypassing and swiping in Android based gadgets. Your lock screen appears on your phone immediately after you turn your device on and it is there to save your privacy, data also to make your screen user-friendly and more functional. The additional material that definitely helps you to solve your limited access issue in your Android phone can be viewed here.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The Best Way to Unlock, Bypass, Swipe and Remove Android Fingerprint Lock
 
 [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is a highly straightforward, fast and handy [phone unlocking software](https://drfone.wondershare.com/sim-unlock/android-unlock-software.html). With that particular application, you will be able to solve the lock screen removal issue in 5 minutes. It is really powerful as it can handle 4 types of screen locks such as password, fingerprints, pin and pattern. All you data will not be touched by the app and you do not have to possess some knowledge in tech field. So far, Dr.Fone - Android Lock Screen Removal is available for Samsung Galaxy S, Note and Tab Series and LG series for unlocking without any data losing.Temporarily, this tool can't mantain all the data when unlocking the screen from other mobile devices including Onepus, Xiaomi, iPhone. However really soon, the app will be available for the users of other operating systems. Before you purchase it, you are free to try it. You can acquire the app for 49.95 USD. You will be getting advantage using this app as comes with free lifetime update, also you will receive the keycode in minutes. Comments and feedback on Dr.Fone - Android Lock Screen Removal can be viewed here. You definitely will be interested as the app has 5 stars rating and tons of positive feedback.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-expertise-in-speech-conversion-mastering-googles-method/"><u>[New] In 2024, Expertise in Speech Conversion Mastering Google’s Method</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-relapse-prevention/"><u>[New] Relapse Prevention</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-visual-harmony-ios-and-macos-photoviewer-blend/"><u>[Updated] 2024 Approved Visual Harmony IOS & macOS Photoviewer Blend</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-digital-workshop-archives/"><u>[Updated] Digital Workshop Archives</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-lava-blaze-2-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Lava Blaze 2 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-meizu-21-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Meizu 21 Pro Device</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-online-webm-video-optimization-tools-for-smaller-files-for-2024/"><u>New Online WebM Video Optimization Tools for Smaller Files for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-lava-yuva-2-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Lava Yuva 2 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-key-beware-the-subtle-dangers-of-discounts/"><u>Windows Key Beware: The Subtle Dangers of Discounts</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -206,3 +150,18 @@ If you cannot remember your pin, pattern or password to access your Android devi
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-blueprint-for-building-a-graphic-design-business/"><u>[New] 2024 Approved Blueprint for Building a Graphic Design Business</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-altering-visuals-in-teams-calls-timely-setup-adjustments-for-2024/"><u>[New] Altering Visuals in Teams Calls Timely Setup Adjustments for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-elite-workstations-for-peak-productivity/"><u>[Updated] Elite Workstations for Peak Productivity</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-distinguishing-between-youtube-policies-and-cc-clauses/"><u>2024 Approved Distinguishing Between YouTube Policies and CC Clauses</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-your-experience-the-fix-for-reduced-frames-per-second-in-pcs-forza-horizon-5/"><u>Enhancing Your Experience - The Fix for Reduced Frames Per Second in PC's Forza Horizon 5</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-xr-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone XR</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-yuva-3-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Lava Yuva 3 Bootloader Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-asus-rog-phone-8-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Asus ROG Phone 8</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-sony-xperia-1-v-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Sony Xperia 1 V Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-motorola-edge-40-by-drfone-android/"><u>Universal Unlock Pattern for Motorola Edge 40</u></a></li>
+</ul></div>
+

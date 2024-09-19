@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Sony Xperia 5 V Pattern Lock Screen
-date: 2024-09-09T04:39:40.297Z
-updated: 2024-09-14T00:29:39.554Z
+date: 2024-09-14T18:09:28.895Z
+updated: 2024-09-19T21:17:23.828Z
 tags: 
   - unlock
   - remove screen lock
@@ -48,19 +48,6 @@ One of the easiest and fastest ways to fix the forgot pattern lock issue on a de
 
 **Step 6.** Confirm your choice and set a new pattern lock on your device.
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to get past forgot pattern lock using Dr.Fone - Screen Unlock (Android)?
 
 One of the major drawbacks of the “Forgot pattern” feature is that it doesn’t work on new Android devices. Since most of the Sony Xperia 5 V devices out there have been updated, the technique has been outdated. Therefore, you can simply take the assistance of [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) to bypass the forgot pattern lock on your device. Without causing any harm to your device or erasing its data, your device’s password or pattern would be removed.
@@ -82,23 +69,9 @@ Save You from Ending up with a Locked Phone After Too Many Pattern Attempts
 
 ![lock screen removal](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2.** To use its forgot pattern lock feature, you need to connect your Sony Xperia 5 V to your system using a USB cable. Once your device has been detected automatically, just click on the "Android"> "Unlock Android Screen" button.
 
 ![forgot pattern android - start to remove](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3.** Select the correct phone brand. It is important to ensure phone brand correctness to prevent bricking.
 
@@ -108,54 +81,19 @@ Save You from Ending up with a Locked Phone After Too Many Pattern Attempts
 
 ![forgot pattern lock - confirm operation](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5.** Now, in order to fix the forgot pattern Android issue, you need to put your device into the Download Mode. To do this, you need to ensure that your device is switched off. Once it is off, hold the Power, Home, and Volume Down buttons simultaneously. After a while, press the Volume Up button to put your device into Download Mode.
 
 ![boot device in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 6.** After your device enters its Download Mode, it will automatically be detected by the interface. It will start downloading the needed recovery packages to resolve the issue. Sit back and relax, as it might take a while to download the recovery packages. Let the application process the essential operations, and don’t disconnect your Sony Xperia 5 V until it is completed successfully.
 
 ![unlock android pattern](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 7.** In the end, you will get a prompt like this on the screen, informing you that the password/pattern on the Sony Xperia 5 V device has been removed.
 
 ![unlock android pattern](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 That’s it! Now, you can disconnect the Sony Xperia 5 V device safely and use it how you like.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to bypass forgot pattern lock using Android Device Manager?
 
@@ -173,19 +111,6 @@ All of this can be done by following these steps:
 
 ![lock android phone](https://images.wondershare.com/drfone/article/2017/09/15059290696992.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5.** Click on the “Lock” button to reset its password.
 
 **Step 6.** It will open a new pop-up window. From here, you can provide the new password for your device.
@@ -194,28 +119,15 @@ All of this can be done by following these steps:
 
 ![enter new password](https://images.wondershare.com/drfone/article/2017/09/15059290882506.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 8.** Save your changes and sign out of your account from Android Device Manager.
 
 This will automatically reset the old pattern on your device to the new password.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to bypass forgot Samsung pattern lock using Samsung Find My Mobile
@@ -228,29 +140,15 @@ However, it relies on having previously set up Samsung Find My Mobile and linked
 
 ![login into samsung find my](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** After successfully logging in, locate the locked Samsung device. Now, click on the "Unlock" feature. Upon choosing this option, a pop-up window will appear. It will prompt you to input your Samsung account password. Once you've entered your password, proceed to unlock the Sony Xperia 5 V device by pressing "Next."
 
 ![use the unlock feature](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 5: How to bypass forgot pattern lock using Safe Mode
@@ -272,19 +170,6 @@ Bypassing a forgotten pattern lock on an Android device using a factory reset is
 **Step 2:** In Recovery Mode, use the Volume keys to navigate to “Wipe data/factory reset” and select it with the “Power” key. Confirm the action on the next screen by selecting “Factory data reset.”
 
 ![choose wipe data factory reset](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Wrap it up
 
@@ -313,18 +198,18 @@ You need to log into the Google account that is associated with the Sony Xperia 
 
 ![unlock with security question](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - You must enter the Gmail account that is associated with the Sony Xperia 5 V device here before selecting "Next."
 
 ![answer the security question](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-2.jpg)
 
 - That's it; from this point forward, you may enter any new PIN or pattern that you can recall to unlock your smartphone.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Google Find My Device
 
@@ -347,30 +232,10 @@ After that, use Find My Device to unlock your Android phone without losing any d
 
 ![unlock samsung without data loss](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Sign in with your Samsung account at findmymobile.samsung.com.
 - Choose "Lock my screen" from the menu on the left, type a new PIN in the box given, and then click "LOCK."
 
 ![generating new pin using lock my screen](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Your smartphone will be unlocked, and the password will be changed to the new one after a brief delay.
 
@@ -384,16 +249,10 @@ Without a factory reset, Android phone passwords may also be unlocked using the 
 ![launch the adb installer to unlock android](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-6.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - Here, you must use a USB cable to connect your Sony Xperia 5 V to the computer
@@ -423,19 +282,6 @@ When your phone is locked, you may access the recovery menu of your phone using 
 
 ![reboot the system and follow factory reset](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-9.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Unlock from Forgot Pattern (android 4.4 or lower)
 
 This is another choice that might assist you in unlocking your phone without a factory reset or password. You may have observed that when pattern lock was enabled on your device, a security PIN question was also prompted at that time.
@@ -450,13 +296,6 @@ Therefore, you have the choice to Backup PIN, which might assist you in unlockin
 - Put the backup PIN and OK here.
 - At last, you may unlock your cellphone by entering the backup PIN.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Boot into safe mode
 
 Here's how you can boot into safe mode.
@@ -470,13 +309,6 @@ Here's how you can boot into safe mode.
 - You will see that after entering and booting into the safe mode, the lock option will not be visible.
 - Then you will also see the option to turn off boot.
 - You can get rid of the locked phone by proceeding with that option.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Easy Tool To Unlock Android Phone Without Password
 
@@ -519,13 +351,6 @@ The recovery package will begin downloading once you set your device in download
 
 ![download a package for recovery](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5: Unlock Android without erasing data**
 
 After the recovery package download is finished, click "Remove Now." This operation won't harm any data on your Android device.
@@ -533,26 +358,6 @@ After the recovery package download is finished, click "Remove Now." This operat
 When everything is done, you won't need to enter a password to access your Android smartphone, allowing you to see all of your data without any limitations.
 
 ![wait until the password removal process completes](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Tips: How To Keep Our Data Safe?
 
@@ -569,19 +374,6 @@ Open Dr.Fone on your PC, then select "Phone Backup" from the menu.
 Next, join your Android phone to the computer with a USB cable. The phone must be in USB debugging mode, please. You will be prompted to approve USB Debugging in a pop-up window on the Android phone if your version of Android is higher. Press the OK button if you would.
 
 ![approve usb debugging to connect device](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Click Backup to start backing up the data on your Android device.
 
@@ -613,13 +405,6 @@ Here is the complete guide with five methods to unlock an Sony  device that work
 
 ## Part 1: Lock System About Sony Xperia 5 V
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1: Lock Types
 
 Before we move towards the **Sony Xperia 5 V  pattern unlock**, let's talk about its lock types and security system. Sony Xperia 5 V  is one of the older versions of Sony  android phones that was released in 2016. At that time, only flagship phones from each brand came with features like fingerprint sensors and facial unlock. Sony Xperia 5 V  doesn't offer these lock types. You can only set up a screen lock as a password, pattern, and PIN. You can also lock apps on Sony Xperia 5 V  with its privacy password settings.
@@ -649,25 +434,11 @@ You can use the Google Find My Device for your **Sony Xperia 5 V  pattern unlock
 
 ![google find my device web home page](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Open any browser on your PC and visit "Google Find My Device."
 - Make sure your phone is connected to the internet.
 - Select the "Erase Device" option and log in with your Google account.
 - After verification, click on "Ok" and wait for the system to factory reset.
 - Power on your device and enter it without any pattern or password.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2: Google Account
 
@@ -682,25 +453,11 @@ Here is how you can do an **Sony Xperia 5 V  pattern unlock without PC**. You do
 - Now the system will ask for your Google account and password.
 - After you verify your Google account, you can enter your device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3: Answer Security Questions
 
 If you want to unlock your Sony  phone, you can also answer some security questions and reset the password. This method does not work on all Sony  devices, but you can use it for **Sony Xperia 5 V  screen unlock without PC**. You will see various questions if your Google account is linked with the Sony Xperia 5 V device. All questions are based on your profile and credentials. You have to answer precisely with proper spaces. Here are the steps to unlock Sony Xperia 5 V  with security questions.
 
 ![Sony Xperia 5 V  forgot pattern interface](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-03.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Use a random password or PIN five times and wait for the 30 seconds alert message.
 - Tap on the “Forgot Pattern” option and move to the next screen.
@@ -724,19 +481,6 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 
 ![select device language](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-06.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Go to the "Wipe Data and Cache" option and select twice using the power key.
 
 ![recovery mode menu](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-07.jpg)
@@ -745,18 +489,18 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 
 ![hard reset confirmation](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5: Dr.Fone - Screen Unlock
 
 You can easily unlock your Sony  device without your Google account password and losing data. The best way is to use an Sony Xperia 5 V  pattern lock removal tool. If you want an easy-to-use tool with fast and safe working, we recommend Dr.Fone - Screen Unlock. Dr.Fone enables users to unlock any android device within five minutes without password, Google account. You can unlock your Sony Xperia 5 V  without effort. With Dr.Fone, you can also [back up and restore your data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/), do a [system repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) for your mobile, and transfer WhatsApp with a few clicks. Here are the steps to remove the pattern lock from Sony Xperia 5 V  with Dr.Fone – Screen Unlock.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -779,25 +523,11 @@ With the button “Unlock Android Screen”, you can unlock your Sony Xperia 5 V
 
 ![unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3. Select Unlock mode: 100% Remove Screen Lock**
 
 When you’re on this page, “100% Remove Screen Lock” can unlock most phone brands’ screens. Because of the different recovery modes of different phone models, selecting the Sony Xperia 5 V device brand plays a great role in removing the lock.
 
 ![select brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4. Now, it's time to start removing the lock screen**
 
@@ -808,13 +538,6 @@ Follow the guide step by step to complete all steps, these steps are important t
 Now, no password or pattern to stop you from using your Sony Xperia 5 V  !
 
 ![unlock successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -834,21 +557,20 @@ If you know your Google account password, then you can easily unlock your phone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-timing-tricks-for-youtube-traffic-surge/"><u>[New] 2024 Approved Timing Tricks for YouTube Traffic Surge</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-ultimate-fb-media-downloader-plus-firefox-enhancements/"><u>[New] 2024 Approved Ultimate FB Media Downloader + Firefox Enhancements</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-luts-in-photoshop-a-step-by-step-guide/"><u>2024 Approved Mastering LUTs in Photoshop A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-elite-selection-of-police-body-cameras-available/"><u>Exploring the Elite Selection of Police Body Cameras Available</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-iphone-6s-plus-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from iPhone 6s Plus</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-easily-unlock-asus-screen-by-drfone-android/"><u>In 2024, How To Easily Unlock Asus Screen?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-lava-agni-2-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Lava Agni 2 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-motorola-edge-40-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Motorola Edge 40 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-huawei-p60-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Huawei P60 Phone that is Locked?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-lava-blaze-pro-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Lava Blaze Pro 5G Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-gionee-f3-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Gionee F3 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-sony-xperia-10-v-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Sony Xperia 10 V</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-15-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 15 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-realme-gt-neo-5-se-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Realme GT Neo 5 SE Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-make-your-own-gif-loops-with-these-top-free-tools/"><u>Updated In 2024, Make Your Own GIF Loops with These Top Free Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-pcandroid-friendly-methods-to-post-videos-on-facebook-successfully-for-2024/"><u>[Updated] PC/Android-Friendly Methods to Post Videos on Facebook Successfully for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubers-edge-the-ultimate-guide-to-apps-for-short-form-edits/"><u>2024 Approved Youtubers' Edge The Ultimate Guide to Apps for Short Form Edits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-essential-iphone-xsxs-max-secrets-in-depth-look-at-cutting-edge-features-advantages-and-technical-specs/"><u>Discover Essential iPhone XS/XS Max Secrets: In-Depth Look at Cutting-Edge Features, Advantages, and Technical Specs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hacks-for-skipping-edgenuity-video-lessons-fast/"><u>Hacks for Skipping Edgenuity Video Lessons Fast</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-y100-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo Y100 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-itel-p55-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel P55 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-tecno-pova-5-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Tecno Pova 5</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-meizu-21-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Meizu 21 Pro Lock Screen Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g84-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G84 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-lava-yuva-3-pro-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Lava Yuva 3 Pro Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-moto-g23-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Moto G23 Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-for-enabling-bluetooth-connectivity-in-windows-1110/"><u>Step-by-Step Tutorial for Enabling Bluetooth Connectivity in Windows 11/10</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-art-of-messaging-emphasis-bold-and-italics-tips/"><u>The Art of Messaging Emphasis: Bold & Italics Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-asus-rog-phone-8-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Asus ROG Phone 8 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-lava-yuva-3-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Lava Yuva 3 Phone With/Without IMEI Number</u></a></li>
 </ul></div>
 

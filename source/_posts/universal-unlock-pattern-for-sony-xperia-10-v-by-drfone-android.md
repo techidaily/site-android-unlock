@@ -1,7 +1,7 @@
 ---
 title: Universal Unlock Pattern for Sony Xperia 10 V
-date: 2024-09-26T16:35:15.066Z
-updated: 2024-09-27T16:23:21.230Z
+date: 2024-09-27T21:01:51.963Z
+updated: 2024-10-02T18:24:31.543Z
 tags: 
   - unlock
   - remove screen lock
@@ -83,13 +83,6 @@ Remove Android lock screen in 5 minutes
 
 There are other ways to unlock the **universal unlock patterns** for Android. We have mentioned some of them below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Way 1: Remove Gesture File Using ADB
 
 The first method is ADB, which stands for Android Debug Bridge. With the help of this, you can unlock your Android's **[universal unlock pattern](https://drfone.wondershare.com/unlock/unlock-iphone-without-passcode.html)** without the need of a factory reset. However, the process may seem a bit time-consuming to you. Here is how you can do it.
@@ -130,6 +123,13 @@ It's one of the most straightforward ways to get past the lock screen. One thing
 
 ![unlock android screen 12](https://images.wondershare.com/drfone/article/2021/12/safe-mode-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Way 3: Unlock Pattern Lock via Factory Reset
 
 This should only be a last option because it will completely delete your device's data and saved settings. Your device will be reset to factory settings, meaning your device's settings will get back to the same as when you first bought it. If you want to learn how to [unlock a pattern](https://drfone.wondershare.com/unlock/samsung-unlock-codes.html) by doing a factory reset, follow these steps:
@@ -146,27 +146,7 @@ Please note that the Recovery mode method may vary from device to device. So ple
 
 ![unlock android screen 14](https://images.wondershare.com/drfone/article/2021/12/factory-reset-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4**: The phone will perform the factory reset. In a short while, restart your device and there will be no lock screen.
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Way 4: Unlock Pattern Lock with Android Device Manager
 
@@ -180,6 +160,13 @@ After pressing the "Lock" button, a popup will appear, asking for a new password
 
 ![unlock android screen 16](https://images.wondershare.com/drfone/article/2021/12/android-device-manager-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Type the new password once, then confirm it by typing it again. This will change the password in a few minutes and the new password can be used to unlock the Sony Xperia 10 V device.
 
 ### Way 5: Use Forgot Pattern Feature \[Android 4.4 Version and Earlier\]
@@ -192,13 +179,6 @@ If you use an older Android version, you can get rid of the **universal unlock p
 
 ![unlock android screen 17](https://images.wondershare.com/drfone/article/2021/12/forgot-pattern-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Enter the primary Gmail account and password you used to set up your Android smartphone after selecting the same. Then you must provide your Google account information. A new unlock pattern will be emailed to you by Google.
 
 ![aunlock android screen 18](https://images.wondershare.com/drfone/article/2021/12/forgot-pattern-2.jpg)
@@ -206,6 +186,13 @@ Enter the primary Gmail account and password you used to set up your Android sma
 ## Conclusion
 
 **Universal unlock patterns allow** you to unlock your phone easily when you think you have forgotten. Well, numerous patterns allow you to unlock the Android. You can choose either of the above to unlock your android phone. If you have failed to use any pattern, you can easily unlock your Android by [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It will let you access yours by unlocking it hassle-free.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Remove the Lock Screen Fingerprint Of Your Sony Xperia 10 V
 
@@ -243,6 +230,13 @@ Old android phones have removable batteries. If you can remove your phone batter
 
 ![removable battery](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Dr.Fone - Screen Unlock
 
 On Android handsets, you can attempt Dr.Fone to remove the fingerprint without professional skills. It allows you to delete the password, PIN, pattern, and fingerprint from an Android phone.
@@ -275,16 +269,16 @@ _(Get into Recovery Mode in Samsung phone without Bixby)_
 
 ![mode without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _(Get into Recovery Mode in Samsung phone with the Home button)_
 
 ![mode with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4: Instructions to Wipe Cache Partition**
 
@@ -310,13 +304,6 @@ As you are likely aware, every Android device is connected to a Google account. 
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Login using your Google credentials by going to the official Google Find My Device website.
 2. You will see the gadgets connected to your Google account as you enter the interface and a map of where they are.
 3. To wipe the Sony Xperia 10 V device, click the ERASE DEVICE option on the left side panel. You will then be required for your password.
@@ -329,6 +316,13 @@ It might be a complicated case if you cannot reset your lock screen fingerprint 
 ![mobile repair](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-5.jpg)
 
 ## Why does not Fingerprint Work
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Fingerprint Hardware Module Problems
 
@@ -427,6 +421,13 @@ Rating: 4.2
 
 Download Link: [App Lock - Real Fingerprint Protection](https://play.google.com/store/apps/details?id=fingerprint.applock)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. SpSoft Fingerprint AppLocker
 
 Halt your quest for a complete fingerprint app right here. One of the best finger lock app options out there, it comes with tons of features that will fulfill your security needs. Besides locking all the major apps, settings, and more with your fingerprint, it also has a notification lock and a fake screen feature.
@@ -449,13 +450,6 @@ One of the best fingerprint app lockers, it is already used by more than 100 mil
 
 ![DoMobile Lab Applock](https://images.wondershare.com/drfone/article/2017/10/15075533416865.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Random keyboard with an invisible pattern lock
 - It has an inbuilt power-saving mode
 - Users can customize profiles for each app
@@ -466,13 +460,6 @@ One of the best fingerprint app lockers, it is already used by more than 100 mil
 Rating: 4.4
 
 Download Link: [AppLock by DoMobile Lab](https://play.google.com/store/apps/details?id=com.domobile.applockwatcher&hl=en_US&gl=US)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. LOCKit
 
@@ -495,6 +482,13 @@ Download Link: [LOCKit](https://play.google.com/store/apps/details?id=com.ushare
 The fingerprint lock app is compatible with all the Sony Xperia 10 V devices running on Android Marshmallow and later versions. It is a lightweight app that utilizes a minimum battery. It might not have all the advanced features, but it certainly provides a basic solution to lock apps with your fingerprint.
 
 ![Fingerprint Locker](https://images.wondershare.com/drfone/article/2017/10/15075534055610.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Can lock all the popular apps with your fingerprint
 - Lightweight and fast
@@ -540,19 +534,22 @@ When you know about all the popular options for the fingerprint screen lock app,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-from-mobile-to-hard-drive-best-online-and-os-x-exporters-for-instagram-videos/"><u>[New] From Mobile to Hard Drive Best Online and OS X Exporters for Instagram Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-how-to-go-live-on-facebook-in-2024/"><u>[New] How to Go Live on Facebook, In 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-invisible-insights-into-instagram-story-viewing/"><u>[Updated] Invisible Insights Into Instagram Story Viewing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-step-by-step-guide-to-record-google-meet-on-smartphones/"><u>[Updated] Step-by-Step Guide to Record Google Meet on Smartphones</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-art-of-perfecting-vocal-recordings-for-video-projects-for-2024/"><u>[Updated] The Art of Perfecting Vocal Recordings for Video Projects for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-a34-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy A34 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-kodi-connection-issues-how-to-resolve-could-not-obtain-directory-info/"><u>Fixing Kodi Connection Issues: How to Resolve 'Could Not Obtain Directory Info'</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-z-flip-5-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy Z Flip 5 Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo V27 Phone without PIN</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-a25-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy A25 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-t2x-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo T2x 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-the-latest-insignia-bluetooth-adapter-drivers-for-windows-systems/"><u>Install the Latest Insignia Bluetooth Adapter Drivers for Windows Systems</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/efinitive-playbook-enhancing-your-videos-first-impression/"><u>The Definitive Playbook Enhancing Your Video's First Impression</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-v29e-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo V29e Device</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-master-full-length-youtube-watching-mode/"><u>[New] In 2024, Master Full-Length YouTube Watching Mode</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-video-amounts-stored-64-vs-128gb-comparison/"><u>[New] Video Amounts Stored 64 vs 128GB Comparison</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-building-a-vivid-world-with-animated-clips-in-movie-maker/"><u>2024 Approved Building a Vivid World with Animated Clips in Movie Maker</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-guiding-principles-for-speech-conversion-in-google-translate/"><u>2024 Approved Guiding Principles for Speech Conversion in Google Translate</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-leading-20-anime-theme-anthems/"><u>2024 Approved Leading 20 Anime Theme Anthems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-lava-storm-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Lava Storm 5G? Try These Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-meizu-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Meizu Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-htc-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On HTC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-gionee-by-drfone-android/"><u>How to Show Wi-Fi Password on Gionee</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f54-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Samsung Galaxy F54 5G Bootloader Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-f14-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-v29-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo V29 Pro Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy S23</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-13-mini-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 13 mini to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-htc-u23-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to HTC U23 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-hidden-value-in-game-release-delays/"><u>The Hidden Value in Game Release Delays</u></a></li>
+<li><a href="https://techtrends.techidaily.com/updating-driver-software-on-windows-11-a-step-by-step-guide-using-device-manager/"><u>Updating Driver Software on Windows 11: A Step-by-Step Guide Using Device Manager</u></a></li>
 </ul></div>
 

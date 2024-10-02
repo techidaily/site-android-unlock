@@ -1,7 +1,7 @@
 ---
 title: In 2024, Delete Gmail Account With/Without Password On Sony
-date: 2024-09-24T16:19:38.227Z
-updated: 2024-09-27T16:59:16.640Z
+date: 2024-09-30T20:37:02.282Z
+updated: 2024-10-02T18:05:44.457Z
 tags: 
   - unlock
   - remove screen lock
@@ -44,10 +44,10 @@ For the first method, we will discuss **how to delete a Google account** with yo
 ![login and access data and privacy](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 2.** On the following window, scroll down and look for the “Delete a Google service” option. Accessing this would allow you to **delete your Gmail account permanently**.
@@ -62,16 +62,16 @@ For the first method, we will discuss **how to delete a Google account** with yo
 
 ![provide alternative email address](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5.** For those who want to save their email data, look for the "Download your data" option in the same window. This leads you to the Google Takeout window, where you need to select the data to include. After selecting the data, define the file type, frequency, and destination for exporting all important data.
 
 ![download data from takeout](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3. Delete Your Gmail Account From Your Smartphone: Android & iOS
 
@@ -87,6 +87,13 @@ If you use a smartphone device and want to delete your Gmail account from that p
 
 ![remove gmail account android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### iOS Devices
 
 - **Step 1.** Open your iPhone's "Settings" app and scroll down to the "Mail" option. You will find the "Accounts" option on the following screen, which you need to tap to proceed.
@@ -96,13 +103,6 @@ If you use a smartphone device and want to delete your Gmail account from that p
 - **Step 2.** Discover the option of "Gmail" in the list of signed-in accounts and continue to the next screen. Select "Delete Account" to remove the account from your iOS device.
 
 ![delete gmail account ios](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4. Don’t Know Password of Device? Reset To Delete Gmail Account
 
@@ -138,16 +138,16 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 ![recovery mode iphone 6 or earlier](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** The device automatically gets detected on Finder/iTunes, and a pop-up appears on the screen. Click "Restore" to reset your iOS device to factory settings.
 
 ![restore ios device](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-17.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5. Remove Gmail Account From Device Without Password: Using Wondershare Dr.Fone
 
@@ -190,13 +190,6 @@ As you direct into the next window, select the brand of your Android device. Con
 
 ![perform advanced screen lock](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3. Follow the Instructions and Successfully Remove the Screen Lock**
 
 According to your selected device brand, Dr.Fone provides guidelines for entering the specific mode. Follow the on-screen instructions to start unlocking the screen of your device. If the process is successful, click "Done" to conclude using Dr.Fone – Screen Unlock.
@@ -206,6 +199,13 @@ According to your selected device brand, Dr.Fone provides guidelines for enterin
 ## Conclusion
 
 This article has specifically provided you with some important details on **how to delete a Gmail account** with ease. The article explains everything from the methods of deleting it from the computer to removing it from the Sony Xperia 5 V device. Furthermore, it also serves as a guidance for those who have forgotten their device passwords. For that, they've provided an insight into Wondershare Dr.Fone – Screen Unlock and its unique functions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How To Fix OEM Unlock Missing on Sony Xperia 5 V?
 
@@ -283,20 +283,27 @@ Regain control in minutes with Dr.Fone. First, download the app to your desktop 
 
 ![select device type interface](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Select **Unlock Android Screen** to proceed.
 
 ![dr.fone screen unlock tools](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** Choose the brand of your phone from the supported brands.
 
 ![dr.fone screen unlock supported brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:**
 
@@ -327,13 +334,6 @@ Developer Options, a hidden menu in Android, offers advanced features like app d
 
 ![turn on oem unlock](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 7:** Enter your PIN or password to confirm the unlock when prompted
 - **Step 8:** Your device will reboot, and OEM Unlocking will be enabled.
 
@@ -362,6 +362,19 @@ If you intend to try this method, follow these steps to **enable OEM unlock miss
 ![turn off auto download over wi-fi](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-13.jpg)
 
 This method should **enable the OEM unlock missing** issue. Otherwise, proceed to the next section for another solution.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: How To Fix OEM Unlock Missing by Removing SIM Card?
 
@@ -438,13 +451,6 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 ![connect broken screen android phone](https://images.wondershare.com/drfone/others/14531933625473.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** As soon as the Sony Xperia 5 V devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the Sony Xperia 5 V device’s password lock.
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
@@ -483,20 +489,18 @@ Being unable to unlock your device is never a good place to be. We hope one of t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-setting-up-zoom-meetings-a-comprehensible-android-methodology/"><u>[New] 2024 Approved Setting Up Zoom Meetings A Comprehensible Android Methodology</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-ultimate-list-freely-accessible-editing-software/"><u>[New] In 2024, Ultimate List Freely Accessible Editing Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-record-your-desktop-screen-on-windows-for-free-3-methods/"><u>[Updated] How to Record Your Desktop Screen on Windows For Free [3 Methods]</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-designing-aplus-cover-photos-for-your-insta-highlights-for-2024/"><u>[Updated] Step-by-Step Designing A+ Cover Photos for Your Insta Highlights for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-your-zexmte-bluetooth-device-driver-for-windows-versions-xpvista7/"><u>Download Your ZexMTE Bluetooth Device Driver for Windows Versions (XP/Vista/7)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/from-frustrated-user-seamless-screen-resize-in-windows-10/"><u>From Frustrated User: Seamless Screen Resize in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-stop-nier-automata-from-crashing-on-windows-systems-solutions/"><u>How to Stop Nier: Automata From Crashing on Windows Systems: Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-oppo-a2-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo A2 Through Google Earth?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-y100-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo Y100</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-expertly-edited-content-choosing-the-best-editor/"><u>In 2024, Expertly Edited Content Choosing The Best Editor</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-f54-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy F54 5G Face Lock?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y27s-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo Y27s Phone Without Password?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-s23-ultra-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy S23 Ultra Phone Pattern Lock</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/skype-capture-methods-seamless-transition-between-oses/"><u>Skype Capture Methods Seamless Transition Between OSes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y200s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo Y200s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-path-to-millions-of-views-on-youtube-videos/"><u>[Updated] The Path to Millions of Views on YouTube Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-compre-cooked-tweets-the-complete-tweet-vids-guide/"><u>2024 Approved Compre Cooked Tweets The Complete Tweet Vids Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-gionee-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Gionee?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y100-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y100</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-driver-43-troubleshooted/"><u>Graphics Driver 43 Troubleshooted</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Samsung Galaxy A54 5G?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-s17-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo S17 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-phone-without-google-account-by-drfone-android/"><u>How to Unlock Samsung Phone without Google Account?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-8740-printer-drivers-for-windows-11-10-and-8-free-download/"><u>HP OfficeJet Pro 8740 Printer Drivers for Windows 11, 10 & 8 - Free Download</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-a23-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy A23 5G? Try These Fixes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/multi-screen-recording-setup-for-2024/"><u>Multi-Screen Recording Setup for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-freezing-solved-guide-for-cyberpunk-2077-crashes-on-windows-pcs/"><u>No More Freezing: Solved Guide for Cyberpunk 2077 Crashes on Windows PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725286472488-winx-mediatrans/"><u>WinX MediaTrans 導入手順＋詳細マニュアル：プロフェッショナル ガイド</u></a></li>
 </ul></div>
 

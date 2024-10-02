@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove Forgotten PIN Of Your Lava Yuva 2 Pro
-date: 2024-09-18T21:03:17.845Z
-updated: 2024-09-19T20:09:55.877Z
+date: 2024-10-01T16:35:56.867Z
+updated: 2024-10-02T19:44:05.672Z
 tags: 
   - unlock
   - remove screen lock
@@ -38,6 +38,13 @@ This is an important issue that needs to be resolved right away. Therefore, some
 
 ![how to find lock system](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Methods to Recover Forgotten Password or PIN
 
 ### 1\. Google Smart Lock
@@ -73,13 +80,6 @@ Please select "Unlock Android Screen" to ensure you have the correct unlock proc
 
 ![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2. Select device model**
 
 If you see this page, please choose the option fitting your phone, otherwise, you can't unlock your device as you wish.
@@ -101,13 +101,6 @@ _(Enter Recovery Mode via the Samsung phone with the Home button)_
 On the page Recovery Mode, it's the most important step to unlock your device. Please click the right buttons.
 
 ![click the right buttons](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Congratulations! Now you can access your phone again, and there're no obstacles when you do anything on your phone.
 
@@ -150,6 +143,19 @@ Android Device Manager can unlock your phone under a specific set of circumstanc
 - • Thirdly, the Lava Yuva 2 Pro device you are using for ADM, must be connected to Wi-Fi or internet, to login to your Google account.
 - • Lastly, Android Device Manager is not compatible for all Android versions. For now, it is only compatible with devices running Android 4.4 and above, so your phone must be in this category for ADM to work.
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to unlock Android phone with Android Device Manager?
 
 Just act according to the following steps, and the Android Device Manager will unlock your phone.
@@ -169,6 +175,13 @@ Just act according to the following steps, and the Android Device Manager will u
 7\. Visit your phone’s lock screen settings and disable the temporary password.
 
 ![unlock with android device manager](https://images.wondershare.com/drfone/article/2017/10/15077981723179.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Android Device Manager has successfully unlocked your phone!
 
@@ -225,18 +238,18 @@ You can also use this tool to bypass the locked screen beyond Samsung and LG.Thi
 
 ![unlock android phone successfully](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The Dr.Fone software is currently compatible with Samsung Galaxy S/Note/Tab series, and LG G2/G3/G4 series. For windows, it is compatible with 10/8.1/8/7/XP/Vista.
 
 The Android Device Manager is an excellent initiative taken by Google to give people the chance to not lose any data and regain access to their phones. This also teaches us to take precautions before such unfortunate incidents take place. Phones are probably one of the most important belongings of ours, in which we confide all our private and confidential documents that we wouldn’t want to be meddled with.
 
 So, make use of this guide and get back command over your Android phone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips and Tricks for Setting Up your Lava Yuva 2 Pro Phone Pattern Lock
 
@@ -278,6 +291,13 @@ You can find the brand compatible with your phone in the following list.
 
 ![supported device brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4. Go into Recovery Mode**
 
 Read the program instructions carefully; entering recovery mode is the prerequisite to unlocking the pattern lock.
@@ -307,10 +327,10 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 ![access android device again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Bypass Android Pattern When You Forgot It?
@@ -354,10 +374,16 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 **Step 6.** Affirm your decision and set another **pattern lock** on your phone.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Emergency Call Trick (For Android 5 or 5.1.1)
@@ -375,6 +401,13 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 **Step 1:** You can bring up the power menu and hold the "Power Off" button for most phones, especially Android phones. A warning will spring up, asking whether you might want to Reboot to Safe Mode. Here, it would help if you had to press Ok.
 
 ![reboot to safe mode](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** Clear your lock screen application's data.
 
@@ -430,5 +463,20 @@ This guide provides insight into the most common Android issue. Here, we have di
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-seamless-tweet-integration-on-facebook-platform/"><u>[New] In 2024, Seamless Tweet Integration on Facebook Platform</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-10-popular-virtual-reality-peripherals/"><u>[New] Top 10 Popular Virtual Reality Peripherals</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-synergy-strategies-for-ig-and-tiktok/"><u>[Updated] In 2024, Synergy Strategies for IG & TikTok</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-it-faster-quick-solutions-for-winning-at-powerpoint-prints-in-windows/"><u>Fix It Faster: Quick Solutions for Winning at PowerPoint Prints in Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a14-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Samsung Galaxy A14 5G Phone without Google Account?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-comprehensive-io-recorder-explained-for-users/"><u>In 2024, Comprehensive IO Recorder Explained for Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-v27-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo V27 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y78t-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y78t Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-a34-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy A34 5G Device</u></a></li>
+<li><a href="https://facebook.techidaily.com/politics-no-thanks-optimize-your-facebook-experience/"><u>Politics? No Thanks! Optimize Your Facebook Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/seamless-strategies-to-record-and-archive-gotomeetings-for-2024/"><u>Seamless Strategies to Record and Archive GoToMeetings for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/upgrade-your-video-playback-activating-av1-on-youtube-for-2024/"><u>Upgrade Your Video Playback Activating AV1 on YouTube for 2024</u></a></li>
+</ul></div>
 

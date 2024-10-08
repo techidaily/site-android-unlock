@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Track IMEI Number Of Sony Through Google Earth?
-date: 2024-09-27T16:50:30.497Z
-updated: 2024-10-02T18:22:38.904Z
+date: 2024-10-07T02:23:11.945Z
+updated: 2024-10-07T23:41:25.656Z
 tags: 
   - unlock
   - remove screen lock
@@ -40,13 +40,6 @@ Many current smartphones include GPS receivers that allow them to pinpoint their
 
 ![iphone location services](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** Google Earth can be downloaded and installed on your computer or mobile device. It works with Windows, macOS, Android, and iOS. Download it from your device's **Google Earth** website or the app store.
 
 ![install google earth android](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-03.jpg)
@@ -55,6 +48,13 @@ Many current smartphones include GPS receivers that allow them to pinpoint their
 - **Step 4:** Launch Google Earth on your computer or mobile device, then select **Your timeline** from the Google Maps menu. The operation will take you to the Google Maps Timeline page.
 
 ![your timeline on google maps](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 5:** Select the day you wish to see the phone's location history. Choose the Sony Xperia 5 V device you want to track from the dropdown menu if you have numerous devices linked to the same account. The timeline displays the selected device's location history for the set date. Examine the locations visited, the routes taken, and the time spent at each spot. For further information, select a certain location or time.
 
@@ -73,6 +73,13 @@ If you have the IMEI number of the stolen device, you can track the phone [using
 - **Step 1:** In the app store, search for "IMEI tracker" and download the IMEI tracking app you wish to install on your phone.
 
 ![app store imei tracking](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2:** Open the app and follow the in-app guide on how to use it.
 
@@ -128,13 +135,6 @@ Let's discuss why Dr.Fone - Screen Unlock is a game-changer in unlocking phone, 
 - **Wide Compatibility.**One of the best things about Dr.Fone - Screen Unlock is its compatibility with various mobile devices. It doesn't matter if you're using an Android or iOS device; this tool has you covered. It's like having a universal key to open many locks.
 - **Safe and Secure.**Security is a top priority when it comes to your phone. Dr.Fone - Screen Unlock ensures that your data remains safe during unlocking. Your personal information won't be compromised.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step-by-Step Guide
 
 Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone easily](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/):
@@ -142,13 +142,6 @@ Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone ea
 - **Step 1:** After downloading and installing Wondershare Dr.Fone on your PC, click **Toolbox**, click **Screen Unlock**, then choose **iOS**. In the window that appears, click the **Unlock iOS Screen** button.
 
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2:** On the next screen, select **Start** to begin the unlocking procedure for the iOS device. Make sure that your device's battery levels are enough.
 - **Step 3:** After that, you should set your iDevice into **Recovery Mode**. Follow the on-screen instructions to put your iDevice into the appropriate mode for your model. If **Recovery Mode** does not work, click the **Try DFU Mode** button at the bottom to access the instructions for entering the iDevice into **DFU mode**.
@@ -171,10 +164,10 @@ Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone ea
 ![drfone ios lock screen removed completely](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -182,6 +175,13 @@ Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone ea
 This article explored the incredible world of IMEI tracking, a powerful tool for locating lost or stolen phones. You've learned that your IMEI number is capable of helping you pinpoint your device's location, but **tracking IMEI numbers through Google Earth** is impossible.
 
 But that's not all. This article also introduced and divulged an amazing and reliable tool for unlocking an iPhone. So, the next time you're in a tight spot with a locked screen, remember that [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is the best software you should get your hands on.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Reset a Sony Xperia 5 V Phone that is Locked?
 
@@ -288,6 +288,13 @@ Use the buttons to navigate to the “Wipe data/factory reset” option and sele
 
 ![reset a motorola phone that is locked 4](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5: Reboot Now**
 
 Again use the Volume buttons and select the “Reboot system now.”
@@ -321,13 +328,6 @@ Want to prevent future lockouts and ensure a smoother smartphone experience? Con
 ### 1\. Setting Up Alternative Lock Methods
 
 One way to avoid getting locked out of your Sony Xperia 5 V  phone is to set up alternative lock methods. In addition to PINs, passwords, and patterns, you can use biometric methods. These include fingerprint recognition or facial recognition if your device supports them. Such options provide convenient and secure ways to unlock your phone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Regularly Backing Up Your Data
 
@@ -402,12 +402,39 @@ Google’s Android Device Manager (also known as Find My Device) can be used to 
 
 ![get into a locked phone-locate the Sony Xperia 5 V device](https://images.wondershare.com/drfone/article/2017/10/15081758684058.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3.** Choose the “Lock” option to proceed.
 - **Step 4.** This will display a new prompt. From here, you can get the new password for your device and confirm it.
 
 ![get into a locked phone-provide the new password](https://images.wondershare.com/drfone/article/2017/10/15081758975970.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5.** Additionally, if your device is lost, you can display an optional message and contact number on the lock screen. Click on the “Lock” button to save changes and exit the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to get into a locked phone with Samsung Find My Mobile?
 
@@ -435,23 +462,9 @@ If your device is based on Android 4.4 and earlier versions, you may also use it
 
 ![get into a locked phone-Forgot Pattern](https://images.wondershare.com/drfone/article/2017/10/15081760134210.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3.** On the next screen, you can unlock your device by providing the backup PIN of your device or sign in using the Google credentials of the account linked to the Sony Xperia 5 V device.
 
 ![get into a locked phone-unlock your device](https://images.wondershare.com/drfone/article/2017/10/15081760404056.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4.** After bypassing this feature, you can unlock your device and set up a new PIN or pattern.
 
@@ -484,13 +497,6 @@ If you are using a third-party application to lock your device, you can easily d
 - **Step 3.** It will provide the following prompt regarding Safe Mode. Just tap on the “Ok” button to confirm your choice.
 
 ![get into a locked phone-tap on the “Ok”](https://images.wondershare.com/drfone/article/2017/10/15081761296376.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 7: How to get into a locked phone using Custom Recovery?
 
@@ -528,20 +534,14 @@ By following these simple steps, you would learn how to get into a locked phone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-twister-timber-titmice/"><u>[Updated] Twister Timber Titmice</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-secure-free-fcp-software/"><u>2024 Approved How to Secure Free FCP Software</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-collection-of-alarm-clock-apps-for-android-and-ios-users/"><u>Discover the Ultimate Collection of Alarm Clock Apps for Android & iOS Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-troubleshooting-and-resolving-the-critical-stop-error-0x00000078-phase0exception/"><u>Expert Tips for Troubleshooting and Resolving the Critical STOP Error 0X00000078 (Phase0_Exception)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-lava-agni-2-5g-by-drfone-android/"><u>Full Guide to Unlock Your Lava Agni 2 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a15-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy A15 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-11-pro-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 11 Pro How to Bypass?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-samsung-galaxy-m34-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Samsung Galaxy M34</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y36-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y36 Phone that is Locked?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-y200-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo Y200? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-apple-iphone-12-pro-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Phone Number Locators To Track Apple iPhone 12 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/innovative-design-solutions-by-jack-watt-at-digiarty-software-elevating-digital-creativity/"><u>Innovative Design Solutions by Jack Watt at Digiarty Software - Elevating Digital Creativity</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-nokia-g42-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Nokia G42 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y100i-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y100i Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/flv-video-unification-techniques/"><u>FLV Video Unification Techniques</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y78-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo Y78 5G?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-y27-4g-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo Y27 4G</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-exploring-the-depth-of-editing-with-gopro-studios-capabilities/"><u>In 2024, Exploring the Depth of Editing with GoPro Studio's Capabilities</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-a05-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy A05 Lock Screen Password</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-understanding-snapchats-emojis-more-than-just-fun/"><u>In 2024, Understanding Snapchat's Emojis More Than Just Fun</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-and-effortless-guide-transferring-photos-from-your-ipad-to-a-mac-or-usb-flash-drive/"><u>Quick & Effortless Guide: Transferring Photos From Your iPad to a Mac or USB Flash Drive</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-v27e-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo V27e</u></a></li>
+<li><a href="https://win-forum.techidaily.com/wifi-gif-tiff-movavi/"><u>무료 WiFi용 GIF 텍스처를 티핑을 위해 TIFF로 전환 - Movavi 도구</u></a></li>
 </ul></div>
 

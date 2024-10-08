@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 10 Fingerprint Lock Apps to Lock Your Motorola Defy 2 Phone
-date: 2024-09-28T19:30:30.211Z
-updated: 2024-10-02T17:58:19.310Z
+date: 2024-10-01T01:48:26.013Z
+updated: 2024-10-07T20:31:10.468Z
 tags: 
   - unlock
   - remove screen lock
@@ -45,13 +45,6 @@ Download Link: [Fingerprint Pattern App Lock](https://play.google.com/store/apps
 From social media apps to your gallery, this finger lock app can protect almost everything on your device. It comes with tons of features like app time-out, fake crash screen, the inclusion of PIN, and more. All of this can be customized from its settings as well.
 
 ![applock fingerprint pin](https://images.wondershare.com/drfone/article/2017/10/15075532343943.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - It can capture the picture of the intruder
 - Provides a fake crash screen to hide that the app that has been locked
@@ -130,10 +123,10 @@ Rating: 4.4
 Download Link: [AppLock by DoMobile Lab](https://play.google.com/store/apps/details?id=com.domobile.applockwatcher&hl=en_US&gl=US)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. LOCKit
@@ -141,13 +134,6 @@ Download Link: [AppLock by DoMobile Lab](https://play.google.com/store/apps/deta
 LOCKit is a complete security app that can help you protect your photos, apps, notifications, and more. It also comes with a photo and video vault to protect your media files. You can fool any intruder with a fake crash screen and capture their photo as well.
 
 ![LOCKit](https://images.wondershare.com/drfone/article/2017/10/15075533804457.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Full customization of fingerprint lock with PIN and password
 - Multiple language support
@@ -180,6 +166,20 @@ Setting a fingerprint lock or PIN, password, pattern, or even FRP lock on an And
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Get into Fingerprint Locked Android Phones within Minutes
@@ -195,6 +195,13 @@ Get into Fingerprint Locked Android Phones within Minutes
 
 When you know about all the popular options for the fingerprint screen lock app, you can simply choose an ideal choice. Go ahead and download the fingerprint lock app of your choice and provide an added layer of security to your device. Out of all the listed options for the fingerprint app, which one is your favorite? Let us know about it in the comments.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How To Fix OEM Unlock Missing on Motorola Defy 2?
 
 Original Equipment Manufacturer (OEM) Unlock is a function on Android devices. It allows you to unlock your phone bootloader. A bootloader or bootstrap loader gathers the operating system files, loads them into memory, and hands over control, essentially starting your device. Unlocking the bootloader assists you in installing custom ROMs, flashing custom kernels, and rooting your phone.
@@ -204,6 +211,13 @@ However, this freedom comes with some trade-offs. Most manufacturers will void y
 If you encounter the **OEM unlock missing** on your Android phone despite wanting to unlock your bootloader, this article can help. You will learn the step-by-step guide for the different methods to fix the **missing OEM unlock** option. Before diving into solutions, let's explore why this option might be unavailable in the first place.
 
 ![using a phone at work](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Why Is OEM Unlock Missing on Your Device?
 
@@ -239,6 +253,13 @@ Connectivity Issues
 
 A poor connection between your device and computer can also prevent the OEM Unlocking from showing up. Check your cables and try using different USB ports to ensure a stable connection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How To Enable Missing OEM Unlock Without a Password?
 
 Unlocking your phone's bootloader (OEM Unlock) varies across models and brands. Some need a passcode or PIN after rebooting the phone, while others don't. Even if your phone doesn't require a separate password, your existing screen lock (password, PIN, pattern) will usually be needed to enable the **missing OEM unlock** option.
@@ -266,6 +287,13 @@ Regain control in minutes with Dr.Fone. First, download the app to your desktop 
 - **Step 1:** Select **Screen Unlock** from the **Toolbox** homepage. Then, establish a connection between your locked Android device and your computer using a USB cable.
 
 ![dr.fone homepage interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2:** Specify the Motorola Defy 2 device type for screen lock removal.
 
@@ -304,13 +332,6 @@ Developer Options, a hidden menu in Android, offers advanced features like app d
 
 ![enable oem unlock developer option](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-09.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 6:** A warning message explaining the risks of turning on the OEM unlock will appear. Read it carefully and tap **Enable** if you want to proceed.
 
 ![turn on oem unlock](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-10.jpg)
@@ -341,13 +362,6 @@ If you intend to try this method, follow these steps to **enable OEM unlock miss
 - **Step 9:** Go to **Settings** > **Software update**, then turn off **Auto download over Wi-Fi**.
 
 ![turn off auto download over wi-fi](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This method should **enable the OEM unlock missing** issue. Otherwise, proceed to the next section for another solution.
 
@@ -397,13 +411,6 @@ It is a dedicated Android app designed to harness the power of IMEI numbers for 
 
 ![antitheft app and imei tracker app](https://images.wondershare.com/drfone/article/2023/08/anti-theft-app-and-imei-trackers-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 These functionalities encompass using secure commands with a designated secret code. Using these commands, you can have the smartphone ring audibly at its maximum volume. It can also get the GPS coordinates of the Motorola Defy 2 device. You can also display a personalized message across the screen. Lastly, it can even capture photographs through the front-facing camera.
 
 ## Part 3: Online Solutions: Finding The Best Anti-Theft Online Tool Using IMEI Tracking
@@ -411,13 +418,6 @@ These functionalities encompass using secure commands with a designated secret c
 The internet makes it easy to deal with lost or stolen devices. Online solutions offer another way to find your smartphone using [<u>IMEI tracking</u>](https://drfone.wondershare.com/unlock/imei-check-iphone.html). In contrast to conventional approaches, these digital tools enhance the efficiency of the process.
 
 They provide a ray of optimism, even for individuals with limited tech proficiency. Below are two prominent **anti-theft apps & IMEI trackers online** that use IMEI tracking to aid in phone location:
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1. [<u>IMEI-Tracker</u>](https://imei-tracker.com/)
 
@@ -448,13 +448,6 @@ To activate the tracking function, the app must be installed on the targeted pho
 
 ![find my device imei tracker](https://images.wondershare.com/drfone/article/2023/08/anti-theft-app-and-imei-trackers-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2. [<u>Anti-Theft Mobile Tracker</u>](https://play.google.com/store/apps/details?id=com.sim.location&hl=en&gl=US)
 
 The Anti-Theft Mobile Tracker app provides an innovative approach to tracking devices. It allows the transmission of the precise location of the lost device to a recipient device. This functionality operates without requiring an active Internet connection.
@@ -470,6 +463,13 @@ Losing access to our own devices due to a forgotten password or lock pattern can
 The utility offers different unlock modes to cater to various scenarios. These include PIN, pattern, password, and even fingerprint or facial recognition. Wondershare Dr.Fone boasts a high success rate in unlocking devices, making it a reliable option.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -536,24 +536,22 @@ As a bonus, Wondershare Dr.Fone emerged as a powerful ally for those locked out 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-liberate-your-video-files-free-online-tools-for-facebook-videos-in-1080phd-for-2024/"><u>[New] Liberate Your Video Files - Free Online Tools for Facebook Videos in 1080P/HD for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-creative-couture-top-trendy-filters-on-ig/"><u>[Updated] In 2024, Creative Couture Top Trendy Filters on IG</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-pros-secret-windows-11-gems-uncovered/"><u>[Updated] In 2024, Pro's Secret Windows 11 Gems Uncovered</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-outshine-the-ordinary-30-innovative-ideas-for-standout-tiktok-photos-for-2024/"><u>[Updated] Outshine the Ordinary 30 Innovative Ideas for Standout TikTok Photos for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unlock-mysteries-select-top-puzzle-houses/"><u>[Updated] Unlock Mysteries Select Top Puzzle Houses</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-meme-magic/"><u>2024 Approved IPhone Meme Magic</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-art-of-documenting-xbox-playtime-online/"><u>2024 Approved The Art of Documenting Xbox Playtime Online</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/boosting-sound-on-facebook-videos-on-windows-computers-latest-fixes-and-tips-2-groovy/"><u>Boosting Sound on Facebook Videos on Windows Computers - Latest Fixes and Tips (2 Groovy)</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-setup-steelseries-device-drivers-for-windows-systems/"><u>Easy Setup: SteelSeries Device Drivers for Windows Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-xcover-6-pro-tactical-edition-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Samsung Galaxy XCover 6 Pro Tactical Edition? Try These Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-s17t-lock-screen-password-by-drfone-android/"><u>How To Change Vivo S17t Lock Screen Password?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y02t-lock-screen-password-by-drfone-android/"><u>How To Change Vivo Y02T Lock Screen Password?</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-11-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 11 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy F15 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-samsung-galaxy-f15-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Samsung Galaxy F15 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y100-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y100 Phone that is Locked?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a2-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo A2 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-vivo-v29e-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo V29e Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-y27s-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y27s Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-perfect-palette-playbook-mastering-the-art-of-grading-for-2024/"><u>[New] Perfect Palette Playbook Mastering the Art of Grading for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-powerpoint-tips-adding-automated-text-conversion/"><u>[Updated] 2024 Approved PowerPoint Tips Adding Automated Text Conversion</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-sensational-no-cost-visual-collaboration-games/"><u>[Updated] Sensational No-Cost Visual Collaboration Games</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-a34-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/dissecting-youtube-copyright-vs-creative-commons-ethos/"><u>Dissecting YouTube Copyright Vs. Creative Commons Ethos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/08790263-feast-your-eyes-on-9-whole-film-winter-wonders-no-charge/"><u>Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-lava-agni-2-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Lava Agni 2 5G Face Lock?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/illustration-enthusiasts-dream-best-free-tools-for-mac/"><u>Illustration Enthusiasts' Dream - Best FREE Tools for Mac</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-s24plus-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy S24+</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-samsung-galaxy-a54-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-samsung-galaxy-f14-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-scaling-down-macos-from-sierra-to-el-capitan-os/"><u>In 2024, Scaling Down MacOS From Sierra To El Capitan OS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-s24-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy S24 Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-z-flip-5-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-se-2020-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-s23-ultra-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://games-able.techidaily.com/triumphing-at-tetris-android-and-iphone-edition-excellence/"><u>Triumphing at Tetris: Android & iPhone Edition Excellence</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Lava Yuva 2 Pro Phone Password Without Factory Reset?
-date: 2024-09-25T16:44:39.034Z
-updated: 2024-10-02T19:47:43.853Z
+date: 2024-10-04T23:35:57.193Z
+updated: 2024-10-07T23:50:38.242Z
 tags: 
   - unlock
   - remove screen lock
@@ -93,6 +93,13 @@ Once successful, you will get a confirmation message below the three buttons: Ri
 
 You have successfully unlocked your device.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Unlock Android password using custom recovery and Pattern Password Disable (SD card needed)?
 
 The third way to unlock an Android phone password without a factory reset it using the “custom recovery” technique. To work out this process, you would have to install the custom recovery process. Also, your phone needs to have an SD card. It will be required to send the zip file to the phone since your device is locked. This technique requires access to the Android System folder and rooting your device if not already rooted.
@@ -121,18 +128,24 @@ While Google FRP is a valuable security feature, it’s vital to acknowledge tha
 
 ![holding an android smartphone](https://images.wondershare.com/drfone/article/2024/01/rootjunky-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The **RootJunky APK** is a free Android application also called RootJunky SDL or **RootJunky FRP** Bypass tool. This app’s primary function is to bypass the Google Account FRP lock on Samsung devices. Rootjunky uses the weaknesses in Android’s setup process to create a new user account or switch existing ones, letting you bypass the FRP and regain control of your phone.
 
 You can complete this process using the app by connecting your phone to a computer through an OTG cable. **RootJunky** can be helpfu l if you’ve forgotten your Google account password or bought a second-hand phone locked to someone else’s account. However, only use it if you have legitimate reasons to bypass FRP lock, like accessing your device after forgetting your Google account details.
 
 ![rootjunky logo](https://images.wondershare.com/drfone/article/2024/01/rootjunky-02.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Downloading the **RootJunky FRP** bypass tool from unofficial sources can introduce malware risks, so stick to trusted sources like the official website. Additionally, when exploring RootJunky, it is vital to keep the following in mind:
 
@@ -141,13 +154,6 @@ Downloading the **RootJunky FRP** bypass tool from unofficial sources can introd
 - Bypassing FRP may involve data loss.
 - Download **RootJunky FRP** bypass APK from a reliable source to minimize the risk of malware or viruses. You can check the APK file from official websites or trusted forums.
 - Google constantly updates its security measures, so these tools may not always work effectively.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How To Use RootJunky To Bypass Google FRP?
 
@@ -160,13 +166,6 @@ Here are the general steps to use the **FRP Bypass APK RootJunky** app to bypass
 - **Step 2:** On your phone, download the **Rootjunky APK** (com.rootjunky.frpbypass-1.0.apk) file from the official website or other reputable sites.
 
 ![rootjunky frp bypass apk file](https://images.wondershare.com/drfone/article/2024/01/rootjunky-04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3:** Go to **Settings** > **Security** and tap **Install unknown apps**. Then, enable unknown sources to allow installation of apps from outside the Play Store. Connect your device to a Wi-Fi network.
 
@@ -212,6 +211,13 @@ Ready to leave the hassle of using **RootJunky** and easily bypass the FRP lock?
 
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2:** Choose **Android** as your device type. This will take you to the next screen, where you can select **Remove Google FRP Lock** to proceed.
 
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
@@ -236,16 +242,16 @@ The next steps may vary depending on the brand you selected.
 
 ![allow usb debugging on phone](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 7:** You will see the FRP lock being bypassed on your Android device on the next screen.
 
 ![dr.fone bypassing google frp lock](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 8:** Click **Done** if the FRP lock removal was successful, otherwise, click **Try Again** to repeat the process.
 
@@ -260,19 +266,6 @@ _**Tips:** Are you searching for a powerful FRP bypass tool? No worries as [Dr.F
 Both **RootJunky** and Dr.Fone offer options for you to regain control of phones with Google FRP lock. **FRP Bypass RootJunky** tool excels with its free-to-use approach, perfect for tech-savvy users comfortable with APK installations. While requiring a paid subscription, Dr. Fone provides pre-rooted firmware installations and broader device compatibility, which is ideal for those seeking a more streamlined but supported experience.
 
 The best choice boils down to your personal needs and budget. Remember, FRP bypass should only be utilized by rightful owners facing genuine lockouts. When used responsibly, these tools can help you access your phone after a factory reset even without your Google account credentials. Choose the tool that best fits your needs and proceed with caution. Use these tools responsibly and regain access to your device the right way.
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Unlocking Made Easy: The Best 10 Apps for Unlocking Your Lava Yuva 2 Pro Device
 
@@ -299,6 +292,19 @@ Hi Locker allows password and pattern unlocking.
 
 ![unlock apps for android-Hi Locker](https://images.wondershare.com/drfone/article/2016/05/14631657268767.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.Lok Lok
 
 Lok Lok has a unique take on the locking screen application niche, allowing you to send drawings to people who use the same application. It has the basic functions of course but it really is only fan when others you know, use the same app as well. This fact kind of restricts this otherwise excellent application but the idea is genius. An Android unlock screen app that allows your creative side to shine through.
@@ -306,6 +312,13 @@ Lok Lok has a unique take on the locking screen application niche, allowing you 
 This Android unlock app doesn't allow pin lock screen at the moment, it can be unlocked with the home button
 
 ![unlock apps for android-Lok Lok](https://images.wondershare.com/drfone/article/2016/05/14631658028688.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3.Next News Lock Screen
 
@@ -321,25 +334,18 @@ This android unlock app allows pin and pattern unlock, and it also has an intrud
 
 ![unlock apps for android-CM Locker](https://images.wondershare.com/drfone/article/2016/05/14631659122551.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5.Slidelock Locker
 
 Another app that takes advantage of Apple's popularity by bringing in the "slide-to-unlock" mechanics and the general aesthetic qualities of the iOS home screen. In addition to possessing the basic functions, this Android unlock screen app also highlights messages.
 
 ![unlock apps for android-Slidelock Locker](https://images.wondershare.com/drfone/article/2016/05/14631659338843.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6.Semper
 
@@ -369,6 +375,13 @@ How to unlock : You can swipe anywhere on the screen.
 
 ![unlock apps for android-AcDisplay](https://images.wondershare.com/drfone/article/2016/05/14631660873877.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9.C Locker Pro
 
 It would be unjust to call it an Android unlock app, this application is actually a carefully selected package that allows you to do a lot of cools stuff with your new and improved home screen. Not only it supports the usually methods of unlocking like swipe or patterns, but you can actually set double or even triple tap options which is quite unique and a very good idea. The app has every other usual options including setting your favorite apps or showing the lock, as well as the date and the temperature of course.
@@ -378,13 +391,6 @@ Google Play link: [https://play.google.com/store/apps/details?id=com.ccs.lockscr
 How to unlock : This Android unlock screen app allows you to unlock the screen with swiping, patterns or even specific number of taps.
 
 ![unlock apps for android-C Locker Pro](https://images.wondershare.com/drfone/others/c-locker-pro.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Echo Notificaiton Lockscreen
 
@@ -410,24 +416,16 @@ _**Bonus Tips:** Easily bypass Android Lock Screen/Google FRP on Android with [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-social-sites-showdown-youtubers-choice/"><u>[New] 2024 Approved Social Sites Showdown YouTubers' Choice</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-professional-level-action-recording-on-a-students-budget/"><u>[New] In 2024, Professional-Level Action Recording on a Student's Budget</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-memes-take-over-video-hits-on-twitters-map/"><u>[Updated] 2024 Approved Memes Take Over Video Hits on Twitter's Map</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unlocking-successful-srt-shipping-out-of-premiere-for-2024/"><u>[Updated] Unlocking Successful SRT Shipping Out of Premiere for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-macs-preview-a-comprehensive-tutorial/"><u>2024 Approved Mastering Mac's Preview A Comprehensive Tutorial</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/animated-artistry-on-instagram-caption-creativity-for-2024/"><u>Animated Artistry on Instagram Caption Creativity for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-clutter-pro-tips-to-adhere-sticky-notes-on-w11w10/"><u>Avoid Clutter: Pro Tips to Adhere Sticky Notes on W11/W10</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oneplus-ace-2-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your OnePlus Ace 2 Pro to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/epson-ds-530-find-and-download-the-right-drivers-for-windows-11-x64/"><u>Epson DS-530: Find and Download the Right Drivers for Windows 11 (X64)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-s17e-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo S17e Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y36-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y36</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-infinix-hot-40-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Infinix Hot 40 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-s23-ultra-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy S23 Ultra? Try These Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-oppo-a79-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Oppo A79 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-s17t-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo S17t Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-y27-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo Y27 5G Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-a34-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy A34 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-vivo-y27s-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo Y27s Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-leveraging-instagram-stories-with-ease-and-flair/"><u>[New] Leveraging Instagram Stories with Ease and Flair</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-art-of-cozy-cinematography-top-5-winter-scenes/"><u>[New] The Art of Cozy Cinematography Top 5 Winter Scenes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-your-presentation-potential-with-these-high-quality-templates/"><u>[New] Unlock Your Presentation Potential with These High-Quality Templates</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-guide-to-camstudios-2023-screen-record-features-for-2024/"><u>[Updated] The Ultimate Guide to CamStudio's 2023 Screen Record Features for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-superior-hd-visual-capture-and-recorders/"><u>2024 Approved Superior HD Visual Capture and Recorders</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-v27e-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo V27e</u></a></li>
+<li><a href="https://driver-install.techidaily.com/crack-the-code-to-perfect-usb-on-windows/"><u>Crack the Code to Perfect USB on Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-t2-pro-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo T2 Pro 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-f14-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy F14 5G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-reno-11-pro-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Oppo Reno 11 Pro 5G</u></a></li>
 </ul></div>
 

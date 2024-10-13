@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove Forgotten PIN Of Your Asus ROG Phone 8
-date: 2024-10-07T00:51:29.019Z
-updated: 2024-10-07T22:34:34.495Z
+date: 2024-10-12T19:12:07.079Z
+updated: 2024-10-13T19:00:31.216Z
 tags: 
   - unlock
   - remove screen lock
@@ -45,10 +45,10 @@ This is an important issue that needs to be resolved right away. Therefore, some
 If you have added a trusted area or device in Google Smart Lock, you can go to that trusted area and reset your password. Alternatively, you can also use trusted devices to unlock your device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Google Find My Device
@@ -62,13 +62,6 @@ As you are likely aware, every Android device is connected to a Google account. 
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Recovery Mode
 
 Users of Android smartphones and tablets can troubleshoot various issues with their devices using a feature known as Android Recovery Mode. If you discover that your device is functioning strangely, it might be helpful. Recovery Mode Android technically refers to a unique bootable partition with a recovery application installed inside it.
@@ -76,13 +69,6 @@ Users of Android smartphones and tablets can troubleshoot various issues with th
 However, users can also use it to reset the android password if it is forgotten. The instructions for resetting android devices through recovery mode differ for every android device.
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Dr.Fone - Screen Unlock
 
@@ -104,16 +90,16 @@ _(Enter Recovery Mode via the Samsung phone with Bixby)_
 
 ![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _(Enter Recovery Mode via the Samsung phone without Bixby)_
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _(Enter Recovery Mode via the Samsung phone with the Home button)_
 
@@ -158,6 +144,19 @@ Gestures have become an iconic piece of the entire mobile operating system and e
 
 ![guesture lock screen app](https://images.wondershare.com/drfone/article/2017/10/15074553821605.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 These gestures gave Android developers an idea of creating apps, to make use of new gestures for not only in-phone functionality but also for the most basic smartphone function of locking and unlocking.
 
 Why do we need these gesture apps? –Would you not want to control your phone’s notification bar by just waving your hand over the screen, when it’s not reachable? These apps are not only fun but also useful and efficient. So, now let us discuss 5 Android gesture lock screen apps.
@@ -167,13 +166,6 @@ Why do we need these gesture apps? –Would you not want to control your phone�
 A top-rated app in the Google Play Store, for gestures, the Gesture Lock Screen is a wonderful gesture app that locks and unlocks Android lock screens. Rated 4/5 stars in the Google Play Store, this app was developed by Q Locker.
 
 ![guesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074554194436.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Gesture Lock Screen is an all-in-one gesture app that locks the screen as well as provides you with other good features. The app allows you to draw anything or gesture to unlock your phone; you can draw letter, signatures, various shapes, whatever you want to unlock your device! This app gives you the convenience to unlock your phone through fingerprints, gestures, and recover passwords as well.  
 
@@ -217,13 +209,6 @@ Developed by Prank App, Gesture Lock Screen is a wonderful app that allows to se
 
 ![gesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074555834839.jpg)![gesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074555845748.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Gesture Lock Screen is designed to allow you to launch any personal application through your personalized gesture, so you do not have to worry about anyone meddling with the contents of your phone. The app comes with the following range of features:
 
 • Create any kind of password – letters, shapes, numbers, signatures, etc.
@@ -244,13 +229,6 @@ Developed by Imaxinacion, Gestos-Gestures is an amazing gesture screen-lock app,
 
 ![Gestos](https://images.wondershare.com/drfone/article/2017/10/15074556205078.jpg)![Gestos](https://images.wondershare.com/drfone/article/2017/10/15074556219960.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Gestos allows you to – call contacts, enable or disable settings like Wi-Fi, Bluetooth, GPS, etc, run various system options, lock or unlock your device, and access websites as well.
 
 Talking about configuration, Gestos is a well-designed app that can be activated by just a double-touch on your home screen. Its sensitivity can be adjusted according to what you prefer, a permanent notification toggle floating button is available as well!
@@ -262,6 +240,13 @@ Download it from here - <https://play.google.com/store/apps/details?id=com.imaxi
 As Android reaches new heights every year, gestures are getting more and more enhanced, as their functionalities increase as well. Gestures have always been an exciting feature in Android phones and a convenient one as well. They are practical and fun to use, and the apps mentioned above are some of the best gesture-lock apps amongst the vast number of such apps in the Google Play Store. If you want to make your tasks easier by using gestures on your phone, feel free to try some of the mentioned apps here.
 
 ## Top 10 Password Cracking Tools For Asus ROG Phone 8
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **What is password cracking?**
 
@@ -307,6 +292,19 @@ Cain & Abel can use techniques of Dictionary Attack, Brute-Force and Cryptanalys
 
 ![cain and abel](https://images.wondershare.com/images/utilities/cain-and-abel_39.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Features of Cain & Abel:**
 
 - Used for WEP (Wired Equivalent Privacy) cracking
@@ -326,6 +324,13 @@ John the Ripper is a free multi or cross platform password cracking software. It
 It’s primarily used to crack weak UNIX passwords but also available for Linux, Mac, and Windows. We can run this software against different password encryptions including many password hashes normally found in different UNIX versions. These hashes are DES, LM hash of Windows NT/2000/XP/2003, MD5, and AFS.
 
 ![john the ripper00](https://images.wondershare.com/images/utilities/john-the-ripper00.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Features of John the Ripper**
 
@@ -395,6 +400,13 @@ Site for Download:
 
 [http://project-rainbowcrack.com/](http://project-rainbowcrack.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. OphCrack : Tool for Windows password cracking
 
 OphCrack used to crack Windows user passwords with the help of rainbow tables that are available in a bootable CD.
@@ -413,6 +425,13 @@ Ophcrack is completely free to download, Windows based password cracker that use
 **Site for Download:**
 
 [http://ophcrack.sourceforge.net/](http://ophcrack.sourceforge.net/)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Brutus : A brute force attack cracker for remote systems
 
@@ -444,13 +463,6 @@ Just like OphCrack tool L0phtCrack is also a Windows passwords recovery tool use
 It normally gains access to these hashes from directories, network servers, or domain controllers. It is capable of doing hash extraction from 32 & 64 bit Windows systems, multiprocessor algorithms, scheduling, and can also perform decoding and monitoring networks. Yet it is still the easiest to use password auditing and recovery software available.
 
 ![phtcrack](https://images.wondershare.com/images/utilities/phtcrack_1233.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Features of L0phtCrack**
 
@@ -521,19 +533,22 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-unleashing-wealth-the-ultimate-13-step-guide-for-newbies-on-reddit/"><u>[New] Unleashing Wealth The Ultimate 13-Step Guide for Newbies on Reddit</u></a></li>
-<li><a href="https://win-latest.techidaily.com/adding-a-flipbook-feature-to-your-website-tips-and-tricks-with-flipbuilder-tools/"><u>Adding a FlipBook Feature to Your Website - Tips & Tricks with FlipBuilder Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/app-stores-showdown-ios-app-store-against-google-play-analysis/"><u>App Stores Showdown: IOs App Store Against Google Play Analysis</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/fast-track-installing-snapchat-on-your-mac-device-for-2024/"><u>Fast Track Installing Snapchat on Your Mac Device for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-motorola-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Motorola Pattern Lock Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y27-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo Y27 5G?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-oppo-a2-lock-screen-password-by-drfone-android/"><u>How To Change Oppo A2 Lock Screen Password?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-tecno-camon-30-pro-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Tecno Camon 30 Pro 5G</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Poco X6? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 11 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a18-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo A18 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-oppo-find-n3-flip-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Find N3 Flip Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tips-for-sharper-images-during-zoom-calls-for-2024/"><u>Tips for Sharper Images During Zoom Calls for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-expertly-selected-best-9-video-conference-apps-for-cross-platform-use/"><u>[New] 2024 Approved Expertly Selected Best 9 Video Conference Apps for Cross-Platform Use</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchat-trick-turn-videos-upside-down/"><u>[New] 2024 Approved Snapchat Trick Turn Videos Upside Down</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-360-degree-edits-in-adobe-premiere-pro/"><u>2024 Approved Mastering 360-Degree Edits in Adobe Premiere Pro</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-win10-mastery-crucial-tips-and-tricks/"><u>2024 Approved Win10 Mastery Crucial Tips and Tricks</u></a></li>
+<li><a href="https://solve-news.techidaily.com/boost-your-tiktok-success-with-effective-video-cropping-strategies-for-trending-content/"><u>Boost Your TikTok Success with Effective Video Cropping Strategies for Trending Content</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-htc-u23-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For HTC U23</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-x-fold-2-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo X Fold 2?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compressive-strength-tests-are-used-to-monitor-concretes-progress-in-achieving-its-required-performance-characteristics-post-curing/"><u>Compressive Strength Tests Are Used to Monitor Concrete's Progress in Achieving Its Required Performance Characteristics Post-Curing.</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/vering-the-timeline-for-youtube-earnings-for-2024/"><u>Discovering the Timeline for YouTube Earnings for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f04-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy F04 Pattern Lock Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-x100-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo X100 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-m34-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy M34 to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-m14-4g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-t2x-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo T2x 5G Lock Screen Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-vivo-t2-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo T2 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-the-missing-msvcr80dll-file-problem/"><u>Solutions for Resolving the 'Missing MSVCR80.DLL' File Problem</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/uncover-exquisite-vr-trails-for-bikers/"><u>Uncover Exquisite VR Trails for Bikers</u></a></li>
 </ul></div>
 

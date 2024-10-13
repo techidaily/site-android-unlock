@@ -1,7 +1,7 @@
 ---
 title: How to Use Google Assistant on Your Lock Screen Of Lava Yuva 2 Phone
-date: 2024-09-29T22:15:04.342Z
-updated: 2024-10-02T18:47:50.207Z
+date: 2024-10-06T17:52:49.967Z
+updated: 2024-10-13T16:16:29.583Z
 tags: 
   - unlock
   - remove screen lock
@@ -59,6 +59,13 @@ Locate the “Lock Screen” settings and make sure to switch on “Assistant re
 
 ![Enable Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2. How To Use Google Assistant on Lock Screen
 
 After you've successfully enabled Google Assistant on your lock screen, let's see how to use Google Assistant to do certain tasks more efficiently and hands-free.
@@ -102,13 +109,6 @@ While Google Assistant is adept at understanding individual commands, it may str
 Google Assistant's capabilities are extensive, but there are instances where it may struggle to execute specific tasks. For example, it can’t execute tasks that involve interacting with certain third-party applications or services. You can't also **unlock phone with voice Google Assistant.**
 
 ![Giving command to Google Asisstant on lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tips to Make Voice Google Assistant Recognize Your Commands
 
@@ -186,6 +186,13 @@ Dr.Fone will then guide you to put your Android device into Download Mode accord
 
 ![Follow instructions to put Android in Download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After that, you can monitor the progress and wait for a few minutes until it shows “Unlocked successfully.”
 
 You May Also Interested:
@@ -195,13 +202,6 @@ You May Also Interested:
 [<u>8 Safe and Effective Methods to Unlock Your iPhone Without a Passcode</u>](https://drfone.wondershare.com/unlock/unlock-iphone-without-passcode.html)
 
 [<u>Complete Guide to Unlock Mi Account Without Password In 2024</u>](https://drfone.wondershare.com/unlock/guide-to-unlock-mi-account-without-password.html)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -251,6 +251,13 @@ Step 4: Now close the app and the Apps chosen will now be password protected.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Using Hexlock
 
 Step 1: Download Hexlock from the Google Play Store. Once it is installed, open it. You will be required to enter a pattern or PIN. This is the lock code that you will use every time you open the app.
@@ -289,25 +296,11 @@ This is the application that allows you to download and install applications to 
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Gallery App
 
 The Gallery app displays all the images on your device. The main reason you may want to lock the Gallery app may be because you have sensitive images that are not suitable for all viewers. Again this is ideal if children make use of your device and you have images that you would rather they didn’t see.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Music Pla\_x\_yer App
 
@@ -333,18 +326,18 @@ If you are also facing the same issue, then you have come to the right place. Th
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to get into a locked phone with Dr.Fone?
 
 [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) provides a hassle-free solution to unlock an Android device in minutes. It can remove a device’s PIN, password, pattern, and even fingerprint security without causing any harm to it. Therefore, you would be able to unlock your device without losing your data while using some Samsung or LG Android phones. If you want to break the locked screen with Dr.Fone from other brand phones, including iPhone, Huawei, and Oneplus, it will wipe out your phone's data after unlocking successfully.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -371,28 +364,21 @@ To learn how to get into a locked phone using Dr.Fone, follow these steps:
 
 ![get into a locked phone with Dr.Fone-in Download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4.** As soon as your device is not in the Download Mode, Dr.Fone will automatically start downloading its respective recovery packages.
 - **Step 5.** Sit back and wait as the application downloads the package and performs the required steps to unlock your device. In the end, it will notify you by displaying the following message.
 
 ![get into a locked phone with Dr.Fone-remove password completed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 That’s it! By following these steps, you would be able to learn how to get into a locked Android phone without losing any data.
 
 _**Tips:** Cannot find your device model in the supported list or your phone is not Samsung? Worry not, as Wondershare Dr.Fone can also help you to unlock other device models (inlcluding Huawei, LG, Xiaomi, etc) in a matter of seconds. Just install this tool on your computer and connect your phone to start the unlock process!_
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to get into a locked phone with Android Device Manager?
 
@@ -425,6 +411,19 @@ If you are using a Samsung device, you can also use its Find My Mobile service t
 
 ![get into a locked phone-Unlock](https://images.wondershare.com/drfone/article/2017/10/15081759851833.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 6.** After waiting for a while, you will get the following prompt. From here, you can set up a new lock for your mobile or can click on the “Lock My Screen” option to do the same.
 
 ## Part 4: How to get into a locked phone using the 'Forgot Pattern' feature?
@@ -441,6 +440,13 @@ If your device is based on Android 4.4 and earlier versions, you may also use it
 ![get into a locked phone-unlock your device](https://images.wondershare.com/drfone/article/2017/10/15081760404056.jpg)
 
 - **Step 4.** After bypassing this feature, you can unlock your device and set up a new PIN or pattern.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: How to get into a locked phone by factory reset?
 
@@ -462,6 +468,13 @@ If nothing else seems to work, then you can also choose to factory reset your de
 
 - **Step 6.** Wait for a while as your phone will be restarted with factory settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 6: How to get into a locked phone in Safe Mode?
 
 If you are using a third-party application to lock your device, you can easily disable it by restarting your phone in safe mode. In this way, you can get rid of the respective app without causing any damage to the Lava Yuva 2 device. You can learn how to get into a locked Android phone by following these steps:
@@ -471,13 +484,6 @@ If you are using a third-party application to lock your device, you can easily d
 - **Step 3.** It will provide the following prompt regarding Safe Mode. Just tap on the “Ok” button to confirm your choice.
 
 ![get into a locked phone-tap on the “Ok”](https://images.wondershare.com/drfone/article/2017/10/15081761296376.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 7: How to get into a locked phone using Custom Recovery?
 
@@ -515,16 +521,16 @@ By following these simple steps, you would learn how to get into a locked phone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-discover-10-instagram-accounts-mixing-humor-with-emotion/"><u>[Updated] Discover 10 Instagram Accounts Mixing Humor with Emotion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-display-driver-has-recovered-message-on-your-screen/"><u>Fixing the 'Display Driver Has Recovered' Message on Your Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-y36-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo Y36? Try These Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-meizu-21-pro-phone-by-drfone-android/"><u>How to Reset a Locked Meizu 21 Pro Phone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-tactical-edition-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Tactical Edition Phone with Broken Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-a25-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy A25 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-nokia-c02-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Nokia C02 and Browser | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-left-and-right-click-discrepancies-on-windows-11-devices/"><u>Resolving Left and Right Click Discrepancies on Windows 11 Devices</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>Updated 2024 Approved Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-perfect-presentation-powerpoint-recordings-on-webcam/"><u>[New] Perfect Presentation PowerPoint Recordings on Webcam</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-3-techniques-to-retrieve-and-save-youtubes-iconic-images/"><u>In 2024, 3 Techniques to Retrieve & Save YouTube's Iconic Images</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-htc-u23-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for HTC U23 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lava-blaze-2-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Lava Blaze 2 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-lava-yuva-3-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Lava Yuva 3</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimize-your-social-media-game-top-tools-for-real-time-hashtag-tracking-on-twitter/"><u>Optimize Your Social Media Game: Top Tools for Real-Time Hashtag Tracking on Twitter</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-13-pro-max-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revival-device-pack-for-2024/"><u>Revival Device Pack for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-motorola-moto-g-stylus-5g-2023-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Motorola Moto G Stylus 5G (2023) Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-motorola-razr-40-ultra-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Motorola Razr 40 Ultra Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726029066727-windows-11gif/"><u>Windows 11対応の高速GIF動画録画テクニック：専用ソフトウェアガイド</u></a></li>
 </ul></div>
 

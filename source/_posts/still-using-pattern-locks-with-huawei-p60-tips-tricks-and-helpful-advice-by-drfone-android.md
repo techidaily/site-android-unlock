@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with Huawei P60? Tips, Tricks and Helpful Advice
-date: 2024-09-26T22:21:50.839Z
-updated: 2024-10-02T20:17:49.675Z
+date: 2024-10-07T19:13:50.558Z
+updated: 2024-10-13T16:54:07.935Z
 tags: 
   - unlock
   - remove screen lock
@@ -36,25 +36,11 @@ Pattern locks are patterns you create on your smartphone and designate as a smar
 
 Pattern locks have only ever been offered on Android devices and were commonplace a few years ago until they were deemed not secure enough for use by modern standards because they were _easy_ to figure out by malicious actors.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### I.II: Popularity and Usage
 
 Pattern lock is a feature unique to Android and has been so since the start. Naturally, it is one of the preferred ways users have come to unlock their Android devices over the years. Even though modern Android smartphones come with fingerprint recognition and face recognition technologies, there exists a large subset of users still addicted to and acclimatized with the pattern lock feature, opting over fingerprint and face recognition.
 
 There has been, however, research conducted into the safety and security offered by pattern lock in Android.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### I.III: Advantages and Drawbacks
 
@@ -69,6 +55,13 @@ There is no denying that using an **easy pattern lock** to lock their smartphone
 While very easy to use, security researchers and experts have come to agree that the feature is not in the least safe to use, and that is because of how people use the pattern lock feature (discussed in detail below in part II). Some go so far as to say that most pattern locks can be breached in just 5 attempts or less. Imagine that!
 
 What is more, research has found that humans have an uncanny ability to correctly guess a pattern lock simply by viewing the unlocking! The test comprised showing the test subjects videos of users unlocking their phones from different angles and varying distances, and it was found that around 64% of test subjects were able to correctly guess a 6-point pattern lock in one viewing only, and 80% could correctly guess the pattern after just two viewings. By contrast, only 11% were able to correctly deduce a 6-digit PIN after one viewing, and only 27% after viewing twice. This goes to show just how insecure pattern locks are!
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part II: How People Use Pattern Locks
 
@@ -85,13 +78,6 @@ These are some commonly created pattern locks by people:
 Marte Loge presented the image below, showing how people naturally gravitate towards creating simple shape patterns, in her research.
 
 ![common pattern locks](https://images.wondershare.com/drfone/article/2023/09/easy-pattern-lock-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To further help you see how easy it might be for anyone to guess your pattern, Marte Loge also presented some statistics.
 
@@ -137,6 +123,13 @@ Download the newest version of Dr.Fone from the Wondershare website and launch t
 
 ![drfone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 1: Go to Toolbox > Screen Unlock and click Android.
 
 ![drfone android screen unlock](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
@@ -153,6 +146,13 @@ Step 4: Now, follow the onscreen guide to prepare your device for screen unlocki
 
 ![wipe partition cache instructions](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After completing the process, when the Next button becomes available, click it.
 
 Your device will be successfully unlocked.
@@ -161,16 +161,16 @@ Your device will be successfully unlocked.
 
 Note that this method wipes all data on the Huawei P60 device. There is no way around it. You may be able to unlock select older Samsung devices without data loss. Check [this](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) list for those devices.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Closing Words
 
 Pattern locks are outdated and not safe to use an **easy pattern lock** – there are no two ways about it. As such, our recommendation is to start using a 6-digit PIN along with biometric or face recognition. However, we do understand that sometimes, you simply cannot use biometrics or face recognition. For those instances, we recommend that you use this guide and create a more secure pattern lock for your device. In case you forgot your pattern, there is always Wondershare Dr.Fone – Screen Unlock (Android) to save the day.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Reset a Locked Huawei P60 Phone
 
@@ -196,19 +196,6 @@ Press and hold the volume up key, along with the power button and home key. You 
 
 ![reset a locked samsung](https://images.wondershare.com/drfone/article/2016/07/14696881309064.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **3\. How to reset an LG phone that is locked?**
 
 To unlock your LG Android phone, you will have to press and hold the volume key and the power or lock key. You have to release the Lock or power key when you see the LG logo on the screen of your phone. Just after that, press and hold the power or lock key again. You can release all the buttons once you see a factory hard reset on the screen.
@@ -221,25 +208,11 @@ You have to confirm that your phone is switched off. Press and hold three keys a
 
 ![reset locked sony](https://images.wondershare.com/drfone/article/2016/07/14696881799322.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **5\. How to reset a locked Motorola phone?**
 
 Firstly, switch off your phone. Then press and hold the power key, home key, and volume up key. After a while, you will see the logo on the screen, just then release all the buttons. For scrolling, you can use the volume down key, and for selecting, you can use either home or power key. Now select factory reset or wipe data.
 
 ![reset locked motorola](https://images.wondershare.com/drfone/article/2016/07/14696882016754.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Whatever your model or brand is, keep in mind that hard reset will delete all your valuable data from your phone! So if you want to unlock your locked phone without losing data from it, then follow the next part.
 
@@ -284,6 +257,13 @@ Once the previous step is complete, you will see the lock screen removal process
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Forgetting your password is a perplexing situation though you have the solution to unlock your Android phone, as hard reset does not give your data back, you should rely on the software called [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) for smooth operation. So have the software and cheer up. I hope you will enjoy and forget about the hassle when you lost your password.
@@ -307,10 +287,10 @@ To find the Wi-Fi passwords on your Android phone, you need to have an app to ex
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556285763404.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Steps of getting Wi-Fi password on Android with root
@@ -322,6 +302,13 @@ Step 1: Install the ES File Explorer
 Download the ES File Explorer from your play store, install it, and open it.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556286507084.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Enable Root Explorer
 
@@ -364,6 +351,13 @@ To access the files that Android uses to run passwords, you must first become a 
 Get your Android phone and go to settings. Scroll down and find "About phone." Tap on it and scroll down again to find Build number.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556302638925.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tap on this "build number" 5 to 6 times until a message pops up, saying, "You are now a developer".
 
@@ -413,18 +407,22 @@ Now you learned how to show the wifi password on your Android device.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-sjcam-sj7-star-action-camera-complete-review-for-2024/"><u>[New] SJCam SJ7 Star Action Camera Complete Review for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-tips-to-transform-your-video-display-on-fb/"><u>[New] Tips to Transform Your Video Display on FB</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-enhance-your-footage-perfect-aspect-ratio-selection/"><u>[Updated] Enhance Your Footage Perfect Aspect Ratio Selection</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-crafting-stellar-instagram-content-for-maximum-influence/"><u>[Updated] In 2024, Crafting Stellar Instagram Content for Maximum Influence</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-s23-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy S23</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-v27-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo V27 Fingerprint Lock</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-vivo-y27-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Vivo Y27 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-m34-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy M34 5G Easily?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-x90s-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo X90S Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m54-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M54 5G Phone without PIN</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-aesthetic-edge-crafting-podcast-logos-with-panache/"><u>In 2024, The Aesthetic Edge Crafting Podcast Logos with Panache</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-potential-advanced-techniques-for-slug-line-creation/"><u>In 2024, Unlocking Potential Advanced Techniques for Slug Line Creation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/superlative-frame-storyteller-bundle/"><u>Superlative Frame Storyteller Bundle</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-funnybox-simple-setup-for-content-creators/"><u>[New] In 2024, FunnyBox Simple Setup for Content Creators</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-transforming-your-living-space-into-a-podcast-studio/"><u>[Updated] In 2024, Transforming Your Living Space Into a Podcast Studio</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-voice-customization-on-instagram-revealed-for-2024/"><u>[Updated] Step-by-Step Voice Customization on Instagram Revealed for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tiktok/"><u>成功させる方法：TikTokの保存不可能な動画も保存できるコツ</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/expert-insights-into-cutting-edge-technology-by-toms-team/"><u>Expert Insights Into Cutting-Edge Technology by Tom's Team</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-agni-2-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Lava Agni 2 5G Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-lenovo-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Lenovo?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-motorola-edge-40-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Motorola Edge 40</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-sony-xperia-1-v-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Sony Xperia 1 V Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-lava-blaze-2-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Lava Blaze 2</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-meizu-21-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Meizu 21 Pro</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-windows-8-flv-video-editor-simplify-your-video-editing-process/"><u>In 2024, Windows 8 FLV Video Editor Simplify Your Video Editing Process</u></a></li>
+<li><a href="https://fox-place.techidaily.com/magnesium-24-79-079/"><u>Magnesium-24: 79% = 0.79</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/seize-endless-photographic-content-from-elite-4-video-clips-for-2024/"><u>Seize Endless Photographic Content From Elite 4 Video Clips for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-asus-rog-phone-8-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Asus ROG Phone 8 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://article-helps.techidaily.com/winter-olympics-2022-highlights/"><u>Winter Olympics 2022 Highlights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnets-recent-study-a-staggering-25-of-tech-workers-may-soon-seek-new-employment-opportunities/"><u>ZDNet's Recent Study: A Staggering 25% of Tech Workers May Soon Seek New Employment Opportunities</u></a></li>
 </ul></div>
 

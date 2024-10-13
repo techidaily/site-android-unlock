@@ -1,7 +1,7 @@
 ---
 title: The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On HTC
-date: 2024-09-30T20:14:28.903Z
-updated: 2024-10-02T21:54:46.421Z
+date: 2024-10-07T18:46:59.349Z
+updated: 2024-10-13T19:39:43.177Z
 tags: 
   - unlock
   - remove screen lock
@@ -42,6 +42,13 @@ AppLock is rated as the best one of the apps for locking apps on your Android ph
 
 ![lock apps with fingerprint android-AppLock](https://images.wondershare.com/drfone/article/2017/10/15090398843847.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. App Locker: Fingerprint & Pin
 
 The subsequent name on the list of best app locks using lock apps with the fingerprint on your Android phone is App Locker. Most of the functions and features of this app are similar to the app lock. This lock apps with fingerprint iPhone have a tricky feature though, want to know? This naughty app, along with the app lock facility (using PIN, password, or fingerprint sensor), can trigger a sham crash screen which will trick the impostors to think that your phone is crashed! Isn’t it interesting? One more thing to interest you – it is also free to download and use.
@@ -59,13 +66,6 @@ The subsequent name on the list of best app locks using lock apps with the finge
 **Google Rating:** 4.5
 
 ![lock apps with fingerprint android-Fingerprint & Pin](https://images.wondershare.com/drfone/article/2017/10/15090399098286.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. FingerSecurity
 
@@ -100,19 +100,6 @@ Whenever we have heard the word anti-virus, the first name that comes to our min
 **Google Rating:** 4.6
 
 ![lock apps with fingerprint android-Norton Applock](https://images.wondershare.com/drfone/article/2017/10/15090399468920.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Perfect Applock
 
@@ -156,6 +143,13 @@ Follow the guide below to bypass the face unlock settings and choose the best on
 
 ![face lock](https://images.wondershare.com/drfone/article/2022/11/face-unlock-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How To Bypass Android Face Lock by Ourselves?
 
 If you want to bypass face lock by yourself, then different methods can help you. These are all tested and work well.
@@ -188,13 +182,6 @@ Google Find My Device is a service that lets you remotely lock, track, and wipe 
 
 ![google find my device data reset](https://images.wondershare.com/drfone/article/2022/11/face-unlock-android-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 1:** Navigate to Find My Device and sign in with your Google account.
 
 **Step 2:** Your phone receives a notification.
@@ -204,6 +191,13 @@ Google Find My Device is a service that lets you remotely lock, track, and wipe 
 **Step 4:** The factory reset process on your phone begins. When it's finished, choose My Google Account instead of using your phone as if it were brand new.
 
 Just like the hard reset, after using Google Find My Device, all your data and settings will be erased. Please make everything well prepared before you decide to unlock your device.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Easiest Way to Unlock Your Android Face Recognition Using Dr.Fone-Screen unlock
 
@@ -245,6 +239,13 @@ _(Recovery Mode When the Samsung phone with Bixby)_
 
 ![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _(Recovery Mode When the Samsung phone without Bixby)_
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
@@ -257,6 +258,13 @@ This step in Recovery Mode is the most important to unlock your screen. Please c
 
 ![wipe cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now you can see your device is unlocked successfully
 
 ![unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
@@ -264,6 +272,13 @@ Now you can see your device is unlocked successfully
 ### Conclusion
 
 There are various methods to bypass Android face lock, but Dr.Fone-Screen Unlock is the easiest and safest method. Dr.Fone offers Screen Unlock and many other handy tools to help you recover, remove and unlock your Android phone without geeky knowledge. Dr.Fone-Screen Unlock is a step-by-step process, and you do not need to do anything; Dr.Fone will do all you want to do on your phone!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5 Solutions For HTC U23 Pro  Unlock Without Password
 
@@ -318,13 +333,6 @@ Here is how you can do an **HTC U23 Pro  pattern unlock without PC**. You don't 
 
 ![HTC U23 Pro  lock screen](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Enter a random password or PIN on your phone's lock screen five times.
 - Wait for the system to give the alert message after you enter the wrong password five times.
 - Now, wait for 30 seconds until the system asks you to enter your lock screen password.
@@ -344,13 +352,6 @@ If you want to unlock your HTC  phone, you can also answer some security questio
 - Tap on the “Next” button and answer every question that comes up.
 - If you give correct answers, the system will open the screen lock.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4: Hard Reset (data loss)
 
 A hard reset would be the best solution if you forgot your phone's lock screen password or pattern. However, you can unlock your phone with your Google account as well. Do a hard reset if you can't remember your Google account password and don't want to use third-party tools. The only problem with hard resetting is that you lose all your data, images, files, settings, and personalization. That is why you can't recover any of your data after the hard reset if you don't have a data backup. The process of hard reset is different for every device. Here are the steps for **HTC U23 Pro  pattern unlock without a PC** through a hard reset.
@@ -359,13 +360,6 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 
 ![power key](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Press and hold the Volume down + Power buttons together for a few seconds. Hold the keys until you see the HTC  logo on the screen.
 
 ![volume down and power key](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-05.jpg)
@@ -373,13 +367,6 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 - Select the Language using the volume keys to navigate and the power key to select.
 
 ![select device language](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-06.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Go to the "Wipe Data and Cache" option and select twice using the power key.
 
@@ -394,6 +381,13 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 You can easily unlock your HTC  device without your Google account password and losing data. The best way is to use an HTC U23 Pro  pattern lock removal tool. If you want an easy-to-use tool with fast and safe working, we recommend Dr.Fone - Screen Unlock. Dr.Fone enables users to unlock any android device within five minutes without password, Google account. You can unlock your HTC U23 Pro  without effort. With Dr.Fone, you can also [back up and restore your data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/), do a [system repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) for your mobile, and transfer WhatsApp with a few clicks. Here are the steps to remove the pattern lock from HTC U23 Pro  with Dr.Fone – Screen Unlock.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -428,16 +422,16 @@ Follow the guide step by step to complete all steps, these steps are important t
 
 ![oppo logo](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now, no password or pattern to stop you from using your HTC U23 Pro  !
 
 ![unlock successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -457,19 +451,24 @@ If you know your Google account password, then you can easily unlock your phone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-experts-rankings-top-social-media-viewers/"><u>[New] 2024 Approved Expert's Rankings Top Social Media Viewers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-above-the-clouds-unveiled-best-online-portals-for-hd-skies/"><u>[New] In 2024, Above the Clouds Unveiled Best Online Portals for HD Skies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-simplified-strategies-for-screen-recording-games-for-2024/"><u>[New] Simplified Strategies for Screen Recording Games for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-lav-din-egen-a-gripping-cinematic-experience-crafted-with-movavi-video-tools/"><u>1. Lav Din Egen: A Gripping Cinematic Experience Crafted with Movavi Video Tools</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nubia-z50-ultra-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-motorola-edge-40-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Motorola Edge 40 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-huawei-p60-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Huawei P60</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-lava-blaze-2-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Lava Blaze 2 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-7-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 7 or iPad?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-f54-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy F54 5G Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-s23-tactical-edition-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy S23 Tactical Edition? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Oppo Find N3 Flip</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/professional-paper-dashboard-2-pro-elite-bootstrap-section-0/"><u>Professional Paper Dashboard 2 PRO: Elite Bootstrap # Section 0</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-gear-vr-compatibility-the-definitive-mobile-device-list-2023-edition/"><u>[Updated] In 2024, Gear VR Compatibility The Definitive Mobile Device List - 2023 Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-time-saving-hacks-for-recording-instagram-stories/"><u>[Updated] In 2024, Time-Saving Hacks for Recording Instagram Stories</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-is-monetization-a-feature-in-review-blogs/"><u>[Updated] Is Monetization a Feature in Review Blogs?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweetaudioextractor-quick-sound-maker-for-2024/"><u>[Updated] TweetAudioExtractor Quick Sound Maker for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-social-media-influencers-secret-creating-captivating-facebook-biographies/"><u>2024 Approved Social Media Influencers' Secret Creating Captivating Facebook Biographies</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/building-a-stylish-tiktok-closing-credits-bar-for-2024/"><u>Building A Stylish TikTok Closing Credits Bar for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-7-ultimate-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Asus ROG Phone 7 Ultimate Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-3-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Lava Yuva 3 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g13-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Motorola Moto G13 Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-motorola-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Motorola Phone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-13-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 13 in the Best Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-lenovo-thinkphone-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Lenovo ThinkPhone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-motorola-moto-g84-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Motorola Moto G84 5G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-blaze-curve-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Lava Blaze Curve 5G Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-meizu-21-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Meizu 21 Phone Pattern Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-asus-rog-phone-8-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Asus ROG Phone 8 Device</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/insightful-evaluation-androids-photography-tool-lightroom/"><u>Insightful Evaluation Android's Photography Tool, Lightroom</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-social-media-minimize-daily-facebook-usage/"><u>Mastering Social Media: Minimize Daily Facebook Usage</u></a></li>
 </ul></div>
 

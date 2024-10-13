@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset a Lenovo Phone that is Locked?
-date: 2024-10-03T17:01:26.308Z
-updated: 2024-10-07T17:57:26.108Z
+date: 2024-10-10T19:00:03.301Z
+updated: 2024-10-13T17:33:44.465Z
 tags: 
   - unlock
   - remove screen lock
@@ -46,13 +46,6 @@ Resetting a locked Lenovo ThinkPhone  phone through Google Find My Device presen
 
 ![tap on erase device](https://images.wondershare.com/drfone/article/2023/09/reset-a-motorola-phone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** A confirmation dialog will appear, prompting you to input your Google account password. Finally, click the "Erase" button to initiate the factory reset process.
 
 ## Part 3: How to reset a Lenovo ThinkPhone  phone that is locked without a password?
@@ -62,6 +55,13 @@ In order to reset your Lenovo ThinkPhone  phone without a password, you need to 
 Before resetting your Lenovo ThinkPhone  phone that is locked, you can install the [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) application on your Windows PC or Mac first.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -80,37 +80,30 @@ First of all, launch the Dr.Fone Screen Unlock on your computer, and you will be
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Connect Device**
 
 Now, you need to connect your Lenovo ThinkPhone  phone to the computer via a USB cable and select "Android" > "Unlock Android Screen." This particular step is an application for all the Android phones out there.
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Choose Device Model**
 
 Here you need to select the exact brand of your phone. In your case, you can just tap "Lenovo ThinkPhone ." The program then will start the process for the lock screen removal.
 
 ![drfone advanced unlock 1](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4: Unlock Screen**
 
@@ -144,13 +137,6 @@ Now, press the Volume Down button to navigate to the Recovery Mode.
 
 ![reset a motorola phone that is locked 3](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4: Factory Reset**
 
 Use the buttons to navigate to the “Wipe data/factory reset” option and select it by pressing the Power button. Now, choose the option ”Factory data Reset” and wait for a few seconds till it is completed.
@@ -174,6 +160,13 @@ It is imperative to understand that unlocking your Lenovo ThinkPhone  Phone usin
 At first, you need to make five attempts to unlock your device. Whether you have used a PIN or Pattern lock, Android will always give you five attempts to get the password right. Once you get that, it will trigger the “Forget Password/Pattern” option on Your Lenovo ThinkPhone. This way, you can sneak back into the system once again.
 
 ![reset a motorola phone that is locked 6](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2: Enter Credentials**
 
@@ -205,6 +198,13 @@ There is no point in arguing that looking through how to reset a Lenovo ThinkPho
 
 To our recommendation, we would suggest going through [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) so that you can make the entire process as seamless as possible. It is by far the easiest and most convenient process to work around. Neither less to say, there are a ton of video tutorials that can assist you in case you get stuck in the middle of the process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How To Remove or Bypass Knox Enrollment Service On Lenovo ThinkPhone
 
 In today’s digitally-driven work environment, many companies rely on **Knox Enrollment Service** to secure their employees’ phones and safeguard sensitive data. However, you might have a Knox-enrolled phone you wish to unlock for personal use.
@@ -213,19 +213,6 @@ This article will guide you through removing or bypassing the serviceon your pho
 
 ![knox manage admin portal](https://images.wondershare.com/drfone/article/2024/01/remove-knox-enrollment-service-01.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: What Is the Knox Enrollment Service?
 
 **Knox Enrollment Service** is an integral part of Samsung’s Knox, a toolbox of security features for enterprise-level management of mobile devices. This service is pivotal in how companies manage and secure their mobile devices, especially in a corporate environment.
@@ -233,19 +220,6 @@ This article will guide you through removing or bypassing the serviceon your pho
 ### What It Is
 
 **Knox Enrollment Service by Samsung** is a tool businesses use to automatically enroll Samsung devices into their management systems when the Lenovo ThinkPhone device is connected to the internet. It’s designed for IT administrators to easily deploy, manage, and enforce policies across devices in their network, ensuring consistency and security.
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What It Does
 
@@ -304,6 +278,13 @@ If none of the above methods are feasible, and you find your phone locked or res
 When faced with a locked phone due to Knox security features, and if conventional methods don’t yield results, turning to a third-party tool can be a viable solution. One such tool known for its efficiency in [<u> bypassing phone locks</u>](https://drfone.wondershare.com/unlock/bypass-android-lock-screen.html) is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Screen Unlock.
 
 Wondershare Dr.Fone is a versatile software suite that tackles various smartphone issues, including unlocking screens. Its Screen Unlock feature is useful for bypassing security barriers without requiring extensive technical knowledge. It hosts several features, such as those you need for [<u>data recovery</u>](https://drfone.wondershare.com/android-recovery/recover-lost-samsung.html), system repairs, and other smartphone services.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dr.Fone’s Screen Unlock Feature
 
@@ -383,6 +364,20 @@ Follow the guide below to bypass the face unlock settings and choose the best on
 
 ![face lock](https://images.wondershare.com/drfone/article/2022/11/face-unlock-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How To Bypass Android Face Lock by Ourselves?
 
 If you want to bypass face lock by yourself, then different methods can help you. These are all tested and work well.
@@ -439,13 +434,6 @@ The following guide explains how to use Dr.Fone-Screen unlock to bypass the Andr
 
 ![dr fone homescreen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Select Unlock Android Screen**
 
 Please select" Unlock Android Screen" for the rest process.
@@ -463,10 +451,10 @@ When arriving at this page, we have a lot of options to unlock your device scree
 ![most phone brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 5: Enter into Recovery Mode**
@@ -513,22 +501,20 @@ There are various methods to bypass Android face lock, but Dr.Fone-Screen Unlock
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-12-best-vlogging-cameras-for-vloggers/"><u>[New] In 2024, 12 Best Vlogging Cameras for Vloggers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-new-download-tool-capture-fb-videos-anywhere-for-2024/"><u>[Updated] New Download Tool - Capture FB Videos Anywhere for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-applications-of-virtual-reality/"><u>2024 Approved Applications of Virtual Reality</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-meizu-21-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Meizu 21 Pro Fingerprint Lock</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/experts-insight-into-morphvox-for-professional-sound-alteration/"><u>Expert's Insight Into MorphVOX for Professional Sound Alteration</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-a05s-lock-screen-password-by-drfone-android/"><u>How To Change Samsung Galaxy A05s Lock Screen Password?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-lenovo-thinkphone-phone-by-drfone-android/"><u>How to Reset a Locked Lenovo ThinkPhone Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-ultra-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 Ultra Phone without Any Data Loss</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17e-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo S17e Phone with Broken Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a14-4g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A14 4G Phone with Broken Screen</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-secrets-to-enjoying-authentic-cricket-games-in-real-time/"><u>In 2024, Secrets to Enjoying Authentic Cricket Games in Real-Time</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-vivo-s17-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo S17 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-v29s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo V29s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209531378-resolving-0x80070002-update-issues-on-your-pc-with-ease/"><u>Resolving 0X80070002 Update Issues on Your PC with Ease!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/safari-not-responding-on-iphone-here-are-10-fixes-to-try-now/"><u>Safari Not Responding on iPhone? Here Are 10 Fixes to Try Now!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-journey-of-personalized-instagram-notification-creation/"><u>The Journey of Personalized Instagram Notification Creation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unleash-the-full-potential-of-your-images-with-instagram-filters/"><u>Unleash the Full Potential of Your Images with Instagram Filters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-12-best-vlogging-cameras-for-vloggers/"><u>[Updated] 2024 Approved 12 Best Vlogging Cameras for Vloggers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-affordable-text-animation-strategies-webreal-world/"><u>[Updated] Affordable Text Animation Strategies Web/Real World</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-galaxy-visionhub-premium-integrated-4k-all-in-one-panels/"><u>[Updated] Galaxy VisionHub Premium Integrated 4K All-in-One Panels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-youtube-trailers-a-filmora-guide/"><u>[Updated] In 2024, Crafting YouTube Trailers A Filmora Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-uncomplicated-process-altering-clown-fish-voices-in-winos/"><u>[Updated] Uncomplicated Process Altering Clown Fish Voices in WinOS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-s24plus-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy S24+ Phone When You Forget the Password</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-keeping-your-airpods-tethered-to-one-device-at-a-time/"><u>Guide: Keeping Your AirPods Tethered to One Device at a Time</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y100 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-a59-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo A59 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-7-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 7 Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-vivo-v29e-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo V29e Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-samsung-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Samsung Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranked-graphics-cards-of-2024-best-value-picks-for-gamers/"><u>Top-Ranked Graphics Cards of 2024: Best Value Picks for Gamers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-s23-ultra-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy S23 Ultra Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-power-move-end-multiple-apps-with-a-single-key/"><u>Windows Power Move: End Multiple Apps with a Single Key</u></a></li>
 </ul></div>
 

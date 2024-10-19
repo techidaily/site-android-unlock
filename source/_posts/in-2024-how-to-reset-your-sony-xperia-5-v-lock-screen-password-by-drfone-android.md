@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset your Sony Xperia 5 V Lock Screen Password
-date: 2024-09-03T03:30:12.843Z
-updated: 2024-09-04T03:30:12.843Z
+date: 2024-10-16T17:44:12.661Z
+updated: 2024-10-19T18:46:59.768Z
 tags: 
   - unlock
   - remove screen lock
@@ -50,16 +50,10 @@ Open the program. After that, select and click on "Screen Unlock" on the right s
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now get the Android phone connected to the PC and select the Sony Xperia 5 V device model in the list to proceed.
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 **Step 2: Activate download mode**
 
 You have to put your device into download mode. For that, follow the instructions given by Wondershare:
@@ -76,23 +70,21 @@ After the download mode has been entered, the program will begin to download the
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4: Remove the Android password without data loss**
 
 Soon the recovery package finishes downloading. Then the program begins to remove the lock screen. After the process is over, you can access all your data on your Android device and reset your Android password.
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 These simple steps will ensure that you can secure your Android lock screen easily, without any worries. You do not have to worry about data loss, and you will reset your Android phone. Even if you have forgotten your Android password and are thinking about starting your Android phone again, these simple tips will help.
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## Solution 2: How to reset Android Phone Password with Smart Lock?
 
 Setting up Smart Lock on your Android device adds a convenient and straightforward method for unlocking your screen. Smart Lock provides different alternatives to bypass the lock screen based on specific situations.
@@ -103,13 +95,17 @@ These alternatives encompass trusted locations, connected devices, or facial rec
 
 ![access trust agents feature](https://images.wondershare.com/drfone/article/2023/12/how-to-reset-your-android-lock-screen-password-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** Within "Trust agents," toggle on "Extend Unlock" and then return to the previous screen. Select "Extend Unlock" and input your pattern, PIN, or password to confirm. Next, pick your desired Smart Lock type and follow the on-screen prompts to activate.
 
 ![required extend lock](https://images.wondershare.com/drfone/article/2023/12/how-to-reset-your-android-lock-screen-password-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Solution 3: How to Unlock Samsung Phone with SmartThings?
 
 Unlocking an Android phone using SmartThings is an option available for Samsung devices. SmartThings offers remote control and management of Samsung devices. It also includes the ability to unlock your phone under specific conditions. Here's a general guide on how to use SmartThings to unlock your Samsung phone:
@@ -122,9 +118,6 @@ Unlocking an Android phone using SmartThings is an option available for Samsung 
 
 ![unlock your samsung device](https://images.wondershare.com/drfone/article/2023/12/how-to-reset-your-android-lock-screen-password-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Solution 4: How to Reset Android Password using Google？
 
 To reset the Android password using Google, it is necessary to remember the Google password and ID. Google account must also be activated on the phone. Also, this method only works on devices running Android 4.4 or below. Follow the steps below for the Android password reset.
@@ -135,18 +128,12 @@ Enter the wrong password 5 times till the Android device gives you a "Forgot pas
 
 ![uReset your Android Lock Screen Password](https://images.wondershare.com/drfone/others/reset-lock-screen-password-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2: Enter credentials and do an Android reset password**
 
 Now enter the Google ID and password and log in. You will be able to Android reset your password and get access to your phone.
 
 ![uReset your Android Lock Screen Password](https://images.wondershare.com/drfone/others/reset-lock-screen-password-2.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Solution 5: How to Reset Android Password using Android Device Manager？
 
 Familiar with Android Device Manager? Well, it has been renamed now as Find My Device. This service provided by Google helps you find, lock, or wipe your Android device. Plus, if you have enabled Find My Device, it might prove very helpful to assist you in unlocking your device. Check out these easy-to-follow steps for unlocking your Android device. For this, you need to use Find My Device, the upgraded Android Device Manager:
@@ -156,8 +143,12 @@ Familiar with Android Device Manager? Well, it has been renamed now as Find My D
 ![erase all device data](https://images.wondershare.com/drfone/article/2023/12/how-to-reset-your-android-lock-screen-password-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 6: How to reset Android Phone Password using Factory Reset?
 
 This method can be used when no other means of Android password reset works. This will erase all your data, so it is better to have backups created before. Now perform the steps to Android reset the password.
@@ -168,22 +159,23 @@ Turn your Android device off. Press and hold the power button + home button + vo
 
 ![uReset your Android Lock Screen Password](https://images.wondershare.com/drfone/others/reset-lock-screen-password-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 **Step 2: Factory restore**
 
 Now use the volume +/- button to navigate to the "Wipe Data / Factory Reset" option and press the power button to select it. Wait till the process complete.
 
 ![uReset your Android Lock Screen Password](https://images.wondershare.com/drfone/others/reset-lock-screen-password-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Reboot and reset the password.**
 
 From the available options, choose "Reboot System Now." After the Android device powers on, you will be able to do the Android password reset.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Bonus Part: Useful Tips to Prevent Future Lockouts on Android
 
 Here are some helpful tips to prevent future lockouts on your Android device and ensure better password management.
@@ -200,15 +192,19 @@ This article guided all the possible ways available in 2024 to reset your Androi
 
 On the other hand, other methods have their limitations. For example, SmartThings can only work for Samsung smartphones. Moreover, Wondershare Dr.Fone - Screen Unlock (Android) is compatible with Android 14 and can unlock the screen within 2 minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pattern Locks Are Unsafe: Secure Your Sony Xperia 5 V Phone Now with These Tips
 
 Pattern locks have been available for about as long as people can remember, and they have been hugely popular with people thanks to how easy it is to simply swipe your screen and unlock your smartphone, as against, say, keying in the 4-digit PIN/ 6-digit PIN. However, pattern locks are easy to crack, and today, we bring you all you want to know about pattern locks and how to create a **hard pattern lock**. Further to this, we also tell you how to move beyond pattern locks and what to do in case you forgot the hard pattern lock you just set and are unable to unlock your smartphone.
 
 ![creating more secure pattern locks](https://images.wondershare.com/drfone/article/2023/09/hard-pattern-lock-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What You Need to Know About Pattern Locks
 
 Pattern lock is an Android-only feature that makes it easy for users to have a modicum of security on their smartphones. Most users do not prefer using and remembering a PIN to unlock the smartphone. Creating a pattern makes it easier, somehow.
@@ -217,9 +213,6 @@ There is a 9-point grid on which you swipe your finger from point to point, in a
 
 Pattern locks were exceedingly common only a few years ago, and they are not recommended for use any longer due to concerns (mentioned later in the article).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 1.1: Popularity and Usage
 
 Old habits die hard, or so they say, right? That’s because it is true. We are creatures of habit, and pattern locks have been around for a long, long time. We are accustomed to pattern locks. So, even with even easier technologies such as fingerprint recognition and face recognition, we tend to gravitate towards the familiar old pattern lock.
@@ -248,9 +241,6 @@ Now, if you must continue using a pattern lock, let’s help you know how to cre
 
 ![common pattern locks](https://images.wondershare.com/drfone/article/2023/09/hard-pattern-lock-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 Marte Loge, an M.Sc. Computer Science student, gave a presentation on pattern locks at DEFCON 23 and made a bold claim. She said, “Tell me who you are, and I will tell you your lock pattern.”
 
 She presented the following statistics to support her claim:
@@ -313,9 +303,6 @@ Download the latest version of Dr.Fone from the Wondershare website and launch t
 
 ![drfone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 Step 1: Click Android under Toolbox > Screen Unlock.
 
 ![drfone android screen unlock](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
@@ -324,9 +311,6 @@ Step 2: Click Unlock Android Screen.
 
 ![drfone screen unlock android](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Step 3: Select your device manufacturer.
 
 ![drfone screen unlock manufacturer selection](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -335,26 +319,15 @@ Step 4: Prepare your device to unlock the screen.
 
 ![wipe partition cache instructions](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 When the greyed Next button becomes available, click it and wait for your device to be unlocked.
 
 ![screen unlock successful](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 All data on the Sony Xperia 5 V device is wiped under this method. Select Samsung phones may be unlocked without data loss. Check [this](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) list for devices that may be unlocked without data loss.
-
 
 ## Closing Words
 
 Whether it is an easy pattern lock or a hard pattern lock, the fact is that pattern locks are antiquated and a security nightmare. A minimum 6-digit PIN must be used, and using fingerprint recognition is the preferred way to go for Android devices. Using fingerprint recognition will require that users create a 6-digit PIN. On Apple devices launched after 2017, there is Face ID, Apple’s marketing term for face recognition. If you did indeed still set a hard pattern lock, only to promptly forget it, use Wondershare Dr.Fone – Screen Unlock (Android) to seamlessly unlock your phone right now.
-
-
 
 ## How to Unlock Sony Xperia 5 V Phone without Any Data Loss
 
@@ -369,8 +342,6 @@ If you or someone accidentally forgot or mistyped/misentered your lock password 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 Note: This tool temporarily support unlocking part of Samsung and LG locked screen without losing data, but other Android phone will be wiped all data if you try to unlock the screen with Dr.Fone - Screen Unlock (Android).
-
-
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -395,9 +366,6 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![Dr.Fone android Lock Screen Removal](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 4.** Follow the instructions on the program to get the Android phone into "Download Mode."
 
 - 1\. Power off the phone.
@@ -406,29 +374,16 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![Dr.Fone android Lock Screen Removal](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 **Step 5.** The loading process will take you a few minutes because it is going to verify first your device's compatibility.
 
 ![Dr.Fone removing lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 **Step 6.** Wait until everything is done. You should then see your device already has no lock screen.
 
 ![Dr.Fone lock screen removed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 That's how to unlock an Android phone with just one click using Wondershare's Dr.Fone. If your device is not Samsung or LG, you can use a more advanced mode to [unlock your phone](https://drfone.wondershare.com/guide/android-lock-screen-removal.html).
 
-
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. How to Unlock Android Phone with Aroma File Manager (with Data Loss)/h2>
 
 If you weren't able to open your Wi-Fi or data connection or enable USB Debugging, this is the way for you to unlock your lock screen. This could be a bit complicated, but it should work.
@@ -439,9 +394,6 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 ![Aroma File Manager download page](https://images.wondershare.com/drfone/article/2016/06/14647610652100.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 **Step 2.** Go to your Downloads folders and copy the downloaded zip file.
 
 ![Copy Aroma zip file](https://images.wondershare.com/drfone/article/2016/06/14647610755085.jpg)
@@ -450,9 +402,6 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 ![open memory card on pc](https://images.wondershare.com/drfone/article/2016/06/14647610775226.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 4.** Paste the copied Aroma zip file. Once copied, eject it from your PC, then insert it into your Android device.
 
 ![Paste aroma file manager](https://images.wondershare.com/drfone/article/2016/06/14647610796449.jpg)
@@ -467,9 +416,6 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 ![Android system recovery](https://images.wondershare.com/drfone/article/2016/06/14647615657193.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 7.** After it, restart, and recovery mode will reopen as Aroma File Manager, so go to its settings and select ''Automount all devices on start'', then restart. Back in Aroma File Manager, go to the directory data>system. Check if the ff. exist. If they do, delete them. Then restart again.
 
 - gesture.key (pattern) / password.key (password)
@@ -481,10 +427,6 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 ![arom file manager](https://images.wondershare.com/drfone/article/2016/06/14647610871048.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 Now you have your device booted up, and your Android lock screen is still locked, just gesture in or enter anything. It will be unlocked. And that's how to unlock an Android phone using your device.
 
 ## Part 3. How to Unlock Android Phone Using Minimal ADB and Fastboot (with Data Loss)
@@ -498,20 +440,28 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 ![Minimal adb and fastboot dowload page](https://images.wondershare.com/drfone/article/2016/06/14648313491726.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 2.** Download the tool's latest version.
 
 ![Minimal adb and fastboot downloaded](https://images.wondershare.com/drfone/article/2016/06/14648313521345.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3.** Open the downloaded Minimal ADB and Fastbootzip file and install it.
 
 ![Minimal adb and fastboot installer zip](https://images.wondershare.com/drfone/article/2016/06/14648313544528.jpg)
 
 ![Minimal adb and fastboot setup](https://images.wondershare.com/drfone/article/2016/06/14648313551732.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Minimal adb and fastboot installation complete](https://images.wondershare.com/drfone/article/2016/06/14648313566582.jpg)
 
@@ -523,21 +473,22 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 
 ![Program Files (x86) folder](https://images.wondershare.com/drfone/article/2016/06/14648313591963.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Minimal adb and fastboot folder](https://images.wondershare.com/drfone/article/2016/06/14648313625020.jpg)
 
 **Step 5.** Inside the folder, hold the Shift key on your keyboard, then right-click your mouse. An additional "Open command window here" will appear so select that.
 
 ![Minimal adb and fastboot open command](https://images.wondershare.com/drfone/article/2016/06/14648313653169.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 6.** ADB terminal will pop out. Now, the first is to type in ADB _devices_. This is to check if your device is recognized by ADB. If there is no device listed below, try to remove and reconnect your Sony Xperia 5 V and retype the command. If there are listed devices already, proceed.
 
 ![Minimal adb and fastboot command window adb devices command](https://images.wondershare.com/drfone/article/2016/06/14648317691463.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 7.** Finally, type in the following commands **one by one****.** These commands will remove your lock screen.
 
@@ -552,14 +503,8 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 
 ![Minimal adb and fastboot adb shell command](https://images.wondershare.com/drfone/article/2016/06/14648317729484.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 This would work if you have your USB debugging turned on before it was locked. That's how to unlock Android using ADB.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Part 4: How to Unlock Phone via Find My Device (with Data Loss)
 
 Google Find My Device is another handy way to unlock your locked Android device. However, it requires you to have your Google ID credentials and you have previously enabled Find My Device features. Moreover, it will erase all the data on your device. Use the following steps to unlock your Android phone via Find My Device:
@@ -570,9 +515,6 @@ Google Find My Device is another handy way to unlock your locked Android device.
 
 ![tap on erase device option](https://images.wondershare.com/drfone/article/2023/09/unlock-android-phone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 **Step 3:** You will now be asked to confirm your identity through a Google account password or using a pass-key. Afterward, follow the on-screen instructions to erase and unlock your Android device.
 
 ## Part 5: How to Unlock Android Phone without Losing Data in Safe Mode
@@ -585,9 +527,6 @@ One way to unlock your Android phone without losing the data is by utilizing Saf
 
 ![restart android device in safe mode](https://images.wondershare.com/drfone/article/2023/09/unlock-android-phone-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6. How to Unlock Android Phone without Any Data Loss Using Google Account (Android 4.4 or lower)
 
 If luckily, you left your Wi-Fi open and luckily connected to the internet, this is the easiest way to unlock your Android phone.
@@ -598,22 +537,15 @@ If luckily, you left your Wi-Fi open and luckily connected to the internet, this
 
 ![android forgot pattern lock](https://images.wondershare.com/drfone/article/2016/06/14648495587136.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2:** Check ''Enter your Google Account details'' then tap next.
 
 ![Unlock screen enter google account details](https://images.wondershare.com/drfone/article/2016/06/14648495698424.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** Input your Google Account details, username, and password. You are done.
 
 ![Account unlock Google](https://images.wondershare.com/drfone/article/2016/06/14648495811338.jpg)
 
 You will be given the option to input a new password or pattern right after you enter your Google account details. But if not, Google must have emailed you your temporary password or pattern that you will input to unlock your lock screen.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -627,5 +559,26 @@ You will be given the option to input a new password or pattern right after you 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/eyond-tubes-the-ultimate-video-share-sites-for-2024/"><u>[New] Beyond Tubes The Ultimate Video Share Sites for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-inside-the-core-of-xstream-studios-an-exhaustive-studio-guide-for-2024/"><u>[New] Inside the Core of XStream Studios – An Exhaustive Studio Guide for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-navigate-the-maze-of-macos-for-streamlined-video-resizing-to-instagram/"><u>[New] Navigate the Maze of MacOS for Streamlined Video Resizing to Instagram</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-navigating-small-group-setups-in-zoom/"><u>[Updated] 2024 Approved Navigating Small Group Setups in Zoom</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-empowering-audiences-the-playlist-sharing-approach/"><u>[Updated] Empowering Audiences The Playlist Sharing Approach</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pickus-triumph-in-android-photo-editing-a-comprehensible-review/"><u>[Updated] PickU's Triumph in Android Photo Editing – A Comprehensible Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-live-methods-for-quieter-track-output/"><u>2024 Approved Live Methods for Quieter Track Output</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/comment-redemarrer-un-pc-avec-un-nouveau-registre-pour-le-deploiement-de-windows-11/"><u>Comment Redémarrer Un PC Avec Un Nouveau Registre Pour Le Déploiement De Windows 11?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g23-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Motorola Moto G23 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-mp4-slicer-for-mac-boost-your-vlog-game/"><u>Ideal MP4 Slicer for Mac Boost Your Vlog Game</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-moto-g73-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Moto G73 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-solutions-to-unlock-sony-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>In 2024, 6 Solutions to Unlock Sony Phones If You Forgot Password, PIN, Pattern</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-motorola-moto-g-stylus-5g-2023-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Motorola Moto G Stylus 5G (2023) Pattern Lock Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-huawei-nova-y91-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Huawei Nova Y91 Lock Screen Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-lava-blaze-2-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Lava Blaze 2 Pro Easily?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-moto-g13-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola Moto G13 Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Motorola Moto G84 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-motorola-moto-g-5g-2023-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-poco-c55-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Poco C55? | Dr.fone</u></a></li>
+</ul></div>
 

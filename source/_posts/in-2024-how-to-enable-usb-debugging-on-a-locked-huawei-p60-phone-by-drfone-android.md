@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Enable USB Debugging on a Locked Huawei P60 Phone
-date: 2024-10-11T20:48:21.288Z
-updated: 2024-10-13T22:15:56.696Z
+date: 2024-10-18T19:25:08.726Z
+updated: 2024-10-19T20:06:35.966Z
 tags: 
   - unlock
   - remove screen lock
@@ -57,6 +57,13 @@ This section outlines the traditional method of enabling USB debugging on an And
 
 ![android developer options](https://images.wondershare.com/drfone/article/2024/01/enable-usb-debugging-locked-phone-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Once unlocked, return to **Setting**s, find **Developer Options** (usually at the bottom), and enter the menu. Enable USB Debugging by tapping **OK** once the **Allow USB Debugging?** message appears.
 
 ![android usb debugging](https://images.wondershare.com/drfone/article/2024/01/enable-usb-debugging-locked-phone-04.jpg)
@@ -86,6 +93,19 @@ Check out the amazing key features and benefits of Dr.Fone – Screen Unlock tha
 
 _**Tips:** Forget your device password and can't get access to it? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Guide To Unlock Your Huawei P60 With Dr.Fone – Screen Unlock (Android)
 
 Below are the steps on how you can unlock your Android device using Dr.Fone:
@@ -103,13 +123,6 @@ Below are the steps on how you can unlock your Android device using Dr.Fone:
 - **Step 4:** Once done, click the **Remove without Data Loss** button from the two options presented on the screen.
 
 ![drfone screen unlock without data loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 5:** Unlocking the Android screen requires choosing the **Brand**, **Device Name**, and **Device Model** next. Enable the option that says **I agree with the warning, and I am ready to proceed** by clicking the corresponding checkbox. To proceed with unlocking the screen, click **Next**.
 
@@ -135,11 +148,31 @@ Dr.Fone – Screen Unlock (Android) acts as your trusty guide, leading you throu
 
 [<u>The Best Android Unlock Software of 2024</u>](https://drfone.wondershare.com/sim-unlock/android-unlock-software.html)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In face of locked screens, USB debugging is a beacon of access and troubleshooting for your Android device. Remember, enabling USB debugging on a locked phone is crucial, opening doors to unforeseen solutions. However, what if you want to **enable USB debugging on locked phones,** but the process gets messy?
 
 Then, it’s time to consider Dr.Fone - Screen Unlock (Android). It effortlessly paves the way to **enable USB debugging on locked phones.** By ensuring your device’s security and accessibility, even in locked states, Dr.Fone empowers you to navigate through obstacles, safeguarding your data while unlocking endless possibilities.
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Unlock Huawei P60  Phone Password Without Factory Reset: Full Guide Here
 
@@ -149,20 +182,6 @@ But fear not! This comprehensive guide is here to rescue you from the perils of 
 
 ![how to unlock motorola phone](https://images.wondershare.com/drfone/article/2022/09/full-guide-to-unlock-motorola-phones-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Unlock Huawei P60  Phones Running Older Android OS (4.4 Or Below) With Google Security Questions
 
 Up until Android version 4.4, you could lock your phone screen with a pattern. Google allowed you to unlock the phone by answering security questions in case you forgot the pattern. Since these may also be easily guessed by people who are in possession of your device illegally, Google deprecated this method after Android 4.4. However, the phones running Android 4.4 or lower are still allowed to be unlocked using this method. So, if you have an old Huawei P60  with Android 4.4 or earlier, here is **how to unlock Huawei P60  phone password without factory reset**:
@@ -171,18 +190,18 @@ Up until Android version 4.4, you could lock your phone screen with a pattern. G
 
 ![unlock motorola phone with security questions](https://images.wondershare.com/drfone/article/2022/09/full-guide-to-unlock-motorola-phones-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Next, choose the option to reset the pattern by answering your Google credentials.
 
 **Step 3:** Sign into the Google account that matches with the Google account on the phone.
 
 **Step 4:** Lastly, create a new pattern to unlock your Huawei P60  phone.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Side Tip
 
@@ -204,6 +223,13 @@ Dr.Fone is a collection of several modules unified in a single interface. Each o
 
 ![unlock motorola phone screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Select the first option – 100% Remove Screen Lock as Huawei P60  devices cannot be unlocked without data loss.
 
 ![drfone screen unlock choose your brand](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -217,13 +243,6 @@ Dr.Fone is a collection of several modules unified in a single interface. Each o
 **Step 6:** The software will start downloading, and if everything went smoothly you will see a screen to click Remove Now.
 
 ![motorola phone screen unlock](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 7:** When all is done, you will see the following:
 
@@ -251,19 +270,6 @@ Google Find My Device is an online service by Google that is used to locate and 
 
 ![unlock motorola phone with google](https://images.wondershare.com/drfone/article/2022/09/full-guide-to-unlock-motorola-phones-10.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Click Find A Lost Device.
 
 **Step 4:** Select the Android device you want to wipe carefully if you have a few:
@@ -273,6 +279,13 @@ Google Find My Device is an online service by Google that is used to locate and 
 **Step 5:** Click Erase Device and confirm.
 
 **Step 6:** After the erasure, your device will need to be set up all over again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Request Service Provider To Unlock Your Huawei P60  Phone
 
@@ -335,13 +348,6 @@ Note：You can also use these tool to bypass other phone's screen including Huaw
 
 ![unlock your Android PIN-remove the lock pin](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Well done! you have now removed the distressing pin on your phone. Next time put a pin that you can easily remember.
 
 ## Part 2.How To Enable Your Android Screen Lock PIN
@@ -382,22 +388,16 @@ In most occasions, in fact, 99.9%, the first thing that you will see when you po
 
 ![enable or disable screen lock PIN-go to ](https://images.wondershare.com/drfone/article/2016/05/14646076268107.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3**. You can then click on "Screen Lock" and select "None" to disable the screen lock PIN.
 
 ![enable or disable screen lock PIN-disable the screen lock PIN](https://images.wondershare.com/drfone/article/2016/05/14646081243209.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You will be prompted to enter the current PIN in order to disable it. Key in the PIN and you will have successfully disabled the Lock screen PIN. When you power off and the power on your android device, you will easily access your phone without any need for security PIN. Similarly, anyone can use your phone if they can gain access to it as it doesn't have any screen lock.
 
@@ -417,20 +417,15 @@ Enabling screen lock on your Android is the smartest thing to do especially if y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-core-principles-for-online-storytelling-craftsmanship/"><u>[New] Core Principles for Online Storytelling Craftsmanship</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-your-ultimate-guide-to-the-best-affordable-online-video-effect-tools/"><u>2024 Approved Your Ultimate Guide to the Best Affordable Online Video Effect Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/compreran-disk-definitions-clarity-on-c-vs-d/"><u>Compreran Disk Definitions: Clarity on 'C' Vs 'D'</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-growing-trend-for-electric-vehicles-what-does-it-mean/"><u>Decoding the Growing Trend for Electric Vehicles: What Does It Mean?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-f14-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-f54-5g-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy F54 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-htc-u23-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your HTC U23 Pro Face Lock?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-motorola-moto-e13-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Motorola Moto E13?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-a05s-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy A05s Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y100-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y100 Phone Now with These Tips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-s24-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy S24? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/laptop-speaker-not-working-heres-the-ultimate-fix-for-audio-problems/"><u>Laptop Speaker Not Working? Here's the Ultimate Fix for Audio Problems!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/top-10-non-vimeo-editors-for-user-generated-content/"><u>Top 10 Non-Vimeo Editors for User-Generated Content</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-acoustic-aesthetics-mastering-speed-and-pitch-variations-in-adobe-rush/"><u>Updated Acoustic Aesthetics Mastering Speed and Pitch Variations in Adobe Rush</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-eliminate-unwanted-sound-a-step-by-step-guide-to-noise-reduction-in-fcpx-for-2024/"><u>Updated Eliminate Unwanted Sound A Step-by-Step Guide to Noise Reduction in FCPX for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/mp-up-your-media-get-free-soundtracks/"><u>[New] Amp Up Your Media Get Free Soundtracks!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-to-check-if-your-youtube-channel-is-monetized-correctly-for-2024/"><u>[Updated] How to Check If Your YouTube Channel Is Monetized Correctly for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-oppo-a78-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Oppo A78 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-lava-yuva-3-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Lava Yuva 3 to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-operational-handling-of-srt-in-oses/"><u>In 2024, Operational Handling of SRT in OSes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-asus-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Asus Device</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/mac-standard-mobile-eraser-efficient-star-quality-file-deletion-solution/"><u>Mac Standard Mobile Eraser: Efficient Star-Quality File Deletion Solution</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-honor-magic5-ultimate-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Honor Magic5 Ultimate Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-asus-rog-phone-7-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Asus ROG Phone 7 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-motorola-moto-g73-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Motorola Moto G73 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

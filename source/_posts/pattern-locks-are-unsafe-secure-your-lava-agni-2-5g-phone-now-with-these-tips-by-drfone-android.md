@@ -1,7 +1,7 @@
 ---
 title: Pattern Locks Are Unsafe Secure Your Lava Agni 2 5G Phone Now with These Tips
-date: 2024-09-29T17:00:55.325Z
-updated: 2024-10-02T17:08:54.718Z
+date: 2024-10-19T18:15:25.855Z
+updated: 2024-10-25T16:39:38.582Z
 tags: 
   - unlock
   - remove screen lock
@@ -32,6 +32,13 @@ There is a 9-point grid on which you swipe your finger from point to point, in a
 
 Pattern locks were exceedingly common only a few years ago, and they are not recommended for use any longer due to concerns (mentioned later in the article).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1.1: Popularity and Usage
 
 Old habits die hard, or so they say, right? That’s because it is true. We are creatures of habit, and pattern locks have been around for a long, long time. We are accustomed to pattern locks. So, even with even easier technologies such as fingerprint recognition and face recognition, we tend to gravitate towards the familiar old pattern lock.
@@ -56,23 +63,9 @@ The research found that 64% of test subjects who were shown videos of people unl
 
 Now, if you must continue using a pattern lock, let’s help you know how to create a hard pattern lock that would not be as easy to decipher as easy pattern locks. For that, you should know how people use pattern locks, the kind of pattern locks they create, and the ones that are the most commonly used pattern locks. That way, you can avoid those fallacies and create a hard pattern lock for your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.1: The Pattern Locks People Use Most Commonly
 
 ![common pattern locks](https://images.wondershare.com/drfone/article/2023/09/hard-pattern-lock-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Marte Loge, an M.Sc. Computer Science student, gave a presentation on pattern locks at DEFCON 23 and made a bold claim. She said, “Tell me who you are, and I will tell you your lock pattern.”
 
@@ -114,13 +107,6 @@ All modern smartphones released over the last decade have come with fingerprint 
 This way, your device is the most secure it can be today. In case your fingerprint is not recognized for any reason, the phone falls back on the 6-digit PIN that you can enter and unlock your phone.
 
 While face recognition is available on both Android and Apple devices, it is truly secure only on Apple devices. This is why Apple iPhones released after the iPhone X in 2017 have come only with Face ID. They fall back on a minimum 6-digit PIN (called Passcode in Apple world) to unlock in case the face does not get recognized in the first attempt.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: How To Unlock Phone If Hard Pattern Lock Forgotten
 
@@ -192,13 +178,6 @@ Android Device Manager can unlock your phone under a specific set of circumstanc
 - • Thirdly, the Lava Agni 2 5G device you are using for ADM, must be connected to Wi-Fi or internet, to login to your Google account.
 - • Lastly, Android Device Manager is not compatible for all Android versions. For now, it is only compatible with devices running Android 4.4 and above, so your phone must be in this category for ADM to work.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to unlock Android phone with Android Device Manager?
 
 Just act according to the following steps, and the Android Device Manager will unlock your phone.
@@ -218,13 +197,6 @@ Just act according to the following steps, and the Android Device Manager will u
 7\. Visit your phone’s lock screen settings and disable the temporary password.
 
 ![unlock with android device manager](https://images.wondershare.com/drfone/article/2017/10/15077981723179.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The Android Device Manager has successfully unlocked your phone!
 
@@ -277,15 +249,36 @@ You can also use this tool to bypass the locked screen beyond Samsung and LG.Thi
 
 ![download recovery package](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5\. When the recovery package download is completed, Dr.Fone toolkit will begin removing the screen lock. This process will not cause any data loss on your Android device, so do not worry. Once the whole procedure is over, you can easily access your Android phone without entering any kind of password. Hurrah!
 
 ![unlock android phone successfully](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Dr.Fone software is currently compatible with Samsung Galaxy S/Note/Tab series, and LG G2/G3/G4 series. For windows, it is compatible with 10/8.1/8/7/XP/Vista.
 
 The Android Device Manager is an excellent initiative taken by Google to give people the chance to not lose any data and regain access to their phones. This also teaches us to take precautions before such unfortunate incidents take place. Phones are probably one of the most important belongings of ours, in which we confide all our private and confidential documents that we wouldn’t want to be meddled with.
 
 So, make use of this guide and get back command over your Android phone.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Still Using Pattern Locks with Lava Agni 2 5G? Tips, Tricks and Helpful Advice
 
@@ -304,6 +297,19 @@ Believe it or not, technology has advanced at such a rapid pace in the last two 
 Pattern locks are patterns you create on your smartphone and designate as a smartphone lock/ screen lock. There is a 9-point keypad of sorts, and you start swiping your finger from any point to any point for any which way you feel like. Android 13 allows a minimum of 4 points registered. They are easy to create, and easy to use, hence called easy pattern locks.
 
 Pattern locks have only ever been offered on Android devices and were commonplace a few years ago until they were deemed not secure enough for use by modern standards because they were _easy_ to figure out by malicious actors.
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### I.II: Popularity and Usage
 
@@ -324,13 +330,6 @@ There is no denying that using an **easy pattern lock** to lock their smartphone
 While very easy to use, security researchers and experts have come to agree that the feature is not in the least safe to use, and that is because of how people use the pattern lock feature (discussed in detail below in part II). Some go so far as to say that most pattern locks can be breached in just 5 attempts or less. Imagine that!
 
 What is more, research has found that humans have an uncanny ability to correctly guess a pattern lock simply by viewing the unlocking! The test comprised showing the test subjects videos of users unlocking their phones from different angles and varying distances, and it was found that around 64% of test subjects were able to correctly guess a 6-point pattern lock in one viewing only, and 80% could correctly guess the pattern after just two viewings. By contrast, only 11% were able to correctly deduce a 6-digit PIN after one viewing, and only 27% after viewing twice. This goes to show just how insecure pattern locks are!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part II: How People Use Pattern Locks
 
@@ -396,6 +395,13 @@ Step 1: Go to Toolbox > Screen Unlock and click Android.
 
 ![drfone android screen unlock](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Click Unlock Android Screen.
 
 ![drfone screen unlock android](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
@@ -403,6 +409,13 @@ Step 2: Click Unlock Android Screen.
 Step 3: You will see a list of supported manufacturers on the next screen. Select yours.
 
 ![drfone screen unlock brand selection](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Now, follow the onscreen guide to prepare your device for screen unlocking.
 
@@ -414,20 +427,13 @@ Your device will be successfully unlocked.
 
 ![screen unlock succesful](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Note that this method wipes all data on the Lava Agni 2 5G device. There is no way around it. You may be able to unlock select older Samsung devices without data loss. Check [this](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) list for those devices.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Closing Words
@@ -448,24 +454,18 @@ Pattern locks are outdated and not safe to use an **easy pattern lock** – ther
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-liberate-your-video-files-free-online-tools-for-facebook-videos-in-1080phd-for-2024/"><u>[New] Liberate Your Video Files - Free Online Tools for Facebook Videos in 1080P/HD for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-insiders-guide-overcome-iphone-video-dullness-using-4-adobe-solutions/"><u>[Updated] In 2024, [Insider's Guide] Overcome iPhone Video Dullness Using 4 Adobe Solutions</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-balancing-acts-in-youtube-music-mixes/"><u>2024 Approved Balancing Acts in YouTube Music Mixes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/bypassing-digital-locks-on-pdf-documents-a-comprehensive-guide-to-drm-free-access/"><u>Bypassing Digital Locks on PDF Documents: A Comprehensive Guide to DRM-Free Access</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bypassing-zoom-screen-sharing-obstacles-updated-tips-for-202n4/"><u>Bypassing Zoom Screen Sharing Obstacles - Updated Tips for 202N4</u></a></li>
-<li><a href="https://driver-download.techidaily.com/freshly-released-updated-fingerprint-driver-software-for-windows-users-download-here/"><u>Freshly Released: Updated Fingerprint Driver Software for Windows Users – Download Here</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-v29-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo V29 Pro Phone Screen?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-m14-4g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy M14 4G Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-asus-rog-phone-7-phone-by-drfone-android/"><u>How to Reset a Locked Asus ROG Phone 7 Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y78t-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo Y78t PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-reno-11-pro-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Reno 11 Pro 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y77t-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y77t Through Google Earth?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-galaxy-m54-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Galaxy M54 5G Phone?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2-pro-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo T2 Pro 5G Phone without PIN</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-poco-x5-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Poco X5 Pro FRP Without Computer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pushing-boundaries-in-visual-storytelling-with-hdr/"><u>Pushing Boundaries in Visual Storytelling with HDR</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-ultimate-guide-to-unblocked-video-sharing-for-2024/"><u>The Ultimate Guide to Unblocked Video Sharing for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-how-to-update-your-hp-laserjet-p3015-printer-software-for-windows-users/"><u>Ultimate Guide: How to Update Your HP LaserJet P3015 Printer Software for Windows Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-oppo-f25-pro-5g-by-drfone-android/"><u>Universal Unlock Pattern for Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/chers-guide-to-enhancing-learning-through-youtube-videos/"><u>A Teacher's Guide to Enhancing Learning Through YouTube Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convert-webm-files-into-wav-audio-no-cost-easy-process-with-movavis-online-tool/"><u>Convert Webm Files Into Wav Audio: No Cost, Easy Process with Movavi's Online Tool</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/creating-a-personalized-google-cardboard-vr-setup/"><u>Creating a Personalized Google Cardboard VR Setup</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-huawei-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Huawei</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expertise-in-image-colors-pro-techniques-revealed/"><u>Expertise in Image Colors Pro Techniques Revealed</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-t2-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo T2 5G</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-fast-forward-fame-insta-popularity-through-content/"><u>In 2024, Fast Forward Fame Insta Popularity Through Content</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-a24-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy A24 Lock Screen Password?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-find-n3-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Find N3 Device</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidias-760-enjoy-easy-driver-updates/"><u>Nvidia's 760: Enjoy Easy Driver Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-troubleshooting-for-fixing-504-gateway-timeouts/"><u>Step-by-Step Troubleshooting for Fixing 504 Gateway Timeouts</u></a></li>
 </ul></div>
 

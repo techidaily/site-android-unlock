@@ -1,7 +1,7 @@
 ---
 title: In 2024, Best Huawei Nova Y71 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data
-date: 2024-09-29T20:30:56.095Z
-updated: 2024-10-02T22:00:27.532Z
+date: 2024-10-21T18:12:31.835Z
+updated: 2024-10-25T18:14:41.295Z
 tags: 
   - unlock
   - remove screen lock
@@ -53,6 +53,13 @@ Now we will look at the functionalities that are needed in order to unlock your 
 
 ![android lock screen removal](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** Select Your Device's Brand to Remove Lock. This tool can remove the Android lock screen without data loss for select Samsung devices, such as S5, Note 4, etc. Actually, you can also use this tool to unlock other Android phones including Huawei, Lenovo, Xiaomi, etc., the only sacrifice is that you will lose all the data after unlocking.
 
 ![select android brand](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -74,29 +81,30 @@ Now we have another pattern lock remover named Android multi-tool. Android Multi
 - The tool can reset your set without losing data.
 - It can run on PC and work on Android devices smoothly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Unlock Pattern lock with Android Multi Tool?
 
 Here are the step-by-step guidelines for unlocking a locked screen.
 
 ![Android Multi Tool Android Pattern Remover](https://images.wondershare.com/drfone/article/2016/07/14696572121462.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 1.** Download the latest version of the tool on your PC and run it there.
 - **Step 2.** SConnect your Android phone to your PC via USB cable. Make sure that your Android device is connected to your PC properly. Otherwise, it will not work.
 - **Step 3.** SAfter running the Android Multi tool on your PC, you will see onscreen instructions like different numbers for different functions. Press on a number for which action you want to perform. For unlocking patterns, there is a numbering button so you will go for that.
 - **Step 4.** SYou will see that your phone has started rebooting after pressing a specific button. Wait until you see it starts automatically. When the phone will start, you could use it without any problem. Good thing is that this tool also does not delete data while unlocking your pattern lock.
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: A Comprehensive Comparison: Dr.Fone - Screen Unlock (Android) vs. Android Multi Tool
 
@@ -136,13 +144,6 @@ Lately, we have got lots of feedback and queries like this from our readers who 
 
 If you want to unlock the pin, pattern, password, fingerprint, or any other kind of lock on an Android device, then simply take the assistance of [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It is a highly useful and advanced application that can let you move past the lock screen on your Android phone without losing data (if your phone model is not [Samsung or LG devices in this list](https://drfone.wondershare.com/reference/android-lock-screen-removal.html), it will erase the data after unlocking the screen).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Remove Pattern Locks on Android Screen at Ease
@@ -153,6 +154,13 @@ Remove Pattern Locks on Android Screen at Ease
 - No tech knowledge is needed. Everybody can handle it.
 
 **4,008,669** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### To learn how to unlock pattern lock using Dr.Fone, follow these steps
 
@@ -168,13 +176,6 @@ Remove Pattern Locks on Android Screen at Ease
 
 ![boot phone in download mode](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4.** You will be notified when the process is completed. Simply disconnect your Huawei Nova Y71 and access it without any pattern lock.
 
 ![pattern lock removed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
@@ -188,13 +189,6 @@ Besides Dr.Fone, there are also a few more options to learn how to unlock patter
 - **Step 3.** As you would select your device, you will get various options: erase, lock, and ring.
 
 ![how to unlock pattern](https://images.wondershare.com/drfone/2020/lock.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4.** Click on the “**Lock**” option to change the lock pattern on your device.
 - **Step 5.** Provide the new password for your device and write an optional recovery message.
@@ -235,6 +229,13 @@ Just like Android, Samsung has also developed a dedicated feature for finding a 
 
 ![pattern unlock](https://images.wondershare.com/drfone/article/2017/09/15057373115477.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4.** Now, all you need to do is click on the “Unlock” button to perform pattern unlock on your device.
 - **Step 5.** After unlocking your Samsung device, you will be informed of an on-screen message.
 
@@ -253,13 +254,6 @@ This is a simple and effective solution to knowing how to unlock patterns on an 
 ![android safe mode](https://images.wondershare.com/drfone/article/2017/09/15057373753769.jpg)
 
 - **Step 5.** Later, you can go to the Huawei Nova Y71 device’s Settings > Apps and remove the third-party app as well. In this way, you would be able to learn how to unlock pattern lock for any other app.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 6: How to Unlock Pattern Lock with the Factory Reset?
 
@@ -285,13 +279,6 @@ By following this guide, you would certainly be able to learn how to unlock the 
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How To Easily Unlock Huawei Screen?
 
 If you've ever had a Huawei phone, then you know that their screens are locked by default. It can be a pain if you want to access your messages or change your background image quickly. If you just set your Huawei password, screen lock code, pattern lock, or PIN last night or a few days ago, you are most likely to forget it.
@@ -305,6 +292,13 @@ Let's get started!
 ## 4 Easy Ways To Unlock Huawei Screen
 
 ![sim pin](https://images.wondershare.com/drfone/article/2022/10/unlock-nokia-screen-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Like most people, you probably lock your Huawei phone as soon as you turn it on. It's a good way to keep your phone safe from prying eyes and accidental button presses. But what happens when you forget your phone's passcode? Or worse, what if your phone gets locked by a malicious app?
 
@@ -336,13 +330,6 @@ Follow these steps to unlock the Huawei lock screen password without losing data
 
 You can use it to unlock your Huawei if you have activated the Android Device Manager or Google Find My Device before your phone was locked.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### A few conditions, however, must be met for this to work
 
 - You must turn on your Huawei phone.
@@ -350,6 +337,19 @@ You can use it to unlock your Huawei if you have activated the Android Device Ma
 - You must have your Huawei GPS turned on to use it.
 - You must be connected to WiFi on your device to log into your Google account.
 - Your phone needs to be set to location.
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2. Unlock Huawei Lock Screen With Hard Reset
 
@@ -366,6 +366,13 @@ Follow the steps below if you want to know how to unlock the Huawei phone keypad
 - **Step 7**: With the “Power” key, select "Reboot system now" from the next display.
 
 Your Huawei is now password, pattern lock, screen lock, and PIN-free after a hard reset.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3. Unlock With Answer Security Questions
 
@@ -396,13 +403,6 @@ You could reset your Huawei lock screen phone using the default security code, e
 
 `o 12345.`
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 If you have a classic-style keypad phone or an Android device, unlocking a locked Huawei phone keypad is not easy. However, we believe that every problem has a solution. You can unlock Huawei Android phones using any of the methods listed above.
@@ -423,20 +423,24 @@ _**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-football-inscriptions-premier-fifa-youtube-insights/"><u>[New] In 2024, Football Inscriptions Premier FIFA YouTube Insights</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-discover-the-best-tiktok-to-mp3-online-costless-convertors/"><u>[Updated] In 2024, Discover the Best TikTok to MP3 Online, Costless Convertors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-motorola-g54-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Motorola G54 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Sony</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-asus-rog-phone-7-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Asus ROG Phone 7?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-x-fold-2-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo X Fold 2</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-lava-yuva-2-phone-by-drfone-android/"><u>How to Unlock a Network Locked Lava Yuva 2 Phone?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-asmr-content-deep-dive-101/"><u>In 2024, ASMR Content Deep Dive 101</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo Y78 5G Phone Without Password?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-y78t-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo Y78t</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-store-sign-in-troubles-solutions-await/"><u>Microsoft Store Sign-In Troubles? Solutions Await</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-of-mute-laptops-expert-tips-for-bringing-back-sound/"><u>Solving the Mystery of Mute Laptops: Expert Tips for Bringing Back Sound</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-itel-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Itel Phone Hassle-Free</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-shadows-of-windows-11-proven-strategies-for-eliminating-screen-blackouts/"><u>Unveiling the Shadows of Windows 11: Proven Strategies for Eliminating Screen Blackouts</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-you-should-embrace-online-conversation-9-advantages-to-consider/"><u>Why You Should Embrace Online Conversation: 9 Advantages to Consider</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-leading-cost-free-switch-gaming-apps/"><u>[New] 2024 Approved Leading Cost-Free Switch Gaming Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-synopsis-of-vllo-consumer-voices/"><u>[New] 2024 Approved Synopsis of VLLO Consumer Voices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-sign-up-saga-crafting-your-digital-persona-facebook/"><u>[New] Sign Up Saga Crafting Your Digital Persona (Facebook)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-8-must-have-tiktok-tools-to-boost-your-growth-for-2024/"><u>[Updated] 8 Must-Have TikTok Tools to Boost Your Growth for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/decoding-the-art-of-enhanced-perception-for-2024/"><u>Decoding the Art of Enhanced Perception for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-a15-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-m14-5g-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y78t-lock-screen-password-by-drfone-android/"><u>How To Change Vivo Y78t Lock Screen Password?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-display-driver-failed-to-start-error-on-windows-10-and-11/"><u>How to Fix the “Display Driver Failed to Start” Error on Windows 10 & 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y78-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y78 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-vivo-y27-4g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Vivo Y27 4G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-a15-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-x-flip-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo X Flip Phone Now with These Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-v27s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo V27s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-m14-4g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-twitter-what-does-it-mean-to-retweet/"><u>Understanding Twitter: What Does It Mean to 'Retweet'?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-5-free-online-tone-generator-tools-for-easy-use-for-2024/"><u>Updated Top 5 Free Online Tone Generator Tools for Easy Use for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-6s-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 6s Plus to PC | Dr.fone</u></a></li>
 </ul></div>
 

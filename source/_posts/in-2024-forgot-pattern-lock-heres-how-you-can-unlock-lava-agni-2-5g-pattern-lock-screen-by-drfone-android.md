@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Lava Agni 2 5G Pattern Lock Screen
-date: 2024-10-12T18:52:58.130Z
-updated: 2024-10-19T16:01:16.568Z
+date: 2024-10-19T17:25:11.080Z
+updated: 2024-10-25T17:32:10.855Z
 tags: 
   - unlock
   - remove screen lock
@@ -77,16 +77,16 @@ Save You from Ending up with a Locked Phone After Too Many Pattern Attempts
 
 ![forgot pattern lock - select model details](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4.** Then, enter "confirm" in the box to tell the tool that you agree to proceed.
 
 ![forgot pattern lock - confirm operation](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5.** Now, in order to fix the forgot pattern Android issue, you need to put your device into the Download Mode. To do this, you need to ensure that your device is switched off. Once it is off, hold the Power, Home, and Volume Down buttons simultaneously. After a while, press the Volume Up button to put your device into Download Mode.
 
@@ -117,6 +117,19 @@ All of this can be done by following these steps:
 **Step 4.** You will get the location of the Lava Agni 2 5G device with several other options (lock, erase, and ring).
 
 ![lock android phone](https://images.wondershare.com/drfone/article/2017/09/15059290696992.jpg)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5.** Click on the “Lock” button to reset its password.
 
@@ -153,6 +166,13 @@ If you have locked your device using a third-party app, there exists a simple so
 **Step 2:** In a moment, you'll see the option "Safe Mode" replacing the other "Power Off" menu options. Proceed to boot your device into Safe Mode and uninstall the troublesome application.
 
 ![enable the safe mode](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 6: How to bypass forgot pattern lock using Factory Reset
 
@@ -221,7 +241,21 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![Dr.Fone lock screen removed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 That's how to unlock an Android phone with just one click using Wondershare's Dr.Fone. If your device is not Samsung or LG, you can use a more advanced mode to [unlock your phone](https://drfone.wondershare.com/guide/android-lock-screen-removal.html).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2. How to Unlock Android Phone with Aroma File Manager (with Data Loss)/h2>
 
@@ -233,16 +267,16 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 ![Aroma File Manager download page](https://images.wondershare.com/drfone/article/2016/06/14647610652100.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2.** Go to your Downloads folders and copy the downloaded zip file.
 
 ![Copy Aroma zip file](https://images.wondershare.com/drfone/article/2016/06/14647610755085.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3.** Plug into your PC a memory card that you can insert into your phone later. Then, go to your list of connected devices and select the memory card.
 
@@ -251,13 +285,6 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 **Step 4.** Paste the copied Aroma zip file. Once copied, eject it from your PC, then insert it into your Android device.
 
 ![Paste aroma file manager](https://images.wondershare.com/drfone/article/2016/06/14647610796449.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![arom file manager pasted](https://images.wondershare.com/drfone/article/2016/06/14647610819837.jpg)
 
@@ -293,16 +320,10 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 ![Minimal adb and fastboot dowload page](https://images.wondershare.com/drfone/article/2016/06/14648313491726.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2.** Download the tool's latest version.
@@ -312,13 +333,6 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 **Step 3.** Open the downloaded Minimal ADB and Fastbootzip file and install it.
 
 ![Minimal adb and fastboot installer zip](https://images.wondershare.com/drfone/article/2016/06/14648313544528.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Minimal adb and fastboot setup](https://images.wondershare.com/drfone/article/2016/06/14648313551732.jpg)
 
@@ -458,13 +472,6 @@ Tap on Add Trusted Devices.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555180455802.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The next screen is the Choose Device Type.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555181196889.jpg)
@@ -479,13 +486,6 @@ Since you have already paired Bluetooth, it will ask you to choose the Lava Agni
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555183103300.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Similarly, other Bluetooth and NFC unlock android supported gadgets can be added under the list of Trusted Devices.
 
 ## Part 3: Turn On Smart Lock For Android With Trusted Locations
@@ -499,13 +499,6 @@ Check current settings first.
 On a new Android phone, visit Settings>Personal.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555199012102.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then Lock Screen and Security.
 
@@ -522,6 +515,13 @@ Tap Smart Lock.
 Tap on Trusted Places.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555201755742.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tap on Add Trusted Places
 
@@ -607,24 +607,22 @@ Smart Lock Android is a great feature and is only going to improve on time. With
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-simplified-guide-to-saving-instagrams-dynamic-content/"><u>[New] In 2024, Simplified Guide to Saving Instagram's Dynamic Content</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/o-expense-yes-watch-one-frame-at-a-time-on-youtube/"><u>[New] No Expense? Yes! Watch One Frame at a Time on YouTube</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-mac-snippet-apps-a-compilation/"><u>[Updated] 2024 Approved Essential Mac Snippet Apps A Compilation</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-crafting-an-engaging-tiktok-closing-credits/"><u>[Updated] In 2024, Crafting An Engaging TikTok Closing Credits</u></a></li>
-<li><a href="https://discover-best.techidaily.com/avchd-vs-avcrec-understanding-the-key-differences-explained/"><u>AVCHD Vs. AVCREC: Understanding the Key Differences Explained</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-network-not-registered-on-samsung-mobile-phones/"><u>Effective Solutions for 'Network Not Registered' On Samsung Mobile Phones</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harness-ai-in-your-queries-learn-how-to-register-on-microsofts-innovative-bing-platform/"><u>Harness AI in Your Queries: Learn How to Register on Microsoft's Innovative Bing Platform</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-11-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 11 Pro without Password?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-defy-2-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Motorola Defy 2 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-easily-unlock-htc-screen-by-drfone-android/"><u>In 2024, How To Easily Unlock HTC Screen?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-motorola-g54-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Motorola G54 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-meizu-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Meizu</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-lava-yuva-2-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Lava Yuva 2 Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-gionee-easily-by-drfone-android/"><u>In 2024, How To Unlock a Gionee Easily?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-huawei-nova-y91-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Huawei Nova Y91 Phone Without Password?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-motorola-moto-g13-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola Moto G13</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-motorola-moto-g-stylus-5g-2023-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Motorola Moto G Stylus 5G (2023) Phone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-add-music-to-igtv/"><u>Updated 2024 Approved Add Music to IGTV</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-camera-to-chrome-youtube-shorts-video-upload-guide/"><u>[New] In 2024, From Camera to Chrome YouTube Shorts Video Upload Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-building-confidence-against-youtube-critiques/"><u>[Updated] In 2024, Building Confidence Against YouTube Critiques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-crafting-immersive-experiences-with-captions-on-stories-and-reels/"><u>2024 Approved Crafting Immersive Experiences with Captions on Stories & Reels</u></a></li>
+<li><a href="https://facebook.techidaily.com/double-tap-deception-verifying-profiles-authenticity/"><u>Double-Tap Deception: Verifying Profiles' Authenticity</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/entender-el-calendario-semanal-el-espanol-para-cada-jornada/"><u>Entender El Calendario Semanal: El Español Para Cada Jornada</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-radiant-skin-in-fcpx-no-plugins-required/"><u>Get Radiant Skin in FCPX No Plugins Required</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-find-n3-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo Find N3 Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y77t-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo Y77t?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v29-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo V29 Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung Galaxy S24 Ultra?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-x100-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo X100 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-a2-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo A2</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-google-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Google Phone Now with These Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-earning-trajectory-of-youtube-star-pewdopeep/"><u>In 2024, The Earning Trajectory of YouTube Star PewDoPeep</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-reno-11-pro-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo Reno 11 Pro 5G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-t2x-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo T2x 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-sound-setbacks-repairing-your-dota-2-pcs-mic-functionality/"><u>Overcoming Sound Setbacks: Repairing Your Dota 2 PC's Mic Functionality</u></a></li>
 </ul></div>
 

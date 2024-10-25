@@ -1,7 +1,7 @@
 ---
 title: Rootjunky APK To Bypass Google FRP Lock For Sony Xperia 10 V
-date: 2024-09-26T16:40:30.878Z
-updated: 2024-10-02T21:17:19.465Z
+date: 2024-10-19T18:04:05.029Z
+updated: 2024-10-25T16:58:00.159Z
 tags: 
   - unlock
   - remove screen lock
@@ -102,13 +102,6 @@ Ready to leave the hassle of using **RootJunky** and easily bypass the FRP lock?
 
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Select your device’s brand from the list and click **Start** to continue.
 
 ![select phone brand to remove frp](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
@@ -120,13 +113,6 @@ The next steps may vary depending on the brand you selected.
 - **Step 4:** Select the OS version of your device and click **Start** to continue.
 
 ![remove google frp lock interface](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 5:** Access the secret menu on your phone using the on-screen instructions, then click **Next** to proceed to the next step.
 
@@ -196,13 +182,20 @@ Note：You can also use these tool to bypass other phone's screen including Huaw
 ![unlock your Android PIN-download recovery package](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![unlock your Android PIN-remove the lock pin](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Well done! you have now removed the distressing pin on your phone. Next time put a pin that you can easily remember.
 
@@ -222,13 +215,6 @@ On your android device, open Settings. You can find the settings app in the app;
 
 ![enable or disable screen lock PIN- Select the ](https://images.wondershare.com/drfone/article/2016/05/14646056432103.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3**: Once you have clicked on "Security", Go to "Screen Lock." You will be provided with lock screen option such as None, Swipe, Pattern. PIN, and Password.
 
 ![enable or disable screen lock PIN-Go to Screen Lock](https://images.wondershare.com/drfone/article/2016/05/14646063398300.jpg)
@@ -236,6 +222,13 @@ On your android device, open Settings. You can find the settings app in the app;
 **Step 4**. Click on "PIN" option. You will be prompted to enter preferred 4-didgit PIN number. You will then be required o key in the same 4 digits to confirm your security PIN. Click "OK" and you will have enabled your Android screen lock PIN.
 
 ![enable or disable screen lock PIN-confirm your security PIN](https://images.wondershare.com/drfone/article/2016/05/14646069136524.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Good job. You will have to enter this PIN whenever your phone sleeps or when you reboot your phone.
 
@@ -255,6 +248,13 @@ In most occasions, in fact, 99.9%, the first thing that you will see when you po
 
 ![enable or disable screen lock PIN-disable the screen lock PIN](https://images.wondershare.com/drfone/article/2016/05/14646081243209.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You will be prompted to enter the current PIN in order to disable it. Key in the PIN and you will have successfully disabled the Lock screen PIN. When you power off and the power on your android device, you will easily access your phone without any need for security PIN. Similarly, anyone can use your phone if they can gain access to it as it doesn't have any screen lock.
 
 Enabling screen lock on your Android is the smartest thing to do especially if you value your own privacy. On the other hand, it is a nightmare if you forget screen lock and you don't know how to go about it. But at this moment, at least you have known a perfect way that you can remove screen lock without losing data on your Android phone.
@@ -264,13 +264,6 @@ Enabling screen lock on your Android is the smartest thing to do especially if y
 They have been along for a long, long time now – pattern locks – the easiest of all smartphone locks. You just swipe your finger across to create an **easy pattern lock** of your choosing and that’s it, it becomes your new screen lock. No more remembering tedious digits! So, why have these easy pattern locks become outdated, and why do people still continue to use them? Let’s take a dive and find out all about pattern locks.
 
 ![creating more secure pattern locks](https://images.wondershare.com/drfone/article/2023/09/easy-pattern-lock-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part I: Things To Know About Pattern Locks
 
@@ -303,6 +296,13 @@ There is no denying that using an **easy pattern lock** to lock their smartphone
 While very easy to use, security researchers and experts have come to agree that the feature is not in the least safe to use, and that is because of how people use the pattern lock feature (discussed in detail below in part II). Some go so far as to say that most pattern locks can be breached in just 5 attempts or less. Imagine that!
 
 What is more, research has found that humans have an uncanny ability to correctly guess a pattern lock simply by viewing the unlocking! The test comprised showing the test subjects videos of users unlocking their phones from different angles and varying distances, and it was found that around 64% of test subjects were able to correctly guess a 6-point pattern lock in one viewing only, and 80% could correctly guess the pattern after just two viewings. By contrast, only 11% were able to correctly deduce a 6-digit PIN after one viewing, and only 27% after viewing twice. This goes to show just how insecure pattern locks are!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part II: How People Use Pattern Locks
 
@@ -349,6 +349,19 @@ Supercharged with the information above, you went ahead and changed your easy pa
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool to Unlock Your Sony Xperia 10 V without Pattern Locks!
@@ -364,6 +377,13 @@ Download the newest version of Dr.Fone from the Wondershare website and launch t
 
 ![drfone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 1: Go to Toolbox > Screen Unlock and click Android.
 
 ![drfone android screen unlock](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
@@ -372,33 +392,19 @@ Step 2: Click Unlock Android Screen.
 
 ![drfone screen unlock android](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: You will see a list of supported manufacturers on the next screen. Select yours.
 
 ![drfone screen unlock brand selection](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Now, follow the onscreen guide to prepare your device for screen unlocking.
 
 ![wipe partition cache instructions](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After completing the process, when the Next button becomes available, click it.
@@ -427,22 +433,24 @@ Pattern locks are outdated and not safe to use an **easy pattern lock** – ther
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-a-treasure-trove-of-budget-friendly-digital-artistry-tools/"><u>[New] 2024 Approved A Treasure Trove of Budget-Friendly Digital Artistry Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-fast-and-reliable-download-your-favorite-youtube-content-for-2024/"><u>[Updated] Free, Fast and Reliable Download Your Favorite YouTube Content for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-create-effective-youtube-advertisements-on-a-budget/"><u>2024 Approved Create Effective YouTube Advertisements on a Budget</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-a15-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy A15 5G Fingerprint Lock</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-v29-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo V29?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-the-inside-scoop-on-sonys-ps5-slim-when-it-drops-and-how-much-will-it-cost/"><u>Get the Inside Scoop on Sony's PS5 Slim – When It Drops and How Much Will It Cost?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y27s-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y27s</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-motorola-moto-g23-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola Moto G23 Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y77t-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo Y77t Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Xiaomi Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-f25-pro-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo F25 Pro 5G</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unlocking-composition-magic-with-blend-modes-techniques/"><u>In 2024, Unlocking Composition Magic with Blend Modes Techniques</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-t2x-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo T2x 5G Device</u></a></li>
-<li><a href="https://blog-min.techidaily.com/introducing-automated-summary-clips-on-youtube-using-artificer-intellect-algorithms/"><u>Introducing Automated Summary Clips on YouTube Using Artificer Intellect Algorithms</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-motorola-razr-40-ultra-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Motorola Razr 40 Ultra to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-excellence-with-the-mohu-leaf-30-a-winning-mix-of-price-efficiency-and-performance-quality/"><u>Unlocking Excellence with the Mohu Leaf 30: A Winning Mix of Price Efficiency and Performance Quality</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-x-fold-2-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo X Fold 2 Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-advice-on-iphone-ringtones-and-customization/"><u>[New] Expert Advice on iPhone Ringtones & Customization</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-avoidance-tactics-for-edg-vids-in-learning/"><u>[Updated] 2024 Approved Avoidance Tactics for EDG Vids in Learning</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-boost-your-igtv-views-top-5-tactics-for-increased-engagement-for-2024/"><u>[Updated] Boost Your IGTV Views Top 5 Tactics for Increased Engagement for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-quick-and-comfortable-game-capture-tips-for-rainbow-six-siege/"><u>[Updated] Quick & Comfortable Game Capture Tips for Rainbow Six Siege</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-engaging-creativity-crafting-compelling-facebook-ads/"><u>2024 Approved Engaging Creativity Crafting Compelling Facebook Ads</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-y100-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo Y100? Try These Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-huawei-p60-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Huawei P60 Phone Screen?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-lava-yuva-2-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Lava Yuva 2 Pro Phone Screen?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-samsung-galaxy-a23-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Samsung Galaxy A23 5G Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-s17t-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo S17t Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-asus-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Asus Through Google Earth?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-t2-pro-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo T2 Pro 5G Phone Without Password?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/htc-vive-unveiled-mastering-your-3d-world-for-2024/"><u>HTC Vive Unveiled Mastering Your 3D World for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y77t-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y77t Phone Now with These Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-a15-4g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy A15 4G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-asus-ax6000-rt-ax88u-smart-fast-and-packed-with-features/"><u>In-Depth Look at the Asus AX6000 RT-AX88U - Smart, Fast, and Packed with Features!</u></a></li>
+<li><a href="https://facebook.techidaily.com/internet-leader-joins-forces-with-world-health-in-pandemic-battle/"><u>Internet Leader Joins Forces with World Health in Pandemic Battle</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/nostalgia-spin-off-the-goofy-movie-on-tape/"><u>Nostalgia Spin-Off The Goofy Movie on Tape</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/users-perspective-on-the-performance-of-aphacas-car-transmitter-with-bluetooth-technology/"><u>User's Perspective on the Performance of Aphaca's Car Transmitter with Bluetooth Technology</u></a></li>
 </ul></div>
 

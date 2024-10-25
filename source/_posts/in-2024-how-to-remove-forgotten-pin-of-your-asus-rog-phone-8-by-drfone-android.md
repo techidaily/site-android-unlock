@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove Forgotten PIN Of Your Asus ROG Phone 8
-date: 2024-10-16T18:24:55.895Z
-updated: 2024-10-19T19:20:57.885Z
+date: 2024-10-22T16:40:58.588Z
+updated: 2024-10-25T18:15:28.915Z
 tags: 
   - unlock
   - remove screen lock
@@ -40,6 +40,13 @@ This is an important issue that needs to be resolved right away. Therefore, some
 
 ## Methods to Recover Forgotten Password or PIN
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Google Smart Lock
 
 If you have added a trusted area or device in Google Smart Lock, you can go to that trusted area and reset your password. Alternatively, you can also use trusted devices to unlock your device.
@@ -54,6 +61,13 @@ As you are likely aware, every Android device is connected to a Google account. 
 4. Once more, select "Erase." This will reset the Asus ROG Phone 8 device and get rid of the forgot pattern lock.
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Recovery Mode
 
@@ -73,13 +87,6 @@ Please select "Unlock Android Screen" to ensure you have the correct unlock proc
 
 ![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2. Select device model**
 
 If you see this page, please choose the option fitting your phone, otherwise, you can't unlock your device as you wish.
@@ -90,9 +97,23 @@ _(Enter Recovery Mode via the Samsung phone with Bixby)_
 
 ![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _(Enter Recovery Mode via the Samsung phone without Bixby)_
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _(Enter Recovery Mode via the Samsung phone with the Home button)_
 
@@ -165,6 +186,13 @@ Firstly, the lock screen security needs to be turned off. You can do this by goi
 
 ![magic unlock](https://images.wondershare.com/drfone/article/2017/10/15074554518937.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The app was released early 2017, but Magic Unlock has already received 50,000-100,000 installs and has a 4.2/5 rating in the Play Store, giving you all the more reason to install it. The app requires Android 4.1 and above.
 
 Download the app from here - <https://play.google.com/store/apps/details?id=com.binarybuilding.magicunlock&hl=en>
@@ -189,13 +217,6 @@ Developed by Prank App, Gesture Lock Screen is a wonderful app that allows to se
 
 ![gesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074555834839.jpg)![gesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074555845748.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Gesture Lock Screen is designed to allow you to launch any personal application through your personalized gesture, so you do not have to worry about anyone meddling with the contents of your phone. The app comes with the following range of features:
 
 • Create any kind of password – letters, shapes, numbers, signatures, etc.
@@ -215,13 +236,6 @@ Download it from - <https://play.google.com/store/apps/details?id=com.vasu.gestu
 Developed by Imaxinacion, Gestos-Gestures is an amazing gesture screen-lock app, designed with the main aim of providing you with fluency and speed as you perform actions on your device. This app aims to give you the facility of accessing various functions by drawing an easy gesture on the lock screen.
 
 ![Gestos](https://images.wondershare.com/drfone/article/2017/10/15074556205078.jpg)![Gestos](https://images.wondershare.com/drfone/article/2017/10/15074556219960.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Gestos allows you to – call contacts, enable or disable settings like Wi-Fi, Bluetooth, GPS, etc, run various system options, lock or unlock your device, and access websites as well.
 
@@ -279,13 +293,6 @@ Cain & Abel can use techniques of Dictionary Attack, Brute-Force and Cryptanalys
 
 ![cain and abel](https://images.wondershare.com/images/utilities/cain-and-abel_39.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Features of Cain & Abel:**
 
 - Used for WEP (Wired Equivalent Privacy) cracking
@@ -305,13 +312,6 @@ John the Ripper is a free multi or cross platform password cracking software. It
 It’s primarily used to crack weak UNIX passwords but also available for Linux, Mac, and Windows. We can run this software against different password encryptions including many password hashes normally found in different UNIX versions. These hashes are DES, LM hash of Windows NT/2000/XP/2003, MD5, and AFS.
 
 ![john the ripper00](https://images.wondershare.com/images/utilities/john-the-ripper00.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Features of John the Ripper**
 
@@ -350,13 +350,6 @@ It can be used to crack passwords of different protocols including HTTPS, HTTP, 
 
 ![thc hydra](https://images.wondershare.com/images/utilities/thc-hydra.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Features of THC Hydra**
 
 - Fast cracking speed
@@ -377,6 +370,13 @@ Large-scale-time-memory-trade-off is a process of computing all hashes and plain
 Password cracking using rainbow table is faster than the normal brute force attack method. It’s available for Linux and Windows operating system.
 
 ![rainbowcrack](https://images.wondershare.com/images/utilities/rainbowcrack_1236.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Features of Rainbow Crack**
 
@@ -417,6 +417,13 @@ It is only available for windows operation systems. Tool has a limitation that i
 
 ![brutus](https://images.wondershare.com/images/utilities/brutus_38.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Features of Brutus**
 
 - Available for Windows
@@ -437,13 +444,6 @@ Just like OphCrack tool L0phtCrack is also a Windows passwords recovery tool use
 It normally gains access to these hashes from directories, network servers, or domain controllers. It is capable of doing hash extraction from 32 & 64 bit Windows systems, multiprocessor algorithms, scheduling, and can also perform decoding and monitoring networks. Yet it is still the easiest to use password auditing and recovery software available.
 
 ![phtcrack](https://images.wondershare.com/images/utilities/phtcrack_1233.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Features of L0phtCrack**
 
@@ -479,13 +479,6 @@ Recently software is updated to new version called Fgdump as Pwdump not work fin
 
 [http://www.darknet.org.uk/](http://www.darknet.org.uk/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Medusa : Speedy network password cracking tool
 
 Medusa is remote systems password cracking tool just like THC Hydra but its stability, and fast login ability prefer him over THC Hydra.
@@ -495,6 +488,13 @@ It is speedy brute force, parallel and modular tool. Software can perform Brute 
 Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of information. All modules available as an independent .mod file, so no modification is required to extend the list that supports services for brute forcing attack.
 
 ![medusa](https://images.wondershare.com/images/utilities/medusa_1037.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Features of Medusa**
 
@@ -521,22 +521,24 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/emystifying-youtubes-video-editing-power-for-2024/"><u>[New] Demystifying YouTube's Video Editing Power for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-in-depth-explanation-implementing-cc-license-types/"><u>[New] In 2024, In-Depth Explanation Implementing CC License Types</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-precision-screen-capturing-top-tools-reviewed-on-pcmac/"><u>[New] Precision Screen Capturing Top Tools Reviewed on PC/Mac</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-offline-transcription-programs-for-speech/"><u>[Updated] Top Offline Transcription Programs for Speech</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-honor-x8b-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Honor X8b? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-xperia-10-v-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Sony Xperia 10 V Phone with Broken Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-meizu-21-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Meizu 21 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-huawei-nova-y91-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Huawei Nova Y91 Lock Screen Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-motorola-defy-2-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Motorola Defy 2 Through Google Earth?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-asus-rog-phone-7-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Asus ROG Phone 7 Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-motorola-moto-g23-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Motorola Moto G23 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-meizu-21-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Meizu 21</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-photoscape-the-premier-no-cost-photo-editing-suite/"><u>In-Depth Analysis of PhotoScape: The Premier No-Cost Photo Editing Suite</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-wave-of-bios-updates-from-amd-allies-tackles-the-persistent-logofailure-challenge-head-on/"><u>Latest Wave of BIOS Updates From AMD Allies Tackles the Persistent LogoFailure Challenge Head-On</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-sony-xperia-1-v-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Sony Xperia 1 V Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/utilizing-chatgpt-for-tailored-entertainment-choices-find-out-what-to-watch-next/"><u>Utilizing ChatGPT for Tailored Entertainment Choices: Find Out What to Watch Next</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/windows-1011-hdd/"><u>Windows 10/11 HDDの安全な削除手順詳しく解説</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-premier-video-call-alternatives-zooms-rivalry-explained-for-2024/"><u>[New] Premier Video Call Alternatives Zoom's Rivalry Explained for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-finest-9-digital-places-for-harvesting-futuristic-3d-typefaces/"><u>2024 Approved The Finest 9 Digital Places for Harvesting Futuristic 3D Typefaces</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-lava-blaze-2-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Lava Blaze 2 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-graphics-install-latest-gpu-drivers/"><u>Boost Graphics - Install Latest GPU Drivers</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-p40-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-v27e-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo V27e</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-y77t-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo Y77t to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-a38-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo A38</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-motorola-edge-40-easily-by-drfone-android/"><u>How To Unlock a Motorola Edge 40 Easily?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-x100-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo X100 Pro Lock Screen Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oppo-a79-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Oppo A79 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y56-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y56 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-v27-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo V27</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-slow-motion-mobile-recording-solutions-iphoneandroid/"><u>Innovative Slow Motion Mobile Recording Solutions iPhone/Android</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/is-your-google-drive-vulnerable-to-ransomware-insights-from-malwarefox/"><u>Is Your Google Drive Vulnerable to Ransomware: Insights From MalwareFox</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/luminescence-levered-5-top-videography-enhancers/"><u>Luminescence Levered 5 Top Videography Enhancers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-lost-pci-controller-in-windows/"><u>Restoring Lost PCI Controller in Windows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-test-for-netgears-hybrid-c3700-device-modem-capabilities-revealed/"><u>The Ultimate Test for Netgear's Hybrid C3700 Device: Modem Capabilities Revealed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-motorola-moto-g-stylus-5g-2023-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Motorola Moto G Stylus 5G (2023) FRP Bypass</u></a></li>
 </ul></div>
 

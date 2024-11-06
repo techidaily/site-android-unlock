@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Lava Yuva 3 Phone Pattern Lock without Factory Reset
-date: 2024-10-26T08:51:40.825Z
-updated: 2024-10-31T03:00:27.843Z
+date: 2024-10-31T16:48:24.780Z
+updated: 2024-11-05T16:25:58.264Z
 tags: 
   - unlock
   - remove screen lock
@@ -51,19 +51,6 @@ Step 2. Connect your Android phone to the computer using a USB cable. Next, clic
 
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3. Choose the model version according to your android phone. For people who don't know the operating system version, tick the circle "I can't find my device model from the list above".
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -95,10 +82,10 @@ Step 3. This will provide different ways to access your phone. Select the Google
 ![enter google account details](https://images.wondershare.com/drfone/article/2017/09/15057364067715.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4. Sign in using the credentials of the Google account that is linked to your device.
@@ -120,13 +107,6 @@ Android Device Manager website: <https://www.google.com/android/find>.
 Step 2. From the interface, you can select the Android device that is linked to your Google account.
 
 ![lock android device](https://images.wondershare.com/drfone/article/2017/09/15057364556808.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3. You will get options to ring it, lock it, or erase it. Select the “Lock” option to proceed.
 
@@ -162,6 +142,13 @@ Step 7. Type the command “**ADB shell rm /data/system/gesture.key**” and pre
 
 ![adb shell rm](https://images.wondershare.com/drfone/article/2017/09/15057365341304.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 8. Simply restart your device and access it the usual way, without any lock screen pattern or pin.
 
 ## Conclusion
@@ -186,6 +173,13 @@ There will be times when you come into the situation of not knowing what your Gm
 
 ![reset Gmail password on Android](https://images.wondershare.com/drfone/others/14546021103734.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** After that, you will be moved to the Google Account Recovery page. There will be 3 main options which indicate 3 frequent problems. Select the first one, which is entitled "I don't know my password". Once you have chosen it, you will be required to fill in your Gmail address in the bar provided. Click on the Continue button as long as you have made sure to finish all these tasks.
 
 ![reset Gmail password on Android-create an account](https://images.wondershare.com/drfone/others/14546022254697.jpg)
@@ -194,29 +188,22 @@ There will be times when you come into the situation of not knowing what your Gm
 
 ![reset Gmail password on Android-fill in a CAPCHA form](https://images.wondershare.com/drfone/others/14546022088819.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** Finally, you will be shown a list of options on how to reset your Gmail password on Android devices. You can either use your alternative email address or your phone number to receive a verification code. Bear in mind to fill in any required information and put a check in the CAPCHA box to submit the process.
 
 ![reset Gmail password on Android-submit the process](https://images.wondershare.com/drfone/others/14546022423041.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5:** In this step, a blank bar will appear and it will demand you to type in your verification code. Just do it carefully to make sure there is no error. Once you have done it, a new screen will appear to tell you.
 
 ![reset Gmail password on Android-type in your verification code](https://images.wondershare.com/drfone/others/14546022635082.jpg)
 
 ![reset Gmail password on Android-account assistance](https://images.wondershare.com/drfone/others/14546022939368.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 6:** After you have done all the previous steps, you will know how to reset your Gmail password directly from your Android device.
 
@@ -227,6 +214,13 @@ Besides not knowing your password, there are still circumstances when you wish t
 Step 1: Make sure your Android device is connected with the Internet. Then get access to the link myaccount.google.com. After logging into your account (or maybe you have already done this), scroll down, find the Sign-in and security option and choose it.
 
 ![reset Gmail password on Android-find the Sign-in and security option](https://images.wondershare.com/drfone/others/14546023162049.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Find the Password option in the list. Tap on it to be moved to another screen. In the menu, type in your new password that you wish to exchange, confirm it and then click on the Change password button.
 
@@ -242,16 +236,22 @@ Gmail is undoubtedly a marvelous tool to use on Android devices, but have you re
 4. Gmail app provided you with the ability to have conversations online, and whenever a message comes, there will be a sound. In case you are in a vital conference, or you don't want to be disturbed by the noise, you can mute it. All you have to do is to tap into the conversation, choose the three dots icon then click on the Mute option in the menu.
 5. Enhance the speed and the accuracy of your search with the use of certain phrases. Let's take an instance to see what Gmail can do for you in this case. If you want to search for the mails which have been sent by a certain person, typefrom:(name of the person on Gmail) in the searching bar. And in case you would love to look for a private message from that person, please type is:chat:(name of the person on Gmail) .
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Video on How to Reset Gmail Password on Android Devices
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/KvCMAn5bwx8" id="video-iframe-t"></iframe>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use Google Assistant on Your Lock Screen Of Lava Yuva 3 Phone
 
@@ -275,6 +275,13 @@ Although you can no longer use the **Google Assistant unlock** feature, you can 
 - Sending texts
 - Making a call
 - Asking Google for information, etc.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Enable Google Assistant on Lock Screen: A Step-by-Step Guide
 
@@ -359,10 +366,10 @@ Ensure that your device's microphone is in good working condition. Dirt or debri
 Background noise can interfere with voice recognition. Try to issue commands in a quiet environment to minimize any potential confusion caused by external sounds.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4. How to Unlock Android Phone Screen Without Passcode
@@ -402,13 +409,6 @@ As the Dr.Fone Screen Unlock tool supports both Android and iOS, you will need t
 - In this step, you will be directed to select your device brand. Choose the Android device brand you are using and opt for "Remove without Data Loss" if you don't want to lose your data.
 
 ![Choose Remove without Data Loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4:** Define Device Details
 
@@ -458,24 +458,24 @@ However, if you are looking for ways to **unlock phone with Google Assistant**, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-craft-a-symphony-for-screens-mastering-music-editing-in-canva/"><u>[New] Craft a Symphony for Screens Mastering Music Editing in Canva</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube/"><u>[New] In 2024, Break It Down Free Techniques to Go Frame by Frame on YouTube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-undoing-your-yt-playback-sequence/"><u>[New] The Ultimate Guide Undoing Your YT Playback Sequence</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726227507951-rmvb-mp4-movavi/"><u>免費過繼 RMVB到 MP4：使用 Movavi 影片編解碼器進行線上轉檔</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-you-trust-chatgpt-with-personal-information-a-privacy-analysis/"><u>Can You Trust ChatGPT with Personal Information? A Privacy Analysis</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-lava-blaze-2-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Lava Blaze 2</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-setup-how-to-link-and-use-your-new-logitech-mouse-easily/"><u>Effortless Setup: How to Link and Use Your New Logitech Mouse Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012240331-fixing-genshin-impact-stop-pc-game-crashes-now/"><u>Fixing Genshin Impact: Stop PC Game Crashes Now</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-oppo-find-n3-flip-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Oppo Find N3 Flip</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-a60s-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel A60s to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-f25-pro-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Oppo F25 Pro 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-x-flip-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo X Flip</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-m14-4g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy M14 4G Pattern Lock Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-samsung-galaxy-f15-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Samsung Galaxy F15 5G Phone that is Locked?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-vivo-y36-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo Y36 Easily?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-f34-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-13-pro-max-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 13 Pro Max to Mac Mirroring | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-a34-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy A34 5G Phone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-foundational-framework-engaging-in-instagram-video-talk/"><u>[New] 2024 Approved Foundational Framework Engaging in Instagram Video Talk</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-link-driven-success-a-backlink-blueprint-for-channels/"><u>[New] Crafting Link-Driven Success A Backlink Blueprint for Channels</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-addressing-stalled-video-transmission-tips-and-tricks-for-messenger-users-iosandroid-for-2024/"><u>[Updated] Addressing Stalled Video Transmission Tips and Tricks for Messenger Users iOS/Android for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-freecam-x-live-streaming-software-reviewed/"><u>[Updated] FreeCam X Live Streaming Software Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-must-have-gear-for-road-trip-documentaries/"><u>[Updated] Must-Have Gear for Road Trip Documentaries</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-v27-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo V27 Pro?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-s23plus-lock-screen-password-by-drfone-android/"><u>How To Change Samsung Galaxy S23+ Lock Screen Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-lava-yuva-3-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Lava Yuva 3 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-m34-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-12-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme 12 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-a15-4g-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy A15 4G Easily?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y02t-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y02T Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-a05s-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy A05s Unlock Without Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-y78-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo Y78 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-wi-fi-hotspot-functionality/"><u>Mastering Windows 11'S Wi-Fi Hotspot Functionality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastery-in-motion-advanced-techniques-for-tiktok-edits/"><u>Mastery in Motion Advanced Techniques for TikTok Edits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/secrets-unveiled-creating-professional-srt-files-for-2024/"><u>Secrets Unveiled Creating Professional SRT Files for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-a54-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy A54 5G Device</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1726029262352-youtube/"><u>YouTubeストリーミングにおけるフリーズ問題:改善方法のマニュアル</u></a></li>
 </ul></div>
 

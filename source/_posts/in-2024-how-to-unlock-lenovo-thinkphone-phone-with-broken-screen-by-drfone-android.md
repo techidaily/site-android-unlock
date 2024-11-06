@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Lenovo ThinkPhone Phone with Broken Screen
-date: 2024-10-26T06:06:53.776Z
-updated: 2024-10-31T01:08:59.371Z
+date: 2024-11-03T05:45:53.540Z
+updated: 2024-11-05T18:13:23.620Z
 tags: 
   - unlock
   - remove screen lock
@@ -62,6 +62,19 @@ The Best Tool to Reset Phones Without Android Factory Reset Codes
 
 **4,008,670** people have downloaded it
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Using a USB Mouse and the On the Go Adapter
 
 This is a great solution if you don’t have USB debugging enabled on your device. You will need your device, an OTG adapter and a USB mouse. It involves connecting the Lenovo ThinkPhone device to the USB mouse using the OTG adapter. Check if your device can be connected to a USB mouse. You can find an OTG adapter online, they are relatively inexpensive and very useful.
@@ -72,18 +85,18 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 ![connect broken screen android phone](https://images.wondershare.com/drfone/others/14531933625473.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** As soon as the Lenovo ThinkPhone devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the Lenovo ThinkPhone device’s password lock.
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
 
 You can then go about backing up the contents of your device.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Using your Samsung Account
 
@@ -93,25 +106,11 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933993021.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Select your device from the menu on the left-hand side of the screen.
 
 **Step 3:** You should see the option “Unlock my screen” on the sidebar. Click on it and you will get instructions on how to access your device.
 
 ![unlock android using samsung account](https://images.wondershare.com/drfone/others/14531934188479.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -141,18 +140,18 @@ Press and hold the volume up key, along with the power button and home key. You 
 
 ![reset a locked samsung](https://images.wondershare.com/drfone/article/2016/07/14696881309064.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **3\. How to reset an LG phone that is locked?**
 
 To unlock your LG Android phone, you will have to press and hold the volume key and the power or lock key. You have to release the Lock or power key when you see the LG logo on the screen of your phone. Just after that, press and hold the power or lock key again. You can release all the buttons once you see a factory hard reset on the screen.
 
 ![reset a locked lg](https://images.wondershare.com/drfone/article/2016/07/14696881591213.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **4\. How to reset a locked Sony phone?**
 
@@ -165,6 +164,13 @@ You have to confirm that your phone is switched off. Press and hold three keys a
 Firstly, switch off your phone. Then press and hold the power key, home key, and volume up key. After a while, you will see the logo on the screen, just then release all the buttons. For scrolling, you can use the volume down key, and for selecting, you can use either home or power key. Now select factory reset or wipe data.
 
 ![reset locked motorola](https://images.wondershare.com/drfone/article/2016/07/14696882016754.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Whatever your model or brand is, keep in mind that hard reset will delete all your valuable data from your phone! So if you want to unlock your locked phone without losing data from it, then follow the next part.
 
@@ -197,16 +203,16 @@ The first thing that you will have to do is open Dr.Fone on your PC and then cli
 
 ![reset android screen lock with drfone](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3. Go for Specific Mode**
 
 ![reset android screen lock with drfone](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4. Remove Lock Screen without Password**
 
@@ -214,14 +220,14 @@ Once the previous step is complete, you will see the lock screen removal process
 
 ![reset android phone screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -240,6 +246,13 @@ Whether you have a pattern or PIN or fingerprint as a password, you can remove a
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/WOBqlRz2IaY" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
@@ -272,13 +285,6 @@ Follow the following steps to unlock your Android password without factory reset
 
 ![download recovery package](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5:** You will see that the icon showing “Remove Password Completed” will pop up. This whole process takes only a few minutes to get your work done without any loss of any data.
 
 ![unlock android password without factory reset](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
@@ -301,13 +307,6 @@ With very simple steps and a few minutes at hand, you can get rid of your passwo
 
 ![enter temporary password](https://images.wondershare.com/drfone/article/2017/10/15090638114424.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once successful, you will get a confirmation message below the three buttons: Ring, Lock, and the Erase option.
 
 **Step 4.** On your locked phone, you will see a field asking for your password. Here you can enter your temporary password. Doing so will unlock your device.
@@ -315,6 +314,13 @@ Once successful, you will get a confirmation message below the three buttons: Ri
 **Step 5.** Now in your unlocked phone, go to Settings and then to Security. Now click on disable to remove the temporary password, and later you change it with a new one.
 
 You have successfully unlocked your device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Unlock Android password using custom recovery and Pattern Password Disable (SD card needed)?
 
@@ -348,24 +354,20 @@ The problem of getting your mobile locked and not being able to open it is a com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-blog.techidaily.com/como-evitar-hacer-copias-ilegales-del-contenido-de-dvds-y-almacenarlo-en-el-disco-duro-sin-riesgo-de-infraccion/"><u>¿Cómo Evitar Hacer Copias Ilegales Del Contenido De DVDs Y Almacenarlo en El Disco Duro Sin Riesgo De Infracción?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-from-concept-to-completion-crafting-youtube-shorts-templates-masterfully/"><u>[New] 2024 Approved From Concept to Completion Crafting YouTube Shorts Templates Masterfully</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-capture-every-word-a-guide-to-recording-in-google-meet-for-2024/"><u>[New] Capture Every Word A Guide to Recording in Google Meet for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-charting-the-evolution-of-windows-movie-maker/"><u>[Updated] 2024 Approved Charting the Evolution of Windows Movie Maker</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-cutting-edge-techniques-for-excellent-sound-no-mic-included-for-2024/"><u>[Updated] Cutting-Edge Techniques for Excellent Sound, No Mic Included for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-crafting-chuckles-in-cyberspace-diy-memes-of-the-metaverse/"><u>2024 Approved Crafting Chuckles in Cyberspace DIY Memes of the Metaverse</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-perfect-pitch-for-producers-techniques-for-flawless-vocal-recordings/"><u>2024 Approved Perfect Pitch for Producers Techniques for Flawless Vocal Recordings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-video-potential-with-top-titler-ai/"><u>2024 Approved Unlock Video Potential with Top Titler AI</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-f25-pro-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo F25 Pro 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-s17e-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo S17e</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-asus-rog-phone-7-ultimate-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Asus ROG Phone 7 Ultimate Pattern Lock Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-sony-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Sony</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-y36-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo Y36</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-y78plus-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo Y78+ Unlock Without Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-s23plus-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy S23+ Face Lock?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy A15 4G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-y100i-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y100i Lock Screen Password</u></a></li>
-<li><a href="https://fox-info.techidaily.com/premium-free-pubg-thumbnail-collections-for-2024/"><u>Premium Free PUBG Thumbnail Collections for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/zdnet-exclusive-how-the-rise-of-microsofts-surface-pro-and-laptop-signals-a-shift-in-ai-pc-innovation-challenging-apple/"><u>ZDNet Exclusive: How the Rise of Microsoft's Surface Pro and Laptop Signals a Shift in AI PC Innovation, Challenging Apple</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-leading-online-tools-select-your-new-photo-background-for-2024/"><u>[New] Leading Online Tools Select Your New Photo Background for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-passos-simples-para-adicionar-cores-a-uma-imagem-em-preto-e-branco-tecnica-de-quatro-fases/"><u>1. Passos Simples Para Adicionar Cores a Uma Imagem Em Preto E Branco: Técnica De Quatro Fases</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-s23-ultra-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy S23 Ultra?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convertir-formatos-de-video-de-ogv-a-ogg-online-sin-coste-hacerlo-con-la-herramienta-web-de-movavi/"><u>Convertir Formatos De Video De OGV a OGG Online Sin Coste - Hacerlo Con La Herramienta Web De Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-poco-c55-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Poco C55 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-s17t-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo S17t Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Oppo Reno 11 5G Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y36-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y36 Bootloader Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oppo-find-x7-ultra-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Oppo Find X7 Ultra Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-vivo-x100-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo X100 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/move-your-digital-reads-effortlessly-mastering-the-transfer-of-ibooks-between-iphone-and-ipad/"><u>Move Your Digital Reads Effortlessly: Mastering the Transfer of iBooks Between iPhone and iPad</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-11-compatibility-problems-with-airpods-audio-and-mic/"><u>Solving Windows 11 Compatibility Problems with AirPods Audio and Mic</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/vegaspro-2019-a-comprehensive-analysis-for-2024/"><u>VegasPro 2019 A Comprehensive Analysis for 2024</u></a></li>
 </ul></div>
 

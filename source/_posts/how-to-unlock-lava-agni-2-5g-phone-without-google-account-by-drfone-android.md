@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Lava Agni 2 5G Phone without Google Account?
-date: 2024-10-25T09:32:34.160Z
-updated: 2024-10-31T06:59:44.911Z
+date: 2024-11-02T17:25:29.285Z
+updated: 2024-11-05T23:15:31.256Z
 tags: 
   - unlock
   - remove screen lock
@@ -66,19 +66,6 @@ If you have forgotten your Google Account password, it is still possible to unlo
 
 ![android Google web page](https://images.wondershare.com/drfone/others/14637535742329.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. Since you cannot sign in on the sign-in page, you can now select the ‘Help’ link.
 
 ![android Goodle log in](https://images.wondershare.com/drfone/others/14637535763672.jpg)
@@ -87,16 +74,16 @@ If you have forgotten your Google Account password, it is still possible to unlo
 
 ![android Google trouble signing in](https://images.wondershare.com/drfone/others/14637535788151.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4\. Two options will then appear: the first is your phone number, and the other asks you for your backup email.
 
 ![android Google forgot password](https://images.wondershare.com/drfone/others/14637535828239.jpg)![android Google forgot pssword enter email](https://images.wondershare.com/drfone/others/14637535857339.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5\. Enter either one of these options, and you will receive a verification code via email, SMS, or a telephone call from an operator. If you have chosen to enter your backup email, at this point, you will receive detailed instructions on how to access the ‘reset password’ page.
 
@@ -163,13 +150,6 @@ Now we will show you how to unlock HTC phone by hard reset.
 
 ![reset a locked htc](https://images.wondershare.com/drfone/article/2016/07/14696881054139.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You will have to press and hold the volume down button along with the power button. Keep holding until you see Android images. Then release the buttons and then follow the volume down button to go for factory reset, afterward select the power button.
 
 ### **2\. How to reset a Samsung phone that is locked?**
@@ -191,10 +171,10 @@ You have to confirm that your phone is switched off. Press and hold three keys a
 ![reset locked sony](https://images.wondershare.com/drfone/article/2016/07/14696881799322.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **5\. How to reset a locked Motorola phone?**
@@ -202,13 +182,6 @@ You have to confirm that your phone is switched off. Press and hold three keys a
 Firstly, switch off your phone. Then press and hold the power key, home key, and volume up key. After a while, you will see the logo on the screen, just then release all the buttons. For scrolling, you can use the volume down key, and for selecting, you can use either home or power key. Now select factory reset or wipe data.
 
 ![reset locked motorola](https://images.wondershare.com/drfone/article/2016/07/14696882016754.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Whatever your model or brand is, keep in mind that hard reset will delete all your valuable data from your phone! So if you want to unlock your locked phone without losing data from it, then follow the next part.
 
@@ -271,6 +244,13 @@ If you or someone accidentally forgot or mistyped/misentered your lock password 
 
 Note: This tool temporarily support unlocking part of Samsung and LG locked screen without losing data, but other Android phone will be wiped all data if you try to unlock the screen with Dr.Fone - Screen Unlock (Android).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Remove 4 Types of Android Screen Lock without Data Loss
@@ -312,6 +292,13 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 That's how to unlock an Android phone with just one click using Wondershare's Dr.Fone. If your device is not Samsung or LG, you can use a more advanced mode to [unlock your phone](https://drfone.wondershare.com/guide/android-lock-screen-removal.html).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2. How to Unlock Android Phone with Aroma File Manager (with Data Loss)/h2>
 
 If you weren't able to open your Wi-Fi or data connection or enable USB Debugging, this is the way for you to unlock your lock screen. This could be a bit complicated, but it should work.
@@ -321,6 +308,13 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 **Step 1.** Download [Aroma File Manager](https://code.google.com/archive/p/rom-cmexmini/downloads) on your PC. This is a tool that unlocks Android phones. Android users can use it for free.
 
 ![Aroma File Manager download page](https://images.wondershare.com/drfone/article/2016/06/14647610652100.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2.** Go to your Downloads folders and copy the downloaded zip file.
 
@@ -335,6 +329,13 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 ![Paste aroma file manager](https://images.wondershare.com/drfone/article/2016/06/14647610796449.jpg)
 
 ![arom file manager pasted](https://images.wondershare.com/drfone/article/2016/06/14647610819837.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5.** Enter Recovery Mode for your device. Each Android device has its own ways of entering recovery mode, so take a look at this [link](http://www.digitaltrends.com/mobile/use-recovery-mode-android/) and find your device.
 
@@ -371,6 +372,13 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 
 ![Minimal adb and fastboot downloaded](https://images.wondershare.com/drfone/article/2016/06/14648313521345.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** Open the downloaded Minimal ADB and Fastbootzip file and install it.
 
 ![Minimal adb and fastboot installer zip](https://images.wondershare.com/drfone/article/2016/06/14648313544528.jpg)
@@ -385,6 +393,13 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 
 ![Local Disk](https://images.wondershare.com/drfone/article/2016/06/14648313589887.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Program Files (x86) folder](https://images.wondershare.com/drfone/article/2016/06/14648313591963.jpg)
 
 ![Minimal adb and fastboot folder](https://images.wondershare.com/drfone/article/2016/06/14648313625020.jpg)
@@ -393,23 +408,9 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 
 ![Minimal adb and fastboot open command](https://images.wondershare.com/drfone/article/2016/06/14648313653169.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 6.** ADB terminal will pop out. Now, the first is to type in ADB _devices_. This is to check if your device is recognized by ADB. If there is no device listed below, try to remove and reconnect your Lava Agni 2 5G and retype the command. If there are listed devices already, proceed.
 
 ![Minimal adb and fastboot command window adb devices command](https://images.wondershare.com/drfone/article/2016/06/14648317691463.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 7.** Finally, type in the following commands **one by one****.** These commands will remove your lock screen.
 
@@ -466,13 +467,6 @@ If luckily, you left your Wi-Fi open and luckily connected to the internet, this
 
 ![Account unlock Google](https://images.wondershare.com/drfone/article/2016/06/14648495811338.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You will be given the option to input a new password or pattern right after you enter your Google account details. But if not, Google must have emailed you your temporary password or pattern that you will input to unlock your lock screen.
 
 <ins class="adsbygoogle"
@@ -489,18 +483,21 @@ You will be given the option to input a new password or pattern right after you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-mastering-tempo-a-guide-to-instagram-story-adjustments/"><u>[New] In 2024, Mastering Tempo A Guide to Instagram Story Adjustments</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-effortless-screenshots-on-dell-the-simple-way-to-capture/"><u>[Updated] In 2024, Effortless Screenshots on Dell - The Simple Way to Capture</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-revealing-the-art-of-zoomed-details-using-kinemasters-tools/"><u>[Updated] Revealing the Art of Zoomed Details Using Kinemaster's Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-reactivate-disabled-intel-rst-service-on-your-windows-10-pc/"><u>How to Reactivate Disabled Intel RST Service on Your Windows 10 PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-a14-4g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy A14 4G Through Google Earth?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27e-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27e Phone without Google Account?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-a15-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy A15 5G Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-x90s-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo X90S</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-y78t-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y78t Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-converter-online-free-convert-mov-files-to-ogg-format/"><u>Movavi - Converter Online FREE: Convert MOV Files to Ogg Format</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/scan-activation-successful-in-windows-11/"><u>Scan Activation Successful in Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-v29-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo V29 Pro Phone Pattern Lock</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-elevating-windows-speaker-output-three-effective-costless-strategies-for-2024/"><u>Updated Elevating Windows Speaker Output Three Effective, Costless Strategies for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-sales-select-from-these-top-15-facebook-analytics-pros/"><u>[New] Mastering Sales Select From These Top 15 Facebook Analytics Pros</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-elite-list-8k-resolution-cameras-rated-high/"><u>[Updated] 2024 Approved Elite List 8K Resolution Cameras Rated High</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-savory-storytelling-in-video-cooking-top-7-insights/"><u>[Updated] Savory Storytelling in Video Cooking - Top 7 Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-razr-40-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Razr 40</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2130000-9781493012381-haunted-chicago/"><u>Haunted Chicago | Free Book</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a05-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy A05 Phone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-in-windows-10-and-7-by-drivereasy-guide/"><u>How to install hardware device drivers manually in Windows 10 & 7</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-y27-4g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo Y27 4G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-tecno-spark-10c-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Tecno Spark 10C Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-oppo-reno-11-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Reno 11 5G Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-y27-4g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo Y27 4G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-s23plus-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy S23+ Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-s24-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy S24</u></a></li>
+<li><a href="https://facebook.techidaily.com/trend-spotting-hacked-user-habits-drive-oculus-quest-sales/"><u>Trend Spotting: Hacked User Habits Drive Oculus Quest Sales</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-w7-audio-framework-using-idt-drivers/"><u>Update W7 Audio Framework Using IDT Drivers</u></a></li>
 </ul></div>
 

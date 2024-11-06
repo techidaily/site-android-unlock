@@ -1,7 +1,7 @@
 ---
 title: The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Sony Xperia 1 V
-date: 2024-10-26T16:42:27.168Z
-updated: 2024-10-31T11:17:16.054Z
+date: 2024-10-31T03:04:33.559Z
+updated: 2024-11-05T20:32:45.995Z
 tags: 
   - unlock
   - remove screen lock
@@ -42,6 +42,13 @@ AppLock is rated as the best one of the apps for locking apps on your Android ph
 
 ![lock apps with fingerprint android-AppLock](https://images.wondershare.com/drfone/article/2017/10/15090398843847.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. App Locker: Fingerprint & Pin
 
 The subsequent name on the list of best app locks using lock apps with the fingerprint on your Android phone is App Locker. Most of the functions and features of this app are similar to the app lock. This lock apps with fingerprint iPhone have a tricky feature though, want to know? This naughty app, along with the app lock facility (using PIN, password, or fingerprint sensor), can trigger a sham crash screen which will trick the impostors to think that your phone is crashed! Isn’t it interesting? One more thing to interest you – it is also free to download and use.
@@ -77,19 +84,6 @@ The next on the list is FingerSecurity - one of the feature-rich lock apps with 
 **Google Rating:** 4.2
 
 ![lock apps with fingerprint android-FingerSecurity](https://images.wondershare.com/drfone/article/2017/10/15090399282756.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Norton Applock
 
@@ -217,6 +211,13 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 ![confirm factory reset android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### iOS Devices
 
 - **Step 1.** You need to turn on Finder if you own a macOS Catalina or later device. Conversely, use iTunes if you have a macOS Mojave or earlier version or if you are using Windows. Connect your iPhone to the computer using the lightning cable and put it in Recovery Mode.
@@ -237,6 +238,13 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 ![restore ios device](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5. Remove Gmail Account From Device Without Password: Using Wondershare Dr.Fone
 
 While you seek some appropriate way **to close a Gmail account** from a device whose password you’ve forgotten, you might get into Wondershare Dr.Fone. This all-in-one service offers a unique Screen Unlock feature that helps you restore your device. If you have forgotten the lock screen password of your Android device, Dr.Fone – Screen Unlock (Android) makes it exceptionally easy to recover.
@@ -244,19 +252,6 @@ While you seek some appropriate way **to close a Gmail account** from a device w
 ### Key Features of Wondershare Dr.Fone
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -297,13 +292,6 @@ According to your selected device brand, Dr.Fone provides guidelines for enterin
 
 ![successfully unlock device](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This article has specifically provided you with some important details on **how to delete a Gmail account** with ease. The article explains everything from the methods of deleting it from the computer to removing it from the Sony Xperia 1 V device. Furthermore, it also serves as a guidance for those who have forgotten their device passwords. For that, they've provided an insight into Wondershare Dr.Fone – Screen Unlock and its unique functions.
@@ -317,10 +305,17 @@ Now, the question is, is it possible **to track an IMEI number through Google Ea
 ![google earth imei tracker](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How To Track Your Sony Xperia 1 V on Google Earth
@@ -328,13 +323,6 @@ Now, the question is, is it possible **to track an IMEI number through Google Ea
 This **Google Maps IMEI number tracking** issue has caused quite a buzz and controversy on the internet. It has raised many concerns regarding the safety and privacy of every smartphone user. To tell you the truth, Google Earth lacks IMEI location data and does not provide such capabilities. Thus, there is no truth in **tracking IMEI numbers through Google Earth**.
 
 However, if you have access to a cell phone's GPS coordinates or the location of a cell tower to which it is linked, you can use Google Earth to follow its location.
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How To Locate a Smartphone Using Google Earth
 
@@ -344,13 +332,6 @@ Many current smartphones include GPS receivers that allow them to pinpoint their
 
 ![iphone location services](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** Google Earth can be downloaded and installed on your computer or mobile device. It works with Windows, macOS, Android, and iOS. Download it from your device's **Google Earth** website or the app store.
 
 ![install google earth android](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-03.jpg)
@@ -359,6 +340,13 @@ Many current smartphones include GPS receivers that allow them to pinpoint their
 - **Step 4:** Launch Google Earth on your computer or mobile device, then select **Your timeline** from the Google Maps menu. The operation will take you to the Google Maps Timeline page.
 
 ![your timeline on google maps](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 5:** Select the day you wish to see the phone's location history. Choose the Sony Xperia 1 V device you want to track from the dropdown menu if you have numerous devices linked to the same account. The timeline displays the selected device's location history for the set date. Examine the locations visited, the routes taken, and the time spent at each spot. For further information, select a certain location or time.
 
@@ -381,13 +369,6 @@ If you have the IMEI number of the stolen device, you can track the phone [using
 - **Step 2:** Open the app and follow the in-app guide on how to use it.
 
 **Note:** Most of the apps require authorization access to your phone. Some also provide a feature where you may send an SMS or a command to get the lost phone's location.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Online IMEI Tracking
 
@@ -456,6 +437,13 @@ Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone ea
 
 ![drfone device model system version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5:** The following screen reveals the status of the iOS firmware download on the platform. If you want to stop the procedure, click the **Stop** button. In cases when the iOS firmware is downloading slowly on the platform, utilize the **Copy** button to copy the URL for manually downloading the iOS firmware.
 - **Step 6:** After successfully downloading the iOS firmware, it is confirmed and displayed on the next screen. Continue by clicking the **Unlock Now** button to begin the unlocking procedure.
 - **Step 7:** A prompt window displays on the screen, asking for procedure confirmation. Enter the indicated code and tap **Unlock** to proceed with the final result.
@@ -468,16 +456,10 @@ Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone ea
 ![drfone ios lock screen removed completely](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -500,19 +482,19 @@ But that's not all. This article also introduced and divulged an amazing and rel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-video-separation-standards-recorders-rating-review-for-2024/"><u>[New] Video Separation Standards Recorder's Rating Review for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-guide-to-watching-fb-live-on-roku/"><u>[Updated] The Ultimate Guide to Watching FB Live on Roku</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-motorola-g54-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola G54 5G Fingerprint Lock</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-vivo-y100i-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo Y100i Face Lock?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-g54-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Motorola G54 5G?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-motorola-moto-g-stylus-2023-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Motorola Moto G Stylus (2023) Phone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-20plus-artistic-assembly-ideas-for-a-brighter-yard/"><u>In 2024, 20+ Artistic Assembly Ideas for a Brighter Yard</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m14-4g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M14 4G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-ranking-the-very-best-10-free-online-artists-on-youtube/"><u>In 2024, Ranking the Very Best 10 Free Online Artists on YouTube</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Best Spy Watches For your Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/siehst-du-die-beste-kostenlose-losung-zum-schutz-ihrer-firmendaten-entdecken-sie-aomei-cyber-backup-ideal-fur-kmus/"><u>Siehst Du Die Beste Kostenlose Lösung Zum Schutz Ihrer Firmendaten? Entdecken Sie AOMEI Cyber Backup – Ideal Für KMUs!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-gionee-f3-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Gionee F3 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unveiling-5-innovative-book-tts-for-lovers-of-literature/"><u>Unveiling 5 Innovative Book TTs for Lovers of Literature</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-explore-android-written-by-dr-jane-smith-a-renowned-psychologist-specializing-in-cognitive-development-and-learning-styles-for-2024/"><u>[New] Explore Android' Written By Dr. Jane Smith, a Renowned Psychologist Specializing in Cognitive Development and Learning Styles for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlimited-potential-with-best-in-class-pp-templates/"><u>[New] Unlimited Potential with Best-in-Class PP Templates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-synergy-for-success-merge-linktree-with-your-tiktok-bio/"><u>[Updated] A Synergy for Success Merge Linktree with Your TikTok Bio</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-cutting-edge-camera-capabilities-unleashing-potential-on-iphone/"><u>[Updated] Cutting-Edge Camera Capabilities Unleashing Potential on iPhone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-micro-videos-whats-the-gist/"><u>[Updated] Micro Videos What's the Gist?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-ultimate-price-guide-for-cloud-storage-services/"><u>2024 Approved Ultimate Price Guide for Cloud Storage Services</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-apeman-c450-dashcam-evaluation-ideal-for-your-daily-commute/"><u>Affordable Apeman C450 Dashcam Evaluation - Ideal for Your Daily Commute</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-y77t-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo Y77t? Try These Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-y27-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo Y27 5G Face Lock?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-a24-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy A24 Lock Screen Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-x-flip-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo X Flip Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/thousands-of-learners-benefit-from-apples-new-ai-education-initiative-exclusive-insights-techcrunch/"><u>Thousands of Learners Benefit From Apple's New AI Education Initiative – Exclusive Insights | TechCrunch</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-f34-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy F34 5G</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Lava Blaze Pro 5G Phone with Broken Screen
-date: 2024-10-24T08:35:25.812Z
-updated: 2024-10-31T04:28:06.072Z
+date: 2024-10-30T00:43:21.416Z
+updated: 2024-11-05T18:20:52.740Z
 tags: 
   - unlock
   - remove screen lock
@@ -50,19 +50,6 @@ _Shell input key event 66_
 **Step 6:** Your phone will now be unlocked and you can proceed to back up its contents.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -139,13 +126,6 @@ Step 2: The default password 7777 but you can change this in the Password & Patt
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: The next step is to add apps to the Smart App Protector. Open the Running Tab on Smart Protector and tap on the “Add” button.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-02.jpg)
@@ -153,6 +133,19 @@ Step 3: The next step is to add apps to the Smart App Protector. Open the Runnin
 Step 3: Next, select the apps you would like to protect from the pop up list. Tap on the “Add” button once you have chosen your Apps.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-03.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Now close the app and the Apps chosen will now be password protected.
 
@@ -163,6 +156,19 @@ Step 4: Now close the app and the Apps chosen will now be password protected.
 Step 1: Download Hexlock from the Google Play Store. Once it is installed, open it. You will be required to enter a pattern or PIN. This is the lock code that you will use every time you open the app.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-05.png)
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Once the PIN or Password is set, you are now ready to lock apps. You can create multiple lists of Apps to be locked ba\_x\_sed on your different needs. As an example, we have chosen the Work panel. Tap on “Start Locking Apps” to start.
 
@@ -190,6 +196,13 @@ Most people use individual email applications such as Yahoo Mail App or Gmail. T
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-09.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Google Play Services
 
 This is the application that allows you to download and install applications to your device. You may want to lock this one if you are trying to prevent other users from downloading and installing further apps to your device. This is especially valuable if your device is utilized by children.
@@ -207,13 +220,6 @@ The Gallery app displays all the images on your device. The main reason you may 
 This is the Application that you use to play the music on your device. You may want to lock it if you don’t want anyone else making changes to your saved audio files and playlists or don’t want someone listening to your audio files.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. File Manager App
 
@@ -235,13 +241,6 @@ Among all the solutions we are going to introduce in this article, this is the e
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Get into the Locked Lava Phone within Minutes
@@ -252,6 +251,13 @@ Get into the Locked Lava Phone within Minutes
 - Offer customized removal solutions to promise good success rate.
 
 **4,008,669** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to unlock an Lava phone with Dr.Fone - Screen Unlock (Android)?
 
@@ -267,13 +273,6 @@ Connect your Lava phone to the computer using a USB cable. Click on **Unlock And
 
 ![unlock lg phone - connect phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3. Select the phone model.
 
 Currently, Dr.Fone supports removing lock screens on some Lava and Samsung devices without data loss. Select the correct phone model information from the dropdown list.
@@ -287,6 +286,13 @@ Step 4. Boot the phone in download mode.
 - Keep pressing the Power Up button until the Download Mode appears.
 
 ![unlock lg phone - boot in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 5. Remove the lock screen.
 
@@ -303,6 +309,13 @@ This is probably the most convenient solution to set up a new lock for your Lava
 - **Step 1.** Start by logging in to [Android Device Manager](https://www.google.co.in/android/devicemanager) by entering the credentials of your respective Google Account that is configured with your phone.
 
 ![unlock lg forgot password - login android device manager](https://images.wondershare.com/drfone/article/2017/03/14892201986480.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2.** Select your device's icon to get access to various features like ring, lock, erase, and more. Out of all the provided options, click on “**lock**” to change the security lock of your device.
 
@@ -322,22 +335,23 @@ If your Lava device runs on Android 4.4 and previous versions, then you can easi
 
 ![unlock lg forgot password - forgot pattern](https://images.wondershare.com/drfone/article/2017/03/14892203178747.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** Select the “Forget pattern” option and provide the correct credentials of your Google account to unlock your phone.
 
 ![unlock lg forgot password - log in google account](https://images.wondershare.com/drfone/article/2017/03/14892203377058.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 4: Unlock the Lava Phone Using Custom Recovery (SD card needed)
 
@@ -353,13 +367,6 @@ Also, since you can't move anything to your device when it is locked, you need t
 
 ![unlock lg forgot password - team win recovery project](https://images.wondershare.com/drfone/article/2017/03/14892204165153.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3.** Install the above-mentioned application and wait for a few minutes. Afterward, restart your Lava phone. Ideally, your phone will be restarted without any lock screen. If you get a lock screen, you can bypass it by entering any random digits.
 
 ## Solution 5: Factory Reset Lava Phone in Recovery Mode (erases all phone data)
@@ -371,13 +378,6 @@ If none of the above-mentioned alternatives work, then you can also try to facto
 - **Step 2.** Choose “Wipe Data/Factory Reset.” You can use the Volume up and down key to navigate the options and the power/home key to select anything. Use these keys and select the “Wipe Data/Factory Reset” option. You might get another pop-up asking to delete all user data. Just agree it reset your device. Sit back and relax as your device will perform a hard reset.
 
 ![unlock lg forgot password - enter in recovery mode](https://images.wondershare.com/drfone/article/2017/03/14892204518630.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3.** Select the “Reboot system now” option to restart it. Your phone will be restarted without any lock screen.
 
@@ -430,20 +430,21 @@ You can choose a preferred option and rectify the issue whenever you [forgot the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-motorola-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Motorola</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-g310-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia G310</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gotorhythms-top-pick-for-hearing-westerosi-songs-for-2024/"><u>GoToRhythms Top Pick for Hearing Westerosi Songs for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-lenovo-thinkphone-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Lenovo ThinkPhone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-lenovo-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Lenovo Through Google Earth?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-create-magic-download-premium-soundscapes-now/"><u>In 2024, Create Magic Download Premium Soundscapes Now</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-hidden-glance-guide-top-instagram-story-tools/"><u>In 2024, Hidden Glance Guide Top Instagram Story Tools</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-s17-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo S17 Pro Phone that is Locked?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oppo-find-x7-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Oppo Find X7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-x100-pro-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo X100 Pro Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/io-screen-recorder-user-manual-overview/"><u>IO Screen Recorder User Manual Overview</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-m34-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy M34 Device</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-blemishes-to-beauty-a-step-by-step-fcpx-skin-smoothing-guide/"><u>Updated 2024 Approved From Blemishes to Beauty A Step-by-Step FCPX Skin Smoothing Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-make-a-boomerang-on-snapchat-a-comprehensive-guide/"><u>[New] 2024 Approved Make a Boomerang on Snapchat – A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-defiance-against-data-thieves/"><u>[New] Defiance Against Data Thieves</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-harmonious-hush-for-restfulness-top-asmr-picks-for-2024/"><u>[New] Harmonious Hush for Restfulness Top ASMR Picks for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-premier-selection-of-top-10-free-youtube-art-mentors/"><u>[Updated] The Premier Selection of Top 10 Free YouTube Art Mentors</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g-stylus-2023-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Moto G Stylus (2023) has native HEVC support?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-motorola-moto-g14-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Motorola Moto G14 Phones with/without a PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-add-auto-captions-to-instagram-stories-and-reels-in-2024/"><u>How to Add Auto Captions to Instagram Stories and Reels, In 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-t2x-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo T2x 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-x-flip-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo X Flip</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-find-n3-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo Find N3</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-samsung-galaxy-f34-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Samsung Galaxy F34 5G?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-oppo-a79-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo A79 5G Lock Screen Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-y55s-5g-2023-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y55s 5G (2023) Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-y02t-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo Y02T Phone Now with These Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/step-by-step-shortcut-for-easy-mac-screen-recording/"><u>Step-by-Step Shortcut for Easy Mac Screen Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-airborne-colossus-collection/"><u>Ultimate Airborne Colossus Collection</u></a></li>
 </ul></div>
 

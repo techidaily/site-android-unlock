@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Motorola Moto G73 5G Pattern Lock if Forgotten? 6 Ways
-date: 2024-11-04T05:30:24.908Z
-updated: 2024-11-05T23:24:17.541Z
+date: 2024-11-10T02:16:13.193Z
+updated: 2024-11-15T17:14:29.377Z
 tags: 
   - unlock
   - remove screen lock
@@ -41,13 +41,6 @@ Remove Pattern Locks on Android Screen at Ease
 
 **4,008,669** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### To learn how to unlock pattern lock using Dr.Fone, follow these steps
 
 - **Step 1.** Install Dr.Fone and launch it to perform pattern unlock. From the home screen, select the “**Screen Unlock**” option.
@@ -57,6 +50,13 @@ Remove Pattern Locks on Android Screen at Ease
 - **Step 2.** Connect your device to the system. Once it is detected, click on the “**Unlock Android Screen**” button.
 
 ![connect android phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3.** Select your device brand to unlock and access reboot instructions, then follow them to complete the process.
 
@@ -82,6 +82,13 @@ Besides Dr.Fone, there are also a few more options to learn how to unlock patter
 ![set new lock screen](https://images.wondershare.com/drfone/article/2017/09/15057371966761.jpg)
 
 - **Step 6.** Apply these changes and exit the window to change the lock on your device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Unlock Android Pattern Lock Using the 'Forgot Pattern' Feature?
 
@@ -111,13 +118,6 @@ Just like Android, Samsung has also developed a dedicated feature for finding a 
 
 ![select the Motorola Moto G73 5G device](https://images.wondershare.com/drfone/article/2017/09/15057372918464.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3.** Additionally, you can access various other services from here as well. Click on the “Unlock My Device” option to proceed.
 
 ![pattern unlock](https://images.wondershare.com/drfone/article/2017/09/15057373115477.jpg)
@@ -139,13 +139,6 @@ This is a simple and effective solution to knowing how to unlock patterns on an 
 
 ![android safe mode](https://images.wondershare.com/drfone/article/2017/09/15057373753769.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 5.** Later, you can go to the Motorola Moto G73 5G device’s Settings > Apps and remove the third-party app as well. In this way, you would be able to learn how to unlock pattern lock for any other app.
 
 ## Part 6: How to Unlock Pattern Lock with the Factory Reset?
@@ -158,13 +151,6 @@ Consider this as your last resort, as it will wipe the data and saved settings o
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/09/15057373935558.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4.** Select the wipe data/factory reset option to perform pattern unlock.
 - **Step 5.** Confirm your choice to factory reset your device.
 
@@ -172,6 +158,13 @@ Consider this as your last resort, as it will wipe the data and saved settings o
 
 - **Step 6.** Wait for a while as your phone will perform the needed operations.
 - **Step 7.** Later, you can choose to reboot your phone and access it without any lock screen.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -243,6 +236,13 @@ Google’s Android Device Manager (also known as Find My Device) can be used to 
 
 ![get into a locked phone-provide the new password](https://images.wondershare.com/drfone/article/2017/10/15081758975970.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5.** Additionally, if your device is lost, you can display an optional message and contact number on the lock screen. Click on the “Lock” button to save changes and exit the screen.
 
 ## Part 3: How to get into a locked phone with Samsung Find My Mobile?
@@ -275,13 +275,20 @@ If your device is based on Android 4.4 and earlier versions, you may also use it
 
 ![get into a locked phone-unlock your device](https://images.wondershare.com/drfone/article/2017/10/15081760404056.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4.** After bypassing this feature, you can unlock your device and set up a new PIN or pattern.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 5: How to get into a locked phone by factory reset?
@@ -293,6 +300,13 @@ If nothing else seems to work, then you can also choose to factory reset your de
 - **Step 3.** Once your phone has entered the recovery mode; you can navigate with the Volume up and down button and use the Power button to make a selection.
 
 ![get into a locked phone-enter the recovery mode](https://images.wondershare.com/drfone/article/2017/10/15081760743252.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4.** Select the option of “wipe data/factory reset.
 
@@ -313,19 +327,6 @@ If you are using a third-party application to lock your device, you can easily d
 - **Step 3.** It will provide the following prompt regarding Safe Mode. Just tap on the “Ok” button to confirm your choice.
 
 ![get into a locked phone-tap on the “Ok”](https://images.wondershare.com/drfone/article/2017/10/15081761296376.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 7: How to get into a locked phone using Custom Recovery?
 
@@ -391,6 +392,13 @@ Step 4: Now close the app and the Apps chosen will now be password protected.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Using Hexlock
 
 Step 1: Download Hexlock from the Google Play Store. Once it is installed, open it. You will be required to enter a pattern or PIN. This is the lock code that you will use every time you open the app.
@@ -406,19 +414,6 @@ Step 3: You will see a list of Apps to choose from.  Choose the Apps you wish t
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-07.jpg)
 
 You can then Swipe to the left to move to other lists such as “Home” and proceed to lock apps in this group as well.
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3. 6 Private Apps that you should lock on your Android
 
@@ -454,13 +449,6 @@ This is the Application that you use to play the music on your device. You may w
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. File Manager App
 
 This is the App that displays all of the files that are saved on your device. It is the ultimate app to lock if you have sensitive information on your device that you would rather not share. Locking this app will ensure that all of the files on your device will remain safe from prying eyes.
@@ -483,20 +471,17 @@ Having the ability to lock your Apps is an easy way to keep information out of t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-filters-to-feeds-optimizing-your-360-video-for-youtube-publishing/"><u>[New] 2024 Approved From Filters to Feeds Optimizing Your 360 Video for YouTube Publishing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-all-about-creating-compelling-twitresponses/"><u>[New] All About Creating Compelling TwitResponses</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-discovering-movavis-advanced-video-editor-plus-plus/"><u>[New] In 2024, Discovering Movavi's Advanced Video Editor Plus +</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-isolate-subject-a-step-by-step-guide-to-clear-borders/"><u>[Updated] Isolate Subject – A Step-by-Step Guide to Clear Borders</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-asus-unlock-without-password-by-drfone-android/"><u>5 Solutions For Asus Unlock Without Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-lava-blaze-pro-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Lava Blaze Pro 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fatal-error-no-more-step-by-step-fix-for-the-notorious-installation-issue-1603/"><u>Fatal Error No More: Step-by-Step Fix for the Notorious 'Installation Issue 1603'</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-15-pro-max-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone 15 Pro Max Smoothly</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-motorola-moto-g-stylus-2023-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Motorola Moto G Stylus (2023)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-htc-devices-by-drfone-android/"><u>How to Reset Gmail Password on HTC Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-htc-u23-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked HTC U23 Pro Phone?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y27-4g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y27 4G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/insert-signature-in-docx-by-ldigisigner-sign-a-word-sign-a-word/"><u>Insert signature in .docx </u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-v27-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo V27 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gigglegenius-log-in-for-video-adventures/"><u>[New] GiggleGenius Log In for Video Adventures</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-innovative-ways-to-leverage-zoom-for-fb-live/"><u>[Updated] In 2024, Innovative Ways to Leverage Zoom for FB Live</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/beste-losungen-fur-wege-problematische-fehlerbehebung-bei-der-windows-sicherungsfunktionalitat/"><u>Beste Lösungen Für Wege: Problematische Fehlerbehebung Bei Der Windows Sicherungsfunktionalität</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-t2-pro-5g-phone-by-drfone-android/"><u>How to Reset a Locked Vivo T2 Pro 5G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-y77t-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo Y77t</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-from-blurry-beginnings-transforming-your-videography-with-instagram-techniques/"><u>In 2024, From Blurry Beginnings Transforming Your Videography with Instagram Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a79-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Oppo A79 5G Phone without PIN</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a14-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A14 5G Phone without Google Account?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-y100t-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo Y100t Location | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-projecting-your-huawei-p30-screen-onto-the-television/"><u>Step-by-Step Guide: Projecting Your Huawei P30 Screen Onto the Television</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-s23-fe-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy S23 FE Phone</u></a></li>
 </ul></div>
 

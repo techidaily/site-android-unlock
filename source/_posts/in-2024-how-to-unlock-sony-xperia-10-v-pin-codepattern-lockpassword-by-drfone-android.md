@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Sony Xperia 10 V PIN Code/Pattern Lock/Password
-date: 2024-11-01T03:26:12.965Z
-updated: 2024-11-06T01:04:50.161Z
+date: 2024-11-09T07:29:53.138Z
+updated: 2024-11-16T06:51:35.204Z
 tags: 
   - unlock
   - remove screen lock
@@ -57,6 +57,13 @@ Dr.Fone - Screen Unlock is a screen unlock tool that can unlock your Android pho
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Unlock Android PIN Code/Pattern Lock/Password within Minutes
@@ -75,13 +82,6 @@ Here are the steps to unlock Android phone using Dr.Fone - Screen Unlock (Androi
 **Step 2:** Connect your phone to your PC with a USB cable. Now click on the "Android" > "Unlock Android Screen" option.
 
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** A device brand will appear. Select your phone’s brand, i.e., Samsung.
 
@@ -108,13 +108,6 @@ You can unlock your Sony Xperia 10 V  phone with Google Account in the following
 
 ![unlock sony xperia](https://images.wondershare.com/drfone/article/2022/05/how-to-unlock-sony-xperia.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Using Google Account Details
 
 Almost all Android smartphones, including Sony Xperia 10 V , require you to enter your Google account details when setting up your phone for the first time. This account comes in handy later on in situations where your phone is lost or stolen or if you’re switching to another phone. However, it can also help with basic issues like unlocking your phone in case you forget your Sony Xperia 10 V  screen unlock PIN, pattern, or password. But to use this method successfully, you need to remember the email address bound to the Sony Xperia 10 V device and its password.
@@ -138,13 +131,6 @@ For the latter, here are the steps:
 - **Step 3:** Click on “Unlock” after which you will be asked if you want to set a new PIN or pattern. Select “Yes.”
 - **Step 4:** Your Sony Xperia 10 V  phone will be unlocked, and you can set a new PIN or pattern for your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Unlock Sony Xperia 10 V  by Hard Reset?
 
 Hard resetting your smartphone usually solves everything! Hence, it can also help you unlock your Sony Xperia 10 V  phone; however, using this method will erase all the data on your phone. So, if you still want to unlock Sony Xperia 10 V  phone using this method, only do so if you have backed up your device and have no other way to unlock your phone. This includes forgetting your Google account details or not having access to a PC to download and use Dr Fone - Screen Unlock (Android).
@@ -157,6 +143,13 @@ Here are the steps for it:
 - **Step 4:** Select “Yes” when asked for confirmation.
 
 Your Sony Xperia 10 V  phone will be hard reset, and all the locks will be removed. When you turn it on again, you will have to set it up like a new phone using your Google account details.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Unlock Sony Xperia 10 V  with Sony  Companion?
 
@@ -173,13 +166,6 @@ If you've forgotten the screen lock of your Sony Xperia 10 V  device, you can us
 **Step 3:** Allow the program to download files to prepare for the update process and choose your Sony Xperia 10 V  model. Click “Next” and connect your Sony Xperia 10 V  to the PC. Ensure that the phone is turned off, and press and hold the "Volume Down" button when connecting the cable to the phone.
 
 ![preparing the computer](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** Once correctly connected to the PC, the program will download the necessary software and upload it to your device. After completing the process, you can unplug the Sony Xperia 10 V device and turn it on.
 
@@ -269,6 +255,13 @@ There is another method using which you can remotely remove the Google account a
 
 ![remove-google-account-other-devices](https://images.wondershare.com/drfone/article/2022/06/other-device-account-removal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Disable Factory Reset Protection to Bypass Google Account Verification After Factory Reset
 
 The Factory Reset Protection (FRP) is a security feature for the Android device that allows factory reset only after the associated Google ID and password are entered correctly. With multiple accounts and passwords to remember there is quite a possibility that you may forget your Android phone Google account details and here the need to bypass Google account verification arises.
@@ -303,10 +296,16 @@ Steps to remove FRP lock using Dr. Fone-Screen Unlock (Android)
 ![drfone screen unlock homepage](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-android-6-9-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4:** After the Sony Xperia 10 V device is connected, the Sony Xperia 10 V device information will appear on the software for you to confirm and the notification for the same will be sent to your Android phone.
@@ -314,13 +313,6 @@ Steps to remove FRP lock using Dr. Fone-Screen Unlock (Android)
 **Step 5:** Now follow the notifications for removing the FRP lock and in the browser enter drfonetoolkit.com.
 
 ![screen unlock bypass google frp](https://images.wondershare.com/drfone/drfone/screen_unlock_frp_android10_1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 6:** Next, click on the Android 6/9/10 button, choose Open Settings and select the PIN option to set a PIN to be used in the further steps.
 
@@ -352,6 +344,13 @@ With the steps above, you can remove the account **previously synced on this dev
 
 ![bypass-frp-unlockjunkey](https://images.wondershare.com/drfone/article/2022/06/unlockjunky.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Limitations of using the Unlockjunky method**:
 
 - This is a paid service.
@@ -382,6 +381,13 @@ Several firms are making Android phones, so why shouldn't more? Because Android 
 This is an important issue that needs to be resolved right away. Therefore, some methods can assist you in getting out of it, one of which is doing a factory reset. They believe this is the most effective and secure way; thus, many try it. What about the information you have on the Sony Xperia 10 V device, though? What should you do next because a factory reset will destroy your data?
 
 ![how to find lock system](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Methods to Recover Forgotten Password or PIN
 
@@ -424,13 +430,6 @@ If you see this page, please choose the option fitting your phone, otherwise, yo
 
 ![select device model](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _(Enter Recovery Mode via the Samsung phone with Bixby)_
 
 ![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
@@ -438,6 +437,13 @@ _(Enter Recovery Mode via the Samsung phone with Bixby)_
 _(Enter Recovery Mode via the Samsung phone without Bixby)_
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _(Enter Recovery Mode via the Samsung phone with the Home button)_
 
@@ -451,13 +457,6 @@ Congratulations! Now you can access your phone again, and there're no obstacles 
 
 ![access your phone again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
 
 1. Will Dr.Fone - Screen Unlock Do Harm To My Sony Xperia 10 V?
@@ -467,6 +466,13 @@ Answer: No, Dr.Fone is safe for your device, all hardware will be safe, and you 
 2. How To Keep My Data Safe?
 
 Answer: [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a good option for backing up the sensitive data on your device. If you want to know more, don't hesitate and find any required information on our website.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -486,18 +492,22 @@ Any methods mentioned above can work to overcome the obstacle of unlocking the s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-10-strategies-for-educators-starting-their-own-youtube-series/"><u>[New] In 2024, 10 Strategies for Educators Starting Their Own YouTube Series</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-screenshot-simplicity-compatible-free-capturing-apps-for-windows/"><u>[Updated] 2024 Approved Screenshot Simplicity Compatible Free Capturing Apps for Windows</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-cutting-edge-or-outdated-full-review-and-guide-to-vitas-editor/"><u>[Updated] Cutting Edge or Outdated? Full Review & Guide to Vita's Editor</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unleashing-virtual-reality-making-spherical-videos-on-iphone/"><u>[Updated] Unleashing Virtual Reality Making Spherical Videos on iPhone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/claude-vs-chatgpt-exploring-4-aspects-where-claude-shines-brighter/"><u>Claude Vs. ChatGPT: Exploring 4 Aspects Where Claude Shines Brighter</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-honor-x50iplus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor X50i+ Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-lenovo-thinkphone-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Lenovo ThinkPhone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-asus-rog-phone-8-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Asus ROG Phone 8 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-21-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Meizu 21 Phone without Any Data Loss</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-motorola-moto-g-stylus-5g-2023-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Motorola Moto G Stylus 5G (2023) Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/popsocket-mounts-for-optimal-video-shooting/"><u>PopSocket Mounts for Optimal Video Shooting</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-solutions-overcome-fortnite-sign-in-failures-now/"><u>Quick Solutions: Overcome Fortnite Sign-In Failures Now</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-sony-xperia-1-v-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Sony Xperia 1 V Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-deciphering-whatsapp-talk-mechanics/"><u>[New] Deciphering WhatsApp Talk Mechanics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unleashing-the-potential-of-your-social-media-past/"><u>[New] In 2024, Unleashing the Potential of Your Social Media Past</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-how-to-live-stream-to-facebook-from-dji-drone/"><u>[Updated] In 2024, How to Live Stream to Facebook From DJI Drone?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-steps-for-controlling-video-comment-settings-in-youtube/"><u>[Updated] Steps for Controlling Video Comment Settings in YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/choosing-between-dji-gopro-and-insta360-a-comprehensive-gadget-showdown/"><u>Choosing Between DJI, GoPro, and Insta360 A Comprehensive Gadget Showdown</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/guide-to-enabling-and-viewing-subtitles-in-vlc-media-player-successfully/"><u>Guide to Enabling and Viewing Subtitles in VLC Media Player Successfully</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-v29e-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo V29e?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-y17s-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo Y17s Unlock Without Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-v27-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo V27? Try These Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-z-fold-5-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-a34-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy A34 5G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a05-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A05 Phone without Google Account?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y27-4g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y27 4G Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-brands-of-steadicams-for-professional-drones-in-film/"><u>Leading Brands of Steadicams for Professional Drones in Film</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-t2-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo T2 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-chatgpts-message-length-restrictions-strategies-for-extending-your-input/"><u>Understanding ChatGPT's Message Length Restrictions: Strategies for Extending Your Input</u></a></li>
 </ul></div>
 

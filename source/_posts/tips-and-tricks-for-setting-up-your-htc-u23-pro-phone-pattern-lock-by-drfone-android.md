@@ -1,7 +1,7 @@
 ---
 title: Tips and Tricks for Setting Up your HTC U23 Pro Phone Pattern Lock
-date: 2024-11-01T16:17:22.455Z
-updated: 2024-11-06T01:18:37.266Z
+date: 2024-11-10T05:33:58.732Z
+updated: 2024-11-16T14:00:15.667Z
 tags: 
   - unlock
   - remove screen lock
@@ -86,13 +86,6 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 ![access android device again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to Bypass Android Pattern When You Forgot It?
 
 ### 1\. Google Find My Device (For Android7.1.1 or later)
@@ -116,10 +109,16 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 **Step 8.** Complete the process and sign out of your account on the browser.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Forgot Pattern (For Android 4.4 or earlier)
@@ -224,13 +223,6 @@ Tap on Settings, which is the gear symbol.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555171833750.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - • Click on Personal and tap on Security.
 - • Go to Advanced and tap on Trust agents and make sure Smart Lock is turned on.
 
@@ -242,10 +234,10 @@ Tap on Settings, which is the gear symbol.
 ![smart lock android](https://images.wondershare.com/drfone/others/14555175242280.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Within Smart Lock, there are three options for setting the system. You can set up trusted devices, trusted face, and trusted places individually, combining two or all three at the same time. You can choose just one trusted face, but you have the option to set up as many trusted devices and trusted places as needed.
@@ -271,13 +263,6 @@ Tap on Add Trusted Devices.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555180455802.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The next screen is the Choose Device Type.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555181196889.jpg)
@@ -293,6 +278,13 @@ Since you have already paired Bluetooth, it will ask you to choose the HTC U23 P
 ![smart lock android](https://images.wondershare.com/drfone/others/14555183103300.jpg)
 
 Similarly, other Bluetooth and NFC unlock android supported gadgets can be added under the list of Trusted Devices.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Turn On Smart Lock For Android With Trusted Locations
 
@@ -314,6 +306,19 @@ Then Secure Lock Settings.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555200321422.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tap Smart Lock.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555200954549.jpg)
@@ -322,9 +327,29 @@ Tap on Trusted Places.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555201755742.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tap on Add Trusted Places
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555202394199.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - • Initiate the Google Maps app on the Android phone. Make sure the Internet and GPS are on.
 - • Pick a place.
@@ -362,13 +387,6 @@ Tap on Add Trusted Places
 The feature recognizes your face and then unlocks the HTC U23 Pro device. Once you set up the HTC U23 Pro device to recognize your face as a trusted face, it will unlock the HTC U23 Pro device as soon as it recognizes you.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555208588486.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 PRECAUTION:  At best, this can be the first level of security, as one who resembles you to some extent can unlock the HTC U23 Pro device. Photographs are not stored in the system. The device does hold necessary data to recognize your face, and the security level is determined by how good the HTC U23 Pro device is configured. The data is not accessed by any app or loaded onto a Google server for backup.
 
@@ -413,13 +431,6 @@ Options – Security – Screen Lock – Choose Screen Lock.
 
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now see how to unlock your lock screen in different ways.
 
 ### 1.Slide
@@ -427,13 +438,6 @@ Now see how to unlock your lock screen in different ways.
 This is the most common method of unlocking an android lock screen. On all most all the android device, you'll notice a lock mostly on the right side (sometimes on top) of a round charm. You just have to direct towards the lock and then the lock screen will be unlocked in no time. This method doesn't provide any security (it just protects your device from sudden access by tapping on screen or any of the button) to your device as no password or PIN is required to set the "Slide" unlock.
 
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Keep your any finger on the middle of the round charm and by keeping your finger pressed, reach on the lock icon. The lock screen will be unlocked just after reaching your finger to the lock icon.
 
@@ -444,6 +448,19 @@ This method of unlocking your lock screen needs your Android device to snap a ph
 Capture a picture of your face with your Android device's camera and then set it for logging in into your device. From the lock screen, by just by holding your face, you can log in. It's very interesting, but you should never rely on this method for strong security as this method of unlocking is prone to break easily as an intruder can unlock your device by putting a photo of you in front of your device. Moreover, this method sometimes doesn't work properly. So it's better to go for some other highly secured options for locking your screen.
 
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3.Pattern
 
@@ -472,6 +489,13 @@ In addition to PIN protection, you can consider it as password by adding some le
 In some of the modern Android device, you'll find the feature of fingerprint unlocking. You can find the option through the screen or any dedicated button. By setting your fingerprint, you can unlock your device by tapping your finger on the HTC U23 Pro device's screen or the dedicated button.
 
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7.Voice
 
@@ -558,24 +582,16 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-elite-guide-to-gopro-side-by-side-shopping/"><u>[New] 2024 Approved The Elite Guide to GoPro Side-By-Side Shopping</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-facebook-visuals-adding-text-boxes-and-dark-bar-overlays-for-2024/"><u>[Updated] Mastering Facebook Visuals Adding Text Boxes & Dark Bar Overlays for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-z-flip-5-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy Z Flip 5? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-sony-xperia-5-v-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Sony Xperia 5 V?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/te-your-gaming-yt-presence-a-hashtag-focused-manual-for-2024/"><u>Elevate Your Gaming YT Presence A Hashtag-Focused Manual for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-motorola-moto-g23-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-video-editing-in-windows-11-a-step-by-step-guide/"><u>Free Video Editing in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-f54-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy F54 5G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oppo-find-n3-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Oppo Find N3</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100i-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo Y100i PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Samsung Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-v27e-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo V27e</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-oppo-reno-11-pro-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo Reno 11 Pro 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210696348-9780876129814-lintuizione-la-guida-dellanima/"><u>L’intuizione: la guida dell’anima | Free Book</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-s17-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo S17 Pro Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-computer-power-with-insights-from-toms-hardware-gurus/"><u>Unleashing Computer Power with Insights From Tom's Hardware Gurus</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/using-chatgpts-ai-insights-the-surprising-journey-of-selecting-our-next-furry-friend/"><u>Using ChatGPT's AI Insights: The Surprising Journey of Selecting Our Next Furry Friend</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-discover-9-easy-no-cost-editing-software-options/"><u>[Updated] In 2024, Discover 9 Easy, No-Cost Editing Software Options</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlocking-the-potential-of-media-imports-in-windows-10/"><u>[Updated] Unlocking the Potential of Media Imports in Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-meetings-on-win11-using-zoom-features/"><u>2024 Approved Streamlining Meetings on Win11 Using Zoom Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-tips-for-enhancing-file-transfer-speeds-no-hassle/"><u>Expert Tips for Enhancing File Transfer Speeds - No Hassle</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-2v-phone-without-password-by-drfone-android/"><u>How To Unlock OnePlus Ace 2V Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f34-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Samsung Galaxy F34 5G Phone Without Password?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-12-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-f34-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy F34 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-a14-4g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy A14 4G Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oppo-reno-11-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Oppo Reno 11 5G Device</u></a></li>
 </ul></div>
 

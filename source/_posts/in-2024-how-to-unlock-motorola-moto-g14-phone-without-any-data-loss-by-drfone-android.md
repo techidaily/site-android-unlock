@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Motorola Moto G14 Phone without Any Data Loss
-date: 2024-11-04T21:54:21.086Z
-updated: 2024-11-06T00:29:28.365Z
+date: 2024-11-11T09:49:30.735Z
+updated: 2024-11-15T20:09:07.225Z
 tags: 
   - unlock
   - remove screen lock
@@ -67,11 +67,25 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![Dr.Fone removing lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 6.** Wait until everything is done. You should then see your device already has no lock screen.
 
 ![Dr.Fone lock screen removed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 That's how to unlock an Android phone with just one click using Wondershare's Dr.Fone. If your device is not Samsung or LG, you can use a more advanced mode to [unlock your phone](https://drfone.wondershare.com/guide/android-lock-screen-removal.html).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2. How to Unlock Android Phone with Aroma File Manager (with Data Loss)/h2>
 
@@ -132,13 +146,6 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 
 ![Minimal adb and fastboot downloaded](https://images.wondershare.com/drfone/article/2016/06/14648313521345.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3.** Open the downloaded Minimal ADB and Fastbootzip file and install it.
 
 ![Minimal adb and fastboot installer zip](https://images.wondershare.com/drfone/article/2016/06/14648313544528.jpg)
@@ -192,13 +199,6 @@ Google Find My Device is another handy way to unlock your locked Android device.
 
 **Step 3:** You will now be asked to confirm your identity through a Google account password or using a pass-key. Afterward, follow the on-screen instructions to erase and unlock your Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: How to Unlock Android Phone without Losing Data in Safe Mode
 
 One way to unlock your Android phone without losing the data is by utilizing Safe Mode. This method works only if the screen lock you have been using is a third-party app. Since Safe Mode disables third-party apps, you can easily use it to uninstall the problematic app. Here is **how to unlock an Android phone without losing data**:
@@ -208,13 +208,6 @@ One way to unlock your Android phone without losing the data is by utilizing Saf
 **Step 2:** After a while, you will see the "Safe Mode" option on your screen with some basic instructions. Now, you can use the button to boot into Safe Mode and remove the screen lock application.
 
 ![restart android device in safe mode](https://images.wondershare.com/drfone/article/2023/09/unlock-android-phone-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 6. How to Unlock Android Phone without Any Data Loss Using Google Account (Android 4.4 or lower)
 
@@ -227,22 +220,21 @@ If luckily, you left your Wi-Fi open and luckily connected to the internet, this
 ![android forgot pattern lock](https://images.wondershare.com/drfone/article/2016/06/14648495587136.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2:** Check ''Enter your Google Account details'' then tap next.
 
 ![Unlock screen enter google account details](https://images.wondershare.com/drfone/article/2016/06/14648495698424.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** Input your Google Account details, username, and password. You are done.
 
@@ -295,28 +287,29 @@ Firstly, the lock screen security needs to be turned off. You can do this by goi
 
 ![magic unlock](https://images.wondershare.com/drfone/article/2017/10/15074554518937.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The app was released early 2017, but Magic Unlock has already received 50,000-100,000 installs and has a 4.2/5 rating in the Play Store, giving you all the more reason to install it. The app requires Android 4.1 and above.
 
 Download the app from here - <https://play.google.com/store/apps/details?id=com.binarybuilding.magicunlock&hl=en>
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3) Gesture Magic
 
 Another app that uses gesture to lock/unlock the screen is the Gesture Magic app, developed by Apps2all. Compatible with most Android devices, this app is very easy for you to use.
 
 ![guesture magic](https://images.wondershare.com/drfone/article/2017/10/15074554938841.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The app already suggests you with predetermined gestures to unlock the screen and open the specific apps. How convenient!
 
@@ -331,19 +324,6 @@ Download this app from here - <https://play.google.com/store/apps/details?id=com
 Developed by Prank App, Gesture Lock Screen is a wonderful app that allows to securing your Android phone with letters, signatures or a pull-down gesture. This is an intelligent gesture screen-lock app that detects and adjusts to the letters that are created every time and stored as lock screen passwords. You can be creative with this app as well; hearts, circles, triangles, squares, make any shape, letter, number and save it as the gesture lock.
 
 ![gesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074555834839.jpg)![gesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074555845748.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Gesture Lock Screen is designed to allow you to launch any personal application through your personalized gesture, so you do not have to worry about anyone meddling with the contents of your phone. The app comes with the following range of features:
 
@@ -416,6 +396,13 @@ Dr.Fone is an all-in-one tool that allows you to completely recover lost files f
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool to Unlock Android Phone Forgot Password Without Any Hassle!
@@ -480,13 +467,6 @@ This feature is available on Android 4.0 and older versions. So if you are using
 
 ![click forgot password](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** Next, tap on "Forgot Password." If it is a pattern, you will see "Forgot Pattern."
 - **Step 3.** It will then prompt you to add your Google account username and password.
 
@@ -510,6 +490,13 @@ You can unlock your Android phone, i.e., Samsung, Oppo, or Vivo, by factory rese
 - **Step 6.** After the reset, select "reboot system now" and tap the Power/Side button to restart your device.
 - **Step 7.** Your phone will now be unlocked, and the password will be removed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Way 6. Unlock Samsung Phone with Samsung's Find My Mobile
 
 The best way to unlock **Android forgot password** on Samsung is to use Samsung's Find My Mobile service. This service allows you to remotely unlock your device, reset the lock screen password, and even disable the lock screen altogether.
@@ -525,6 +512,13 @@ The best way to unlock **Android forgot password** on Samsung is to use Samsung'
 ### 1\. Is there any universal code to unlock the Android phone?
 
 No, there is no universal code for unlocking Android phones. They are different from stable SIM pins. Due to mobile device security, only users themselves can set up a unique password on their Android phone. So, it’s impossible to unlock an Android phone with a so-called universal code.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. How to reset your Android phone password after the unlock?
 
@@ -569,22 +563,20 @@ To conclude, when you have an Android Password forgot the phone at hand, this gu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhance-your-asmr-experience-with-top-tier-mics/"><u>[New] In 2024, Enhance Your ASMR Experience with Top-Tier Mics</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-white-label-microphones-at-a-wallet-wise-wage/"><u>[Updated] 2024 Approved White-Label Microphones at a Wallet-Wise Wage</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-backtrack-with-flair-ingenious-ways-to-watch-youtube-reverse/"><u>[Updated] Backtrack with Flair Ingenious Ways to Watch Youtube Reverse</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-precision-problem-solving-for-youtube-short-success/"><u>[Updated] In 2024, Precision Problem-Solving for YouTube Short Success</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-depth-analysis-of-sharex-criticism-and-replacements/"><u>[Updated] In-Depth Analysis of ShareX Criticism & Replacements</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-infinix-note-30i-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Infinix Note 30i</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-motorola-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Motorola?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-apple-tv-4k-third-gen-model-assessment/"><u>Comprehensive Apple TV 4K Third Gen Model Assessment</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-s17-pro-easily-by-drfone-android/"><u>How To Unlock a Vivo S17 Pro Easily?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-y78-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo Y78 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f15-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy F15 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improving-frame-rates-and-smoothing-gameplay-expert-tips-for-enhancing-your-fps-on-valorant/"><u>Improving Frame Rates & Smoothing Gameplay: Expert Tips for Enhancing Your FPS on Valorant</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-y17s-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo Y17s Face Lock?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-y100i-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo Y100i Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-s17-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo S17 Pro Phone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-insider-guide-to-listening-to-podcasts-on-your-iphone/"><u>In 2024, The Insider Guide to Listening to Podcasts on Your iPhone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-oppo-a2-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Oppo A2 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-upload-longer-videos-to-instagram-on-mac/"><u>[New] In 2024, How to Upload Longer Videos to Instagram on Mac</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-direct-download-and-conversion-best-youtube-to-mp3-software/"><u>[Updated] 2024 Approved Direct Download & Conversion Best YouTube to MP3 Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-from-still-shots-to-moving-images-ipads-timelapse-magic-for-2024/"><u>[Updated] From Still Shots to Moving Images IPad's Timelapse Magic for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-hashtag-heroes-the-ultimate-list-for-popularizing-your-youtube-snippets/"><u>[Updated] Hashtag Heroes The Ultimate List for Popularizing Your YouTube Snippets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breakthrough-in-artificial-intelligence-as-openai-reveals-powerful-gpt-4-system/"><u>Breakthrough in Artificial Intelligence as OpenAI Reveals Powerful GPT-4 System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/finding-the-right-channel-contacting-snapchat-customer-service-efficiently/"><u>Finding the Right Channel: Contacting Snapchat Customer Service Efficiently</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-lava-blaze-2-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Lava Blaze 2 5G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-motorola-moto-g23-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Moto G23 Fingerprint Lock</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-cutting-edge-approaches-merging-obs-with-facebook-live/"><u>In 2024, Cutting-Edge Approaches Merging OBS with Facebook Live</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-motorola-razr-40-ultra-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Motorola Razr 40 Ultra Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g-stylus-2023-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G Stylus (2023) Phone with Broken Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-lava-blaze-pro-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-motorola-moto-e13-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Motorola Moto E13 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-asus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Asus Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win-web3.techidaily.com/resolution-des-problemes-de-gravure-de-fichiers-suivez-ces-conseils-pour-sauvegarder-reussi-tous-vos-documents-sur-une-cle-usb/"><u>Résolution Des Problèmes De Gravure De Fichiers : Suivez Ces Conseils Pour Sauvegarder Réussi Tous Vos Documents Sur Une Clé USB !</u></a></li>
 </ul></div>
 

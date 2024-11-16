@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Lava Pattern Lock Screen
-date: 2024-11-04T03:22:58.142Z
-updated: 2024-11-05T21:52:48.511Z
+date: 2024-11-10T10:49:33.409Z
+updated: 2024-11-15T18:07:41.847Z
 tags: 
   - unlock
   - remove screen lock
@@ -69,6 +69,13 @@ Save You from Ending up with a Locked Phone After Too Many Pattern Attempts
 
 ![lock screen removal](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** To use its forgot pattern lock feature, you need to connect your Lava Blaze Curve 5G to your system using a USB cable. Once your device has been detected automatically, just click on the "Android"> "Unlock Android Screen" button.
 
 ![forgot pattern android - start to remove](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
@@ -81,9 +88,29 @@ Save You from Ending up with a Locked Phone After Too Many Pattern Attempts
 
 ![forgot pattern lock - confirm operation](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5.** Now, in order to fix the forgot pattern Android issue, you need to put your device into the Download Mode. To do this, you need to ensure that your device is switched off. Once it is off, hold the Power, Home, and Volume Down buttons simultaneously. After a while, press the Volume Up button to put your device into Download Mode.
 
 ![boot device in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 6.** After your device enters its Download Mode, it will automatically be detected by the interface. It will start downloading the needed recovery packages to resolve the issue. Sit back and relax, as it might take a while to download the recovery packages. Let the application process the essential operations, and don’t disconnect your Lava Blaze Curve 5G until it is completed successfully.
 
@@ -137,6 +164,13 @@ However, it relies on having previously set up Samsung Find My Mobile and linked
 
 ![use the unlock feature](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5: How to bypass forgot pattern lock using Safe Mode
 
 If you have locked your device using a third-party app, there exists a simple solution. You can use the Safe Mode to remove the problematic app. Safe Mode is intended for troubleshooting and disabling third-party apps. Following are the steps you need to follow to use Safe Mode to unlock your Android device:
@@ -146,13 +180,6 @@ If you have locked your device using a third-party app, there exists a simple so
 **Step 2:** In a moment, you'll see the option "Safe Mode" replacing the other "Power Off" menu options. Proceed to boot your device into Safe Mode and uninstall the troublesome application.
 
 ![enable the safe mode](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 6: How to bypass forgot pattern lock using Factory Reset
 
@@ -200,13 +227,6 @@ Since you're locked out, you will have to utilize a technique to do the reset. T
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/11/what-is-my-phone-password-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Enter Recovery Mode to Hard Reset
 
 If you can't use the Find my device feature, you'll have to factory reset physically. To do as such:
@@ -231,13 +251,6 @@ If your phone has USB debugging enabled, is connected to a PC, and is not encryp
 - Reboot your phone. When you do, the solid lock screen ought to be gone.
 - That is not a permanent condition, so reset your PIN or password lock before you reboot your device once more. That's how you reset **password for phone.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4.Dr.Fone-Screen Unlock
 
 If you want to unlock your phone without losing any data, we suggest Dr.Fone-Screen Unlock. Dr.Fone is a professional unlocking tool that can remove all types of screen locks in minutes. Dr.Fone is an all-in-one solution for all your iOS and Android needs. So, if you need a quick solution for your phone, download it now.
@@ -249,10 +262,16 @@ Open the tool on your PC and select the "Screen Unlock" tool.
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 When the entire process is finished, you can access your Android device without entering any PIN and view all your data on the Lava Blaze Curve 5G device.
@@ -262,13 +281,6 @@ When the entire process is finished, you can access your Android device without 
 We provide 2 options for you, and to unlock screen, you should select "Unlock Android Screen".
 
 ![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3. Select device model**
 
@@ -301,13 +313,6 @@ Then follow the instructions on the program to get the Android phone into Recove
 Steps in Recovery Mode are really important, find the correct options and your locked screen will be removed.
 
 ![erase cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now it's a phone everyone can access without password or pattern.
 
@@ -369,13 +374,6 @@ Connectivity Issues
 
 A poor connection between your device and computer can also prevent the OEM Unlocking from showing up. Check your cables and try using different USB ports to ensure a stable connection.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How To Enable Missing OEM Unlock Without a Password?
 
 Unlocking your phone's bootloader (OEM Unlock) varies across models and brands. Some need a passcode or PIN after rebooting the phone, while others don't. Even if your phone doesn't require a separate password, your existing screen lock (password, PIN, pattern) will usually be needed to enable the **missing OEM unlock** option.
@@ -416,6 +414,13 @@ Regain control in minutes with Dr.Fone. First, download the app to your desktop 
 
 ![dr.fone screen unlock supported brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:**
 
 **The following steps will vary based on your device's manufacturer. Please refer to the instructions on your screen to proceed into Download or Recovery mode.**
@@ -435,13 +440,6 @@ Developer Options, a hidden menu in Android, offers advanced features like app d
 
 ![software information settings](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Tap on the **Build number** repeatedly (7 times) until you see a message saying, "**You are now a developer!**" or similar.
 - **Step 4:** Go back to **Settings** \> **System** and find the **Developer options** menu.
 - **Step 5:** Scroll down and tap the toggle switch next to **Enable OEM Unlock** to turn it on.
@@ -451,6 +449,13 @@ Developer Options, a hidden menu in Android, offers advanced features like app d
 - **Step 6:** A warning message explaining the risks of turning on the OEM unlock will appear. Read it carefully and tap **Enable** if you want to proceed.
 
 ![turn on oem unlock](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 7:** Enter your PIN or password to confirm the unlock when prompted
 - **Step 8:** Your device will reboot, and OEM Unlocking will be enabled.
@@ -474,6 +479,13 @@ If you intend to try this method, follow these steps to **enable OEM unlock miss
 - **Step 8:** Go back to the **Developers options** and turn off the **Auto update system** option.
 
 ![turn off auto update system](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 9:** Go to **Settings** > **Software update**, then turn off **Auto download over Wi-Fi**.
 
@@ -516,22 +528,22 @@ _**Tips:** Forget your device password and can't get access to it? No worries as
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-a-complete-guide-to-soundtracks-instagrams-legalities-explained/"><u>[Updated] 2024 Approved A Complete Guide To Soundtracks Instagram’s Legalities Explained</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-ultra-quick-fortnite-image-design/"><u>[Updated] In 2024, Ultra-Quick Fortnite Image Design</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-google-pixel-7a-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Google Pixel 7a FRP</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-lava-blaze-2-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Lava Blaze 2 Fingerprint Lock</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96499272-9781594735714-dreamingthe-sacred-art/"><u>Dreaming—The Sacred Art | Free Book</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/tial-tips-on-calculating-your-youtube-traffic-and-earnings-for-2024/"><u>Essential Tips on Calculating Your YouTube Traffic & Earnings for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-lava-blaze-2-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Lava Blaze 2 5G Lock Screen Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-oppo-f25-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Oppo F25 Pro 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Oppo Find N3 Flip</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-y17s-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo Y17s</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-y200-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo Y200 Phone?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17t-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17t Bootloader Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/interactive-screen-update-now-fully-interoperable-with-hid/"><u>Interactive Screen Update: Now Fully Interoperable with HID</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-a54-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy A54 5G Device</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/mastering-background-elimination-on-logitech-cameras-for-2024/"><u>Mastering Background Elimination on Logitech Cameras for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-android-studio-efficiency-on-windows-dev-environment/"><u>Maximize Android Studio Efficiency on Windows Dev Environment</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-tecno-camon-20-pro-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Tecno Camon 20 Pro 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flipping-the-script-in-photos-learn-distortions-efficiently-for-2024/"><u>Flipping the Script in Photos Learn Distortions Efficiently for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-k11-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo K11 5G Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Note 30 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-meizu-21-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Meizu 21 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-lava-agni-2-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Lava Agni 2 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-motorola-moto-g14-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Motorola Moto G14 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-htc-u23-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your HTC U23 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-remedying-low-resolution-problems-in-youtube-media/"><u>In 2024, Remedying Low-Resolution Problems in YouTube Media</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-nokia-g310-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Nokia G310 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mastering-media-the-best-12-tools-to-translate-videos-into-text/"><u>Mastering Media The Best 12 Tools to Translate Videos Into Text</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-gionee-f3-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Gionee F3 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-motorola-moto-e13-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Moto E13 Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-overcoming-new-world-errors/"><u>Troubleshooting Tips: Overcoming 'New World Errors'</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-lenovo-by-drfone-android/"><u>Universal Unlock Pattern for Lenovo</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-lava-blaze-2-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Lava Blaze 2 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-online-photo-and-video-montage-tools-ranked-and-reviewed/"><u>Updated In 2024, Online Photo and Video Montage Tools Ranked and Reviewed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
 </ul></div>
 

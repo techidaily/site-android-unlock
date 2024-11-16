@@ -1,7 +1,7 @@
 ---
 title: Universal Unlock Pattern for Huawei P60
-date: 2024-11-02T22:10:59.927Z
-updated: 2024-11-05T16:08:01.754Z
+date: 2024-11-12T03:26:50.569Z
+updated: 2024-11-16T06:40:13.312Z
 tags: 
   - unlock
   - remove screen lock
@@ -53,13 +53,6 @@ Remove Android lock screen in 5 minutes
 
 **3,291,332** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Know how do you use** **Dr.Fone** **- Screen Unlock (Android) to unlock a pattern lock**
 
 **Step 1**: Download and run Dr.Fone – Screen Unlock to unlock your phone's pattern. Select the "Screen Unlock" option from the home screen.
@@ -68,16 +61,16 @@ Remove Android lock screen in 5 minutes
 
 ![unlock android screen 2](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3**: On the next screen, choose the correct model and other information of your device.
 
 ![unlock android screen 3](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4**: Now, turn your phone into download mode. Turn it off and simultaneously hit the Home, Power, and Volume Down keys. Then, on your device, hit the Volume Up key to enter Download Mode.
 
@@ -93,9 +86,23 @@ Remove Android lock screen in 5 minutes
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Other ways to Unlock Pattern for Android
 
 There are other ways to unlock the **universal unlock patterns** for Android. We have mentioned some of them below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Way 1: Remove Gesture File Using ADB
 
@@ -110,6 +117,13 @@ The first method is ADB, which stands for Android Debug Bridge. With the help of
 **Step 3**: Connect your Android to PC now. Before that, make sure to enable USB Debugging. If you don't know-how, simply head to the "Settings"> “About Phone” and tap on “Build Number” 7 times. This will enable the Developer's Options.
 
 ![unlock android screen 9](https://images.wondershare.com/drfone/article/2021/12/adb-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4**: Now go to the Developer Options menu and turn on the USB Debugging.
 
@@ -153,6 +167,13 @@ Please note that the Recovery mode method may vary from device to device. So ple
 
 ![unlock android screen 14](https://images.wondershare.com/drfone/article/2021/12/factory-reset-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4**: The phone will perform the factory reset. In a short while, restart your device and there will be no lock screen.
 
 ### Way 4: Unlock Pattern Lock with Android Device Manager
@@ -167,6 +188,13 @@ After pressing the "Lock" button, a popup will appear, asking for a new password
 
 ![unlock android screen 16](https://images.wondershare.com/drfone/article/2021/12/android-device-manager-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Type the new password once, then confirm it by typing it again. This will change the password in a few minutes and the new password can be used to unlock the Huawei P60 device.
 
 ### Way 5: Use Forgot Pattern Feature \[Android 4.4 Version and Earlier\]
@@ -178,6 +206,19 @@ If you use an older Android version, you can get rid of the **universal unlock p
 **Step 2**: Select the "Forgot Pattern" option below the message.
 
 ![unlock android screen 17](https://images.wondershare.com/drfone/article/2021/12/forgot-pattern-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Enter the primary Gmail account and password you used to set up your Android smartphone after selecting the same. Then you must provide your Google account information. A new unlock pattern will be emailed to you by Google.
 
@@ -209,25 +250,11 @@ Step 2: Go to htcdev.com/bootloader. Ensure that you are registered with HTC and
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822578154999.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now, ensure that HTC Sync Manager is installed on the PC.
 
 Step 3: From the bootloader page, select your device using the drop down option as shown in the picture below.
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822578344435.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After selecting the Huawei P60 device, click on “Begin Unlock Bootloader”, and then confirm all the dialogue boxes which come your way on screen.
 
@@ -254,19 +281,6 @@ fastboot flash unlocktoken Unlock\_code.bin
 Step 10: On the Huawei P60 , one message will appear asking if you want to unlock the Huawei P60 device bootloader.
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822585759420.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Use volume keys to select and power button to confirm. Once this is done, the Huawei P60  device will restart once and it’s done. The device is now bootloader unlocked.
 
@@ -316,6 +330,13 @@ There is another method using which you can remotely remove the Google account a
 
 ![remove-google-account-other-devices](https://images.wondershare.com/drfone/article/2022/06/other-device-account-removal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Disable Factory Reset Protection to Bypass Google Account Verification After Factory Reset
 
 The Factory Reset Protection (FRP) is a security feature for the Android device that allows factory reset only after the associated Google ID and password are entered correctly. With multiple accounts and passwords to remember there is quite a possibility that you may forget your Android phone Google account details and here the need to bypass Google account verification arises.
@@ -323,13 +344,6 @@ The Factory Reset Protection (FRP) is a security feature for the Android device 
 Though there are multiple tools available we recommend Dr. Fone - Screen Unlock (Android) as the best and the most reliable option. Using this excellent Windows and Mac-based software, FRP lock on all popular Android devices including Samsung, LG, HTC, and others. The tool is simple to use and requires no technology. There is also an option where you can unlock your device if you do not know the OS version.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -348,13 +362,6 @@ Steps to remove FRP lock using Dr. Fone-Screen Unlock (Android)
 
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Next, choose Unlock Android Screen/FRP and then select the Remove Google FRP Lock option.
 
 ![drfone screen unlock homepage](https://images.wondershare.com/drfone/drfone/screen_unlock_frp_homepage_1.jpg)
@@ -362,19 +369,6 @@ Steps to remove FRP lock using Dr. Fone-Screen Unlock (Android)
 **Step 3:** Next, choose the OS version of your device from the given options, and then using a USB cable, connect your phone to your system.
 
 ![drfone screen unlock homepage](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-android-6-9-10.png)
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** After the Huawei P60 device is connected, the Huawei P60 device information will appear on the software for you to confirm and the notification for the same will be sent to your Android phone.
 
@@ -437,20 +431,17 @@ Above we have listed several ways to **remove a previously synced Google account
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-best-price-to-performance-tablets-with-gaming-capabilities/"><u>[New] In 2024, Best Price-to-Performance Tablets with Gaming Capabilities</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-pushing-boundaries-with-film-color-grading-these-7-for-2024/"><u>[Updated] Pushing Boundaries with Film Color Grading (These 7) for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mastering-mac-basic-sound-recording-in-audacity/"><u>2024 Approved Mastering Mac Basic Sound Recording in Audacity</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/battle-of-the-handheld-consoles-a-comprehensive-nintendo-switch-lite-x-nintendo-switch-oled-review/"><u>Battle of the Handheld Consoles: A Comprehensive Nintendo Switch Lite X Nintendo Switch OLED Review</u></a></li>
-<li><a href="https://os-tips.techidaily.com/experience-classic-games-anew-with-delta-retro-emulator-just-launched-on-ios/"><u>Experience Classic Games Anew with Delta Retro Emulator, Just Launched on iOS!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-restore-functionality-when-your-macbook-air-freezes/"><u>How To Restore Functionality When Your MacBook Air Freezes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-xperia-1-v-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Sony Xperia 1 V PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-xiaomi-redmi-13c-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Xiaomi Redmi 13C 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-huawei-p60-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Huawei P60</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-asus-rog-phone-7-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Asus ROG Phone 7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-huawei-nova-y91-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Huawei Nova Y91?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-lava-blaze-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Lava Blaze Pro 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-gionee-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Gionee Phone Now with These Tips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-lavas-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Lavas Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-vivo-y27s-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo Y27s Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-ace-2v-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus Ace 2V Activity | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-optimize-your-instagram-media-flow-desktopmobile/"><u>2024 Approved Optimize Your Instagram Media Flow (Desktop/Mobile)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-the-samsung-galaxy-z-flip-7-speculated-pricing-launch-date-and-expected-specifications/"><u>All You Need to Know About the Samsung Galaxy Z Flip 7: Speculated Pricing, Launch Date & Expected Specifications</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-v29e-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo V29e</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-innovation-with-toms-computer-components-reviews/"><u>Discovering Innovation with Tom's Computer Components Reviews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-the-best-free-and-paid-videomosaic-apps-for-android-enthusiasts/"><u>Exploring the Best Free & Paid Videomosaic Apps for Android Enthusiasts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-s24-ultra-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy S24 Ultra Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a79-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Oppo A79 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-x7-ultra-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X7 Ultra Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-xiaomi-redmi-note-12-pro-4g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Xiaomi Redmi Note 12 Pro 4G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-boot-issues-in-windows-11/"><u>Troubleshooting Guide: Resolving Boot Issues in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Universal Unlock Pattern for Sony Xperia 10 V
-date: 2024-11-14T22:51:38.587Z
-updated: 2024-11-15T18:26:20.897Z
+date: 2024-11-23T20:19:13.427Z
+updated: 2024-11-25T21:42:05.256Z
 tags: 
   - unlock
   - remove screen lock
@@ -62,13 +62,6 @@ Remove Android lock screen in 5 minutes
 
 ![unlock android screen 2](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3**: On the next screen, choose the correct model and other information of your device.
 
 ![unlock android screen 3](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -86,6 +79,10 @@ Remove Android lock screen in 5 minutes
 ![unlock android screen 7](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Other ways to Unlock Pattern for Android
 
@@ -105,6 +102,10 @@ The first method is ADB, which stands for Android Debug Bridge. With the help of
 
 ![unlock android screen 9](https://images.wondershare.com/drfone/article/2021/12/adb-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: Now go to the Developer Options menu and turn on the USB Debugging.
 
 **Step 5**: After connecting Android to PC, you need to open the command prompt in the installation directory.
@@ -112,6 +113,10 @@ The first method is ADB, which stands for Android Debug Bridge. With the help of
 **Step 6**: Run the following command and press Enter key: `adb shell rm /data/system/gesture.key`
 
 ![unlock android screen 10](https://images.wondershare.com/drfone/article/2021/12/adb-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In regular mode, restart the phone. The pattern will be requested. However, any pattern will unlock the screen.
 
@@ -130,13 +135,6 @@ It's one of the most straightforward ways to get past the lock screen. One thing
 **Step 4**: This will turn off the third-party lock screen for the time being. Clear the lock screen app's data, uninstall it, and then reboot to exit safe mode.
 
 ![unlock android screen 12](https://images.wondershare.com/drfone/article/2021/12/safe-mode-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Way 3: Unlock Pattern Lock via Factory Reset
 
@@ -169,13 +167,6 @@ After pressing the "Lock" button, a popup will appear, asking for a new password
 ![unlock android screen 16](https://images.wondershare.com/drfone/article/2021/12/android-device-manager-2.jpg)
 
 Type the new password once, then confirm it by typing it again. This will change the password in a few minutes and the new password can be used to unlock the Sony Xperia 10 V device.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Way 5: Use Forgot Pattern Feature \[Android 4.4 Version and Earlier\]
 
@@ -223,13 +214,6 @@ If your fingerprint is not working or the Sony Xperia 10 V device prompts you wi
 
 ![phone restart ui](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 When a device restarts, the fingerprint functionality is restored after entering the Sony Xperia 10 V device pattern, password, or PIN. This is the simplest method to reset your fingerprint hardware.
 
 ### 2\. Remove your phone battery
@@ -237,6 +221,10 @@ When a device restarts, the fingerprint functionality is restored after entering
 Old android phones have removable batteries. If you can remove your phone battery, remove it and then put it back. Now turn on your phone. Doing so can help solve the fingerprint lock issue if there are bugs or system errors.
 
 ![removable battery](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Dr.Fone - Screen Unlock
 
@@ -259,10 +247,7 @@ Here you will have some brands to choose from, don't make it wrong.
 ![brands](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Put your device into Recovery Mode.**
@@ -310,13 +295,6 @@ As you are likely aware, every Android device is connected to a Google account. 
 3. To wipe the Sony Xperia 10 V device, click the ERASE DEVICE option on the left side panel. You will then be required for your password.
 4. Once more, select "Erase." This will reset the Sony Xperia 10 V device and get rid of the dysfunctional fingerprint lock.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Seek Help from Local Dealers
 
 It might be a complicated case if you cannot reset your lock screen fingerprint through the methods described above. In this situation, you need to visit your nearest mobile technician, who can help you restore your device.
@@ -324,6 +302,10 @@ It might be a complicated case if you cannot reset your lock screen fingerprint 
 ![mobile repair](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-5.jpg)
 
 ## Why does not Fingerprint Work
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Fingerprint Hardware Module Problems
 
@@ -351,6 +333,10 @@ If you have a device with under-display fingerprint scanner, you might need to c
 
 Any method can solve the problems of using your device with your Android handset. The best thing about these solutions is that you don't need difficult professional skills to complete the tasks. Dr.Fone-Screen Unlock is the easiest way to help your device if you have a password or fingerprint problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top 10 Fingerprint Lock Apps to Lock Your Sony Xperia 10 V Phone
 
 In the last few years, we have seen the launch of numerous Android phones with an inbuilt fingerprint scanner. This provides added security to the Sony Xperia 10 V device and should definitely be utilized by the user. To make the most of this amazing feature, you can find many fingerprint lock app options listed on Google Play Store. Since there are so many options for a fingerprint app, it might become tedious to pick the best finger lock app for your device. Don’t worry – we are here to help you. This guide will make you familiar with the ten best fingerprint screen lock app options out there.
@@ -358,10 +344,7 @@ In the last few years, we have seen the launch of numerous Android phones with a
 Let’s start our listicle by exploring some of the best fingerprint scanner lock app options available on the Google Play Store.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Fingerprint Pattern App Lock
@@ -396,13 +379,6 @@ From social media apps to your gallery, this finger lock app can protect almost 
 Rating: 4.0
 
 Download Link: [AppLock: Fingerprint & PIN](https://play.google.com/store/apps/details?id=com.gamemalt.applocker&hl=en)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. FingerSecurity
 
@@ -458,6 +434,10 @@ One of the best fingerprint app lockers, it is already used by more than 100 mil
 
 ![DoMobile Lab Applock](https://images.wondershare.com/drfone/article/2017/10/15075533416865.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Random keyboard with an invisible pattern lock
 - It has an inbuilt power-saving mode
 - Users can customize profiles for each app
@@ -506,6 +486,10 @@ Setting a fingerprint lock or PIN, password, pattern, or even FRP lock on an And
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Get into Fingerprint Locked Android Phones within Minutes
@@ -535,20 +519,20 @@ When you know about all the popular options for the fingerprint screen lock app,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-youtubes-most-watched-wonders-the-ultimate-guide/"><u>[New] 2024 Approved YouTube’s Most-Watched Wonders The Ultimate Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-from-amateur-to-pro-instagram-video-tutorials/"><u>[Updated] 2024 Approved From Amateur to Pro Instagram Video Tutorials</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-folder-context-menus-on-windows-11/"><u>Enhancing Folder Context Menus on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Motorola Moto G 5G (2023).</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2013-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2013 by digital signature</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-lava-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Lava?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-huawei-p60-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Huawei P60 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-htc-u23-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with HTC U23? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-lava-yuva-3-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Lava Yuva 3 Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-sony-xperia-10-vs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Sony Xperia 10 Vs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/must-have-mac-tts-apps-for-seamless-communication/"><u>Must-Have Mac TTS Apps for Seamless Communication</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-secure-downloads-for-your-epson-xp-330-printer-drivers-start-here/"><u>Quick and Secure Downloads for Your Epson XP-330 Printer Drivers - Start Here</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-lava-storm-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Lava Storm 5G Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-motorola-moto-g23-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Motorola Moto G23 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-and-download-drivers-for-logitech-brio-webcam-compatible-with-windows-os-x78/"><u>Update & Download Drivers for Logitech Brio Webcam - Compatible with Windows OS X/7/8</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-editorial-expertise-revitalize-iphone-hdr-videos-with-top-4-strategies-in-premiere/"><u>[New] 2024 Approved [Editorial Expertise] Revitalize iPhone HDR Videos with Top 4 Strategies in Premiere</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-art-of-crafting-youtube-playlists-for-optimal-listening/"><u>[New] 2024 Approved The Art of Crafting YouTube Playlists for Optimal Listening</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-efficient-viewing-the-comprehensive-guide-for-creating-youtube-watch-later-lists-for-2024/"><u>[New] Efficient Viewing The Comprehensive Guide for Creating YouTube Watch Later Lists for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-essential-tips-for-switch-gaming-recordings/"><u>2024 Approved Essential Tips for Switch Gaming Recordings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-free-video-player-face-off-vlc-against-mpc/"><u>2024 Approved Free Video Player Face-Off VLC Against MPC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ering-fonts-2-innovative-text-techniques/"><u>Flickering Fonts 2 Innovative Text Techniques</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-a25-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy A25 5G Phone Screen?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-infinix-smart-8-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix Smart 8 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-galaxy-f04-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Galaxy F04 Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-y56-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y56 5G Fingerprint Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-reno-11-pro-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pioneering-pedagogy-through-film-in-the-classroom/"><u>In 2024, Pioneering Pedagogy Through Film in the Classroom</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y02t-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y02T Device</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/keep-your-tp-link-wifi-adapters-up-to-date-with-the-newest-drivers-supports-windows-10-8-and-7-systems/"><u>Keep Your TP-Link WiFi Adapters Up-to-Date with the Newest Drivers: Supports Windows 10, 8 and 7 Systems</u></a></li>
 </ul></div>
 

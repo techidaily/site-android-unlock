@@ -1,7 +1,7 @@
 ---
 title: Navigating the World of PC Building at Tom's Hardware Hub
-date: 2024-08-24T09:48:40.286Z
-updated: 2024-08-25T09:48:40.286Z
+date: 2024-11-24T21:39:55.631Z
+updated: 2024-11-25T17:12:40.311Z
 tags:
   - desktop
 categories:
@@ -41,6 +41,10 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,14 +53,11 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -65,8 +66,18 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-from-first-steps-to-expertise-lenovos-guide-to-recording-success/"><u>[New] 2024 Approved From First Steps to Expertise Lenovo’s Guide to Recording Success</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-inquiry-how-to-view-all-media-sharing-in-app-messages-in-2024/"><u>[New] Inquiry How to View All Media Sharing in App Messages, In 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-learn-to-turn-videos-on-the-fly-using-vlc/"><u>[Updated] 2024 Approved Learn to Turn Videos on the Fly Using VLC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-x-fold-2-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo X Fold 2</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-reestablishing-connection-with-steams-game-servers/"><u>Guidelines for Reestablishing Connection with Steam's Game Servers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-v29e-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo V29e Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo Find N3 Flip</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Oppo Find N3 Flip</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy S23+</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-science-behind-catching-fire-on-instagram/"><u>In 2024, The Science Behind Catching Fire on Instagram</u></a></li>
+<li><a href="https://win-docs.techidaily.com/wiederherstellung-von-daten-aus-einem-bootfahigen-usb-auf-windows-11-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Von Daten Aus Einem Bootfähigen USB Auf Windows 11: Schritt-Für-Schritt-Anleitung</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

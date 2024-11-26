@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove a Previously Synced Google Account from Your Lenovo ThinkPhone
-date: 2024-11-09T09:56:14.300Z
-updated: 2024-11-16T05:58:10.335Z
+date: 2024-11-24T21:31:13.108Z
+updated: 2024-11-25T17:06:11.512Z
 tags: 
   - unlock
   - remove screen lock
@@ -50,6 +50,10 @@ To confirm the removal of the account, click on the Remove account button.
 
 ![remove-google-account-settings-menu](https://images.wondershare.com/drfone/article/2022/06/settings-menu-account-removal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Remove the Google account from the Android phone using the computer
 
 There is another method using which you can remotely remove the Google account associated with your phone. The steps for the method are listed below.
@@ -89,34 +93,13 @@ Steps to remove FRP lock using Dr. Fone-Screen Unlock (Android)
 
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Next, choose Unlock Android Screen/FRP and then select the Remove Google FRP Lock option.
 
 ![drfone screen unlock homepage](https://images.wondershare.com/drfone/drfone/screen_unlock_frp_homepage_1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Next, choose the OS version of your device from the given options, and then using a USB cable, connect your phone to your system.
 
 ![drfone screen unlock homepage](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-android-6-9-10.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** After the Lenovo ThinkPhone device is connected, the Lenovo ThinkPhone device information will appear on the software for you to confirm and the notification for the same will be sent to your Android phone.
 
@@ -154,6 +137,10 @@ With the steps above, you can remove the account **previously synced on this dev
 
 ![bypass-frp-unlockjunkey](https://images.wondershare.com/drfone/article/2022/06/unlockjunky.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Limitations of using the Unlockjunky method**:
 
 - This is a paid service.
@@ -164,6 +151,10 @@ With the steps above, you can remove the account **previously synced on this dev
 ### Conclusion
 
 Above we have listed several ways to **remove a previously synced Google account** on your Android device. The best of all the listed solutions is Dr. Fone - Screen Unlock (Android) as it supports bypassing FRP lock on multiple Android devices in a hassle-free manner. Once the license is purchased, you can unlock as many numbers of devices as you want without any worries.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Rootjunky APK To Bypass Google FRP Lock For Lenovo ThinkPhone
 
@@ -180,6 +171,10 @@ The **RootJunky APK** is a free Android application also called RootJunky SDL or
 You can complete this process using the app by connecting your phone to a computer through an OTG cable. **RootJunky** can be helpfu l if you’ve forgotten your Google account password or bought a second-hand phone locked to someone else’s account. However, only use it if you have legitimate reasons to bypass FRP lock, like accessing your device after forgetting your Google account details.
 
 ![rootjunky logo](https://images.wondershare.com/drfone/article/2024/01/rootjunky-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Downloading the **RootJunky FRP** bypass tool from unofficial sources can introduce malware risks, so stick to trusted sources like the official website. Additionally, when exploring RootJunky, it is vital to keep the following in mind:
 
@@ -204,6 +199,10 @@ Here are the general steps to use the **FRP Bypass APK RootJunky** app to bypass
 - **Step 3:** Go to **Settings** > **Security** and tap **Install unknown apps**. Then, enable unknown sources to allow installation of apps from outside the Play Store. Connect your device to a Wi-Fi network.
 
 ![android phone security and privacy settings](https://images.wondershare.com/drfone/article/2024/01/rootjunky-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** On your Android phone, open a file explorer app and install the downloaded **RootJunky APK** file.
 - **Step 5:** Connect your smartphone to your computer using a USB cable.
@@ -249,13 +248,6 @@ Ready to leave the hassle of using **RootJunky** and easily bypass the FRP lock?
 
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Select your device’s brand from the list and click **Start** to continue.
 
 ![select phone brand to remove frp](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
@@ -281,10 +273,7 @@ The next steps may vary depending on the brand you selected.
 ![dr.fone bypassing google frp lock](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 8:** Click **Done** if the FRP lock removal was successful, otherwise, click **Try Again** to repeat the process.
@@ -329,26 +318,20 @@ With Dr.Fone, you can remove the lock screen of any Lenovo ThinkPhone  mobile in
 
 ![choose device brand](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4.** Once the unlock progress is over, you can access your Lenovo ThinkPhone  phone without any password or pattern.
 
 ![remove Lenovo ThinkPhone  lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tool 2: Lenovo ThinkPhone  Password Unlock
 
 ![Lenovo ThinkPhone  unlock tool home screen](https://images.wondershare.com/drfone/article/2022/10/oppo-password-unlock-tool-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lenovo ThinkPhone  unlock tool is free software that enables users to unlock Lenovo ThinkPhone  devices without a password. The **Lenovo ThinkPhone  password unlock tool** can bypass screen lock, FRP, Google verification, DIAG, and ADB. It works for all Lenovo ThinkPhone  smartphones. It is the best tool for those who forgot their phone's screen lock password. With Lenovo ThinkPhone  unlock tool, you don't have to complete complex steps, and the method to unlock devices is simple. As an Lenovo ThinkPhone  user, you should be aware of the fact that Lenovo ThinkPhone  doesn't allow password changes with a factory reset.
@@ -361,10 +344,7 @@ You can only reset your password using the **Lenovo ThinkPhone  password unlock 
 - **Step 4.** Start the Lenovo ThinkPhone device unlock process. Once the process is complete, your device will automatically boot up and format all data. There will be no screen lock or FRP lock.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tool 3: iToolab - UnlockGo
@@ -397,6 +377,10 @@ Unlock Your Lenovo ThinkPhone  Phone Hassle-Free
 
 **3,981,454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 These are the three best tools to unlock your Lenovo ThinkPhone  smartphone. Each of these tools can unlock your phone without a password. If we want to pick the best **Lenovo ThinkPhone  password unlock tool**, [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is better than the other two for various reasons. With Dr.Fone, you get a simple user interface and an easy-to-follow procedure to unlock your device. The tool guides you to complete every step, and you can unlock your Lenovo ThinkPhone  smartphone within five minutes. And you also don't have to worry about losing your phone's warranty. Dr.Fone is a one-stop solution for Android problems.
@@ -415,24 +399,18 @@ These are the three best tools to unlock your Lenovo ThinkPhone  smartphone. Eac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-critique-on-splitcam-does-it-top-video-tech/"><u>[New] 2024 Approved Critique on SplitCam Does It Top Video Tech?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-expand-your-reach-sharing-live-streams-on-facebook/"><u>[Updated] 2024 Approved Expand Your Reach Sharing Live Streams on Facebook</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-interactivemix-for-all-systems/"><u>[Updated] 2024 Approved InteractiveMix for All Systems</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-the-top-8-multiparty-android-conferencing-apps/"><u>2024 Approved The Top 8 Multiparty Android Conferencing Apps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/archive-itunes-content-with-ease-using-these-tips/"><u>Archive iTunes Content with Ease Using These Tips</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/audiophiles-dilemma-podcast-or-youtube-dominance-for-2024/"><u>Audiophile's Dilemma Podcast or YouTube Dominance for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-s18e-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo S18e Fingerprint Lock</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/blue-screen-error-0x0000003d-troubleshooting-and-repair-tips/"><u>Blue Screen Error 0X0000003D: Troubleshooting and Repair Tips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-gionee-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Gionee Phone Screen?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y36-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo Y36?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a05s-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy A05s Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-y27-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo Y27 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-a34-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy A34 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11-pro-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 11 Pro 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23-ultra-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23 Ultra Phone without Any Data Loss</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oppo-a56s-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Oppo A56s 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-galaxy-s23-ultra-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung Galaxy S23 Ultra</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-a2-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo A2 Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-poco-c50-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Poco C50 for Parents | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-complete-motion-evaluation-2023/"><u>[New] 2024 Approved Complete Motion Evaluation 2023</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-essential-tiktok-to-gif-convertors-reviewed/"><u>[New] 2024 Approved Essential TikTok-to-GIF Convertors Reviewed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-master-video-presentation-implement-lc-and-bb-techniques-on-facebook/"><u>[New] In 2024, Master Video Presentation Implement LC and BB Techniques on Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-selective-software-optimal-blu-ray-players-free-to-pay/"><u>2024 Approved Selective Software Optimal Blu-Ray Players (Free to Pay)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-wonders-of-phantoms-chrono-inversion/"><u>2024 Approved Unveiling the Wonders of Phantom’s Chrono Inversion</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-wi-fi-game-with-the-compact-and-efficient-ourlink-u631-usb-stick-adapter/"><u>Boost Your Wi-Fi Game with the Compact and Efficient Ourlink U631 USB Stick Adapter</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-samsung-galaxy-m14-4g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Samsung Galaxy M14 4G Face Lock?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-a25-5g-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy A25 5G Easily?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-m14-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy M14 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-v29-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo V29</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-m54-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy M54 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/most-effective-and-user-friendly-parental-router-options-for-the-modern-household-2024/"><u>Most Effective and User-Friendly Parental Router Options for the Modern Household, 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme C67 5G | Dr.fone</u></a></li>
 </ul></div>
 

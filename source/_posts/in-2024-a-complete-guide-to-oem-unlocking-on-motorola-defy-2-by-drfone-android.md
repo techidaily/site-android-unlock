@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Complete Guide To OEM Unlocking on Motorola Defy 2
-date: 2024-11-13T02:37:12.910Z
-updated: 2024-11-15T22:54:03.185Z
+date: 2024-11-18T16:00:41.272Z
+updated: 2024-11-25T21:44:29.075Z
 tags: 
   - unlock
   - remove screen lock
@@ -85,13 +85,6 @@ Unlocking your phone’s OEM opens up a world of possibilities. It allows you to
 
 ![android custom roms](https://images.wondershare.com/drfone/article/2024/01/what-is-oem-unlock-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Root Your Device
 
 Rooting is akin to having the master key to your device’s software. It allows you to gain superuser access, enabling modifications and access to system files that were previously restricted. With rooting, you can:
@@ -107,6 +100,10 @@ A custom ROM is a new operating system you can install on your device. This is o
 - The latest Android updates, even for older devices, are no longer supported by manufacturers.
 - New features and customization options that aren’t available in the stock ROM.
 - Potential performance improvements and unique user interfaces.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Enjoy High Customization
 
@@ -173,6 +170,10 @@ The process is straightforward. It involves connecting your device to a computer
 
 ![screen unlock success](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In wrapping up, you’ve explored the ins and outs of “**what is OEM unlock”** in the Android world. It’s a key to opening up a trove of customizability on your Android device. It lets you tweak and tailor your phone to your heart’s content. But remember, with great power comes great responsibility.
@@ -184,6 +185,10 @@ Diving into OEM
 Pattern locks have been available for about as long as people can remember, and they have been hugely popular with people thanks to how easy it is to simply swipe your screen and unlock your smartphone, as against, say, keying in the 4-digit PIN/ 6-digit PIN. However, pattern locks are easy to crack, and today, we bring you all you want to know about pattern locks and how to create a **hard pattern lock**. Further to this, we also tell you how to move beyond pattern locks and what to do in case you forgot the hard pattern lock you just set and are unable to unlock your smartphone.
 
 ![creating more secure pattern locks](https://images.wondershare.com/drfone/article/2023/09/hard-pattern-lock-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What You Need to Know About Pattern Locks
 
@@ -213,13 +218,6 @@ Security, or rather, the lack of it, is the lone disadvantage of using a pattern
 
 The research found that 64% of test subjects who were shown videos of people unlocking their phones could correctly guess a 6-point pattern lock, that too after viewing the video only once! That number shot up to 80% if they were allowed to see the video again. That is simply astounding and a nightmare for security. When it comes to PINs, only 11% could guess a 6-digit PIN after viewing the unlocking video once, and that number shot up to 27% when they could see the video two times.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How To Create a Hard Pattern Lock (Including Remembering Complex Patterns)
 
 Now, if you must continue using a pattern lock, let’s help you know how to create a hard pattern lock that would not be as easy to decipher as easy pattern locks. For that, you should know how people use pattern locks, the kind of pattern locks they create, and the ones that are the most commonly used pattern locks. That way, you can avoid those fallacies and create a hard pattern lock for your smartphone.
@@ -244,6 +242,10 @@ These are some of the most common pattern locks people create:
 
 To understand how this is a security nightmare, the possible combinations for a 4-point pattern are a measly 1624, whereas by adding just 1 more point to the pattern and creating a 5-point pattern, the number of possible combinations becomes 7152, an increase of 5528 combinations. In stark contrast, creating a 9-point pattern would give you over 140,000 possible combinations!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.2: How to Create a Hard Pattern Lock
 
 Knowing what most people do when creating a pattern lock, it becomes easy to avoid those mistakes and instead create a hard pattern lock for oneself.
@@ -252,6 +254,10 @@ Knowing what most people do when creating a pattern lock, it becomes easy to avo
 - \- Never use your first initial as your pattern lock.
 - \- Never use the shape of a numeral as your pattern lock.
 - \- Use all 9 points on the grid to create your pattern lock, and contrary to popular belief, you can go over the connecting lines several times, creating a hard pattern lock that would not be as easy for people to decipher!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Going Beyond Pattern Locks
 
@@ -276,10 +282,7 @@ Just in case you set a hard pattern lock and promptly forgot that abstruse patte
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
@@ -301,6 +304,10 @@ Step 1: Click Android under Toolbox > Screen Unlock.
 
 ![drfone android screen unlock](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Click Unlock Android Screen.
 
 ![drfone screen unlock android](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
@@ -317,18 +324,15 @@ When the greyed Next button becomes available, click it and wait for your device
 
 ![screen unlock successful](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 All data on the Motorola Defy 2 device is wiped under this method. Select Samsung phones may be unlocked without data loss. Check [this](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) list for devices that may be unlocked without data loss.
 
 ## Closing Words
 
 Whether it is an easy pattern lock or a hard pattern lock, the fact is that pattern locks are antiquated and a security nightmare. A minimum 6-digit PIN must be used, and using fingerprint recognition is the preferred way to go for Android devices. Using fingerprint recognition will require that users create a 6-digit PIN. On Apple devices launched after 2017, there is Face ID, Apple’s marketing term for face recognition. If you did indeed still set a hard pattern lock, only to promptly forget it, use Wondershare Dr.Fone – Screen Unlock (Android) to seamlessly unlock your phone right now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Remove Screen Lock PIN On Motorola Defy 2 Like A Pro: 5 Easy Ways
 
@@ -388,13 +392,6 @@ If you've forgotten your lock PIN on your Android device, don't worry - there ar
 
 **Step 3**: Select None from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Disable Android Device Manager
 
 It is not possible to remove the PIN from some Android devices. The Android device administrator can be disabled in this situation. Here's how to universal unlock a PIN for Android:
@@ -423,6 +420,10 @@ Here's the guide to universal unlock PIN for Android:
 
 ![unlock any phone password](https://images.wondershare.com/drfone/article/2022/10/how-to-remove-screen-lock-pin-on-android-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Factory Reset Your Motorola Defy 2 (Data Loss)
 
 A factory reset in Recovery mode can also be used to remove the forgotten phone PIN lock on an Android device. It is important to note that you will lose everything on your device if you universal unlock your PIN for android.
@@ -439,16 +440,13 @@ Steps to get rid of forgotten phone PIN via factory reset:
 
 **Step 5**: Once your device has been factory reset, you need to restart it by selecting the Reboot system now option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Is There Any Universal Unlock PIN For Android?
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -501,25 +499,11 @@ Note: The specific processes are various according to different brands.
 
 ![with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5. Instructions to Wipe Cache Partition**
 
 Steps in Recovery Mode are really important. Find the correct options and your locked screen will be removed.
 
 ![instructions to wipe cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now it's a phone everyone can access without a password or pattern.
 
@@ -557,16 +541,24 @@ Luckily, Wondershare Dr.Fone - Screen Unlock is a powerful and easy-to-use lock 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-in-pursuit-with-panasonics-hx-a1-wearable-cameras/"><u>[New] In 2024, In Pursuit with Panasonic’s HX-A1 Wearable Cameras</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-master-youtube-monetization-tips-to-boost-income-via-shorts/"><u>[Updated] In 2024, Master YouTube Monetization Tips to Boost Income via Shorts</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-hp-laptops-unresponsive-usb-port-a-step-by-step-guide/"><u>Fixing HP Laptop's Unresponsive USB Port - A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-microsoft-print-to-pdf-capabilities-on-your-windows-10-or-11-device/"><u>How to Restore Microsoft Print to PDF Capabilities on Your Windows 10 or 11 Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-meizu-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Meizu? Try These Fixes</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/losung-fur-schwarzes-display-nach-windows-11-update-schritt-fur-schritt-guide/"><u>Lösung Für Schwarzes Display Nach Windows 11-Update: Schritt-Für-Schritt-Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-sony-xperia-5-v-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Sony Xperia 5 V</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-update-anomalies-steps-for-success/"><u>Overcoming Windows Update Anomalies: Steps for Success</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-lava-blaze-2-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Lava Blaze 2 Pro? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-sony-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Sony Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-lava-blaze-pro-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Lava Blaze Pro 5G Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-prodigious-picture-editing-speedy-steps-for-windows-photo-app-users/"><u>[New] In 2024, Prodigious Picture Editing Speedy Steps for Windows Photo App Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-key-components-in-upgrading-from-standard-to-4k-lenses/"><u>[New] Key Components in Upgrading From Standard to 4K Lenses</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/alternatives-to-conver2mp3-top-mp3-converter-apps-when-your-favorite-tool-wont-start/"><u>Alternatives to Conver2MP3: Top MP3 Converter Apps When Your Favorite Tool Won't Start</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-a23-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy A23 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722855504728-breaking-down-the-blueprint-to-correct-a-restricted-resource-faulty-code/"><u>Breaking Down the Blueprint to Correct a Restricted Resource Faulty Code</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-f14-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy F14 5G?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/capturing-the-cosmos-mastering-editing-techniques-for-starry-images/"><u>Capturing the Cosmos Mastering Editing Techniques for Starry Images</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dinner-baked-salmon-with-quinoa-and-steamed-broccoli/"><u>Dinner: Baked Salmon with Quinoa and Steamed Broccoli</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-samsung-galaxy-a05s-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Samsung Galaxy A05s</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-y56-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo Y56 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-a54-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy A54 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-samsung-galaxy-s23-fe-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Samsung Galaxy S23 FE Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-missing-libeay32dll-file-a-step-by-step-guide/"><u>Resolving the Missing libeay32.dll File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-y77t-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo Y77t Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://fox-making.techidaily.com/ultimate-guide-how-to-retrieve-files-after-external-hdd-reformat/"><u>Ultimate Guide: How to Retrieve Files After External HDD Reformat</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-v29e-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo V29e Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Poco M6 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
 

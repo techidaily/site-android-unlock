@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Lava Yuva 3 Phone without Any Data Loss
-date: 2024-11-14T16:13:10.491Z
-updated: 2024-11-16T03:33:00.792Z
+date: 2024-11-24T23:28:57.111Z
+updated: 2024-11-25T17:32:55.102Z
 tags: 
   - unlock
   - remove screen lock
@@ -97,6 +97,10 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 ![arom file manager pasted](https://images.wondershare.com/drfone/article/2016/06/14647610819837.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5.** Enter Recovery Mode for your device. Each Android device has its own ways of entering recovery mode, so take a look at this [link](http://www.digitaltrends.com/mobile/use-recovery-mode-android/) and find your device.
 
 ![Enter recovery mode android](https://images.wondershare.com/drfone/article/2016/06/14647615647569.jpg)
@@ -104,13 +108,6 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 **Step 6.** When you are already in Android Recovery Mode, use your volume keys to navigate to ''apply update from external storage'', then select the zip file you copied a while ago. It will be flashed on your device.
 
 ![Android system recovery](https://images.wondershare.com/drfone/article/2016/06/14647615657193.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 7.** After it, restart, and recovery mode will reopen as Aroma File Manager, so go to its settings and select ''Automount all devices on start'', then restart. Back in Aroma File Manager, go to the directory data>system. Check if the ff. exist. If they do, delete them. Then restart again.
 
@@ -122,6 +119,10 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 - sparepassword.key
 
 ![arom file manager](https://images.wondershare.com/drfone/article/2016/06/14647610871048.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you have your device booted up, and your Android lock screen is still locked, just gesture in or enter anything. It will be unlocked. And that's how to unlock an Android phone using your device.
 
@@ -180,13 +181,6 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 
 This would work if you have your USB debugging turned on before it was locked. That's how to unlock Android using ADB.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: How to Unlock Phone via Find My Device (with Data Loss)
 
 Google Find My Device is another handy way to unlock your locked Android device. However, it requires you to have your Google ID credentials and you have previously enabled Find My Device features. Moreover, it will erase all the data on your device. Use the following steps to unlock your Android phone via Find My Device:
@@ -227,13 +221,6 @@ If luckily, you left your Wi-Fi open and luckily connected to the internet, this
 
 ![Account unlock Google](https://images.wondershare.com/drfone/article/2016/06/14648495811338.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You will be given the option to input a new password or pattern right after you enter your Google account details. But if not, Google must have emailed you your temporary password or pattern that you will input to unlock your lock screen.
 
 ## How to Remove Forgotten PIN Of Your Lava Yuva 3
@@ -257,27 +244,10 @@ This is an important issue that needs to be resolved right away. Therefore, some
 ![how to find lock system](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Methods to Recover Forgotten Password or PIN
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Google Smart Lock
 
@@ -293,6 +263,10 @@ As you are likely aware, every Android device is connected to a Google account. 
 4. Once more, select "Erase." This will reset the Lava Yuva 3 device and get rid of the forgot pattern lock.
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Recovery Mode
 
@@ -312,6 +286,10 @@ Please select "Unlock Android Screen" to ensure you have the correct unlock proc
 
 ![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2. Select device model**
 
 If you see this page, please choose the option fitting your phone, otherwise, you can't unlock your device as you wish.
@@ -326,6 +304,10 @@ _(Enter Recovery Mode via the Samsung phone without Bixby)_
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _(Enter Recovery Mode via the Samsung phone with the Home button)_
 
 **Step 3. Instructions to Wipe Cache Partition**
@@ -333,6 +315,10 @@ _(Enter Recovery Mode via the Samsung phone with the Home button)_
 On the page Recovery Mode, it's the most important step to unlock your device. Please click the right buttons.
 
 ![click the right buttons](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Congratulations! Now you can access your phone again, and there're no obstacles when you do anything on your phone.
 
@@ -349,10 +335,7 @@ Answer: No, Dr.Fone is safe for your device, all hardware will be safe, and you 
 Answer: [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a good option for backing up the sensitive data on your device. If you want to know more, don't hesitate and find any required information on our website.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -368,6 +351,10 @@ The result is that you have locked out of your phone, and you have to reset your
 So don't wait any longer - read on for instructions on how to unlock the Lava phone pin code.
 
 Let's get started!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Easy Ways To Unlock Lava Screen
 
@@ -402,6 +389,10 @@ Follow these steps to unlock the Lava lock screen password without losing data:
 - **Step 12**: Use a new password; you can use the temporary password if you want.
 
 You can use it to unlock your Lava if you have activated the Android Device Manager or Google Find My Device before your phone was locked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A few conditions, however, must be met for this to work
 
@@ -456,13 +447,6 @@ You could reset your Lava lock screen phone using the default security code, eve
 
 `o 12345.`
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 If you have a classic-style keypad phone or an Android device, unlocking a locked Lava phone keypad is not easy. However, we believe that every problem has a solution. You can unlock Lava Android phones using any of the methods listed above.
@@ -483,20 +467,20 @@ _**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/nitiate-ideate-implement-step-by-step-guide-to-building-a-youtube-channel/"><u>[New] Initiate, Ideate, Implement Step-by-Step Guide to Building a YouTube Channel</u></a></li>
-<li><a href="https://win-news.techidaily.com/come-risolvere-il-problema-di-installazione-o-aggiornamento-errato-ad-windows-11/"><u>Come Risolvere Il Problema Di Installazione O Aggiornamento Errato Ad Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/debunking-6-myths-about-intels-latest-processors/"><u>Debunking 6 Myths About Intel's Latest Processors</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-15-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 15 Without a Home Button</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-turn-off-windows-update-in-windows-10-easily/"><u>How to Turn Off Windows Update in Windows 10 [EASILY]</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-edge-40-neo-bootloader-easily-by-drfone-android/"><u>How to Unlock Motorola Edge 40 Neo Bootloader Easily</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-edge-40-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Motorola Edge 40 Phone with Broken Screen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-t2x-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo T2x 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-motorola-g54-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Motorola G54 5G?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-gionee-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Gionee Phone without Any Data Loss</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-lenovo-thinkphone-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Lenovo ThinkPhone Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-lava-blaze-2-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Lava Blaze 2 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210449481-restore-functionality-to-broken-keyboard-keys-on-your-hp-device-expert-tips-and-tricks/"><u>Restore Functionality to Broken Keyboard Keys on Your HP Device: Expert Tips & Tricks!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-huawei-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Huawei Phone Pattern Lock</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/troubleshooting-hp-screen-malfunctions-a-comprehensive-fix-guide/"><u>Troubleshooting HP Screen Malfunctions: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-a-journey-through-chromatic-realms-editing-essentials/"><u>[New] A Journey Through Chromatic Realms Editing Essentials</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-music-lovers-guide-to-the-best-places-for-complimentary-tunes-online-top-picks/"><u>A Music Lover's Guide to the Best Places for Complimentary Tunes Online (Top Picks)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-honor-magic5-ultimate-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-oppo-reno-11f-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo Reno 11F 5G Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-deciphering-the-coded-language-of-concealed-youtube-movies/"><u>In 2024, Deciphering the Coded Language of Concealed YouTube Movies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f04-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F04 Phone without Google Account?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y17s-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y17s Phone with Broken Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y200-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y200 Bootloader Easily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-stitching-pictures-and-chords-into-compelling-narratives/"><u>In 2024, Stitching Pictures & Chords Into Compelling Narratives</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-brother-scanner-driver-updates-enhanced-performance-on-windows/"><u>Latest Brother Scanner Driver Updates: Enhanced Performance on Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/stealthy-sound-suppression-techniques-for-fade-out/"><u>Stealthy Sound Suppression Techniques for Fade-Out</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y78t-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y78t Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-a15-4g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy A15 4G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-final-cut-pro-x-troubleshooting-a-step-by-step-reset-guide-for-2024/"><u>Updated Final Cut Pro X Troubleshooting A Step-by-Step Reset Guide for 2024</u></a></li>
 </ul></div>
 

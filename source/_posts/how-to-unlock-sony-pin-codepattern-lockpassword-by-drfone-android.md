@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Sony PIN Code/Pattern Lock/Password
-date: 2024-08-24T09:40:09.994Z
-updated: 2024-08-25T09:40:09.994Z
+date: 2024-12-02T16:12:14.868Z
+updated: 2024-12-05T16:11:45.475Z
 tags: 
   - unlock
   - remove screen lock
@@ -76,9 +76,6 @@ Here are the steps to unlock Android phone using Dr.Fone - Screen Unlock (Androi
 
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** A device brand will appear. Select your phone’s brand, i.e., Samsung.
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -87,15 +84,11 @@ Here are the steps to unlock Android phone using Dr.Fone - Screen Unlock (Androi
 
 ![begin to remove android lock screen](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 Your phone is now unlocked, and you can access it without entering a PIN, password, or pattern.
 
 ![android lock screen bypassed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 Now, if you don’t remember your Google account details and don’t have access to a PC to use a screen unlock tool, you can unlock Android phone using the conventional way.
-
 
 ## How to Unlock Sony Xperia 5 V  with Google Account?
 
@@ -160,13 +153,14 @@ If you've forgotten the screen lock of your Sony Xperia 5 V  device, you can use
 
 ![preparing the computer](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Once correctly connected to the PC, the program will download the necessary software and upload it to your device. After completing the process, you can unplug the Sony Xperia 5 V device and turn it on.
 
 ![updating the xiaomi device](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Remove Operator Lock on Sony Xperia 5 V ?
 
 An operator lock, also called a carrier lock, constitutes a limitation imposed on a mobile phone by a network provider. This measure is implemented to guarantee that the Sony Xperia 5 V device exclusively functions with the services provided by that specific carrier. If you wish to remove the operator lock from your Sony Xperia 5 V  device, you'll need to follow specific steps and meet certain criteria. Here's how to remove the operator lock on a Sony Xperia 5 V :
@@ -175,23 +169,18 @@ An operator lock, also called a carrier lock, constitutes a limitation imposed o
 
 ![dial the provided number](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2:** Carefully check the information provided on the screen. If there is "X" before the "Network" option and the number in front of it is larger than 0, it means your device can be unlocked. If the number in front of "Network" is 0, your device can't be unlocked as it is hard-locked.
 
 ![check the network status](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** The next step involves getting your device’s IMEI number. To accomplish this task, simply input "\*#06#" on your device. Once you have the IMEI number, use a reliable service from the internet to the unlocking code. Insert the SIM card of another network and provide the code you gained to unlock your Sony Xperia 5 V  device.
 
 ![enter the sim unlock code](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus Tip: How to Unlock Bootloader?
 
 Unlocking the bootloader on your Android device provides significant advantages. These actions encompass obtaining root access, installing custom ROMs, configuring custom recoveries, and carrying out advanced procedures. Here's an essential guide on unlocking the bootloader of your Sony device while keeping all precautions in mind:
@@ -214,6 +203,10 @@ Forgetting your Sony Xperia 5 V  screen unlock password, PIN, or pattern is quit
 
 If you’re looking for ways that are time-effective and reliable, you can use your Google account or other ways to unlock Sony Xperia 5 V  and set a new screen lock. However, with these methods, you can lose your data, so we only recommend using them if your device is backed up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Locked Out of Your Android Phone? Here Are 3 Solutions to Regain Access
 
 Android mobiles are the best choice for everyone today because of the cool operating system and so many types of application availability. So users can enjoy everything on their android mobiles. Sometimes while using android mobiles, people faces issues with locking their phone. That means sometimes users lock their phones and forget the password, that time is very bad because they can’t do anything with their phones without unlocking them.
@@ -230,18 +223,8 @@ Now we are presenting the best way to remove the password from your android phon
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Get into your Android Phones within Minutes When you are Locked out
@@ -265,18 +248,12 @@ Select the Sony Xperia 5 V device brand that you want to unlock the screen.
 
 ![select device brand](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2. Confirm your device information**
 
 Connect your phone to your Mac or PC, and select your model from the list. Then click "Next".
 
 ![android lock screen removal-enter in the download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-2.png)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 _**Note:** This tool can remove the Android lock screen only for [some Samsung and LG devices in this list](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) without losing data. For other devices, you have to use the "100% Remove Screen Lock", which can remove the lock screen by erasing data._
 
 **Step 3. Enter the download mode**
@@ -295,21 +272,12 @@ Once the recovery package is downloaded it will unlock your phone automatically.
 
 ![android lock screen remover-unlock your phone](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 _Remove Android Screen Lock_
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Part 2: Get Rid of Lock Screen by Hard Reset
 
 If you have locked your android phone and forgot the pattern or password or any other type of password, then you can unlock it by doing a factory reset of your phone by using hard to reset it. This way enables users to reset all settings of their phones such as passwords, Gmail accounts, Wi-Fi passwords messages everything. So users will get a phone like new after reset. That means you will lose all of your data, your Wi-Fi passwords etc. You can’t get your data back again after resetting in this way. It will not unlock the only phone, it will wipe all your android mobile data as well.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to unlock lock screen by hard reset
 
 **Step 1. Get into recovery mode**
@@ -335,8 +303,9 @@ Once you have selected “Yes –delete all user data” it will reset all thing
 ![unlock android phone by hard reset-reboot system now](https://images.wondershare.com/drfone/article/2016/08/14718680239160.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Get Rid of Lock Screen with Lock Screen Bypass App
 
 Users can unlock their lock screen with an android lock screen bypass app, this app enables you to unlock your android phone. You can use it by paying $4.99. But the problem is that this app will only work when your device is already unlocked, you can’t use it when it is locked. It means that it can help you to clear the password and reset it again, only you can’t use it on a locked phone. This application mostly works for all android users, but we don’t take guarantee that it will work for you or not. You must need the internet while using this method.
@@ -347,15 +316,16 @@ Download and install a lock screen bypass app by running it on your laptop from 
 
 ![lock screen bypass app](https://images.wondershare.com/drfone/article/2016/08/14725639549195.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2. Plug charge with your android phone**
 
 After finishing the installation of the application, you will see the application installed icon on your mobile. Now you need to plug your charge with your android phone to activate and watch the lock screen on your android phone and to activate the lock screen bypass the pro application.
 
 ![android lock screen bypass app-activate lock screen bypass pro application](https://images.wondershare.com/drfone/article/2016/08/14725644581730.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Step 3. Activate the app**
 
 Once your charger is connected, you need to click on the activate button. This button will automatically come on the mobile screen after connecting the charger. When you click on the Activate button your application will be activated successfully.
@@ -370,19 +340,19 @@ Now it will remove the password from your phone and unlock it. You will see the 
 
 ![lock screen bypass app-see home screen of your device](https://images.wondershare.com/drfone/article/2016/08/14725644785297.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Wrap it up
 
 We have discussed 3 different ways above to unlock the locked screen of android mobiles all these three methods will work for you, but there are some differences in every method. If you follow the second method which is resetting your phone then you will lose everything on your phone and [the first method](https://drfone.wondershare.com/unlock/locked-out-of-android-phone.html#part_1) will help you to unlock your phone screen without losing a single file from your android phone, the third way is not reliable because it doesn’t work on all android devices. So finally we can say android lock screen removal software from Wondershare is the best choice for you to unlock your phone screen when the question comes to your mind locked out my phone and how I can unlock it without losing data now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Solutions to Unlock Sony Phones If You Forgot Password, PIN, Pattern
 
 Too many times, we forget the passcode of our smartphones, only to regret it later. Don't worry if you are facing the same issue. It happens to all of us at times. Fortunately, there are many ways to unlock an Android device even when you have **forgotten its password/pin/pattern lock**. This guide will teach you how to unlock Sony phones if you forgot the password in five different ways. Read on and choose your preferred option if you forgot the password on your Sony phone and move past every setback you face.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/68FqgS6Ym8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
-
 
 ## Solution 1: Unlock Sony Phone using Dr.Fone - Screen Unlock (5 mins solution)
 
@@ -409,19 +379,12 @@ Download Dr.Fone from the download buttons above. Install and launch it on your 
 
 ![unlock lg phone - launch drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 Step 2. Connect your phone.
 
 Connect your Sony phone to the computer using a USB cable. Click on **Unlock Android Screen** on Dr.Fone.
 
 ![unlock lg phone - connect phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 3. Select the phone model.
 
 Currently, Dr.Fone supports removing lock screens on some Sony and Samsung devices without data loss. Select the correct phone model information from the dropdown list.
@@ -436,23 +399,14 @@ Step 4. Boot the phone in download mode.
 
 ![unlock lg phone - boot in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 Step 5. Remove the lock screen.
 
 After your phone boot in download mode, click on Remove to start to remove the lock screen. This process only takes a few minutes. Then your phone will restart in normal mode without any lock screen.
 
 ![unlock lg phone - remove lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 For more detailed steps, please go to our guide on [unlocking Android phones with/without data loss](https://drfone.wondershare.com/guide/android-lock-screen-removal.html).
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Solution 2: Unlock the Sony Phone Using Android Device Manager (Need a Google account)
 
 This is probably the most convenient solution to set up a new lock for your Sony device. With Android Device Manager, you can locate your device, ring it, erase its data, and even change its lock remotely. All you got to do is log in to the Sony Xperia 5 V device Manager account using the credentials of your Google Account. Needless to say, your Sony phone should be linked to your Google Account. Learn how to unlock the Sony phone if forgot your password using Android Device Manager.
@@ -461,9 +415,6 @@ This is probably the most convenient solution to set up a new lock for your Sony
 
 ![unlock lg forgot password - login android device manager](https://images.wondershare.com/drfone/article/2017/03/14892201986480.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 - **Step 2.** Select your device's icon to get access to various features like ring, lock, erase, and more. Out of all the provided options, click on “**lock**” to change the security lock of your device.
 
 ![unlock lg forgot password - select device](https://images.wondershare.com/drfone/article/2017/03/14892202439511.jpg)
@@ -472,14 +423,8 @@ This is probably the most convenient solution to set up a new lock for your Sony
 
 ![unlock lg forgot password - lock with new password](https://images.wondershare.com/drfone/article/2017/03/14892202692339.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 That's it! Your phone will reset its password, and you would be able to move past any problem related to forgetting the password on the Sony phone using [Android Device Manager unlock](https://drfone.wondershare.com/unlock/android-device-manager-unlock.html).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Solution 3: Unlock the Sony Phone Using Google Login (only Android 4.4 and below)
 
 If your Sony device runs on Android 4.4 and previous versions, then you can easily move past the password/pattern lock without any trouble. The provision is not available on devices, which run on newer versions of Android. Nevertheless, for all the Sony Xperia 5 V devices running on older versions than Android 4.4, this is undoubtedly the easiest way to set a new passcode. Follow these steps to learn how to unlock your Sony phone if you forgot your password using your Google credentials.
@@ -492,9 +437,6 @@ If your Sony device runs on Android 4.4 and previous versions, then you can easi
 
 ![unlock lg forgot password - log in google account](https://images.wondershare.com/drfone/article/2017/03/14892203377058.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## Solution 4: Unlock the Sony Phone Using Custom Recovery (SD card needed)
 
 If your phone has a removable SD card, you can also try this technique to disable the pattern/password on your device. Though, you need to have some custom recovery installed on your device for this method. You can always go for TWRP (Team Win Recovery Project) and flash it on your device.
@@ -509,11 +451,16 @@ Also, since you can't move anything to your device when it is locked, you need t
 
 ![unlock lg forgot password - team win recovery project](https://images.wondershare.com/drfone/article/2017/03/14892204165153.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** Install the above-mentioned application and wait for a few minutes. Afterward, restart your Sony phone. Ideally, your phone will be restarted without any lock screen. If you get a lock screen, you can bypass it by entering any random digits.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Solution 5: Factory Reset Sony Phone in Recovery Mode (erases all phone data)
 
 If none of the above-mentioned alternatives work, then you can also try to factory reset your device. This will erase every kind of data from your device and make it look brand new by resetting it. Though, you can easily resolve the forgot password on the Sony phone with it. Therefore, before proceeding, you need to be familiar with all the repercussions of performing a factory reset. All you got to do is follow these steps.
@@ -528,14 +475,8 @@ If none of the above-mentioned alternatives work, then you can also try to facto
 
 ![unlock lg forgot password - reboot system](https://images.wondershare.com/drfone/article/2017/03/14892204671940.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After following these steps, you can easily overcome how to unlock the Sony phone forgot password issue.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 6: Unlock Sony Phone Using ADB Command (need USB debugging enabled)
 
 This might be a little complicated initially, but if you don't want to follow either of the above-mentioned techniques to unlock your device, you can go with this alternative. Before proceeding, make sure that you have ADB (Android Debug Bridge) installed on your computer. If you don't have it, then you can download Android SDK right [here](https://developer.android.com/studio/index.html).
@@ -557,24 +498,23 @@ After making your device ready and downloading all the essential software on you
 
 ![unlock lg forgot password - command code](https://images.wondershare.com/drfone/article/2017/03/14892205231542.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** If the above code doesn't work, try providing the code “ADB _shell rm /data/system/gesture. the key_” to it and follow the same drill.
 
 ![unlock lg forgot password - code](https://images.wondershare.com/drfone/article/2017/03/14892205424871.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 - **Step 4.** After restarting your device, if you still get a lock screen, then give a random password to bypass it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 You can choose a preferred option and rectify the issue whenever you [forgot the password on the Sony phone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). Make sure that you meet all the requirements and go through the respective tutorial to attain fruitful results.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -588,5 +528,21 @@ You can choose a preferred option and rectify the issue whenever you [forgot the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-scouting-for-subtle-sophisticated-and-spare-tiktok-screenshots/"><u>[New] In 2024, Scouting for Subtle, Sophisticated, and Spare TikTok Screenshots</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-tactical-timing-for-topic-tracking-via-instagram-story-polls/"><u>[New] Tactical Timing for Topic Tracking via Instagram Story Polls</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/3d-lut-expertise-in-a-quick-learning-journey-for-2024/"><u>3D LUT Expertise in a Quick Learning Journey for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/clearer-photos-with-blur-effects-apps-for-2024/"><u>Clearer Photos with Blur Effects Apps for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-enhancing-income-through-the-science-of-youtube-trailer-creation/"><u>In 2024, Enhancing Income Through the Science of YouTube Trailer Creation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-y78plus-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo Y78+ Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-m54-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy M54 5G Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-vivo-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-oppo-find-x7-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Oppo Find X7 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-a05s-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy A05s</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-rectify-windows-11-muted-or-unresponsive-volume-issues/"><u>Step-by-Step Solutions to Rectify Windows 11 Muted or Unresponsive Volume Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-future-of-mobile-entertainment-is-here-discover-the-best-49-free-compression-tools/"><u>The Future of Mobile Entertainment Is Here Discover the Best 49 Free Compression Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-m34-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy M34 Users</u></a></li>
+</ul></div>
 

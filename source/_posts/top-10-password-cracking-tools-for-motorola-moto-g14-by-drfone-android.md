@@ -1,7 +1,7 @@
 ---
 title: Top 10 Password Cracking Tools For Motorola Moto G14
-date: 2024-11-24T21:01:07.528Z
-updated: 2024-11-25T20:58:25.867Z
+date: 2024-12-04T17:46:25.012Z
+updated: 2024-12-05T18:26:11.061Z
 tags: 
   - unlock
   - remove screen lock
@@ -121,10 +121,6 @@ It can be used to crack passwords of different protocols including HTTPS, HTTP, 
 
 ![thc hydra](https://images.wondershare.com/images/utilities/thc-hydra.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of THC Hydra**
 
 - Fast cracking speed
@@ -198,10 +194,6 @@ It is only available for windows operation systems. Tool has a limitation that i
 
 [http://www.hoobie.net/brutus/](http://www.hoobie.net/brutus/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. L0phtCrack : Smart tool for Windows password recovery
 
 Just like OphCrack tool L0phtCrack is also a Windows passwords recovery tool uses hashes to crack passwords, with extra features of Brute force and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack).
@@ -209,6 +201,10 @@ Just like OphCrack tool L0phtCrack is also a Windows passwords recovery tool use
 It normally gains access to these hashes from directories, network servers, or domain controllers. It is capable of doing hash extraction from 32 & 64 bit Windows systems, multiprocessor algorithms, scheduling, and can also perform decoding and monitoring networks. Yet it is still the easiest to use password auditing and recovery software available.
 
 ![phtcrack](https://images.wondershare.com/images/utilities/phtcrack_1233.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features of L0phtCrack**
 
@@ -254,6 +250,10 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 
 ![medusa](https://images.wondershare.com/images/utilities/medusa_1037.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features of Medusa**
 
 - Available for Windows, SunOS, BSD, and Mac OS X
@@ -274,6 +274,10 @@ Facing a malfunctioning fingerprint on your Motorola Moto G14 can be frustrating
 Dr.Fone offers a swift solution to remove the Android lock screen in five minutes. It effectively removes 4 types of screen locks. These include patterns, PINs, passwords, and fingerprints. Dr.Fone can [bypass the Android FRP lock](https://drfone.wondershare.com/guide/google-frp-bypass.html) without needing a PIN or Google account. It ensures accessibility to the Android device without such credentials.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -308,6 +312,10 @@ Afterward, you'll be guided to a subsequent screen prompting you to choose the M
 
 ![put your device in recovery mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3: Initiate the Fingerprint Removal Process**
 
 After entering Recovery Mode, the screen unlocking procedure will initiate automatically. Please wait for the fingerprint removal process to finish. In case of failure, select "Try Again" to attempt unlocking again. Upon successfully unlocking your Android device's screen, tap "Done."
@@ -330,10 +338,6 @@ Ensure you firmly place your finger on the sensor, covering it entirely. Avoid t
 
 ![gently press fingerprint sensor](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Device Showing Glitches
 
 #### Problem
@@ -345,6 +349,10 @@ Glitches or software bugs in your Pixel device may cause disruptions. This can i
 One of the easiest and simplest solutions is to restart your Pixel phone. You can do that by pressing the "Power" and the "Volume Up" keys. It will lead to a pop-up power menu where you must choose "Restart" to reboot your device.
 
 ![restart google pixel device](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Outdated Firmware
 
@@ -408,6 +416,10 @@ There can be air bubbles trapped under the screen protector. If there are, gentl
 
 ![protector screen dirty or damaged](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Clean Your Finger
 
 #### Problem
@@ -425,6 +437,10 @@ Remove any dirt, oil, or moisture that might cause issues with the fingerprint s
 Refrain from touching oily or greasy surfaces before using the fingerprint sensor. These substances can transfer onto your fingers, affecting sensor accuracy. If your fingers are dirty or damp, pause to clean them using a dry, clean cloth.
 
 ![cleaning finger to use fingerprint](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Covering Screen if Fingerprint on Screen
 
@@ -455,10 +471,6 @@ Misconfigured settings on your Pixel device can lead to situations where the fin
 You must adjust the display settings to ensure the fingerprint sensor is always visible. To do that, you can begin by opening the Settings app. Navigate to the "Display" tab and select "Lock Screen." On the following window, toggle on "Always show time and info."
 
 ![put sensor to always display](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 9\. Low Touch Sensitivity
 
@@ -504,13 +516,13 @@ Boot the Motorola Moto G14 device in safe mode to determine if third-party apps 
 
 ![reboot google pixel to safe mode](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### 3\. Professional Assessment
 
 If you suspect hardware issues, seek professional help from authorized service centers. A clear sign of hardware issues can be visible damage or the sensor failing to function even in safe mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 11\. Factory Reset as Last Resort
 
@@ -537,7 +549,7 @@ Proceed with the following steps to execute a factory reset on your Pixel device
 ![factory reset your device](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-18.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In summary, this article detailed various methods to fix **the Motorola Moto G14 fingerprint not working**. Diverse approaches were explored, from simple steps like sensor cleaning to advanced solutions like factory resets. However, Dr.Fone stands out among these solutions as a top-tier option. It offers a secure and efficient resolution to the persistent problem of fingerprint failure on the Motorola Moto G14  .
@@ -589,10 +601,6 @@ This android unlock app allows pin and pattern unlock, and it also has an intrud
 
 ![unlock apps for android-CM Locker](https://images.wondershare.com/drfone/article/2016/05/14631659122551.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5.Slidelock Locker
 
 Another app that takes advantage of Apple's popularity by bringing in the "slide-to-unlock" mechanics and the general aesthetic qualities of the iOS home screen. In addition to possessing the basic functions, this Android unlock screen app also highlights messages.
@@ -617,10 +625,6 @@ How to unlock : Pin,swipe or pattern.
 
 ![unlock apps for android-Next Lock Screen](https://images.wondershare.com/drfone/others/next-lock-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8.AcDisplay
 
 AcDisplay comes with a rather minimalistic look similar to some of the most popular web site creator services like Squarespace or Wix. The home screen will highlight notifications for which it will offer two options, either you swipe down in which case you will ignore the notification, or swipe anywhere else and the lock screen will unlock. What's really great about this Android unlock app is the fact that it can use your device's sensors, allowing it to detect its placement therefore whether or not it should be on or off.
@@ -630,10 +634,6 @@ Google Play link: [https://play.google.com/store/apps/details?id=com.achep.acdis
 How to unlock : You can swipe anywhere on the screen.
 
 ![unlock apps for android-AcDisplay](https://images.wondershare.com/drfone/article/2016/05/14631660873877.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9.C Locker Pro
 
@@ -646,7 +646,7 @@ How to unlock : This Android unlock screen app allows you to unlock the screen w
 ![unlock apps for android-C Locker Pro](https://images.wondershare.com/drfone/others/c-locker-pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Echo Notificaiton Lockscreen
@@ -673,21 +673,17 @@ _**Bonus Tips:** Easily bypass Android Lock Screen/Google FRP on Android with [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-facetimes-role-in-modern-communication-best-practices-for-recording-calls/"><u>[New] In 2024, FaceTime's Role in Modern Communication Best Practices for Recording Calls</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-elite-no-cost-fb-imagemovie-design-toolkit/"><u>2024 Approved Elite No-Cost FB Image/Movie Design Toolkit</u></a></li>
-<li><a href="https://win-web.techidaily.com/boost-your-productivity-top-5-strategies-to-overcome-distractions-and-enhance-your-focus-on-writing-and-work-tasks-zdnet-insights/"><u>Boost Your Productivity: Top 5 Strategies to Overcome Distractions and Enhance Your Focus on Writing & Work Tasks | ZDNet Insights</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Nubia Z50 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-elden-ring-multiplayer-issues-a-step-by-step-guide/"><u>Fixing 'Elden Ring' Multiplayer Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-t2-pro-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo T2 Pro 5G? Try These Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-sony-xperia-5-v-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Sony Xperia 5 V</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-honor-x9b-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Honor X9b Through Google Earth?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a2-phone-without-pin-by-drfone-android/"><u>How to Unlock Oppo A2 Phone without PIN</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17t-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo S17t Phone without PIN</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-backupmasters-expert-verdict/"><u>In 2024, BackUpMasters Expert Verdict</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-s23-ultra-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy S23 Ultra Through Google Earth?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-m14-4g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy M14 4G Device</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/perfectly-smooth-window-snap-tool-for-2024/"><u>Perfectly Smooth Window Snap Tool for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-s24plus-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy S24+ Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 7? | Stellar</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-step-up-your-gameplay-our-list-of-top-12-pc-clicker-games/"><u>[New] 2024 Approved Step Up Your Gameplay Our List of Top 12 PC Clicker Games</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-influencer-insights-the-top-5-instagram-moves-for-viral-content/"><u>[New] In 2024, Influencer Insights The Top 5 Instagram Moves for Viral Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-podcast-recorder-quality-check-for-2024/"><u>[New] Podcast Recorder Quality Check for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-photography-an-exhaustive-review-of-the-toolwiz-app-2023/"><u>2024 Approved Beyond Photography An Exhaustive Review of the Toolwiz App, 2023</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-find-n3-flip-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Find N3 Flip</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-faceoff-assessing-the-advantages-of-chatgpt-over-google-bard/"><u>Artificial Intelligence Faceoff: Assessing the Advantages of ChatGPT over Google Bard</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-motorola-moto-g-stylus-2023-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Motorola Moto G Stylus (2023) Pattern Lock Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-xcover-7-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy XCover 7 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y100a-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y100A Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y78plus-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y78+ Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introduce-a-cost-free-localized-chatbot-ai-on-pc/"><u>Introduce a Cost-Free Localized Chatbot AI on PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-benefits-and-drawbacks-chatgpts-role-in-artistic-composition/"><u>Unveiling the Benefits and Drawbacks: ChatGPT's Role in Artistic Composition</u></a></li>
 </ul></div>
 

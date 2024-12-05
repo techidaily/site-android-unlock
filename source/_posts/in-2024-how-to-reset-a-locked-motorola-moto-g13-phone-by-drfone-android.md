@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset a Locked Motorola Moto G13 Phone
-date: 2024-11-23T18:06:59.517Z
-updated: 2024-11-25T17:40:09.867Z
+date: 2024-12-01T18:43:11.734Z
+updated: 2024-12-05T17:08:53.909Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,6 +28,10 @@ The most common way of resetting an Android phone screen lock is by hard reset. 
 
 Here you can learn **how to reset a locked phone** from different brands, as different models or brands have unique methods of resetting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **1\. How to reset a locked HTC phone?**
 
 Now we will show you how to unlock HTC phone by hard reset.
@@ -42,6 +46,10 @@ Press and hold the volume up key, along with the power button and home key. You 
 
 ![reset a locked samsung](https://images.wondershare.com/drfone/article/2016/07/14696881309064.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **3\. How to reset an LG phone that is locked?**
 
 To unlock your LG Android phone, you will have to press and hold the volume key and the power or lock key. You have to release the Lock or power key when you see the LG logo on the screen of your phone. Just after that, press and hold the power or lock key again. You can release all the buttons once you see a factory hard reset on the screen.
@@ -49,7 +57,7 @@ To unlock your LG Android phone, you will have to press and hold the volume key 
 ![reset a locked lg](https://images.wondershare.com/drfone/article/2016/07/14696881591213.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **4\. How to reset a locked Sony phone?**
@@ -91,10 +99,6 @@ The first thing that you will have to do is open Dr.Fone on your PC and then cli
 
 ![how to reset a locked phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2. Select the Motorola Moto G13 device from the list.**
 
 ![reset android screen lock with drfone](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -103,10 +107,6 @@ The first thing that you will have to do is open Dr.Fone on your PC and then cli
 
 ![reset android screen lock with drfone](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4. Remove Lock Screen without Password**
 
 Once the previous step is complete, you will see the lock screen removal process started. After completing the lock screen removal process, you could enter into your phone without needing any password.
@@ -114,6 +114,10 @@ Once the previous step is complete, you will see the lock screen removal process
 ![reset android phone screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -135,6 +139,10 @@ Techeligible is a useful platform that offers useful solutions to help most Andr
 
 ![frp bypass tools](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Useful Features of Techeligible
 
 Check out the main features that Techeligible has to offer below:
@@ -143,10 +151,6 @@ Check out the main features that Techeligible has to offer below:
 - **Unlocking Android Smartphones.**The tools assist users in unlocking Android smartphones. It also does not require passwords or Google account information.
 - **FRP APK Download.**Techeligible makes it simple to obtain FRP APK utilities.
 - **File Management.**It assists in the management of critical files to improve the overall user experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Where and How To Download FRP Tools by Techeligible
 
@@ -173,10 +177,6 @@ These tools function similarly to a bridge. To begin, connect the Android device
 - **Step 3:** To begin downloading, click the **Download** button.
 
 **_**_Note:_**_** **Download the APK directly from your phone to install it when FRP locks the Motorola Moto G13 device. APK can also be installed using OTG or ADB.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Phone Brands Supported by Techeligible
 
@@ -278,6 +278,10 @@ To use Techeligible, you must possess the following three sections:
 - FRP bypass APK tools
 - PC FRP software
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Google Account Manager
 
 Using the appropriate Google Account Manager, you may effortlessly download the files. This account assists you in locating the proper gadget. Furthermore, this stage assists you in your search for the appropriate gadgets. The setup can be selected from the official website.
@@ -295,10 +299,6 @@ If you want to reset your devices, you can utilize several bypass APK programs t
 PC FRP utilities assist you in connecting devices to the PC. These tools are simple to use and make it simple to reset the Motorola Moto G13 devices. You only need to download the relevant file to get started.
 
 ![techeligible pc frp tools](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-06.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step-by-Step Guide
 
@@ -329,10 +329,6 @@ Revel in the benefits that Dr.Fone – Screen Unlock has to offer, making it an 
 - It’s not only about opening a locked screen; Dr.Fone provides a variety of unlock modes targeted to certain conditions, such as a forgotten password, PIN, pattern, or fingerprint.
 - **High Rate of Success.**Fone - Screen Unlock delivers a dependable solution, even for difficult lock cases, with a high success rate in unlocking locked screens.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step-by-Step Guide to Unlocking Android With Dr.Fone
 
 Dr.Fone - Screen Unlock simplifies the daunting task of unlocking an Android device. Its user-friendly interface and effective functionality offer a smoother, more accessible alternative to Techeligible. This ensures that unlocking your Android device becomes a hassle-free experience. Learn how to use Dr.Fone – Screen Unlock (Android) below:
@@ -358,10 +354,6 @@ Dr.Fone - Screen Unlock simplifies the daunting task of unlocking an Android dev
 - **Step 7:** Once you’ve identified your Android device’s model, Dr.Fone will guide you through entering **Download Mode**. Following the on-screen directions will take you to the next steps, where you may complete the operation. The following screens show the status of the screen unlocking procedure, which includes downloading the platform’s required drivers and configuration files.
 
 ![drfone screen unlock enter download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 8:** A new screen will appear, signaling the operation is finished. If your device’s screen unlock problem has been resolved, click **Done**. If this is not the case, click the **Try Again** button.
 
@@ -404,6 +396,10 @@ However, it’s important to note that this method has its limitations. It prima
 But don’t worry – if you’re locked out of a newer phone, you can try several other methods, which you will explore later in this article. Remember, the **emergency call bypass** can be a lifesaver in specific scenarios. However, it’s always best to use such methods responsibly and ethically. And, of course, you should always note your passwords.
 
 ![android emergency screen](https://images.wondershare.com/drfone/article/2024/01/unlock-emergency-call-phone-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How To Perform Emergency Call Bypass To Unlock Screen
 
@@ -461,21 +457,29 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 ![device selection screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Click **Remove without Data Loss** to ensure your data stays intact.
 
 ![screen unlock options](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Confirm device details. Then, enter “000000” to confirm and initiate the unlocking process.
 
 ![confirmation 00000 screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** The software will provide specific instructions to put your device into download mode. Follow them.
 
 ![download mode instructions](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 8:** Once the process is complete, click **Done.** If it doesn’t work the first time, try again.
 
@@ -488,10 +492,6 @@ You can use the **Forgot PIN/Passcode** feature if you’ve linked your phone to
 ### Method 3: Forcing a Data Reset on Your Android Phone
 
 As a last resort, you can [<u>perform a factory reset</u>](https://drfone.wondershare.com/reset-android/how-to-factory-reset-huawei-phone-when-locked.html). This will erase all data on your device but remove the lock screen. Access the recovery mode by pressing a combination of keys (usually volume up/down and the power button) and then selecting **Wipe data/Factory reset**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Booting Into Safe Mode
 
@@ -519,20 +519,18 @@ Learning to unlock your phone screen ensures you’re never locked out of your d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-what-is-filmora-certified-creative-program-and-how-to-become-an-fcc/"><u>[New] 2024 Approved What Is Filmora Certified Creative Program and How to Become an FCC</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-top-rated-apps-to-elevate-instagram-imagery/"><u>[Updated] In 2024, Top-Rated Apps to Elevate Instagram Imagery</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unlocking-video-revenue-potential-the-facebook-marketing-playbook-for-2024/"><u>[Updated] Unlocking Video Revenue Potential The Facebook Marketing Playbook for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a18-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo A18 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-v29-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo V29 Pro Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-y78t-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo Y78t Phone When You Forget the Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-y27-4g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo Y27 4G Face Lock?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-a38-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Oppo A38</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-route-to-riches-top-10-youtube-channels-for-startup-success/"><u>In 2024, Quick Route to Riches Top 10 YouTube Channels for Startup Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-financial-demands-of-music-video-production/"><u>In 2024, Understanding the Financial Demands of Music Video Production</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-vivo-s17-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo S17 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-unveiling-iphone-features-podcast-audiophiles-guide/"><u>In 2024, Unveiling iPhone Features - Podcast Audiophiles Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/issues-and-solutions-addressing-the-common-battery-concerns-of-the-new-iphone-14-model/"><u>Issues & Solutions: Addressing the Common Battery Concerns of the New iPhone 14 Model</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-gaming-future-the-time-for-rtx-rollout/"><u>Nvidia's Gaming Future: The Time for RTX Rollout?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-oppo-reno-11-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Oppo Reno 11 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-comprehensive-overview-recording-saving-and-sharing-youtube-videos-for-free-for-2024/"><u>[New] A Comprehensive Overview Recording, Saving & Sharing YouTube Videos for Free for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-channeling-success-the-personal-brand-strategy-for-youtubers/"><u>[Updated] 2024 Approved Channeling Success The Personal Brand Strategy for YouTubers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-from-raw-recordings-to-professional-vids-webcam-edition/"><u>[Updated] From Raw Recordings to Professional Vids - Webcam Edition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-meizu-21-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Meizu 21 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-motorola-edge-40-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Motorola Edge 40?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correctupsidedownscreens/"><u>CorrectUpsideDownScreens</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-watching-pleasure-the-essential-list-of-15-films-enhanced-by-dolby-atmos-sound/"><u>Elevate Your Watching Pleasure: The Essential List of 15 Films Enhanced by Dolby Atmos Sound</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-15-pro-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 15 Pro Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17t-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo S17t Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-a59-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo A59 5G Device</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-the-full-potential-of-your-mouse-with-cross-border-powers/"><u>Unleashing the Full Potential of Your Mouse with Cross-Border Powers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-s-hottest-adobe-premiere-plugins-get-them-now-free-download/"><u>Updated In 2024, S Hottest Adobe Premiere Plugins Get Them Now (Free Download)</u></a></li>
 </ul></div>
 

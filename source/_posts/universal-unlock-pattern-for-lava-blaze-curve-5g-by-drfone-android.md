@@ -1,7 +1,7 @@
 ---
 title: Universal Unlock Pattern for Lava Blaze Curve 5G
-date: 2024-11-30T18:39:28.004Z
-updated: 2024-12-05T16:52:00.756Z
+date: 2024-12-07T17:10:46.644Z
+updated: 2024-12-11T17:50:39.579Z
 tags: 
   - unlock
   - remove screen lock
@@ -98,10 +98,6 @@ The first method is ADB, which stands for Android Debug Bridge. With the help of
 
 ![unlock android screen 9](https://images.wondershare.com/drfone/article/2021/12/adb-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4**: Now go to the Developer Options menu and turn on the USB Debugging.
 
 **Step 5**: After connecting Android to PC, you need to open the command prompt in the installation directory.
@@ -128,6 +124,10 @@ It's one of the most straightforward ways to get past the lock screen. One thing
 
 ![unlock android screen 12](https://images.wondershare.com/drfone/article/2021/12/safe-mode-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 3: Unlock Pattern Lock via Factory Reset
 
 This should only be a last option because it will completely delete your device's data and saved settings. Your device will be reset to factory settings, meaning your device's settings will get back to the same as when you first bought it. If you want to learn how to [unlock a pattern](https://drfone.wondershare.com/unlock/samsung-unlock-codes.html) by doing a factory reset, follow these steps:
@@ -146,6 +146,10 @@ Please note that the Recovery mode method may vary from device to device. So ple
 
 **Step 4**: The phone will perform the factory reset. In a short while, restart your device and there will be no lock screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 4: Unlock Pattern Lock with Android Device Manager
 
 Android Device Manager unlocking is the second-best service for bypassing the Android lock screen on locked Android devices and tablets. Working on this service is quite straightforward, and it only works if the user has a Google account. This service is accessible and usable from any device or computer.
@@ -157,10 +161,6 @@ There are a few things to keep in mind as you use this service to get around the
 After pressing the "Lock" button, a popup will appear, asking for a new password to replace the forgotten pin, pattern, or password.
 
 ![unlock android screen 16](https://images.wondershare.com/drfone/article/2021/12/android-device-manager-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Type the new password once, then confirm it by typing it again. This will change the password in a few minutes and the new password can be used to unlock the Lava Blaze Curve 5G device.
 
@@ -174,13 +174,17 @@ If you use an older Android version, you can get rid of the **universal unlock p
 
 ![unlock android screen 17](https://images.wondershare.com/drfone/article/2021/12/forgot-pattern-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Enter the primary Gmail account and password you used to set up your Android smartphone after selecting the same. Then you must provide your Google account information. A new unlock pattern will be emailed to you by Google.
 
 ![aunlock android screen 18](https://images.wondershare.com/drfone/article/2021/12/forgot-pattern-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -193,10 +197,6 @@ FRP (Factory Reset Protection) is a security feature for Android devices to prev
 The page discusses and evaluates its effectiveness with a comprehensive review. After that, you’ll see considering another option is wise, and the article will also recommend an alternative. Stay tuned for our insights. For now, you can **download the SamFw FRP Tool** for free and explore its features. Read on to learn more.
 
 ![samfw frp tool software introduction](https://images.wondershare.com/drfone/article/2024/01/samfw-frp-tool-guide-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1. A Detailed Introduction of SamFw FRP Tool
 
@@ -226,6 +226,10 @@ The tool can also remove other Android security measures. It can [<u>bypass pins
 
 **SamFw FRP Tool** offers a straightforward solution to remove Google FRP locks. Its intuitive interface makes the process accessible for beginners.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Use SameFw FRP Tool
 
 Here’s a comprehensive guide to help you bypass FRP using the **Sam FRP bypass tool**.
@@ -237,6 +241,10 @@ Here’s a comprehensive guide to help you bypass FRP using the **Sam FRP bypass
 - **Step 2**: Choose your device’s brand and click the **Remove FRP** button. Your phone screen will then display a notification requesting USB debugging permission. Tap **OK** to proceed.
 
 ![samfw frp tool remove frp option](https://images.wondershare.com/drfone/article/2024/01/samfw-frp-tool-guide-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Allow the process to complete. Upon completion, your device will automatically reboot as part of the FRP removal process. The reboot signals that the process bypassed the FRP lock. Close the pop-up and enjoy unrestricted access to your device.
 
@@ -271,25 +279,25 @@ Dr.Fone - Screen Unlock (Android) is the ultimate alternative to the **SamFw FRP
 
 ![remove google frp lock option](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Choose your Android device type and click **Start** to proceed to the next window. Afterward, choose **All Android versions (One-Click Removal)** if you don’t know the OS version of your phone. Click the **Start** button again to continue.
 
 ![choosing android version window](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Next**,** follow the on-screen instructions. Locate the **Emergency Call** button on your Android and tap it. Dial “\*#0\*#” for a secret menu. Click **Next** in the app. Your Android will prompt the USB debugging option. Tap **Allow** on your phone, then click **Authorized** on your computer.
 
 ![debugging smartphone to authorize dr.fone](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Dr.Fone will confirm the removal of the FRP locks from your Android device. After successful removal, the prompt window indicates completion. Click **Done** upon successful execution. If issues persist, retry the process with the **Try Again** option.
 
 ![removed frp status window](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3. Side-by-Side Comparison Between SamFw Tool and Dr.Fone
 
@@ -373,11 +381,11 @@ Here’s a step-by-step guide to removing itfrom the Admin’s Portal:
 
 ![knox unenroll confirmation](https://images.wondershare.com/drfone/article/2024/01/remove-knox-enrollment-service-03.jpg)
 
-After removing the Lava Blaze Curve 5G device from Knox Enrollment via the admin account, you may still need to uninstall the Knox app from the Android device. This can usually be done through the Lava Blaze Curve 5G device’s settings. Navigate to ‘Apps’ in the settings menu, locate the Knox app, and select ‘Uninstall’ or ‘Disable’. Be aware that this option might not be available on all devices, depending on how Knox was configured.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+After removing the Lava Blaze Curve 5G device from Knox Enrollment via the admin account, you may still need to uninstall the Knox app from the Android device. This can usually be done through the Lava Blaze Curve 5G device’s settings. Navigate to ‘Apps’ in the settings menu, locate the Knox app, and select ‘Uninstall’ or ‘Disable’. Be aware that this option might not be available on all devices, depending on how Knox was configured.
 
 ### Rooting and Flashing a New ROM To Remove Knox Enrollment Service
 
@@ -386,10 +394,6 @@ For the more tech-savvy users, another method to **bypass Knox Enrollment Servic
 However, this method is risky and not recommended for the average user. It will void your warranty and potentially ‘brick’ your device, rendering it unusable. Furthermore, this action could notify your employer of your attempt to remove Knox, which could have professional repercussions. Proceed with this method only if you know the risks and consequences.
 
 **Removing Knox Enrollment Service** from your phone is feasible but requires careful consideration, especially in a corporate context. Always ensure you have the necessary permissions and understand the risks of modifying your device’s software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### If You Can’t Use the Above Methods
 
@@ -436,10 +440,6 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 ![screen unlock options](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Enter “000000” to start the process after confirming device details.
 
 ![confirmation 00000 screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
@@ -463,7 +463,7 @@ If you find yourself locked out of your phone due to Knox and unable to use conv
 [<u>How to Unlock OPPO Phone Without Password?</u>](https://drfone.wondershare.com/unlock/how-to-unlock-oppo-phone-without-password.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -486,18 +486,21 @@ For those facing a locked phone due to Knox and unable to follow conventional me
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-sync-vimeo-videos-with-powerpoint-a-step-by-step-approach/"><u>[New] 2024 Approved Sync Vimeo Videos with PowerPoint A Step-by-Step Approach</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/diy-ram-replacement-for-troubled-memory-modules-expert-advice-by-yl-software/"><u>DIY RAM Replacement for Troubled Memory Modules: Expert Advice by YL Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-most-accurate-driving-force-gt-emulation-packages-compatible-with-windows-operating-systems/"><u>Download the Most Accurate Driving Force GT Emulation Packages Compatible with Windows Operating Systems</u></a></li>
-<li><a href="https://article-tips.techidaily.com/elite-mkv-deck-desktop-and-mobile-for-2024/"><u>Elite MKV Deck Desktop & Mobile for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-vivo-x100-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo X100 Pro Face Lock?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-lava-blaze-2-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Lava Blaze 2 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-y27-5g-phone-by-drfone-android/"><u>How to Reset a Locked Vivo Y27 5G Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-y56-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo Y56 5G Phone?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/reviewing-bandicams-effectiveness-in-professional-video-editing/"><u>Reviewing Bandicam's Effectiveness in Professional Video Editing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphone-messaging-problems-a-guide-with-10-key-tips-and-tricks/"><u>Solving iPhone Messaging Problems: A Guide with 10 Key Tips & Tricks</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/tecnicas-efectivas-para-restablecer-su-computadora-e-instalar-los-sistemas-correctamente/"><u>Técnicas Efectivas Para Restablecer Su Computadora E Instalar Los Sistemas Correctamente</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-oppo-reno-11-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Oppo Reno 11 5G</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-fixing-the-issue-when-windows-key-plus-shift-plus-s-is-unresponsive-on-windows-11-or-10/"><u>Troubleshooting Steps: Fixing the Issue When Windows Key + Shift + S Is Unresponsive on Windows 11 or 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-freely-accessible-cutting-edge-video-editor-tools-for-2024/"><u>[New] Freely Accessible Cutting Edge Video Editor Tools for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-adding-media-to-enhance-content-for-2024/"><u>[Updated] Adding Media to Enhance Content for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-lava-agni-2-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Lava Agni 2 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparative-insights-understanding-nlp-in-relation-to-machine-learning-techniques/"><u>Comparative Insights: Understanding NLP in Relation to Machine Learning Techniques</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-y27-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo Y27 5G? Try These Fixes</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/get-the-9now-app-watch-and-save-shows-from-9nowcomau-for-free-compatible-with-mac-and-pc/"><u>Get the 9NOW App: Watch and Save Shows From 9now.com.au for Free – Compatible with Mac & PC</u></a></li>
+<li><a href="https://win-guides.techidaily.com/harnessing-the-power-of-autoresponders-for-effective-marketing-with-massmail-solutions-2009-edition/"><u>Harnessing the Power of Autoresponders for Effective Marketing with MassMail Solutions (2009 Edition)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-motorola-moto-g73-5g-phone-by-drfone-android/"><u>How to Reset a Locked Motorola Moto G73 5G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-y27-4g-easily-by-drfone-android/"><u>How To Unlock a Vivo Y27 4G Easily?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo S17 Phone without PIN</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-find-n3-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo Find N3 Fingerprint Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-s17t-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo S17t</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-art-of-instagram-videography-capturing-attention/"><u>In 2024, The Art of Instagram Videography Capturing Attention</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-interview-process-ingenious-tips-for-acquiring-positions-at-microsoft-insights-from-zdnet-experts/"><u>Mastering the Interview Process: Ingenious Tips for Acquiring Positions at Microsoft – Insights From ZDNet Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-driver-updates-for-your-logitech-m510-wireless-mouse/"><u>The Ultimate Guide to Driver Updates for Your Logitech M510 Wireless Mouse</u></a></li>
 </ul></div>
 

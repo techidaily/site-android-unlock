@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Sony Xperia 5 V Phone without PIN
-date: 2024-08-17T00:44:40.486Z
-updated: 2024-08-18T00:44:40.486Z
+date: 2024-12-05T18:28:45.712Z
+updated: 2024-12-11T18:40:51.459Z
 tags: 
   - unlock
   - remove screen lock
@@ -23,11 +23,10 @@ If your android lock screen is locked because you have forgotten the pin, you wi
 
 With [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/), you also can unlock your screen without any data loss. Using this lock removal is very easy as it doesn't require any technical knowledge. Anyone who knows how to use an android device can use it. This app is used to unlock Samsung Galaxy S, Note, Series and much more.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Remove 4 Types of Android Screen Lock without Data Loss
@@ -51,6 +50,10 @@ Note：You can also use these tool to bypass other phone's screen including Huaw
 
 ![unlock your Android PIN-connect your android device](https://images.wondershare.com/drfone/drfone/android-unlock-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**. Select your phone's model in the list provided. Type "000000" on the blank box provide and then click the "Confirm" button.Then follow the guide provided to enter download Mode. You can also Power off the android device, and then press Power, Home and Volume Down button simultaneously and then press the Volume Up in order to enter download mode.
 
 ![unlock your Android PIN-Select your phone's model](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
@@ -58,9 +61,6 @@ Note：You can also use these tool to bypass other phone's screen including Huaw
 **Step 4.** The program will then download recovery package automatically. Be patient until the process is complete. After that you can now remove the lock pin.
 
 ![unlock your Android PIN-download recovery package](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 
 ![unlock your Android PIN-remove the lock pin](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
@@ -75,26 +75,20 @@ So how do you set up your android screen lock PIN? Here is a step-by-step guide 
 **Step 1**. Open "Settings" on your Phone
 
 ![enable or disable screen lock PIN-Open ](https://images.wondershare.com/drfone/article/2016/05/14646049425841.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
 On your android device, open Settings. You can find the settings app in the app; drawer. You can also tap the cog icon on the notification mode and click Settings.
 
 **Step 2**: Select the "Security" tab under "Personal"
 
 ![enable or disable screen lock PIN- Select the ](https://images.wondershare.com/drfone/article/2016/05/14646056432103.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: Once you have clicked on "Security", Go to "Screen Lock." You will be provided with lock screen option such as None, Swipe, Pattern. PIN, and Password.
 
 ![enable or disable screen lock PIN-Go to Screen Lock](https://images.wondershare.com/drfone/article/2016/05/14646063398300.jpg)
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4**. Click on "PIN" option. You will be prompted to enter preferred 4-didgit PIN number. You will then be required o key in the same 4 digits to confirm your security PIN. Click "OK" and you will have enabled your Android screen lock PIN.
 
@@ -103,8 +97,9 @@ On your android device, open Settings. You can find the settings app in the app;
 Good job. You will have to enter this PIN whenever your phone sleeps or when you reboot your phone.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3. How to Disable Your Android Screen Lock PIN
 
 In most occasions, in fact, 99.9%, the first thing that you will see when you power on your device or want to call, receive a call, or want to read a message. The availability of lock screen is to ensure the security and privacy of your personal data such as text, photos, and much more. However, the presence of the lock screen PIN will cause some delay in the actions that you want to take, but not so much. The delay is of course for a few second. The Problem is if you are prone to forgetting the screen lock PIN. This may necessitate the removal of the PIN or disable it in that case. If privacy and security of your device data are not anything that bothers you, then there is no need to waste some of your time in entering the locks screen pin every time you want to access your android device. Disable the Screen lock Pin. The steps are so simple and will not consume more than one minute to do so. Below is a step-by-step guide on how to disable your android screen lock PIN.
@@ -116,23 +111,6 @@ In most occasions, in fact, 99.9%, the first thing that you will see when you po
 **Step 2.** In the interface that opens, go to "Security"
 
 ![enable or disable screen lock PIN-go to ](https://images.wondershare.com/drfone/article/2016/05/14646076268107.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 
 **Step 3**. You can then click on "Screen Lock" and select "None" to disable the screen lock PIN.
 
@@ -142,12 +120,6 @@ You will be prompted to enter the current PIN in order to disable it. Key in the
 
 Enabling screen lock on your Android is the smartest thing to do especially if you value your own privacy. On the other hand, it is a nightmare if you forget screen lock and you don't know how to go about it. But at this moment, at least you have known a perfect way that you can remove screen lock without losing data on your Android phone.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## How to Bypass Android Lock Screen Using Emergency Call On Sony Xperia 5 V?
 
 The main reason why we keep our smartphone locked is to prevent children (or stalkers) checking out our private photos or messages. You don't want anyone to access your pictures, emails, or other important data. What if you forget your pattern or PIN and cannot access your phone? Or someone changes lock screen pattern to leave you annoyed?
@@ -165,8 +137,9 @@ All Sony devices come with the "Find My Mobile" feature. To bypass the Sony lock
 - Step 5. Within a few minutes, it will change the lock screen password to the PIN so that you can unlock your device.
 
 ![how to unlock samsung phone lock password-find my mobile](https://images.wondershare.com/drfone/others/14623529847658.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2. Use Android Device Manager to Bypass Sony Password
@@ -184,6 +157,10 @@ To know how to unlock a Sony phone lock password with Android device manager, ma
 
 ![how to unlock samsung phone lock password-android device manager](https://images.wondershare.com/drfone/others/14623531102514.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3. Google Login (Supports Only Android 4.4 or Lower)
 
 If your device is still running on Android 4.4 or lower, here's how to bypass the Sony lock screen fast.
@@ -194,8 +171,9 @@ If your device is still running on Android 4.4 or lower, here's how to bypass th
 - Step 4. Now your phone would be unlocked.
 
 ![how to unlock a samsung phone without the code-google login](https://images.wondershare.com/drfone/others/14623533542919.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4. 'Pattern Password Disable' and Custom Recovery (SD Card needed)
@@ -208,6 +186,10 @@ To bypass the Sony lock screen in this method, you ought to be an advanced user 
 - Step 4. Flash the file on your card and restart the phone.
 - Step 5. Now your phone would boot up without lock screen. Don't worry if you had a gesture lock or password. All you need to do is to input a random gesture or password, and it will be unlocked.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 5. Delete the Password File Using ADB
 
 It is yet another option that will work only when you have enabled USB Debugging previously on your device, and your PC is allowed to connect via ADB. If you meet such requirements, it is ideal to use this method to unlock the Sony lock screen.
@@ -216,17 +198,9 @@ It is yet another option that will work only when you have enabled USB Debugging
 - Step 2. Restart your phone, and a secure lock screen must be gone, and you can access your device. Be sure to set a new PIN, pattern, or password before rebooting again.
 
 ![how to unlock a samsung phone without the code-adb command](https://images.wondershare.com/drfone/others/14623546208288.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 6. Factory Reset to Bypass Sony Lock Screen
@@ -244,9 +218,6 @@ A factory reset is the best option in almost any case if one of these solutions 
 
 [Backup your Sony phone](https://drfone.wondershare.com/samsung/samsung-backup.html) regularly in case of any data loss in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 7. Boot into Safe Mode
 
 Chances may be that you are using a third-party lock screen app. Then lucky for you, this way works best to bypass the Sony lock screen. Specifically, you can boot your Sony device into [Android Safe Mode](https://drfone.wondershare.com/android-tips/safe-mode-in-android.html).
@@ -260,14 +231,6 @@ Chances may be that you are using a third-party lock screen app. Then lucky for 
 
 ![how to unlock a samsung phone without the code-android safe mode](https://images.wondershare.com/drfone/others/14623549778321.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Method 8. Other Methods
 
 - Step 1. Take your friend's phone to call on your locked phone.
@@ -285,9 +248,6 @@ Email accounts have proven their worth in digital devices beyond sending emails.
 To this day, it is known that Gmail accounts can be removed with or without a password. However, one should know that if they consider deleting their Gmail account, they won't be able to send or receive emails. With that, let's proceed to reveal all essential methods that can be used to **delete a Gmail account permanently**. This article will also focus on a perfect tool that assists in making the process easier.
 
 ![deleting gmail account permanently](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 ## Part 1. Synopsis: Things To Know Before Deleting Gmail Account
 
@@ -298,9 +258,6 @@ Although the process of deleting a Gmail account sounds basic, there are many po
 - **Access to Other Services:** Although you are deleting your Gmail account, you can still access Google Photos, Google Drive, and other services.
 - **Lookout For Emails:** Ensure that the emails in your account are saved. You can easily download them anywhere before deleting the Gmail account.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Part 2. Delete Your Gmail Account Using Your Password: Desktop Solution
 
 For the first method, we will discuss **how to delete a Google account** with your password. You will use your computer for this process and access the [Google Account](https://myaccount.google.com/) services. The service helps you save all your essential Gmail data before you remove it. To understand how it makes it possible, look through the steps provided below:
@@ -308,23 +265,14 @@ For the first method, we will discuss **how to delete a Google account** with yo
 - **Step 1.** Access the website [https://myaccount.google.com/](https://myaccount.google.com/) on your desktop browser and log in with your credentials. Proceed to the “Data & privacy” section from the left panel.
 
 ![login and access data and privacy](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** On the following window, scroll down and look for the “Delete a Google service” option. Accessing this would allow you to **delete your Gmail account permanently**.
 
 ![proceed to delete a google service](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3.** You will be led to a new screen where you need to provide your password credentials again. On successfully providing your password, look for the “Gmail” option on the next screen. Click the “Trash” icon to continue deleting the Gmail account.
 
 ![select gmail to delete](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 - **Step 4.** A new pop-up window opens, demanding another email address that can help connect to other Google services. Provide the email address and continue to click "[Send verification email](https://drfone.wondershare.com/factory-reset-protection/bypass-gmail-phone-verification.html) ." The Gmail account won't be deleted until the user verifies the email sent to the new address.
 
@@ -334,9 +282,6 @@ For the first method, we will discuss **how to delete a Google account** with yo
 
 ![download data from takeout](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Part 3. Delete Your Gmail Account From Your Smartphone: Android & iOS
 
 If you use a smartphone device and want to delete your Gmail account from that particular device, you are at the right place. The following methods will help you understand **how to delete Gmail** from your Android and iOS devices:
@@ -352,8 +297,9 @@ If you use a smartphone device and want to delete your Gmail account from that p
 ![remove gmail account android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### iOS Devices
 
 - **Step 1.** Open your iPhone's "Settings" app and scroll down to the "Mail" option. You will find the "Accounts" option on the following screen, which you need to tap to proceed.
@@ -364,10 +310,6 @@ If you use a smartphone device and want to delete your Gmail account from that p
 
 ![delete gmail account ios](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Part 4. Don’t Know Password of Device? Reset To Delete Gmail Account
 
 What if you've [forgotten the password](https://drfone.wondershare.com/app-password/find-gmail-password.html) to your smartphone device, and you have to **delete your Gmail account permanently?** In such cases, you are left with the option of accessing the Sony Xperia 5 V device’s Recovery Mode and factory resetting the Sony Xperia 5 V device, where possible. To know how it is done flawlessly, look through the steps provided next:
@@ -377,9 +319,6 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 - **Step 1.** Those owning an Android device need to put it in Recovery Mode first. For that, use the combination of the "Power" and "Volume" keys to put the Sony Xperia 5 V device in Recovery Mode.
 
 ![put android in recovery mode](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 - **Step 2.** Once you boot into the Recovery Mode, use the Power and Volume buttons to scroll through the menu. Scroll down with the Volume buttons and select the "Wipe data/factory reset" option with the Power button.
 
@@ -400,9 +339,6 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 - **For iPhone 7 Models:** Hold the “Side” and “Volume Down” button until the Recovery Mode screen appears.
 
 ![recovery mode iphone 7 models](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-15.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **For iPhone 6 and Earlier Models:** Hold the "Side" and "Home" buttons simultaneously until the Recovery Mode screen appears.
 
@@ -411,28 +347,14 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 - **Step 2.** The device automatically gets detected on Finder/iTunes, and a pop-up appears on the screen. Click "Restore" to reset your iOS device to factory settings.
 
 ![restore ios device](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-17.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 5. Remove Gmail Account From Device Without Password: Using Wondershare Dr.Fone
 
 While you seek some appropriate way **to close a Gmail account** from a device whose password you’ve forgotten, you might get into Wondershare Dr.Fone. This all-in-one service offers a unique Screen Unlock feature that helps you restore your device. If you have forgotten the lock screen password of your Android device, Dr.Fone – Screen Unlock (Android) makes it exceptionally easy to recover.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features of Wondershare Dr.Fone
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -440,3 +362,27 @@ While you seek some appropriate way **to close a Gmail account** from a device w
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-diving-into-mr-beasts-cash-flow/"><u>[Updated] 2024 Approved Diving Into Mr. Beast's Cash Flow</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-journey-through-cartoony-fun-snapchat-face-lens-magic/"><u>[Updated] 2024 Approved Journey Through Cartoony Fun Snapchat Face Lens Magic</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-solutions-to-unlock-samsung-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>6 Solutions to Unlock Samsung Phones If You Forgot Password, PIN, Pattern</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-motorola-moto-g73-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Motorola Moto G73 5G? Try These Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-s23-tactical-edition-lock-screen-password-by-drfone-android/"><u>How To Change Samsung Galaxy S23 Tactical Edition Lock Screen Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-motorola-moto-g-stylus-5g-2023-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Motorola Moto G Stylus 5G (2023) Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-oppo-a2-by-drfone-android/"><u>How to Show Wi-Fi Password on Oppo A2</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a24-bootloader-easily-by-drfone-android/"><u>How to Unlock Samsung Galaxy A24 Bootloader Easily</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 8 Plus Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y36-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y36</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-xcover-6-pro-tactical-edition-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy XCover 6 Pro Tactical Edition Device</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-top-7-online-auto-subtitle-translators-for-content-creators/"><u>In 2024, Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-10-best-free-video-upload-sites-for-online-presence-and-visibility-for-2024/"><u>New 10 Best Free Video Upload Sites for Online Presence and Visibility for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revolutionizing-receiving-a-new-paradigm-in-openings-for-2024/"><u>Revolutionizing Receiving A New Paradigm in Openings for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-5-best-zero-cost-flv-video-editors-you-need-to-try/"><u>Updated 2024 Approved 5 Best Zero-Cost FLV Video Editors You Need to Try</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/western-digital-hdd/"><u>Western Digital HDDコピーツール:信頼性の高いディスク複製ソフトウェアリスト</u></a></li>
+</ul></div>
+

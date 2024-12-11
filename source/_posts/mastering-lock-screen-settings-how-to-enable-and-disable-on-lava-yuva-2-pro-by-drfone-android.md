@@ -1,7 +1,7 @@
 ---
 title: Mastering Lock Screen Settings How to Enable and Disable on Lava Yuva 2 Pro
-date: 2024-11-28T16:36:07.677Z
-updated: 2024-12-05T18:44:36.982Z
+date: 2024-12-09T19:08:21.259Z
+updated: 2024-12-11T17:49:30.846Z
 tags: 
   - unlock
   - remove screen lock
@@ -50,10 +50,6 @@ To certain customers, the lock screen can do more harm than good, and they would
 
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555320015997.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 · Step 2: Under the heading called Screen Security heading, you will be shown 3 choices. Tap on the first one, which is entitled Screen lock.
 
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555321966246.jpg)
@@ -61,6 +57,10 @@ To certain customers, the lock screen can do more harm than good, and they would
 · Step 3: Once you have done the previous step, a brand new screen will appear and then you will be asked to fill in your PIN code. This is a step that helps guarantee that you are the true owner of the Android device.
 
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555322112292.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: As soon as you have confirmed the right PIN code in the bar provided, you will then be presented to the next drop-down menu. A similar screen will appear which shows you plenty of choices. Tap on the top of that list, which is a bar called None.
 
@@ -135,10 +135,6 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![remove android lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Ways on How to Unlock/Bypass/Swipe/Remove Lava Yuva 2 Pro Fingerprint Lock
 
 If you cannot remember your pin, pattern or password to access your Android device, this content will introduce you to the most effective method to handle the fingerprint lock, unlocking, bypassing and swiping in Android based gadgets. Your lock screen appears on your phone immediately after you turn your device on and it is there to save your privacy, data also to make your screen user-friendly and more functional. The additional material that definitely helps you to solve your limited access issue in your Android phone can be viewed here.
@@ -168,6 +164,10 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![best way to unlock Android fingerprint lock-Connect your Android phone](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** Type the download mode on your Android gadget.
 
 ![best way to unlock Android fingerprint lock-Type the download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
@@ -175,6 +175,10 @@ Remove 4 Types of Android Screen Lock without Data Loss
 **Step 4**. Have recovery package downloaded.
 
 ![best way to unlock Android fingerprint lock-Have recovery package downloaded](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5.** Remove Android lock screen without losing any data.This process will take some times.
 
@@ -188,15 +192,15 @@ _Remove Android Screen Lock_
 
 The lock screen app is a navigation screen that should be user friendly and allow you to jump quickly to those features that you actively use. For those, who want to make their smartphone screens much more functional and fun, we have prepared a list of best 10 Android Fingerprint Lock Apps and Widgets. The list that will be describing the apps will not be in the form of A Ranking or Top 10. The aim of our list is just to share with you those apps which are really good at handling the functions that we need from our gadgets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1st - Hi Locker
 
 This fingerprint lock for android devices comes with a 3 modes of lock screen: Classic, iOS and Lollipop. Also, it has a separate screen dedicated to your calendar. Cyanogen Mod Style quick launcher is the main feature of Hi Locker. The secondary characteristics include custom greetings, various fonts, automatic wallpaper changes and additional customizations using an arrow key.
 
 ![best way to unlock Android fingerprint lock-Hi Locker](https://images.wondershare.com/drfone/others/hi-locker-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2nd - ICE Unlock Fingerprint Scanner
 
@@ -205,7 +209,7 @@ This app is a real fingerprint lock for Android that features a true biometric l
 ![best way to unlock Android fingerprint lock-ICE Unlock Fingerprint Scanner](https://images.wondershare.com/drfone/others/ice-unlock.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3rd - Finger Scanner
@@ -220,19 +224,11 @@ The total downloads of Go – Locker Theme & Wallpaper is close to 1.5 million w
 
 ![best way to unlock Android fingerprint lock-GO Locker - Theme & Wallpaper](https://images.wondershare.com/drfone/others/go-locker2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5th - Locker Master- Do It Yourself (DIY) Lock Screen
 
 Whether you prefer having simple or complex, solid or multi colored lock screens, Locker Master- DIY Lock Screen offers you tons of options to design the lock screen that will match to your desires. Swipe gestures options and passcode patterns are designed like never before. Be informed on incoming messages or missed calls on your lock screen, share your own lock screen style or download from a huge amount of themes which are being shared daily, worldwide. Locker Master- DIY Lock Screen is a free to download fingerprint lock app as many others that we are listing here.
 
 ![best way to unlock Android fingerprint lock-Locker Master](https://images.wondershare.com/drfone/others/locker-master-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6th – Start
 
@@ -241,11 +237,7 @@ With [Start](https://play.google.com/store/apps/details?id=com.celltick.lockscre
 ![best way to unlock Android fingerprint lock-Start](https://images.wondershare.com/drfone/others/start.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7th – Solo Locker (DIY Locker)
@@ -253,10 +245,6 @@ With [Start](https://play.google.com/store/apps/details?id=com.celltick.lockscre
 [This particular app](https://play.google.com/store/apps/details?id=com.ztapps.lockermaster) is considered as the world's first DIY that can lock your phone using a photo too. It is really smooth in functioning, lite and always ready to put your privacy onto higher level. Password interface is easily customizable and application shortcuts make your smartphone very easy to use. Solo Locker (DIY) Android fingerprint lock must be immediately downloaded by the people who would like to have an app that offers nearly uncountable wallpapers and design settings.
 
 ![best way to unlock Android fingerprint lock-Solo Locker (DIY Locker)](https://images.wondershare.com/drfone/others/solo-locker-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8th – Widget Locker
 
@@ -270,17 +258,21 @@ This real fingerprint lock app for android is known to the users as A Top Androi
 
 ![best way to unlock Android fingerprint lock-M Locker](https://images.wondershare.com/drfone/others/m-locker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10th - Fireflies Lock Screen
 
 With over 300,000 downloads and the rate of 4.3 stars, [Fireflies Lock Screen](https://play.google.com/store/apps/details?id=com.app.free.studio.firefly.locker) more than deserves to be downloaded and installed if you own one of those smartphones that comes with a fingerprint reader. In this app, you can change, resize, command and set almost everything the way you wish. Swipe to jump to a particular app or swipe to remove the notifications. Provides highest level of functionality and you have wide variety of options on locking your device or apps/widgets/folders. The most of comments given to this particular app describe it as "Best of its kind" and this characteristic makes it to be a real fingerprint lock for android devices.
 
 ![best way to unlock Android fingerprint lock-Fireflies Lock Screen](https://images.wondershare.com/drfone/others/fireflies-lock-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The unlock method that was described in the beginning of our content, is the most functional approach to handle a lock screen problem successfully. In Non-Ranking and No-Comparisons form, we have presented you the list of best 10 fingerprint lock apps for Android devices. Each user is different and that is why there are various applications for your gadget. Try them out and find the one that suits you best!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Bypass Android Lock Screen Using Emergency Call On Lava Yuva 2 Pro?
 
@@ -336,6 +328,10 @@ To bypass the Lava lock screen in this method, you ought to be an advanced user 
 - Step 4. Flash the file on your card and restart the phone.
 - Step 5. Now your phone would boot up without lock screen. Don't worry if you had a gesture lock or password. All you need to do is to input a random gesture or password, and it will be unlocked.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 5. Delete the Password File Using ADB
 
 It is yet another option that will work only when you have enabled USB Debugging previously on your device, and your PC is allowed to connect via ADB. If you meet such requirements, it is ideal to use this method to unlock the Lava lock screen.
@@ -344,6 +340,10 @@ It is yet another option that will work only when you have enabled USB Debugging
 - Step 2. Restart your phone, and a secure lock screen must be gone, and you can access your device. Be sure to set a new PIN, pattern, or password before rebooting again.
 
 ![how to unlock a samsung phone without the code-adb command](https://images.wondershare.com/drfone/others/14623546208288.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 6. Factory Reset to Bypass Lava Lock Screen
 
@@ -397,16 +397,20 @@ To avoid forgetting your password or PIN next time, be sure to write the pattern
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-lead-the-charge-with-our-12-best-tycoon-games-ever-played/"><u>[New] Lead the Charge with Our #12 Best Tycoon Games Ever Played</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ideal-mkv-player-apps-windows-pc/"><u>[Updated] 2024 Approved Ideal MKV Player Apps Windows PC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-visual-vault-verifier/"><u>[Updated] In 2024, Visual Vault Verifier</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-moto-g-stylus-5g-2023-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Moto G Stylus 5G (2023) Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-oppo-reno-11f-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Oppo Reno 11F 5G Phone that is Locked?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Teleport Your GPS Location On Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo T2 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-xcover-7-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy XCover 7 Users</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/er-fifa-vids-data-visualized-for-social-media/"><u>Premier FIFA Vids Data Visualized for Social Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-the-sweet-spot-optimal-youtube-video-upload-rates-for-growth/"><u>[New] In 2024, Finding the Sweet Spot Optimal YouTube Video Upload Rates for Growth</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-strategic-shifts-in-social-media-predictions-for-facebooks-future/"><u>[New] Strategic Shifts in Social Media Predictions for Facebook's Future</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unmasking-falsified-follower-fabrications-on-feeds/"><u>[New] Unmasking Falsified Follower Fabrications on Feeds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-motorola-edge-40-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Motorola Edge 40 Phone When You Forget the Password</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-vivo-v27-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo V27 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bridge-your-devices-the-ultimate-tutorial-on-watching-videos-via-vlc-on-apple-tv/"><u>Bridge Your Devices: The Ultimate Tutorial on Watching Videos via VLC on Apple TV</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/captivating-content-conquerors-manual-for-stellar-tiktok-reactions-with-filmora/"><u>Captivating Content Conqueror’s Manual for Stellar TikTok Reactions with Filmora</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-smooth-play-overcoming-in-game-lags-and-fps-reductions-in-cod-black-ops-iv/"><u>Fixes for Smooth Play: Overcoming In-Game Lags & FPS Reductions in COD: Black Ops IV</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-v27-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo V27 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-huawei-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Huawei to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-f14-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy F14 5G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-s24-ultra-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy S24 Ultra Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-haldll-issues-on-various-versions-of-windows/"><u>Solutions for Resolving hal.dll Issues on Various Versions of Windows</u></a></li>
+<li><a href="https://win-popular.techidaily.com/where-did-my-past-yahoo-mail-messages-go-learn-the-recovery-process-here/"><u>Where Did My Past Yahoo Mail Messages Go? Learn the Recovery Process Here</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Compact Computer with Full AMD Ryzen Setup: Foldable Mini Keyboard & Touchpad, Just Needs a Screen"
-date: 2024-08-24T09:34:20.797Z
-updated: 2024-08-25T09:34:20.797Z
+date: 2024-12-10T17:47:33.591Z
+updated: 2024-12-11T16:47:06.415Z
 tags:
   - desktop
 categories:
@@ -29,6 +29,10 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,20 @@ For just $59, musicians now have a new option for a purpose-built musical comput
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-compelling-content-for-spotifys-ad-revenue/"><u>[New] Crafting Compelling Content for Spotify's Ad Revenue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-elevate-your-cinematography-mastering-transitions-in-kinemaster/"><u>[Updated] 2024 Approved Elevate Your Cinematography Mastering Transitions in Kinemaster</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-methodical-decrescendo-techniques-for-logic-pro-mixers/"><u>[Updated] 2024 Approved Methodical Decrescendo Techniques for Logic Pro Mixers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-leveraging-famebit-strategies-for-effective-youtube-sponsors/"><u>[Updated] Leveraging FameBit Strategies for Effective YouTube Sponsors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comment-installer-et-utiliser-parfaitement-le-programme-de-gravure-dvd-winxdvd-votre-methode-facile-a-suivre/"><u>Comment Installer Et Utiliser Parfaitement Le Programme De Gravure DVD WinXDVD : Votre Méthode Facile À Suivre</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-sony-xperia-10-v-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Sony Xperia 10 V to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-a14-4g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy A14 4G Through Google Earth?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27e-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27e Phone without Google Account?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-skillful-shortcuts-quick-background-elimination-tactics/"><u>In 2024, Skillful Shortcuts Quick Background Elimination Tactics</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-x90s-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo X90S</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-y78t-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y78t Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-windows-setup-for-tp-link-dongle/"><u>Quick Guide: Windows Setup for TP Link Dongle</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->

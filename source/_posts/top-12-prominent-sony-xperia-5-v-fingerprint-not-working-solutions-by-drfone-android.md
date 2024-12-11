@@ -1,7 +1,7 @@
 ---
 title: Top 12 Prominent Sony Xperia 5 V Fingerprint Not Working Solutions
-date: 2024-12-04T18:22:50.318Z
-updated: 2024-12-05T17:00:56.631Z
+date: 2024-12-06T16:02:09.555Z
+updated: 2024-12-11T18:52:25.640Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,10 +28,6 @@ Dr.Fone offers a swift solution to remove the Android lock screen in five minute
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
@@ -48,6 +44,10 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 1. FRP bypass is enabled for brands like Samsung, Xiaomi, Redmi, Oppo, [Realme](https://drfone.wondershare.com/unlock/how-to-unlock-realme-phone-without-losing-data.html), and Vivo.
 2. With Dr.Fone, bypassing screen locks can be achieved without data loss.
 3. Fone supports 2000+ Android phones and tablets from over 18 brands for screen unlocking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step-by-Step Guide To Remove Fingerprint Type Lock on Google Pixel Using Dr.Fone
 
@@ -99,6 +99,10 @@ One of the easiest and simplest solutions is to restart your Pixel phone. You ca
 
 ![restart google pixel device](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Outdated Firmware
 
 #### Problem
@@ -114,7 +118,7 @@ The best way to resolve this issue is to update your Pixel device. Having an out
 ![update device to latest version](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Dirty Phone or Sensor
@@ -138,6 +142,10 @@ Gently wipe the fingerprint sensor area using a clean, dry cloth to ensure thoro
 Use compressed air or a soft brush if there's visible debris or particles around the sensor. Be cautious not to apply excessive pressure that might damage the sensor.
 
 ![dirty sensor or phone issue](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Screen Protector: Dirty or Damaged
 
@@ -183,6 +191,10 @@ Refrain from touching oily or greasy surfaces before using the fingerprint senso
 
 ![cleaning finger to use fingerprint](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Covering Screen if Fingerprint on Screen
 
 #### Problem
@@ -201,14 +213,6 @@ While holding the Sony Xperia 5 V device, avoid placing your fingers or palms ov
 
 ![hold phone properly](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Fingerprint Sensor Not Visible
 
 #### Problem
@@ -222,7 +226,7 @@ You must adjust the display settings to ensure the fingerprint sensor is always 
 ![put sensor to always display](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 9\. Low Touch Sensitivity
@@ -239,6 +243,10 @@ Accessories like a screen protector might impact the performance of your Pixel d
 
 ![turn on screen protector mode](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### 2\. Finger Re-Enrollment
 
 Delete existing fingerprints and re-register them. This re-enrollment can sometimes improve sensitivity and help remove the issues. Here is how you can delete and re-enroll your fingerprint:
@@ -248,7 +256,7 @@ Delete existing fingerprints and re-register them. This re-enrollment can someti
 ![navigate to security settings](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-14.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 2.** Tap "Fingerprint Unlock" on the following screen and delete the previously enrolled fingerprints. Then, press "Add fingerprint" and follow the on-screen prompts to complete the process.
@@ -256,7 +264,7 @@ Delete existing fingerprints and re-register them. This re-enrollment can someti
 ![add new fingerprint](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-15.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 10\. Other Hardware Issues
@@ -305,10 +313,6 @@ Proceed with the following steps to execute a factory reset on your Pixel device
 
 ![factory reset your device](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In summary, this article detailed various methods to fix **the Sony Xperia 5 V fingerprint not working**. Diverse approaches were explored, from simple steps like sensor cleaning to advanced solutions like factory resets. However, Dr.Fone stands out among these solutions as a top-tier option. It offers a secure and efficient resolution to the persistent problem of fingerprint failure on the Sony Xperia 5 V  .
 
 ## The Ultimate Guide to Sony Xperia 5 V Pattern Lock Screen: Everything You Need to Know
@@ -337,17 +341,13 @@ Out of all the provided options for screen locks, pattern lock is mostly used du
 
 ![setup android pattern lock screen](https://images.wondershare.com/drfone/article/2017/09/15057380143598.jpg) ![setup android pattern lock screen-provide the same pattern](https://images.wondershare.com/drfone/article/2017/09/15057380317550.jpg) ![setup android pattern lock screen-provide a security pin](https://images.wondershare.com/drfone/article/2017/09/15057380506350.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - 10\. Similarly, you would be required to confirm the pin as well to finish the setup.
 - 11\. That’s it! By completing these steps, a screen lock pattern will be implemented on your device.
 
 Later, you can follow the same drill to change your device’s lock screen pattern as well. Though, you would be needed to provide the existing pattern to access these features. Out of all the lock screen options, you should go with the pattern lock. Not only it is the most accessible option, it also provides fast results with an added security.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: What to do if you forget Android pattern lock?
@@ -366,17 +366,18 @@ Out of all the provided options, it is recommended to use [Dr.Fone - Screen Unlo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-crafting-a-commercial-channel-youtubes-premium-pathway-guide/"><u>[New] 2024 Approved Crafting a Commercial Channel YouTube's Premium Pathway Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-s24plus-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy S24+</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-capturing-and-keeping-your-social-media-moments/"><u>2024 Approved Capturing and Keeping Your Social Media Moments</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Phone with Broken Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-oppo-a59-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Oppo A59 5G?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a14-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A14 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722969326501-latest-sound-card-software-updates-get-them-here/"><u>Latest Sound Card Software Updates - Get Them Here!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/murid-ipa-cara-menyelesaikan-cadangan-icloud-dan-mengembalikan-iphone/"><u>Murid IPA: Cara Menyelesaikan Cadangan ICloud Dan Mengembalikan iPhone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-samsung-galaxy-f15-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Samsung Galaxy F15 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-m34-5g-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-do-i-explore-every-shared-piece-by-friends-on-messages-for-2024/"><u>[New] How Do I Explore Every Shared Piece by Friends on Messages for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-stock-strategies-unveiled-essential-youtube-video-resources/"><u>[New] In 2024, Stock Strategies Unveiled Essential YouTube Video Resources</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-prime-videobg-selections-enhancing-remote-collaboration/"><u>[Updated] In 2024, Prime Videobg Selections Enhancing Remote Collaboration</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-legacy-of-dungeons-vs-new-gameplay-concepts/"><u>2024 Approved Legacy of Dungeons Vs. New Gameplay Concepts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-s23-fe-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-14-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 14 Pro? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-graphics-upgrade-with-free-intel-82579v-driver-software/"><u>Effortless Graphics Upgrade with Free Intel 82579V Driver Software</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-v29e-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo V29e to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-a24-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy A24?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y78t-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo Y78t?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-s23plus-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy S23+ Through Google Earth?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-xcover-6-pro-tactical-edition-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy XCover 6 Pro Tactical Edition Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-m54-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy M54 5G Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Motorola Moto G Stylus (2023) Pattern Lock Screen
-date: 2024-11-30T16:27:17.262Z
-updated: 2024-12-05T17:01:51.553Z
+date: 2024-12-05T17:52:36.461Z
+updated: 2024-12-11T18:24:58.138Z
 tags: 
   - unlock
   - remove screen lock
@@ -42,10 +42,6 @@ One of the easiest and fastest ways to fix the forgot pattern lock issue on a de
 
 ![enter google account](https://images.wondershare.com/drfone/article/2017/09/15059290192675.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5.** After signing in to the interface, you will be asked to provide a new pattern lock for the Motorola Moto G Stylus (2023) device.
 
 ![draw an unlock pattern](https://images.wondershare.com/drfone/article/2017/09/15059290477717.jpg)
@@ -57,10 +53,6 @@ One of the easiest and fastest ways to fix the forgot pattern lock issue on a de
 One of the major drawbacks of the “Forgot pattern” feature is that it doesn’t work on new Android devices. Since most of the Motorola Moto G Stylus (2023) devices out there have been updated, the technique has been outdated. Therefore, you can simply take the assistance of [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) to bypass the forgot pattern lock on your device. Without causing any harm to your device or erasing its data, your device’s password or pattern would be removed.
 
 It is a part of the Dr.Fone toolkit and is compatible with all the leading Android devices out there. It can be used to remove passwords, patterns, pins, and more. It has an easy-to-use interface and provides a simple click-through process to resolve the forgot pattern Android lock on your device. However, this tool merely retains all the data after unlocking Samsung and LG screens. Other Android locked screens can also be unlocked, and the only thing is that it will wipe all the data after unlocking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -89,6 +81,10 @@ Save You from Ending up with a Locked Phone After Too Many Pattern Attempts
 
 ![forgot pattern lock - confirm operation](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5.** Now, in order to fix the forgot pattern Android issue, you need to put your device into the Download Mode. To do this, you need to ensure that your device is switched off. Once it is off, hold the Power, Home, and Volume Down buttons simultaneously. After a while, press the Volume Up button to put your device into Download Mode.
 
 ![boot device in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
@@ -98,7 +94,7 @@ Save You from Ending up with a Locked Phone After Too Many Pattern Attempts
 ![unlock android pattern](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 7.** In the end, you will get a prompt like this on the screen, informing you that the password/pattern on the Motorola Moto G Stylus (2023) device has been removed.
@@ -135,6 +131,10 @@ All of this can be done by following these steps:
 
 This will automatically reset the old pattern on your device to the new password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to bypass forgot Samsung pattern lock using Samsung Find My Mobile
 
 Bypassing a forgotten Samsung pattern lock using the Samsung Find My Mobile service is a method specifically designed for Samsung devices. This method allows you to unlock your Samsung device without losing any data. It's a convenient way to regain access to your device if you've forgotten the pattern lock.
@@ -144,6 +144,10 @@ However, it relies on having previously set up Samsung Find My Mobile and linked
 **Step 1:** Access the Find My Mobile (SmartThings Find) website using either a computer or another mobile device. Sign in using the Samsung account details linked to the locked device.
 
 ![login into samsung find my](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** After successfully logging in, locate the locked Samsung device. Now, click on the "Unlock" feature. Upon choosing this option, a pop-up window will appear. It will prompt you to input your Samsung account password. Once you've entered your password, proceed to unlock the Motorola Moto G Stylus (2023) device by pressing "Next."
 
@@ -158,10 +162,6 @@ If you have locked your device using a third-party app, there exists a simple so
 **Step 2:** In a moment, you'll see the option "Safe Mode" replacing the other "Power Off" menu options. Proceed to boot your device into Safe Mode and uninstall the troublesome application.
 
 ![enable the safe mode](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 6: How to bypass forgot pattern lock using Factory Reset
 
@@ -193,6 +193,10 @@ Today, many mobile phone users present a simple lock pattern that isn't particul
 2. Other Corners: According to research, around 77 percent of users begin their patterns in one of the remaining three corners.
 3. Nodes: It was discovered that many users only utilized five nodes. While a larger number of individuals used 4 nodes.
 4. Letter Patterns: According to a study, around 10% of lock patterns are in the form of an alphabet. Some users just use the initial of their name.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: \[Easiest\] Universal way to Unlock Pattern for Motorola Moto G Stylus (2023)
 
@@ -240,11 +244,7 @@ Remove Android lock screen in 5 minutes
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Other ways to Unlock Pattern for Android
@@ -260,6 +260,10 @@ The first method is ADB, which stands for Android Debug Bridge. With the help of
 **Step 2**: Launch it now and install the packages on your PC.
 
 ![unlock android screen 8](https://images.wondershare.com/drfone/article/2021/12/adb-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: Connect your Android to PC now. Before that, make sure to enable USB Debugging. If you don't know-how, simply head to the "Settings"> “About Phone” and tap on “Build Number” 7 times. This will enable the Developer's Options.
 
@@ -285,15 +289,15 @@ It's one of the most straightforward ways to get past the lock screen. One thing
 
 ![unlock android screen 11](https://images.wondershare.com/drfone/article/2021/12/safe-mode-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: This will restart your device in safe mode.
 
 **Step 4**: This will turn off the third-party lock screen for the time being. Clear the lock screen app's data, uninstall it, and then reboot to exit safe mode.
 
 ![unlock android screen 12](https://images.wondershare.com/drfone/article/2021/12/safe-mode-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 3: Unlock Pattern Lock via Factory Reset
 
@@ -311,6 +315,10 @@ Please note that the Recovery mode method may vary from device to device. So ple
 
 ![unlock android screen 14](https://images.wondershare.com/drfone/article/2021/12/factory-reset-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: The phone will perform the factory reset. In a short while, restart your device and there will be no lock screen.
 
 ### Way 4: Unlock Pattern Lock with Android Device Manager
@@ -325,15 +333,7 @@ After pressing the "Lock" button, a popup will appear, asking for a new password
 
 ![unlock android screen 16](https://images.wondershare.com/drfone/article/2021/12/android-device-manager-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Type the new password once, then confirm it by typing it again. This will change the password in a few minutes and the new password can be used to unlock the Motorola Moto G Stylus (2023) device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 5: Use Forgot Pattern Feature \[Android 4.4 Version and Earlier\]
 
@@ -352,10 +352,6 @@ Enter the primary Gmail account and password you used to set up your Android sma
 ## Conclusion
 
 **Universal unlock patterns allow** you to unlock your phone easily when you think you have forgotten. Well, numerous patterns allow you to unlock the Android. You can choose either of the above to unlock your android phone. If you have failed to use any pattern, you can easily unlock your Android by [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It will let you access yours by unlocking it hassle-free.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Reset Gmail Password on Motorola Moto G Stylus (2023) Devices
 
@@ -417,6 +413,10 @@ Gmail is undoubtedly a marvelous tool to use on Android devices, but have you re
 4. Gmail app provided you with the ability to have conversations online, and whenever a message comes, there will be a sound. In case you are in a vital conference, or you don't want to be disturbed by the noise, you can mute it. All you have to do is to tap into the conversation, choose the three dots icon then click on the Mute option in the menu.
 5. Enhance the speed and the accuracy of your search with the use of certain phrases. Let's take an instance to see what Gmail can do for you in this case. If you want to search for the mails which have been sent by a certain person, typefrom:(name of the person on Gmail) in the searching bar. And in case you would love to look for a private message from that person, please type is:chat:(name of the person on Gmail) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Video on How to Reset Gmail Password on Android Devices
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/KvCMAn5bwx8" id="video-iframe-t"></iframe>
@@ -435,17 +435,20 @@ Gmail is undoubtedly a marvelous tool to use on Android devices, but have you re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-connecting-to-google-meet-laptop-plus-mobile/"><u>[New] Connecting to Google Meet Laptop + Mobile</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-professional-screenshot-and-recorder-win10-edition-for-2024/"><u>[Updated] Professional Screenshot & Recorder, Win10 Edition for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/dav/"><u>DAVファイルの迅速な再生テクニック - 効率的な音楽コンバートガイド</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-galaxy-s23-fe-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Galaxy S23 FE Phone When You Forget the Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-v27e-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo V27e</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/instagram-fame-5-secrets-to-expand-your-follower-base-effortlessly/"><u>Instagram Fame: 5 Secrets to Expand Your Follower Base Effortlessly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-python-comprehensive-guide-to-integrating-gpt-3/"><u>Mastering Python: Comprehensive Guide to Integrating GPT-3</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-issues-with-logitech-gaming-software-not-launching-successfully/"><u>Resolving Issues with Logitech Gaming Software Not Launching Successfully</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/screencast-essentials-from-basics-to-advanced-tactics-for-2024/"><u>Screencast Essentials From Basics to Advanced Tactics for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-xr-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone XR Location | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-s23-fes-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Samsung Galaxy S23 FEs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-chilly-celebrations-beijings-olympic-ice-showcase-2022/"><u>2024 Approved Chilly Celebrations Beijing's Olympic Ice Showcase, 2022</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-motorola-moto-g84-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Motorola Moto G84 5G</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-ways-to-overcome-csgo-no-user-onboard-errors-and-get-back-in-action/"><u>Best Ways to Overcome CSGO No User Onboard Errors and Get Back in Action</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elons-explanation-grok-ai-functionality-relevance-and-associated-costs/"><u>Elon's Explanation: Grok AI Functionality, Relevance & Associated Costs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-y55s-5g-2023-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo Y55s 5G (2023) Phone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-best-practices-for-online-vhs-image-retouching-and-editing/"><u>In 2024, Best Practices for Online VHS Image Retouching and Editing</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-oppo-a38-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Oppo A38 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-v29-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo V29 Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-a24-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy A24 Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-oppo-reno-11-pro-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Oppo Reno 11 Pro 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sky-high-results-the-creme-de-la-liste-of-drone-editors/"><u>Sky-High Results The Crème De La Liste of Drone Editors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tech-jest-crafter/"><u>Tech Jest Crafter</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210232467-9781644114179-three-books-of-occult-philosophy/"><u>Three Books of Occult Philosophy | Free Book</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oppo-reno-11-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Oppo Reno 11 5G Phone</u></a></li>
 </ul></div>
 

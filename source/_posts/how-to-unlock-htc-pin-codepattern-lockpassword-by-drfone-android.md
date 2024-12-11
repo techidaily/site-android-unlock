@@ -1,7 +1,7 @@
 ---
 title: How to Unlock HTC PIN Code/Pattern Lock/Password
-date: 2024-11-28T17:30:43.286Z
-updated: 2024-12-05T18:43:29.277Z
+date: 2024-12-05T16:56:18.036Z
+updated: 2024-12-11T16:44:27.569Z
 tags: 
   - unlock
   - remove screen lock
@@ -24,10 +24,6 @@ If you have a HTC U23 Pro  phone and have forgotten the screen unlock PIN code, 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Unlock HTC U23 Pro  With Google Find My HTC U23 Pro?
 
 A way to unlock the HTC U23 Pro  phone is via Google Find My Device feature. While this method can help unlock your phone, it erases all content from it.
@@ -43,6 +39,10 @@ For this method, you need a PC and your Google account details. Here are the ste
 **Step 3:** It will show you 3 options: Play Sound, Secure Device, and Erase Device.
 
 ![find my device](https://images.wondershare.com/drfone/article/2022/05/google-find-my-device.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And then select “**Erase Device.**”
 
@@ -67,7 +67,7 @@ Dr.Fone - Screen Unlock is a screen unlock tool that can unlock your Android pho
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
@@ -103,10 +103,6 @@ Your phone is now unlocked, and you can access it without entering a PIN, passwo
 
 Now, if you don’t remember your Google account details and don’t have access to a PC to use a screen unlock tool, you can unlock Android phone using the conventional way.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Unlock HTC U23 Pro  with Google Account?
 
 Almost all Android smartphones, including HTC U23 Pro , require you to enter your Google account details when setting up your phone for the first time. This includes the email, password, and security question. These details come in handy later on in situations where your phone is lost or stolen or if you’re switching to another phone. However, they can also help with basic issues like unlocking your phone in case you forget your HTC U23 Pro  screen unlock PIN, pattern, or password.
@@ -141,6 +137,10 @@ For the latter, here are the steps:
 - **Step 3:** Click on “Unlock” after which you will be asked if you want to set a new PIN or pattern. Select “Yes.”
 - **Step 4:** Your HTC U23 Pro  phone will be unlocked, and you can set a new PIN or pattern for your screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Unlock HTC U23 Pro  by Hard Reset?
 
 Hard resetting your smartphone usually solves everything! Hence, it can also help you unlock your HTC U23 Pro  phone; however, using this method will erase all the data on your phone. So, if you still want to unlock HTC U23 Pro  phone using this method, only do so if you have backed up your device and have no other way to unlock your phone. This includes forgetting your Google account details or not having access to a PC to download and use Dr Fone - Screen Unlock (Android).
@@ -153,6 +153,10 @@ Here are the steps for it:
 - **Step 4:** Select “Yes” when asked for confirmation.
 
 Your HTC U23 Pro  phone will be hard reset, and all the locks will be removed. When you turn it on again, you will have to set it up like a new phone using your Google account details.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Unlock HTC U23 Pro  with HTC  Companion?
 
@@ -279,10 +283,6 @@ Unlocking your phone’s OEM opens up a world of possibilities. It allows you to
 
 ![android custom roms](https://images.wondershare.com/drfone/article/2024/01/what-is-oem-unlock-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Root Your Device
 
 Rooting is akin to having the master key to your device’s software. It allows you to gain superuser access, enabling modifications and access to system files that were previously restricted. With rooting, you can:
@@ -290,6 +290,10 @@ Rooting is akin to having the master key to your device’s software. It allows 
 - Remove pre-installed apps or bloatware.
 - Customize system settings and UI elements.
 - Enhance performance or battery life through underclocking or overclocking the CPU.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Flash a Custom ROM
 
@@ -328,6 +332,10 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 **4,008,671** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Perform Screen Unlock With Dr.Fone
 
 The process is straightforward. It involves connecting your device to a computer and running the Dr.Fone software. Then, you’ll follow simple on-screen instructions. Learn how to do those below:
@@ -348,6 +356,10 @@ The process is straightforward. It involves connecting your device to a computer
 
 ![device selection screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Click **Remove without Data Loss**.
 
 ![screen unlock options](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
@@ -360,21 +372,9 @@ The process is straightforward. It involves connecting your device to a computer
 
 ![download mode instructions](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 8:** Once complete, click **Done**. If your device still isn’t accessible, click **Try again**.
 
 ![screen unlock success](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -401,7 +401,7 @@ As one of the initial measures, backup the HTC U23 Pro device completely as boot
 ![unlock bootloader htc](https://images.wondershare.com/drfone/article/2016/12/14822577889251.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Go to htcdev.com/bootloader. Ensure that you are registered with HTC and once the sign up is done, log in to HTC dev.
@@ -409,7 +409,7 @@ Step 2: Go to htcdev.com/bootloader. Ensure that you are registered with HTC and
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822578154999.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now, ensure that HTC Sync Manager is installed on the PC.
@@ -424,13 +424,13 @@ Step 4: Now, you will be presented with four steps to put the HTC U23 Pro device
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822589729198.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: Use the volume keys of the HTC U23 Pro device to select Fastboot option along with pressing power button to confirm, after the HTC U23 Pro device is in bootloader mode. Now, connect the HTC U23 Pro device to the computer using a USB cable.
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822588941681.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 6: Go to Fastboot folder on the PC and holding down the shift key, click on any empty space followed by a click on “Open command window here”.
 
@@ -464,21 +464,18 @@ Use volume keys to select and power button to confirm. Once this is done, the HT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-galaxy-s23plus-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Samsung Galaxy S23+</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/essential-techniques-for-saving-facebook-messenger-calls-for-2024/"><u>Essential Techniques for Saving Facebook Messenger Calls for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/exploring-advanced-screen-recording-software-for-2024/"><u>Exploring Advanced Screen Recording Software for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-major-social-channels-facebook-twitter-instagram-youtube-unveiled/"><u>Exploring Major Social Channels: Facebook, Twitter, Instagram, YouTube Unveiled</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-lava-yuva-2-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Lava Yuva 2? Try These Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-v27e-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo V27e</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-brisk-windows-content-reconnaissance/"><u>In 2024, Brisk Windows Content Reconnaissance</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-y36-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo Y36 to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-7-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 7 Bootloader Easily</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17t-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17t Phone without PIN</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/is-google-password-manager-safe-what-you-need-to-consider-before-using-it/"><u>Is Google Password Manager Safe? What You Need to Consider Before Using It</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/pro-level-editing-10-must-have-applications-for-insta-videos-for-2024/"><u>Pro-Level Editing 10 Must-Have Applications for Insta Videos for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/cket-to-the-top-on-youtube-secrets-of-effective-seo-tactics-1-11-for-2024/"><u>Skyrocket to the Top on YouTube Secrets of Effective SEO Tactics (1-11) for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-seagate-backup-manager-setup-for-windows-10-enthusiasts/"><u>Step-by-Step Seagate Backup Manager Setup for Windows 10 Enthusiasts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-find-n3-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Find N3 Device</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-elevate-sound-recording-on-windows-the-ultimate-guide/"><u>[Updated] Elevate Sound Recording on Windows The Ultimate Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-android-snapshot-wonders-ranking-the-best-8-for-free-screen-capture/"><u>[Updated] In 2024, Android Snapshot Wonders - Ranking the Best 8 for Free Screen Capture</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-win-at-watching-basketball-top-15-ways-to-stream-nba-games/"><u>[Updated] Win at Watching Basketball Top 15 Ways to Stream NBA Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-acoustic-data-recording-sounds-and-speech/"><u>2024 Approved Acoustic Data Recording Sounds & Speech</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free-for-2024/"><u>From Buffer to Broadcast Learn How to Convert Your YouTube Viewing Into a Screenshot for Free for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-meizu-21-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Meizu 21 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-lava-yuva-2-pro-phone-by-drfone-android/"><u>How to Reset a Locked Lava Yuva 2 Pro Phone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-a15-4g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy A15 4G phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-beats-and-moves-creating-music-infused-instagram-content/"><u>In 2024, Beats & Moves Creating Music-Infused Instagram Content</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-vivo-y27-4g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo Y27 4G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-s17t-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo S17t</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/samsung-smart-tvdvd/"><u>Samsung Smart TVのDVD再生ガイド：最新機種対応方法</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-a14-4g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy A14 4G? Tips, Tricks and Helpful Advice</u></a></li>
 </ul></div>
 

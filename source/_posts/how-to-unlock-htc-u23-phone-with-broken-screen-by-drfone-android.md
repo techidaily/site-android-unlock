@@ -1,7 +1,7 @@
 ---
 title: How to Unlock HTC U23 Phone with Broken Screen
-date: 2024-11-22T16:39:23.007Z
-updated: 2024-11-25T16:07:36.057Z
+date: 2024-12-16T19:05:54.877Z
+updated: 2024-12-17T16:50:01.390Z
 tags: 
   - unlock
   - remove screen lock
@@ -86,11 +86,19 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933993021.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Select your device from the menu on the left-hand side of the screen.
 
 **Step 3:** You should see the option “Unlock my screen” on the sidebar. Click on it and you will get instructions on how to access your device.
 
 ![unlock android using samsung account](https://images.wondershare.com/drfone/others/14531934188479.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -118,10 +126,6 @@ Today, many mobile phone users present a simple lock pattern that isn't particul
 If you want the easiest method to unlock an Android phone, then [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is an amazing choice. It is a tool that allows you to unlock your phone without much hassle. You can use it for **universal pattern lock for MI**, or other phones.
 
 If you need to unlock a pin, pattern, password, fingerprint, or any other type of lock on an Android smartphone, Dr.Fone - Screen Unlock is the tool to use. It is a highly useful and sophisticated tool that allows you to bypass your device's lock screen without harming it or erasing its contents (if your phone is not a Samsung or LG, the data will be erased after unlocking the screen).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -151,6 +155,10 @@ Remove Android lock screen in 5 minutes
 
 ![unlock android screen 4](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**: Relax while downloading the recovery software and completing the necessary steps to unlock your handset.
 
 **Step 6**: Click on "Remove Now" button and the unlocking process will begin.
@@ -160,10 +168,6 @@ Remove Android lock screen in 5 minutes
 ![unlock android screen 7](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Other ways to Unlock Pattern for Android
 
@@ -182,10 +186,6 @@ The first method is ADB, which stands for Android Debug Bridge. With the help of
 **Step 3**: Connect your Android to PC now. Before that, make sure to enable USB Debugging. If you don't know-how, simply head to the "Settings"> “About Phone” and tap on “Build Number” 7 times. This will enable the Developer's Options.
 
 ![unlock android screen 9](https://images.wondershare.com/drfone/article/2021/12/adb-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4**: Now go to the Developer Options menu and turn on the USB Debugging.
 
@@ -214,7 +214,7 @@ It's one of the most straightforward ways to get past the lock screen. One thing
 ![unlock android screen 12](https://images.wondershare.com/drfone/article/2021/12/safe-mode-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 3: Unlock Pattern Lock via Factory Reset
@@ -233,10 +233,6 @@ Please note that the Recovery mode method may vary from device to device. So ple
 
 ![unlock android screen 14](https://images.wondershare.com/drfone/article/2021/12/factory-reset-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4**: The phone will perform the factory reset. In a short while, restart your device and there will be no lock screen.
 
 ### Way 4: Unlock Pattern Lock with Android Device Manager
@@ -245,10 +241,6 @@ Android Device Manager unlocking is the second-best service for bypassing the An
 
 ![unlock android screen 15](https://images.wondershare.com/drfone/article/2021/12/android-device-manager-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There are a few things to keep in mind as you use this service to get around the lock screen. If the Android device is compatible, the Android Device Manager will connect it after a few tries. After it has been connected to the HTC U23 device, we can begin by pressing the "Lock" button.
 
 After pressing the "Lock" button, a popup will appear, asking for a new password to replace the forgotten pin, pattern, or password.
@@ -256,6 +248,10 @@ After pressing the "Lock" button, a popup will appear, asking for a new password
 ![unlock android screen 16](https://images.wondershare.com/drfone/article/2021/12/android-device-manager-2.jpg)
 
 Type the new password once, then confirm it by typing it again. This will change the password in a few minutes and the new password can be used to unlock the HTC U23 device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 5: Use Forgot Pattern Feature \[Android 4.4 Version and Earlier\]
 
@@ -271,12 +267,20 @@ Enter the primary Gmail account and password you used to set up your Android sma
 
 ![aunlock android screen 18](https://images.wondershare.com/drfone/article/2021/12/forgot-pattern-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 **Universal unlock patterns allow** you to unlock your phone easily when you think you have forgotten. Well, numerous patterns allow you to unlock the Android. You can choose either of the above to unlock your android phone. If you have failed to use any pattern, you can easily unlock your Android by [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It will let you access yours by unlocking it hassle-free.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Remove Forgotten PIN Of Your HTC U23
@@ -288,6 +292,10 @@ We can use various valuable techniques to remove the Android phone password. Acc
 Read the information below, but first, let's talk about Android phone passwords and how they operate before moving on to the ways.
 
 ![forgot pin](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Importance of the Android Lock System
 
@@ -317,7 +325,7 @@ As you are likely aware, every Android device is connected to a Google account. 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Recovery Mode
@@ -327,10 +335,6 @@ Users of Android smartphones and tablets can troubleshoot various issues with th
 However, users can also use it to reset the android password if it is forgotten. The instructions for resetting android devices through recovery mode differ for every android device.
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Dr.Fone - Screen Unlock
 
@@ -368,10 +372,6 @@ Congratulations! Now you can access your phone again, and there're no obstacles 
 
 ![access your phone again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 1. Will Dr.Fone - Screen Unlock Do Harm To My HTC U23?
@@ -400,18 +400,24 @@ Any methods mentioned above can work to overcome the obstacle of unlocking the s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-essential-thumbnail-strategies-for-amplifying-viewership-on-youtube/"><u>[New] 2024 Approved Essential Thumbnail Strategies for Amplifying Viewership on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-get-rid-of-youtube-ads-with-ease-on-chrome-firefox-ios-android/"><u>[Updated] 2024 Approved Get Rid of YouTube Ads with Ease on Chrome, Firefox, iOS, Android</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-crafting-youtube-video-trailers-with-filmoras-guide/"><u>[Updated] Crafting YouTube Video Trailers with Filmora's Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-s23-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy S23</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ais-knowledge-highway-traversing-through-transfer-learning-techniques/"><u>AI's Knowledge Highway: Traversing Through Transfer Learning Techniques</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-m34-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Samsung Galaxy M34 5G? Try These Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-a15-4g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy A15 4G Phone Screen?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-vivo-y27-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Vivo Y27 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-m34-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy M34 5G Easily?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-x90s-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo X90S Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/"><u>In 2024, Marvelous Monitors Top 10 MacBooks with 4K Resolution</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-best-smartphone-friendly-vr-headgear/"><u>In 2024, Unveiling the Best Smartphone-Friendly VR Headgear</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/form-your-youtube-channel-expert-tips-for-adding-chapter-sections-for-2024/"><u>Transform Your YouTube Channel Expert Tips for Adding Chapter Sections for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-elite-selection-free-video-streamers-that-work-onlinedesktop-for-2024/"><u>[New] Elite Selection Free Video Streamers That Work Online/Desktop for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ediamasher-suite-for-2024/"><u>[New] MediaMasher Suite for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-speaker-recorder-evaluation-tips/"><u>[Updated] 2024 Approved Speaker Recorder Evaluation Tips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-truth-in-frames-how-to-validate-yourselfies-on-instagram/"><u>[Updated] 2024 Approved Truth in Frames How to Validate Yourselfies on Instagram</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-eliminate-quiet-vids-tweet-audio-revival/"><u>[Updated] In 2024, Eliminate Quiet Vids Tweet Audio Revival</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-15-pro-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 15 Pro Max to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/behind-the-calm-of-apples-communication-the-reason-for-missing-excitement-symbols-analysis/"><u>Behind the Calm of Apple's Communication: The Reason for Missing Excitement Symbols Analysis</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-google-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Google FRP Locks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-bootloader-easily-by-drfone-android/"><u>How to Unlock Lava Blaze 2 Bootloader Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g84-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Motorola Moto G84 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-huawei-nova-y91-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Huawei Nova Y91 Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-lenovo-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Lenovo to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-motorola-moto-g13-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Motorola Moto G13 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-gionees-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Gionees Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://blog-min.techidaily.com/les-meilleurs-services-dedition-video-jeux-en-202/"><u>Les Meilleurs Services D'Édition Vidéo Jeux En 202</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-meizu-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Meizu</u></a></li>
+<li><a href="https://app-tips.techidaily.com/security-champions-earn-big-bugcrowd-raises-bounty-ceiling-to-1m-what-zdnet-reports-on-cybersecurity-incentives/"><u>Security Champions Earn Big: Bugcrowd Raises Bounty Ceiling to $1M – What ZDNET Reports on Cybersecurity Incentives</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-motorola-edge-40-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Motorola Edge 40 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-motorola-razr-40-ultra-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Motorola Razr 40 Ultra Phone With/Without IMEI Number</u></a></li>
 </ul></div>
 

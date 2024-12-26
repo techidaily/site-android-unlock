@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove Forgotten PIN Of Your Asus ROG Phone 8
-date: 2024-12-13T18:31:17.290Z
-updated: 2024-12-17T16:21:03.547Z
+date: 2024-12-19T16:03:12.310Z
+updated: 2024-12-26T16:46:18.234Z
 tags: 
   - unlock
   - remove screen lock
@@ -39,7 +39,7 @@ This is an important issue that needs to be resolved right away. Therefore, some
 ![how to find lock system](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Methods to Recover Forgotten Password or PIN
@@ -49,7 +49,7 @@ This is an important issue that needs to be resolved right away. Therefore, some
 If you have added a trusted area or device in Google Smart Lock, you can go to that trusted area and reset your password. Alternatively, you can also use trusted devices to unlock your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Google Find My Device
@@ -62,6 +62,10 @@ As you are likely aware, every Android device is connected to a Google account. 
 4. Once more, select "Erase." This will reset the Asus ROG Phone 8 device and get rid of the forgot pattern lock.
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Recovery Mode
 
@@ -80,10 +84,6 @@ On most Android handsets, it is wise to give it a try on Dr.Fone to unlock the s
 Please select "Unlock Android Screen" to ensure you have the correct unlock process.
 
 ![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2. Select device model**
 
@@ -107,6 +107,10 @@ On the page Recovery Mode, it's the most important step to unlock your device. P
 
 ![click the right buttons](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Congratulations! Now you can access your phone again, and there're no obstacles when you do anything on your phone.
 
 ![access your phone again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
@@ -125,10 +129,6 @@ Answer: [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone
 
 Any methods mentioned above can work to overcome the obstacle of unlocking the screen with your Android handset. The best thing about all methods we said is that you just need some easy ways to complete the tasks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lock Your Asus ROG Phone 8 Phone in Style: The Top 5 Gesture Lock Screen Apps
 
 Ever wondered, if there was an easier and more interesting way to unlock and open your devices and apps without boring PINs/Passwords that you tend to forget? Worry not, gestures are here! Imagine the joy when you can unlock your phone by just waving your hand over it, or instead of getting access through confusing patterns or lengthy PINs, you can just get in by drawing an alphabet! So let’s go through some gesture lock screen apps for Android phones.
@@ -146,13 +146,13 @@ Gestures have become an iconic piece of the entire mobile operating system and e
 
 ![guesture lock screen app](https://images.wondershare.com/drfone/article/2017/10/15074553821605.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 These gestures gave Android developers an idea of creating apps, to make use of new gestures for not only in-phone functionality but also for the most basic smartphone function of locking and unlocking.
 
 Why do we need these gesture apps? –Would you not want to control your phone’s notification bar by just waving your hand over the screen, when it’s not reachable? These apps are not only fun but also useful and efficient. So, now let us discuss 5 Android gesture lock screen apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1) Gesture Lock Screen
 
@@ -188,10 +188,6 @@ Another app that uses gesture to lock/unlock the screen is the Gesture Magic app
 
 ![guesture magic](https://images.wondershare.com/drfone/article/2017/10/15074554938841.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The app already suggests you with predetermined gestures to unlock the screen and open the specific apps. How convenient!
 
 Features – Don’t we all love apps that do not just stick to their main purpose but also come with extra features? This app allows you to launch apps, make calls, send text messages, and quickly access all applications with ease, everything with the help of gestures!  This app needs to use the Asus ROG Phone 8 device Administrator permission in order to work.
@@ -205,10 +201,6 @@ Download this app from here - <https://play.google.com/store/apps/details?id=com
 Developed by Prank App, Gesture Lock Screen is a wonderful app that allows to securing your Android phone with letters, signatures or a pull-down gesture. This is an intelligent gesture screen-lock app that detects and adjusts to the letters that are created every time and stored as lock screen passwords. You can be creative with this app as well; hearts, circles, triangles, squares, make any shape, letter, number and save it as the gesture lock.
 
 ![gesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074555834839.jpg)![gesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074555845748.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Gesture Lock Screen is designed to allow you to launch any personal application through your personalized gesture, so you do not have to worry about anyone meddling with the contents of your phone. The app comes with the following range of features:
 
@@ -230,10 +222,6 @@ Developed by Imaxinacion, Gestos-Gestures is an amazing gesture screen-lock app,
 
 ![Gestos](https://images.wondershare.com/drfone/article/2017/10/15074556205078.jpg)![Gestos](https://images.wondershare.com/drfone/article/2017/10/15074556219960.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Gestos allows you to – call contacts, enable or disable settings like Wi-Fi, Bluetooth, GPS, etc, run various system options, lock or unlock your device, and access websites as well.
 
 Talking about configuration, Gestos is a well-designed app that can be activated by just a double-touch on your home screen. Its sensitivity can be adjusted according to what you prefer, a permanent notification toggle floating button is available as well!
@@ -244,11 +232,11 @@ Download it from here - <https://play.google.com/store/apps/details?id=com.imaxi
 
 As Android reaches new heights every year, gestures are getting more and more enhanced, as their functionalities increase as well. Gestures have always been an exciting feature in Android phones and a convenient one as well. They are practical and fun to use, and the apps mentioned above are some of the best gesture-lock apps amongst the vast number of such apps in the Google Play Store. If you want to make your tasks easier by using gestures on your phone, feel free to try some of the mentioned apps here.
 
-## Top 10 Password Cracking Tools For Asus ROG Phone 8
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Top 10 Password Cracking Tools For Asus ROG Phone 8
 
 ## **What is password cracking?**
 
@@ -307,7 +295,7 @@ Cain & Abel can use techniques of Dictionary Attack, Brute-Force and Cryptanalys
 [http://www.oxid.it](http://www.oxid.it/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. John the Ripper : Multi-platform, Powerful, Flexible password cracking tool
@@ -375,6 +363,10 @@ Large-scale-time-memory-trade-off is a process of computing all hashes and plain
 Password cracking using rainbow table is faster than the normal brute force attack method. It’s available for Linux and Windows operating system.
 
 ![rainbowcrack](https://images.wondershare.com/images/utilities/rainbowcrack_1236.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features of Rainbow Crack**
 
@@ -447,6 +439,10 @@ It normally gains access to these hashes from directories, network servers, or d
 
 [www.l0phtcrack.com/](http://www.l0phtcrack.com/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Pwdump : Password recovery tool for Windows
 
 Pwdump is actually different Windows programs that are used to provide [LM and NTML](http://en.wikipedia.org/wiki/LM_hash) hashes of system user accounts.
@@ -469,6 +465,10 @@ Recently software is updated to new version called Fgdump as Pwdump not work fin
 **Site for Download:**
 
 [http://www.darknet.org.uk/](http://www.darknet.org.uk/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Medusa : Speedy network password cracking tool
 
@@ -505,21 +505,19 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-enhancing-fb-video-content-with-streamlined-captioning-tactics/"><u>[New] In 2024, Enhancing FB Video Content with Streamlined Captioning Tactics</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-sonic-boom-new-technology-reviewed/"><u>[Updated] 2024 Approved Sonic Boom New Technology Reviewed</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-discovering-your-lately-watched-fb-movies-made-simple-for-2024/"><u>[Updated] Discovering Your Lately Watched Fb Movies Made Simple for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-nurturing-discussions-strategies-to-connect-with-followers/"><u>[Updated] In 2024, Nurturing Discussions Strategies to Connect With Followers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-download-compatible-toshiba-bluetooth-devices-drivers-now/"><u>Find & Download Compatible Toshiba Bluetooth Devices' Drivers Now</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-huawei-nova-y91-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Huawei Nova Y91?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-htc-u23-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock HTC U23 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Pro Bootloader Easily</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-lenovo-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Lenovo Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-meizu-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Meizu Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/lock-your-motorola-moto-g23-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Motorola Moto G23 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/palette-perfection-in-photoshop-top-3-efficient-techniques-for-2024/"><u>Palette Perfection in Photoshop Top 3 Efficient Techniques for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pixel-buds-pro-touch-configurations-explained-tailor-your-audio-experience-cnet/"><u>Pixel Buds Pro Touch Configurations Explained: Tailor Your Audio Experience – CNET</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stop-silent-notifications-discover-11-tricks-for-non-responsive-iphone-calls/"><u>Stop Silent Notifications! Discover 11 Tricks for Non-Responsive iPhone Calls</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-6-digital-backdrop-eradicators-boosting-image-clarity/"><u>Ultimate 6 Digital Backdrop Eradicators Boosting Image Clarity</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-moto-g-5g-2023-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Moto G 5G (2023) Device</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-avoid-ad-dollars-boost-your-view-count-for-free/"><u>[Updated] Avoid Ad Dollars – Boost Your View Count for Free</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-recorders-unite-compete-for-2024/"><u>[Updated] Recorders Unite, Compete for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-chromes-picture-in-picture-capabilities-explained/"><u>2024 Approved Chrome's Picture-In-Picture Capabilities Explained</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-reno-11-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Oppo Reno 11 5G?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-htc-u23-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on HTC U23 to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lenovo-thinkphone-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lenovo ThinkPhone Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-t2-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo T2 5G Bootloader Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-s23-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy S23 Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-what-are-your-rights-exploring-legalities-of-video-sharing-on-fb/"><u>In 2024, What Are Your Rights? Exploring Legalities of Video Sharing on FB</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-fixing-a-non-responsive-iphone-proximity-detector/"><u>Solutions for Fixing a Non-Responsive iPhone Proximity Detector</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-poco-f5-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Poco F5 5G password or pattern lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-s24-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy S24 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

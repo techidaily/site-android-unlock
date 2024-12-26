@@ -1,7 +1,7 @@
 ---
 title: Top 10 Password Cracking Tools For Motorola Moto G 5G (2023)
-date: 2024-12-16T00:08:42.271Z
-updated: 2024-12-17T17:34:07.111Z
+date: 2024-12-23T16:12:36.859Z
+updated: 2024-12-26T16:34:57.646Z
 tags: 
   - unlock
   - remove screen lock
@@ -103,10 +103,6 @@ Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/D
 
 ![aircrack](https://images.wondershare.com/images/utilities/aircrack.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of Aircrack**
 
 - Supportive with both Brute force and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack) cracking techniques
@@ -116,10 +112,6 @@ Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/D
 **Site for Download:**
 
 [http://www.aircrack-ng.org/](http://www.aircrack-ng.org/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. THC Hydra : Multiple services supportive, Network authentication cracker
 
@@ -140,6 +132,10 @@ It can be used to crack passwords of different protocols including HTTPS, HTTP, 
 
 [https://www.thc.org/thc-hydra/](https://www.thc.org/thc-hydra/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. RainbowCrack : New Innovation in Password Hash Cracker
 
 RainbowCrack software uses rainbow tables to crack hashes, in other words we can say it uses process of a large-scale time-memory trade for effective and fast password cracking.
@@ -159,6 +155,10 @@ Password cracking using rainbow table is faster than the normal brute force atta
 Site for Download:
 
 [http://project-rainbowcrack.com/](http://project-rainbowcrack.com/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. OphCrack : Tool for Windows password cracking
 
@@ -189,10 +189,6 @@ It is only available for windows operation systems. Tool has a limitation that i
 
 ![brutus](https://images.wondershare.com/images/utilities/brutus_38.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of Brutus**
 
 - Available for Windows
@@ -205,6 +201,10 @@ It is only available for windows operation systems. Tool has a limitation that i
 **Site for Download:**
 
 [http://www.hoobie.net/brutus/](http://www.hoobie.net/brutus/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. L0phtCrack : Smart tool for Windows password recovery
 
@@ -224,6 +224,10 @@ It normally gains access to these hashes from directories, network servers, or d
 **Site for Download:**
 
 [www.l0phtcrack.com/](http://www.l0phtcrack.com/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Pwdump : Password recovery tool for Windows
 
@@ -312,19 +316,11 @@ The Best Tool to unlock Android Phone Screen!
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2. Select Unlock Android Screen**
 
 This is the page to start your unlock process with two options here, please select" Unlock Android Screen" to unlock your device screen.
 
 ![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3. Select device model**
 
@@ -344,17 +340,21 @@ Get into Recovery Mode on Samsung phone with Bixby:
 
 ![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Get into Recovery Mode on Samsung phone without Bixby:
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Get into Recovery Mode in Samsung phone with Home Button:
 
 ![home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5. Instructions to Wipe Cache Partition**
 
@@ -365,10 +365,6 @@ During the steps in Recovery Mode, please don't pick the wrong choices!
 You're now able to access your Android device again when the whole process is over. And you no longer need a password or pattern!
 
 ![finish the process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Solutions to Unlock Android Screen
 
@@ -488,6 +484,10 @@ These tools function similarly to a bridge. To begin, connect the Android device
 
 **_**_Note:_**_** **Download the APK directly from your phone to install it when FRP locks the Motorola Moto G 5G (2023) device. APK can also be installed using OTG or ADB.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Phone Brands Supported by Techeligible
 
 Techeligible extends its support across multiple phone brands, making it versatile for various users. For further information, you may also search for your device’s model number in their website’s search box.
@@ -606,10 +606,6 @@ PC FRP utilities assist you in connecting devices to the PC. These tools are sim
 
 ![techeligible pc frp tools](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-06.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step-by-Step Guide
 
 Now check out below the steps on how to use the **Techeligible FRP Bypass** feature:
@@ -618,6 +614,10 @@ Now check out below the steps on how to use the **Techeligible FRP Bypass** feat
 - **Step 2:** On Techeligible, choose your gadget model from the category page. You can also use the in-site search at the top of the sidebar to rapidly locate solutions for certain models.
 
 ![techeligible select frp brand](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** A full guide will appear on the screen. Download the tools required for your specific phone model according to the guide. Then, follow the instructions for removing your specific device’s FRP lock.
 
@@ -648,17 +648,13 @@ Dr.Fone - Screen Unlock simplifies the daunting task of unlocking an Android dev
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 2:** Select **Android** to unlock your Android screen lock when prompted. You’ll see two options on the next screen. Select **Unlock Android Screen**.
 - **Step 3:** You will then be led to a new screen where you may select the brand of your mobile device.
 
 ![drfone screen unlock select device brand](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4:** From the two options displayed on the screen, select **Remove without Data Loss**.
 
@@ -667,6 +663,10 @@ Dr.Fone - Screen Unlock simplifies the daunting task of unlocking an Android dev
 - **Step 5:** To unlock the Android screen, you must first select the **Brand**, **Device Name**, and **Device Model**. To advance, click the associated checkbox to enable the option that states **I agree with the warning and am ready to proceed**. Click **Next** to proceed with unlocking the screen.
 
 ![drfone choose device model](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** When prompted to confirm the process, enter **000000**. To start the software, input the code and then click **Confirm**.
 - **Step 7:** Once you’ve identified your Android device’s model, Dr.Fone will guide you through entering **Download Mode**. Following the on-screen directions will take you to the next steps, where you may complete the operation. The following screens show the status of the screen unlocking procedure, which includes downloading the platform’s required drivers and configuration files.
@@ -705,22 +705,22 @@ Its user-friendly approach and efficiency make it an ideal alternative to **Tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-encyclopedia-of-diverse-video-capture-units/"><u>[New] 2024 Approved Encyclopedia of Diverse Video Capture Units</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-simplify-tech-sharing-effective-use-of-the-ezvide-toolkit/"><u>[Updated] 2024 Approved Simplify Tech Sharing Effective Use of the Ezvide Toolkit</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-uncomplicated-techniques-for-keeping-a-transcript-of-google-voice-calls/"><u>[Updated] In 2024, Uncomplicated Techniques for Keeping a Transcript of Google Voice Calls</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mastering-the-art-of-powerpoint-presentation-video-documentation/"><u>2024 Approved Mastering the Art of PowerPoint Presentation Video Documentation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/breaking-down-live-mastering-four-fundamental-recording-techniques-for-2024/"><u>Breaking Down Live Mastering Four Fundamental Recording Techniques for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-eliminating-flicker-glitches-in-battle-royale-game/"><u>Effective Solutions for Eliminating Flicker Glitches in Battle Royale Game</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-pro-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Lava Blaze Pro 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-meizu-phone-without-password-by-drfone-android/"><u>How To Unlock Meizu Phone Without Password?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-e13-phone-without-google-account-by-drfone-android/"><u>How to Unlock Motorola Moto E13 Phone without Google Account?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-huawei-p60-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Huawei P60 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor 90? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-motorola-moto-e13-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Motorola Moto E13 to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-motorola-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Motorola</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-motorola-moto-e13-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Motorola Moto E13 Phone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-lens-distortion-a-practical-guide-for-gopro-editors/"><u>In 2024, Navigating Lens Distortion A Practical Guide for GoPro Editors</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/prime-screen-grabs-for-film-enthusiasts-for-2024/"><u>Prime Screen Grabs for Film Enthusiasts for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-motorola-razr-40-ultra-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Motorola Razr 40 Ultra Phone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-secure-your-remote-sessions-with-these-tools/"><u>[New] In 2024, Secure Your Remote Sessions with These Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-best-zero-cost-image-editors-online/"><u>[Updated] Ultimate Guide Best Zero-Cost Image Editors Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/diy-xbox-360-slim-dismantling-for-enthusiasts/"><u>DIY Xbox 360 Slim Dismantling for Enthusiasts</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/effective-strategies-to-shield-your-pc-from-performance-draining-viruses-and-malware-by-yl-computing/"><u>Effective Strategies to Shield Your PC From Performance-Draining Viruses & Malware by YL Computing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-listening-transcription-tool-unveiled-for-2024/"><u>Free Listening Transcription Tool Unveiled for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-huawei-nova-y91-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Huawei Nova Y91</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-y78-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo Y78 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-asus-rog-phone-8-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-y36-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo Y36</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-oppo-find-n3-flip-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Oppo Find N3 Flip</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-oppo-reno-11-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo Reno 11 5G Phone Screen?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-oppo-f25-pro-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Oppo F25 Pro 5G Through Google Earth?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-f15-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy F15 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-videography-instruments/"><u>Premier Videography Instruments</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-s23-tactical-edition-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy S23 Tactical Edition Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y100i-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y100i Device</u></a></li>
+<li><a href="https://article-helps.techidaily.com/who-takes-the-prize-for-best-cinematic-recording-in-extreme-sports-in-2024/"><u>Who Takes the Prize for Best Cinematic Recording in Extreme Sports, In 2024</u></a></li>
 </ul></div>
 

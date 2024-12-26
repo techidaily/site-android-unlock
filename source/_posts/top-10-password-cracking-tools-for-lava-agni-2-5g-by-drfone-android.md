@@ -1,7 +1,7 @@
 ---
 title: Top 10 Password Cracking Tools For Lava Agni 2 5G
-date: 2024-12-11T19:07:22.264Z
-updated: 2024-12-17T18:15:46.919Z
+date: 2024-12-21T16:30:24.151Z
+updated: 2024-12-26T16:29:14.209Z
 tags: 
   - unlock
   - remove screen lock
@@ -56,6 +56,10 @@ We can easily access CUDA through libraries, directives and with the help of dif
 
 Given below is the list of Top10 Password cracking tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Cain and Abel : Top password cracking tool for Windows
 
 Cain & Abel is one of the top cracking tool for password cracking and password recovery for Windows OS.
@@ -83,10 +87,6 @@ John the Ripper is a free multi or cross platform password cracking software. It
 It’s primarily used to crack weak UNIX passwords but also available for Linux, Mac, and Windows. We can run this software against different password encryptions including many password hashes normally found in different UNIX versions. These hashes are DES, LM hash of Windows NT/2000/XP/2003, MD5, and AFS.
 
 ![john the ripper00](https://images.wondershare.com/images/utilities/john-the-ripper00.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of John the Ripper**
 
@@ -164,10 +164,6 @@ Ophcrack is completely free to download, Windows based password cracker that use
 
 ![ophcrack00](https://images.wondershare.com/images/utilities/ophcrack00.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of OphCrack**
 
 - Available for Windows but also available for Linux, Mac, Unix, and OS X
@@ -189,10 +185,6 @@ It is only available for windows operation systems. Tool has a limitation that i
 
 ![brutus](https://images.wondershare.com/images/utilities/brutus_38.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of Brutus**
 
 - Available for Windows
@@ -213,6 +205,10 @@ Just like OphCrack tool L0phtCrack is also a Windows passwords recovery tool use
 It normally gains access to these hashes from directories, network servers, or domain controllers. It is capable of doing hash extraction from 32 & 64 bit Windows systems, multiprocessor algorithms, scheduling, and can also perform decoding and monitoring networks. Yet it is still the easiest to use password auditing and recovery software available.
 
 ![phtcrack](https://images.wondershare.com/images/utilities/phtcrack_1233.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features of L0phtCrack**
 
@@ -237,10 +233,6 @@ Recently software is updated to new version called Fgdump as Pwdump not work fin
 
 ![pwdump](https://images.wondershare.com/images/utilities/pwdump.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of Pwdump**
 
 - Available for Windows XP, 2000
@@ -251,10 +243,6 @@ Recently software is updated to new version called Fgdump as Pwdump not work fin
 **Site for Download:**
 
 [http://www.darknet.org.uk/](http://www.darknet.org.uk/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Medusa : Speedy network password cracking tool
 
@@ -320,6 +308,10 @@ To do this, perform the steps below:
 
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Select **Android** on this page.
 
 ![dr.fone screen unlock home](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
@@ -361,6 +353,10 @@ Force resetting or flashing a new ROM can be considered a last resort. They invo
 
 Remember, while these methods can effectively unlock your device, they also come with risks. Always [<u>back up your data regularly</u>](https://drfone.wondershare.com/backup/android-backup-software.html), and use these methods responsibly, considering their potential to erase your data or affect your device’s warranty.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus: How To Perform a SIM Unlock on Lava
 
 [<u>Unlocking the SIM </u>](https://drfone.wondershare.com/sim-unlock/android-sim-unlock-code-generator.html) on your Lava, particularly the Lava Agni 2 5G  , opens up a world of flexibility, especially for those who frequently travel or wish to switch carriers. This process can be accomplished for free through your carrier, provided certain conditions are met. Dive into the steps and considerations for performing a SIM unlock on your Lava.
@@ -399,9 +395,17 @@ This generally involves the following steps:
 
 By following these steps, you can successfully unlock the SIM of your Lava device, ensuring you can enjoy your phone with the carrier of your choice, wherever your travels may take you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Important Considerations
 
 Remember, unlocking the SIM doesn’t absolve you from your carrier contract. You’re still obligated to make timely payments as per your agreement. The primary advantage of unlocking your SIM is the freedom to use your Lava Agni 2 5G with any carrier’s SIM card, offering greater flexibility and control over your mobile experience. Thus, it is encouraged not to do anything illegal to avoid future complications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -410,7 +414,7 @@ This article explored various methods to **unlock Lava Agni 2 5G**,It delved int
 Wondershare Dr.Fone is a reliable tool for those challenging moments when you forget your passcode. It offers a straightforward solution for screen unlocking and ensures you keep your phone functional and handy at all times.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset your Lava Agni 2 5G Lock Screen Password
@@ -422,6 +426,10 @@ The device becomes inaccessible and requires an Android password reset. But ther
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yjlTG2d0gSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 1: Dr.Fone - Screen Unlock (Android): A Direct Way to Unlock the Phone
 
@@ -450,10 +458,6 @@ Open the program. After that, select and click on "Screen Unlock" on the right s
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now get the Android phone connected to the PC and select the Lava Agni 2 5G device model in the list to proceed.
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -468,6 +472,10 @@ You have to put your device into download mode. For that, follow the instruction
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Download the recovery package**
 
 After the download mode has been entered, the program will begin to download the recovery package automatically. You have to hold your horses until it is complete.
@@ -479,10 +487,6 @@ After the download mode has been entered, the program will begin to download the
 Soon the recovery package finishes downloading. Then the program begins to remove the lock screen. After the process is over, you can access all your data on your Android device and reset your Android password.
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 These simple steps will ensure that you can secure your Android lock screen easily, without any worries. You do not have to worry about data loss, and you will reset your Android phone. Even if you have forgotten your Android password and are thinking about starting your Android phone again, these simple tips will help.
 
@@ -501,7 +505,7 @@ These alternatives encompass trusted locations, connected devices, or facial rec
 ![required extend lock](https://images.wondershare.com/drfone/article/2023/12/how-to-reset-your-android-lock-screen-password-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: How to Unlock Samsung Phone with SmartThings?
@@ -515,10 +519,6 @@ Unlocking an Android phone using SmartThings is an option available for Samsung 
 **Step 2.** Select the "Unlock" button located in the top right corner of the menu. Then, proceed by clicking "Unlock," and entering your Samsung password. Finally, confirm by clicking Unlock once more. This action will reset all your lock settings, comprising biometric security, PIN, password, and swipe pattern.
 
 ![unlock your samsung device](https://images.wondershare.com/drfone/article/2023/12/how-to-reset-your-android-lock-screen-password-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 4: How to Reset Android Password using Google？
 
@@ -594,24 +594,20 @@ On the other hand, other methods have their limitations. For example, SmartThing
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-elevate-your-social-story-essential-tactics-for-facebook-profiles/"><u>[New] Elevate Your Social Story Essential Tactics for Facebook Profiles</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-memorable-narratives-in-book-videos/"><u>[New] In 2024, Memorable Narratives in Book Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-youtube-shorts-profits-and-content-creator-payments/"><u>[New] In 2024, YouTube Shorts Profits & Content Creator Payments</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-pros-and-cons-of-syma-x8c-for-2024/"><u>[Updated] Pros and Cons of Syma X8C for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-the-ultimate-guide-to-youtube-thumbnails/"><u>2024 Approved The Ultimate Guide to YouTube Thumbnails</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-motorola-defy-2-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Motorola Defy 2 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-7-ultimate-phone-without-google-account-by-drfone-android/"><u>How to Unlock Asus ROG Phone 7 Ultimate Phone without Google Account?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-p60-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Huawei P60 Phone with Broken Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-lava-yuva-2-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Lava Yuva 2 Face Lock?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-blaze-2-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Lava Blaze 2 Phone Without Password?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-meizu-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Meizu Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-motorola-moto-g73-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Motorola Moto G73 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-lenovo-thinkphone-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Lenovo ThinkPhone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/interactive-content-platform-audit-and-rating-for-2024/"><u>Interactive Content Platform Audit & Rating for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/interpreting-the-lack-of-communication-a-block-indicator/"><u>Interpreting the Lack of Communication A Block Indicator</u></a></li>
-<li><a href="https://extra-support.techidaily.com/maximum-definition-boost-expert-video-upscaler-for-2024/"><u>Maximum Definition Boost Expert Video Upscaler for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-motorola-moto-g73-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Moto G73 5G Device</u></a></li>
-<li><a href="https://fox-within.techidaily.com/understanding-and-resolving-unpredictable-mouse-pointer-behavior-in-windows-expert-advice-by-yl-software/"><u>Understanding and Resolving Unpredictable Mouse Pointer Behavior in Windows - Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unleash-your-creativity-with-ava-sharpe-designs-professional-imagery-and-digital-wallpaper-by-yl-software/"><u>Unleash Your Creativity with Ava Sharpe Designs: Professional Imagery and Digital Wallpaper by YL Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-your-first-step-to-a-profitable-youtube-experience/"><u>[New] 2024 Approved Your First Step to a Profitable Youtube Experience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-best-android-apps-youtube-video-downloads-compared-for-2024/"><u>[New] Best Android Apps YouTube Video Downloads Compared for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-calm-tales-on-screen-analyzing-parent-child-bedtime-videos/"><u>[New] Calm Tales on Screen Analyzing Parent-Child Bedtime Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-razr-40-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Razr 40</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/macx-video-converter-pro-maciosandroid/"><u>改造任何格式的影片，MacX Video Converter Pro - Mac上快速智能影片轉檔工具支持iOS、Android及其他設備</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/examining-splitcam-top-video-recorder-in-2024/"><u>Examining SplitCam Top Video Recorder, In 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-easily-unlock-asus-screen-by-drfone-android/"><u>How To Easily Unlock Asus Screen?</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-6-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 6 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-s17-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo S17?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy S23</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-s17t-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo S17t Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-t2x-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo T2x 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-guide-activatingdeactivating-picture-in-picture-pip-for-youtube/"><u>Quick Guide Activating/Deactivating Picture In Picture (PIP) for YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-macbook-pro-enhancements-thoroughly-evaluated-by-tech-gurus-a-guide-on-zdnet/"><u>Top-Rated MacBook Pro Enhancements : Thoroughly Evaluated by Tech Gurus - A Guide on ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-s17-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo S17 Device</u></a></li>
 </ul></div>
 

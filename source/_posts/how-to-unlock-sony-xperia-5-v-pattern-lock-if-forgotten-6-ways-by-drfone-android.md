@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Sony Xperia 5 V Pattern Lock if Forgotten? 6 Ways
-date: 2024-12-17T00:55:28.477Z
-updated: 2024-12-17T16:54:09.033Z
+date: 2024-12-23T16:42:15.164Z
+updated: 2024-12-26T16:55:24.194Z
 tags: 
   - unlock
   - remove screen lock
@@ -26,13 +26,13 @@ Lately, we have got lots of feedback and queries like this from our readers who 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Unlock Android Phone Pattern Lock with Dr.Fone - Screen Unlock (Android)?
 
 If you want to unlock the pin, pattern, password, fingerprint, or any other kind of lock on an Android device, then simply take the assistance of [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It is a highly useful and advanced application that can let you move past the lock screen on your Android phone without losing data (if your phone model is not [Samsung or LG devices in this list](https://drfone.wondershare.com/reference/android-lock-screen-removal.html), it will erase the data after unlocking the screen).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -104,9 +104,17 @@ Just like Android, Samsung has also developed a dedicated feature for finding a 
 
 ![find my mobile](https://images.wondershare.com/drfone/article/2017/09/15057372744992.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** You can select your device from the left panel. By default, it will provide its location on the map.
 
 ![select the Sony Xperia 5 V device](https://images.wondershare.com/drfone/article/2017/09/15057372918464.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3.** Additionally, you can access various other services from here as well. Click on the “Unlock My Device” option to proceed.
 
@@ -114,10 +122,6 @@ Just like Android, Samsung has also developed a dedicated feature for finding a 
 
 - **Step 4.** Now, all you need to do is click on the “Unlock” button to perform pattern unlock on your device.
 - **Step 5.** After unlocking your Samsung device, you will be informed of an on-screen message.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: How to Unlock Android Pattern Lock in Safe Mode?
 
@@ -133,10 +137,6 @@ This is a simple and effective solution to knowing how to unlock patterns on an 
 
 ![android safe mode](https://images.wondershare.com/drfone/article/2017/09/15057373753769.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5.** Later, you can go to the Sony Xperia 5 V device’s Settings > Apps and remove the third-party app as well. In this way, you would be able to learn how to unlock pattern lock for any other app.
 
 ## Part 6: How to Unlock Pattern Lock with the Factory Reset?
@@ -148,6 +148,10 @@ Consider this as your last resort, as it will wipe the data and saved settings o
 - **Step 3.** Use the Volume Up and Down key to navigate and the Power/Home button to make a choice.
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/09/15057373935558.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4.** Select the wipe data/factory reset option to perform pattern unlock.
 - **Step 5.** Confirm your choice to factory reset your device.
@@ -198,10 +202,6 @@ Remove Android lock screen in 5 minutes
 
 **3,291,332** people have downloaded it
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Know how do you use** **Dr.Fone** **- Screen Unlock (Android) to unlock a pattern lock**
 
 **Step 1**: Download and run Dr.Fone – Screen Unlock to unlock your phone's pattern. Select the "Screen Unlock" option from the home screen.
@@ -209,6 +209,10 @@ Remove Android lock screen in 5 minutes
 **Step 2**: Make sure your device is connected to the system. Select "Android" to continue, then click the "Unlock Android Screen" button once it has been recognized.
 
 ![unlock android screen 2](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: On the next screen, choose the correct model and other information of your device.
 
@@ -218,10 +222,6 @@ Remove Android lock screen in 5 minutes
 
 ![unlock android screen 4](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5**: Relax while downloading the recovery software and completing the necessary steps to unlock your handset.
 
 **Step 6**: Click on "Remove Now" button and the unlocking process will begin.
@@ -229,6 +229,10 @@ Remove Android lock screen in 5 minutes
 **Step 7**: When the process is finished, you will be alerted. Simply unplug your device and use it without a password or pattern lock.
 
 ![unlock android screen 7](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
@@ -245,6 +249,10 @@ The first method is ADB, which stands for Android Debug Bridge. With the help of
 **Step 2**: Launch it now and install the packages on your PC.
 
 ![unlock android screen 8](https://images.wondershare.com/drfone/article/2021/12/adb-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: Connect your Android to PC now. Before that, make sure to enable USB Debugging. If you don't know-how, simply head to the "Settings"> “About Phone” and tap on “Build Number” 7 times. This will enable the Developer's Options.
 
@@ -276,10 +284,6 @@ It's one of the most straightforward ways to get past the lock screen. One thing
 
 ![unlock android screen 12](https://images.wondershare.com/drfone/article/2021/12/safe-mode-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Way 3: Unlock Pattern Lock via Factory Reset
 
 This should only be a last option because it will completely delete your device's data and saved settings. Your device will be reset to factory settings, meaning your device's settings will get back to the same as when you first bought it. If you want to learn how to [unlock a pattern](https://drfone.wondershare.com/unlock/samsung-unlock-codes.html) by doing a factory reset, follow these steps:
@@ -295,10 +299,6 @@ Please note that the Recovery mode method may vary from device to device. So ple
 **Step 3**: Now, again, confirm the process using the same keys.
 
 ![unlock android screen 14](https://images.wondershare.com/drfone/article/2021/12/factory-reset-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4**: The phone will perform the factory reset. In a short while, restart your device and there will be no lock screen.
 
@@ -374,10 +374,6 @@ With fingerprints, you can quickly touch your finger to unlock your phone.
 
 Follow on-screen instructions if you decide to employ one of these sophisticated security technologies, or go to Settings > Biometrics and security for more customization choices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to look up saved passwords on my device?
 
 The way that Google Chrome manages your usernames and passwords is excellent. But what if you want to log in to a particular website from another device but can't recall your password, and the website won't load the data for you? You may quickly obtain a list of all saved passwords by browsing through Chrome's settings, then manually keying it in.
@@ -385,10 +381,6 @@ The way that Google Chrome manages your usernames and passwords is excellent. Bu
 You may access the passwords saved in the Google Chrome app on a Mac or PC because the app is connected to your Google account. Any passwords saved on your Android phone can easily be removed via the Chrome app.
 
 ## How to Change your Password when you forget it?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Google Find My Device
 
@@ -409,6 +401,10 @@ Users of Android smartphones and tablets can troubleshoot various issues with th
 
 However, users can also use it to reset the android password if it is forgotten. The instructions for resetting android devices through recovery mode are different for every android device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Forgot Password Feature (Android 4.4 and Lower)
 
 In case you lose your pattern, PIN, or other passwords, older versions of Android, including Android 4.4 KitKat, have an integrated feature to let you continue using your device.
@@ -427,6 +423,10 @@ Rm /data/system/gesture.key using the adb shell
 
 Turn the phone back on normally. Any pattern will unlock the screen, and you will be prompted to enter one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Method: Dr.Fone - Screen Unlock
 
 On most Android handsets, you can attempt Dr.Fone to unlock the screen lock easily. It allows you to delete the password, PIN, pattern, and fingerprint from an Android phone.
@@ -444,7 +444,7 @@ On this page, please choose the option fitting your phone.
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Only when you select the right phone brand so the unlock process will go with success.
@@ -495,21 +495,21 @@ Any of the aforementioned methods can be used to overcome the obstacle of using 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-flash-clip-content-wizard/"><u>[New] Flash Clip Content Wizard</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-most-popular-stock-photo-meme-and-their-stories/"><u>[New] The Most Popular Stock Photo Meme and Their Stories</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-streaming-technology-for-live-events/"><u>[New] Top Streaming Technology for Live Events</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-enhancing-video-narratives-mastering-fade-effects/"><u>[Updated] 2024 Approved Enhancing Video Narratives Mastering Fade Effects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-boring-to-breathtaking-adopt-new-wallpapers-in-win11/"><u>[Updated] From Boring to Breathtaking Adopt New Wallpapers in Win11</u></a></li>
-<li><a href="https://fox-links.techidaily.com/get-liked-faster-on-tinder-clever-bio-tricks-that-work/"><u>Get Liked Faster on Tinder Clever Bio Tricks That Work</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-huawei-nova-y71-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Huawei Nova Y71 to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lenovo-thinkphone-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Lenovo ThinkPhone Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Sony Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-meizu-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Meizu Phone Now with These Tips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-huawei-nova-y91-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Huawei Nova Y91</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-logitech-g930-sound-cutting-problem-with-these-simple-tips/"><u>Solve Your Logitech G930 Sound Cutting Problem with These Simple Tips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-lava-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Lava Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-htc-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent HTC Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-performance-with-toms-computing-world/"><u>Unleashing Performance with Tom's Computing World</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-to-know-about-the-next-iphone-model-pricing-release-and-feature-teasers/"><u>What to Know About the Next iPhone Model - Pricing, Release, and Feature Teasers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-educational-synergy-enhancing-learning-with-youtube-videos/"><u>[New] In 2024, Educational Synergy Enhancing Learning with YouTube Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pros-and-cons-the-best-vr-gear-for-your-hands/"><u>[New] Pros and Cons The Best VR Gear for Your Hands</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-launch-sequence-the-right-moment-for-podcasts/"><u>[Updated] Launch Sequence The Right Moment for Podcasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-soundstage-shows-for-2024/"><u>Exclusive Soundstage Shows for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-oppo-a2-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Oppo A2 Face Lock?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-motorola-g54-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Motorola G54 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-oppo-f25-pro-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-meizu-21-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Meizu 21 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-v27-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo V27 Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy S23</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a25-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A25 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prepping-for-the-latest-macos-big-sur-update/"><u>Prepping for the Latest MacOS Big Sur Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/starfield-update-fixes-previous-freezing-and-crash-problems-for-pc-gamers/"><u>Starfield Update Fixes Previous Freezing & Crash Problems for PC Gamers</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-red-magic-9-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Red Magic 9 Pro.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-oppo-a18-by-drfone-android/"><u>Universal Unlock Pattern for Oppo A18</u></a></li>
 </ul></div>
 

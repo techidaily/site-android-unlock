@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Complete Guide To OEM Unlocking on Lava Blaze 2 5G
-date: 2024-12-10T16:24:04.350Z
-updated: 2024-12-18T00:10:37.559Z
+date: 2024-12-20T16:30:32.743Z
+updated: 2024-12-26T16:05:59.680Z
 tags: 
   - unlock
   - remove screen lock
@@ -38,10 +38,6 @@ This can enable the installation of apps and software that require more permissi
 
 ![android oem unlocking settings](https://images.wondershare.com/drfone/article/2024/01/what-is-oem-unlock-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Pros and Cons of OEM Unlocking
 
 Here are some great things you can get when you **allow OEM unlock.**
@@ -56,15 +52,15 @@ On the other hand, here are some cons that you must consider before performing t
 - **Void warranty.** OEM unlocking often voids the manufacturer’s warranty.
 - **Potential for bricking.** Incorrect procedures can render the Lava Blaze 2 5G device unusable, known as ‘bricking’.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Understanding the Risks
 
 It’s crucial to understand that OEM unlocking is not without its risks. It does open the door to several customizations and tweaks. However, it can also compromise the security of your device. There’s always a chance of bricking your phone, especially if the unlocking process isn’t followed correctly or an unstable custom ROM is installed.
 
 Additionally, most manufacturers will void your warranty once you unlock the bootloader. This leaves you without support in case something goes wrong. So, in the next sections, you’ll be guided through the steps of OEM unlocking. You’ll also learn how to do it safely, ensuring you make the most out of your Android device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How To Enable OEM Unlock on Your Android Phone
 
@@ -138,6 +134,10 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 **4,008,671** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Perform Screen Unlock With Dr.Fone
 
 The process is straightforward. It involves connecting your device to a computer and running the Dr.Fone software. Then, you’ll follow simple on-screen instructions. Learn how to do those below:
@@ -170,10 +170,6 @@ The process is straightforward. It involves connecting your device to a computer
 
 ![download mode instructions](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 8:** Once complete, click **Done**. If your device still isn’t accessible, click **Try again**.
 
 ![screen unlock success](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
@@ -188,17 +184,9 @@ Diving into OEM
 
 You can always stay in touch with friends, family, and coworkers thanks to voicemail support, which is provided by most cell phones. However, forgetting the voicemail passcode is simple when we must remember many codes to open various devices. Fortunately, there are workarounds you can use to get back into your voicemail mailbox. Keep reading to find out what to do if you forget your voicemail password.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: 3 Easy Ways To Reset Or Change Your Lost Voicemail Password
 
 ![voicemail](https://images.wondershare.com/drfone/article/2022/10/how-to-reset-voicemail-password-on-android-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Contact your carrier
 
@@ -210,10 +198,6 @@ The actions following should be followed when your carrier certifies that the vo
 
 - Take your SIM card out.
 - Put the new SIM card in. Your gadget will turn on, and you will be able to generate a new voicemail password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use your code to reset password
 
@@ -254,6 +238,10 @@ YouMail is an Android app that helps you to control visual voicemail. Additional
 
 ![youmail](https://images.wondershare.com/drfone/article/2022/10/how-to-reset-voicemail-password-on-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. **Visual voicemail from AT&T**
 
 You can view the caller's name and phone number before listening to their message, which makes monitoring your voicemail incredibly simple.
@@ -262,17 +250,9 @@ You can view the caller's name and phone number before listening to their messag
 
 ## Part 2: FAQs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. How To Know My Default Voicemail Password?
 
 Depending on your carrier, the default voicemail password is either the last seven or final four digits of your phone number. Your voicemails should be accessible if you dial the number without the area code. In this way, you can quickly get your default voicemail password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Can I Remove My Voicemail Password?
 
@@ -304,10 +284,6 @@ Dr.Fone - Screen Unlock (Android) is the ultimate solution when you are sort of 
 Installing Dr.Fone on your computer is the first step. From the list of available tools, select "Screen Unlock" from the drop-down menu.
 
 ![open drfone and follow instructions](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When connecting your locked phone to the PC you wish to save the wallpapers after unlocking it, you should think about utilizing a USB cord. You must select the "Unlock Android Screen" option on the program.
 
@@ -369,6 +345,10 @@ Why do you use a mobile password or pattern to lock your phone? Of course, you w
 
 We've recently received many feedback and questions from users who want to use a pattern unlock on their device. Whether you've forgotten your Android device's password or want to gain access to someone else's phone, there are a number of ways to figure out how to unlock a pattern on an Android phone. This comprWe'llhensive guide wi show you how to unlock patterns in six ways.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Common universal unlock pattern for Lava Blaze 2 5G
 
 ![universal unlock pattern](https://images.wondershare.com/drfone/article/2021/12/universal-unlock-patterns.jpg)
@@ -412,12 +392,16 @@ Remove Android lock screen in 5 minutes
 ![unlock android screen 3](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Now, turn your phone into download mode. Turn it off and simultaneously hit the Home, Power, and Volume Down keys. Then, on your device, hit the Volume Up key to enter Download Mode.
 
 ![unlock android screen 4](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5**: Relax while downloading the recovery software and completing the necessary steps to unlock your handset.
 
@@ -428,6 +412,10 @@ Remove Android lock screen in 5 minutes
 ![unlock android screen 7](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Other ways to Unlock Pattern for Android
 
@@ -454,6 +442,10 @@ The first method is ADB, which stands for Android Debug Bridge. With the help of
 **Step 6**: Run the following command and press Enter key: `adb shell rm /data/system/gesture.key`
 
 ![unlock android screen 10](https://images.wondershare.com/drfone/article/2021/12/adb-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In regular mode, restart the phone. The pattern will be requested. However, any pattern will unlock the screen.
 
@@ -491,6 +483,10 @@ Please note that the Recovery mode method may vary from device to device. So ple
 
 **Step 4**: The phone will perform the factory reset. In a short while, restart your device and there will be no lock screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 4: Unlock Pattern Lock with Android Device Manager
 
 Android Device Manager unlocking is the second-best service for bypassing the Android lock screen on locked Android devices and tablets. Working on this service is quite straightforward, and it only works if the user has a Google account. This service is accessible and usable from any device or computer.
@@ -519,6 +515,10 @@ Enter the primary Gmail account and password you used to set up your Android sma
 
 ![aunlock android screen 18](https://images.wondershare.com/drfone/article/2021/12/forgot-pattern-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 **Universal unlock patterns allow** you to unlock your phone easily when you think you have forgotten. Well, numerous patterns allow you to unlock the Android. You can choose either of the above to unlock your android phone. If you have failed to use any pattern, you can easily unlock your Android by [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It will let you access yours by unlocking it hassle-free.
@@ -537,18 +537,24 @@ Enter the primary Gmail account and password you used to set up your Android sma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-excellent-8-tripods-ideal-for-4k-camera-shooting-for-2024/"><u>[New] Excellent 8 Tripods Ideal for 4K Camera Shooting for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-scoring-big-on-youtube-how-much-do-ad-revenues-add-up/"><u>2024 Approved Scoring Big on YouTube How Much Do Ad Revenues Add Up?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-15-pro-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 15 Pro?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g84-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Motorola Moto G84 5G Phone without Google Account?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-motorola-moto-e13-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Motorola Moto E13 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-meizu-21-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Meizu 21 Phone?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-21-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Meizu 21 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-update-for-nvidia-quadro-rtx-eight-thousand-gpus-win11win10win7-driver-download/"><u>Latest Update for Nvidia Quadro RTX Eight Thousand GPUs - Win11/Win10/Win7 Driver Download</u></a></li>
-<li><a href="https://fox-that.techidaily.com/rescue-your-vanished-apple-device-with-ease-a-guide-to-the-find-my-tool/"><u>Rescue Your Vanished Apple Device with Ease – A Guide to the Find My Tool</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-choreographers-guide-crafting-captivating-tiktok-dances-for-mac-users/"><u>The Choreographer's Guide Crafting Captivating TikTok Dances for Mac Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-impact-of-generative-ai-on-modern-misinformation-tactics/"><u>Understanding the Impact of Generative AI on Modern Misinformation Tactics</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-windows-tech-appbrowser-rule/"><u>Understanding Windows Tech: App/Browser Rule</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-charting-the-future-the-next-gen-youtube-festivals/"><u>[New] In 2024, Charting the Future The Next Gen Youtube Festivals</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-screencaptureapps-recording-your-next-google-meet/"><u>[New] In 2024, ScreenCaptureApps Recording Your Next Google Meet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-culinary-champions-must-subscribe-food-bloggers/"><u>[Updated] 2024 Approved Culinary Champions Must-Subscribe Food Bloggers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-chart-topping-photos-origins-explored/"><u>[Updated] Chart-Topping Photos Origins Explored</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-filmmaker-tips-youtube-trailers-using-filmora/"><u>2024 Approved Filmmaker Tips YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2212464-9780007536917-aquarius-2014-your-personal-horoscope/"><u>Aquarius 2014: Your Personal Horoscope | Free Book</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-samsung-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Samsung</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/discover-the-latest-functionality-unveiling-actions-top-features/"><u>Discover the Latest Functionality: Unveiling Action's Top Features</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-lava-agni-2-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Lava Agni 2 5G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-content-delivery-assessment-for-2024/"><u>Exclusive Content Delivery Assessment for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gamers-companion-step-by-step-instructions-on-downloading-and-updating-amd-vega-drivers/"><u>Gamer's Companion: Step-by-Step Instructions on Downloading and Updating AMD Vega Drivers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-huawei-lock-screen-password-by-drfone-android/"><u>How To Change Huawei Lock Screen Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-oppo-f25-pro-5g-phone-by-drfone-android/"><u>How to Reset a Locked Oppo F25 Pro 5G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-asus-rog-phone-8-phone-by-drfone-android/"><u>How to Unlock a Network Locked Asus ROG Phone 8 Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-m14-4g-phone-without-password-by-drfone-android/"><u>How To Unlock Samsung Galaxy M14 4G Phone Without Password?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-detecting-my-follower-flight-on-insta/"><u>In 2024, Detecting My Follower Flight on Insta</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a15-4g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A15 4G Phone with Broken Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y78-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y78 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-s17-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo S17 Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
 

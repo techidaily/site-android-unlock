@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Can We Unlock Our Lava Yuva 2 Phone Screen?
-date: 2024-12-10T18:54:52.617Z
-updated: 2024-12-18T01:10:29.951Z
+date: 2024-12-19T16:32:56.758Z
+updated: 2024-12-26T16:23:37.147Z
 tags: 
   - unlock
   - remove screen lock
@@ -35,10 +35,6 @@ Once you decide on the **phone lock** type, you can enable or disable them from 
 Here you will see how to set up a screen lock on your Android device:
 
 ![screen lock](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Quickly Unlock Your Screen By Dr.Fone
 
@@ -77,6 +73,10 @@ For most Brands, it should be "100% Remove Screen Lock". These two solutions unl
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In the supported device brands list, please find the right one for you.
 
 ![device brands list](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -88,10 +88,6 @@ Before unlocking your device screen, the instructions below are here to help you
 Get into Recovery Mode on Samsung phone with Bixby:
 
 ![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Get into Recovery Mode on Samsung phone without Bixby:
 
@@ -136,7 +132,7 @@ Depending on your phone, the steps for this process might vary a little. Most ph
 After that, your Android will start the process, which can require a few minutes. However, this process will erase all your user data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Use ADB
@@ -166,6 +162,10 @@ After entering, reboot your phone once more.
 
 **Step 2:** Clear data from your lock screen application, uninstall and reboot your phone to escape the Safe mode. When you do so, your Android **screen lock** will unlock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Crash Lock Screen
 
 This strategy to sidestep a locked screen is only a crisis workaround for the phones in this classification.
@@ -178,10 +178,6 @@ This strategy to sidestep a locked screen is only a crisis workaround for the ph
 - Get back to the lock screen and tap on the camera symbol.
 - Go to the settings on your Android after pulling down the notifications bar. Now you will have the chance to enter the password, and you must continue the same thing here. Continue to paste until the Android lock screen crashes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Passwords shield our phones from unapproved access, yet we get locked out unexpectedly on our **phone lock**. Failing to remember your PIN can be irritating. However, we can assist you in reaccessing your locked phone without a factory reset by using Dr.Fone - Screen Unlock. Dr.Fone is an expert in solving such problems in just a few minutes. So download this expert tool immediately for a quick solution.
@@ -191,10 +187,6 @@ Passwords shield our phones from unapproved access, yet we get locked out unexpe
 The main reason why we keep our smartphone locked is to prevent children (or stalkers) checking out our private photos or messages. You don't want anyone to access your pictures, emails, or other important data. What if you forget your pattern or PIN and cannot access your phone? Or someone changes lock screen pattern to leave you annoyed?
 
 To avoid such types of conditions, we have tried and tested the following methods to bypass the Lava lock screen pattern, PIN, password, and fingerprint.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1. Use 'Find My Mobile' feature on Lava Phone
 
@@ -207,6 +199,14 @@ All Lava devices come with the "Find My Mobile" feature. To bypass the Lava lock
 - Step 5. Within a few minutes, it will change the lock screen password to the PIN so that you can unlock your device.
 
 ![how to unlock samsung phone lock password-find my mobile](https://images.wondershare.com/drfone/others/14623529847658.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2. Use Android Device Manager to Bypass Lava Password
 
@@ -224,7 +224,7 @@ To know how to unlock a Lava phone lock password with Android device manager, ma
 ![how to unlock samsung phone lock password-android device manager](https://images.wondershare.com/drfone/others/14623531102514.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3. Google Login (Supports Only Android 4.4 or Lower)
@@ -237,10 +237,6 @@ If your device is still running on Android 4.4 or lower, here's how to bypass th
 - Step 4. Now your phone would be unlocked.
 
 ![how to unlock a samsung phone without the code-google login](https://images.wondershare.com/drfone/others/14623533542919.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4. 'Pattern Password Disable' and Custom Recovery (SD Card needed)
 
@@ -261,10 +257,6 @@ It is yet another option that will work only when you have enabled USB Debugging
 
 ![how to unlock a samsung phone without the code-adb command](https://images.wondershare.com/drfone/others/14623546208288.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 6. Factory Reset to Bypass Lava Lock Screen
 
 A factory reset is the best option in almost any case if one of these solutions couldn't work. According to your device type, the process may vary. In most devices, you have to turn off the Lava Yuva 2 device completely to start the process. But this method will delete all the precious data on the Lava Yuva 2 device after the factory reset.
@@ -280,10 +272,6 @@ A factory reset is the best option in almost any case if one of these solutions 
 
 [Backup your Lava phone](https://drfone.wondershare.com/samsung/samsung-backup.html) regularly in case of any data loss in the future.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 7. Boot into Safe Mode
 
 Chances may be that you are using a third-party lock screen app. Then lucky for you, this way works best to bypass the Lava lock screen. Specifically, you can boot your Lava device into [Android Safe Mode](https://drfone.wondershare.com/android-tips/safe-mode-in-android.html).
@@ -297,6 +285,10 @@ Chances may be that you are using a third-party lock screen app. Then lucky for 
 
 ![how to unlock a samsung phone without the code-android safe mode](https://images.wondershare.com/drfone/others/14623549778321.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 8. Other Methods
 
 - Step 1. Take your friend's phone to call on your locked phone.
@@ -306,6 +298,10 @@ Chances may be that you are using a third-party lock screen app. Then lucky for 
 - Step 5. It will ask you the correct pin that you don't know, guess, and try various combinations you can recall.
 
 To avoid forgetting your password or PIN next time, be sure to write the pattern or numbers on a text file or paper to keep them safe. If you have to bypass the Lava lock screen pattern, PIN, password, and fingerprint, you may consider using Dr.Fone - Screen Unlock (Android). It is a professional tool that can remove all the fingerprints, pattern, and password lock screens without losing any data on your phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tips and Tricks for Setting Up your Lava Yuva 2 Phone Pattern Lock
 
@@ -331,6 +327,10 @@ The most effective and quick tool to unlock a **pattern lock** is Dr.Fone - Scre
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2. Select Unlock Android Screen**
 
 To unlock the pattern lock on your device, the “Unlock Android Screen” will guide you to finish the whole process.
@@ -342,10 +342,6 @@ To unlock the pattern lock on your device, the “Unlock Android Screen” will 
 If you click “Remove without Data Loss,” only some limited Samsung or LG phone models can be unlocked without losing data. To unlock most phone brands' screens, “100% Remove Screen Lock” is a better choice.
 
 ![to select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can find the brand compatible with your phone in the following list.
 
@@ -392,6 +388,10 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 **Step 4.** You will get three choices here, i.e., lock, erase, and ring.
 
 ![find my device](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5.** Click on the "Lock" button to reset its pattern.
 
@@ -491,22 +491,20 @@ This guide provides insight into the most common Android issue. Here, we have di
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-steps-to-crafting-powerful-end-of-episode-notes/"><u>[New] Steps to Crafting Powerful End-of-Episode Notes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-video-converters-for-windows-11-reviewed-find-the-perfect-tool-to-combine-videos/"><u>Best Video Converters for Windows 11 Reviewed – Find the Perfect Tool to Combine Videos!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-apples-new-m4-cpu-specs-news-update-and-introduction-date/"><u>Comprehensive Guide to Apple's New M4 CPU - Specs, News Update, and Introduction Date</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-cost-effective-vuebell-video-entryway-monitor-review/"><u>Exploring the Cost-Effective VueBell Video Entryway Monitor Review</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/guide-to-updating-or-downloading-hp-officejet-pro-8620-drivers-in-windows-operating-system/"><u>Guide to Updating or Downloading HP OfficeJet Pro 8620 Drivers in Windows Operating System</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/1716162706106-how-to-edit-vertical-videos-for-instagram-in-final-cut-pro-x/"><u>How to Edit Vertical Videos for Instagram in Final Cut Pro X ?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-pro-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Lava Blaze Pro 5G Phone Without Password?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-htc-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock HTC Phone When You Forget the Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-lava-blaze-2-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Lava Blaze 2 Pro Fingerprint Lock</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-motorola-moto-g-stylus-5g-2023-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Motorola Moto G Stylus 5G (2023) Face Lock?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-asus-rog-phone-7-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Asus ROG Phone 7 Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-lava-yuva-2-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Lava Yuva 2 Pro Easily?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-asus-rog-phone-7-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Asus ROG Phone 7 Phone Pattern Lock</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/mastering-real-time-video-conversations-with-whatsapp-web-on-pcs-for-2024/"><u>Mastering Real-Time Video Conversations with WhatsApp Web on PCs for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-motorola-edge-40-neo-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Motorola Edge 40 Neo Phone Pattern Lock</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-budget-4k-photography-systems-for-2024/"><u>Top Budget 4K Photography Systems for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-honor-v-purse-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Honor V Purse Phones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-instant-sticker-transformation-your-guide-to-making-gifs-pop-in-telegram-and-more/"><u>[New] 2024 Approved Instant Sticker Transformation Your Guide to Making GIFs Pop in Telegram & More</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-live-video-showdown-which-is-superior-obs-or-twitch-studio/"><u>[New] In 2024, Live Video Showdown Which Is Superior, OBS or Twitch Studio?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-amazing-ig-video-creation/"><u>[Updated] 2024 Approved Mastering Amazing IG Video Creation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-insights-into-procuring-freeness-in-frame-vids/"><u>2024 Approved Insights Into Procuring Freeness in Frame Vids</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-number-1-in-the-elite-8-virtual-composite-maker/"><u>2024 Approved Number 1 in the Elite 8 Virtual Composite Maker</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/avoid-livestream-frustration-addressing-facebook-outages/"><u>Avoid Livestream Frustration Addressing Facebook Outages</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-y78-5g-by-drfone-android/"><u>Full Guide to Unlock Your Vivo Y78 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-gionee-f3-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Gionee F3 Pro Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-infinix-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Infinix</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-sony-xperia-5-v-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Sony Xperia 5 V</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-motorola-moto-g23-easily-by-drfone-android/"><u>How To Unlock a Motorola Moto G23 Easily?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-enhance-your-projects-with-free-green-screens-from-these-online-hubs/"><u>In 2024, Enhance Your Projects with Free Green Screens From These Online Hubs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-oppo-a2-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Oppo A2 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-s24plus-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy S24+</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/vital-questions-answered-what-to-look-out-for-when-choosing-a-pre-owned-ipad/"><u>Vital Questions Answered: What to Look Out For When Choosing a Pre-Owned iPad</u></a></li>
 </ul></div>
 

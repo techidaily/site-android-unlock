@@ -1,7 +1,7 @@
 ---
 title: In 2024, Tips and Tricks for Setting Up your Asus Phone Pattern Lock
-date: 2024-08-17T00:33:34.357Z
-updated: 2024-08-18T00:33:34.357Z
+date: 2024-12-22T16:12:15.677Z
+updated: 2024-12-26T16:37:46.086Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,14 +27,8 @@ A **pattern lock** is used to identify the actual user by your Android phone. It
 
 So, if you have set a **pattern lock** as a screen lock for your device, you will need to draw the exact pattern every time you log in.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Part 2: Best Tool to Unlock Your Pattern
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock
 
 The most effective and quick tool to unlock a **pattern lock** is Dr.Fone - Screen Unlock by Wondershare. Dr.Fone is an all-in-one tool for all your Android needs and has been in the business for a long time. We suggest you use Dr.Fone. The following steps will help you unlock your device:
@@ -48,8 +42,9 @@ The most effective and quick tool to unlock a **pattern lock** is Dr.Fone - Scre
 To unlock the pattern lock on your device, the “Unlock Android Screen” will guide you to finish the whole process.
 
 ![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3. Select unlock mode**
@@ -57,13 +52,14 @@ To unlock the pattern lock on your device, the “Unlock Android Screen” will 
 If you click “Remove without Data Loss,” only some limited Samsung or LG phone models can be unlocked without losing data. To unlock most phone brands' screens, “100% Remove Screen Lock” is a better choice.
 
 ![to select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 
 You can find the brand compatible with your phone in the following list.
 
 ![supported device brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4. Go into Recovery Mode**
 
@@ -74,17 +70,10 @@ Read the program instructions carefully; entering recovery mode is the prerequis
 **How to get into recovery mode with Bixby**
 
 ![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
 **How to get into recovery mode without Bixby**
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 
 **How to get into recovery mode with Home button**
 
@@ -99,7 +88,6 @@ Now you’re in recovery mode, pick these options in the image below.
 When the “Unlocked successfully” appears on the screen, you can access your device without a pattern lock or other locks!
 
 ![access android device again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
 
 ## Part 3: How to Bypass Android Pattern When You Forgot It?
 
@@ -138,9 +126,6 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 **Step 5.** After giving the correct details, you can provide another pattern lock to the phone.
 
 ![draw unlock pattern](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 
 **Step 6.** Affirm your decision and set another **pattern lock** on your phone.
 
@@ -159,17 +144,11 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 **Step 1:** You can bring up the power menu and hold the "Power Off" button for most phones, especially Android phones. A warning will spring up, asking whether you might want to Reboot to Safe Mode. Here, it would help if you had to press Ok.
 
 ![reboot to safe mode](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2:** Clear your lock screen application's data.
 
 Clean data off your lock screen app, uninstall it, and then reboot your device to escape safe mode. When you do so, your phone or Android device will unlock.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Use ADB (USB required for Android 10 and lower)
 
 - Connect your device to your PC using a USB connector.
@@ -204,9 +183,6 @@ adb reboot
 
 - Your phone will reboot. After it reboots and requests a security pattern, you can utilize any pattern, and it will unlock.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 This guide provides insight into the most common Android issue. Here, we have discussed different techniques to bypass the **pattern lock** on your Android phone. However, we suggest you go for a professional tool while carrying this out. Therefore, you should choose an expert tool like Dr.Fone - Screen Unlock to open the **lock screen pattern**.
@@ -217,9 +193,6 @@ Every smartphone user wants their lock screen wallpapers to be the finest qualit
 
 Along with the basic methods, the article will redirect its discussion to changing the lock screen wallpaper for different brands. Find more about ****how to change the lock screen wallpaper on Android**** with the available methods and techniques to bring aesthetics to your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How To Change Lock Screen Picture on Android Phone With 2 Common Methods
 
 Every Android smartphone has its interface to follow while changing the lock screen wallpaper or screen saver of the Asus ROG Phone 8 device. However, before we dive into the Asus ROG Phone 8 device-specific details, let's dissect the two common methods to change ****the lock screen wallpaper on Android:****
@@ -233,16 +206,10 @@ The first thing to try for changing the lock screen wallpaper includes the long 
 ****Step 2:**** Select the “Wallpaper” option in the available buttons to lead to another window showing different wallpapers.
 
 ![tap on wallpaper icon](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
 ****Step 3:**** Out of all the wallpapers, select any of them and tap on the “Apply” button to set it as your lock screen wallpaper.
 
 ![select the required wallpaper](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Using Your Gallery
 
@@ -259,10 +226,6 @@ You can also set your favorite picture as the ****Android lock screen wallpaper*
 ****Step 2:**** Choose and open the image on the screen, and continue to select the “Three-Dotted” icon on the bottom-right of the screen.
 
 ![tap on three dots](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 
 ****Step 3:**** On selecting the option of “Set as wallpaper,” you will apply the particular image from the Gallery as your lock screen wallpaper.
 
@@ -274,9 +237,6 @@ The provided methods in the above part are comprehensive in changing the lock sc
 
 For this part, we will bring a guide explaining ****how to change the lock screen wallpaper on Android**** of different brands:
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### For Samsung Users
 
 ****Step 1:**** On unlocking your Samsung, hold the empty space on your home screen to open a set of options. Select "Wallpapers" from the available list and continue to the next screen.
@@ -294,22 +254,17 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 ****Step 1:**** As you access the home screen of your Google Pixel, continue to hold the space. This will open a list of options where you must tap on "Wallpaper & style." Continue to select the "Change wallpaper" option to bring new colors to your Google Pixel.
 
 ![tap on change wallpaper](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ****Step 2:**** On the next screen, select any particular category you want to set the lock screen wallpaper. For instance, if you selected "My photos," choose your image and preview it on the following screen.
 
 ![choose your favorite wallpaper](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-10.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ****Step 3:**** To proceed, specify where you wish to set it as your wallpaper. As the options appear on the front, select the "Lock screen" option and continue to set your wallpaper.
 
 ![select the lock screen option](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For Motorola Users
@@ -322,6 +277,10 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 
 ![select wallapaper source option](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 3:**** Continue to select the "Lock Screen" option on the preview screen and tap on the "Tick" icon at the bottom. To confirm, tap "Lock screen" to change the wallpaper on the lock screen of your Motorola.
 
 ![confirm the lock screen wallpaper](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-14.jpg)
@@ -333,20 +292,22 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 ****Step 2:**** On the next screen, continue to the "Wallpapers" section and go through the available media to select a new wallpaper.
 
 ![select the wallpapers option](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-16.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ****Step 3:**** As you select a particular wallpaper and continue to the preview screen, select the “Apply” button and proceed to choose “Lock Screen” from the pop-up menu.
 
 ![tap on lock screen option](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-17.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Top 10 Download Sites About Cool Screen Wallpaper on Android
 
 What if you feel that you do not have the coolest screen wallpaper that you can change on your Android device? Before changing your ****Android lock screen wallpaper**** on your device, find a unique option that can be easily replaced. Instead of limiting yourselves to the options available on the Asus ROG Phone 8 device, you can consider moving to different download sites for downloading the coolest lock screen wallpaper:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1. [<u>Zedge</u>](https://www.zedge.net/wallpapers)
 
@@ -365,9 +326,6 @@ For exclusive access to free wallpapers of multiple categories, Interfacelift pr
 Known for keeping royalty-free, high-quality content, Unsplash can be a great Android wallpaper site. Download your favorite wallpapers that will perfectly suit your Android device. Along with its smooth interface, Unsplash offers diversity with its dedicated Unsplash+ plan.
 
 ![unsplash android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-20.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
 ### 4. [<u>Mobile9</u>](https://www.mobile9.com/)
 
@@ -399,30 +357,18 @@ Who won’t have heard of Pixabay as a haven for lock screen wallpapers? This pl
 
 ![pixabay android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 9\. [<u>500px</u>](https://500px.com/)
 
 To access the best wallpapers in the world, 500px is a good platform to keep in mind. While it helps a wide community fulfill their tasks, it can be a purposeful option. For diverse operability in the site, users can also sell their work into a global marketplace.
 
 ![500px android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-26.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ### 10\. [<u>Wallpaperswide</u>](http://wallpaperswide.com/)
 
 From desktop to Android wallpapers, Wallpaperswide holds a diverse set of options. This platform is designed to provide a diversity of categories to its users. With a simple interface, it is a great option for gathering content.
 
 ![wallpaperswide android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-27.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Bonus Part: How To Unlock Android Screen if Forgotten the Password
 
 Although you have learned ****how to change the lock screen wallpaper on Android,**** multiple complications can arise. One such problem that can occur on your device involves it getting locked. If the Asus ROG Phone 8 device gets locked, you cannot use it. For an Android whose password is locked, you will require a platform to amend the problem.
@@ -436,18 +382,12 @@ Such options make it the finest platform to resolve issues with the Android devi
 You need to download and launch Dr.Fone on your computer and continue to the “Screen Unlock” tool. On accessing the tool, connect your Android device with a cable.
 
 ![choose the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ****Step 2: Start Unlocking the Android****
 
 Proceed to select the "Unlock Android Screen/FRP" option and continue into the "Unlock Android Screen" option.
 
 ![proceed with unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ****Step 3: Select Mode and Device Details****
 
@@ -466,8 +406,9 @@ Put your Android device in Download Mode by powering it off. Continue to press t
 The package starts downloading as the Asus ROG Phone 8 device gets into Download Mode. It will take a while until it completes. Once the download process gets completed, press the “Remove Now” button to remove the Android screen lock.
 
 ![start removing screen lock](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ****Image name: lock-screen-wallpaper-on-android-32.jpg****
@@ -476,17 +417,10 @@ The package starts downloading as the Asus ROG Phone 8 device gets into Download
 
 ****Image alt: start removing screen lock****
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 The details provided are comprehensive in helping you change ****the lockscreen wallpaper on Android****. While learning unique ways, along with dedicated techniques for smartphones, we are sure that you are clear about how to change lock screen picture on Android phone.Why not take a try now? This article has also introduced some of the best sites to download Android wallpapers. For effective results and to save your locked device from getting useless, use Dr.Fone – Screen Unlock.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How To Unlock Asus ROG Phone 8 Phone Without Password?
 
 Has your Android smartphone been locked, and are you having trouble unlocking it now because you have forgotten phone password? Looking for methods to remove the password from your Android phone without doing a factory reset?
@@ -497,10 +431,11 @@ Many people, including you, have had similar issues and wish to know how to unlo
 
 As a result, we have created some of the greatest guidelines or, you might say, top ways that may assist you in unlocking Android phones today, simply for you and countless other Android users.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Unlock Your Locked Screen Without Password By 6 Efficient Ways
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. By your Google account
 
@@ -512,9 +447,6 @@ You need to log into the Google account that is associated with the Asus ROG Pho
 - "Forgot pattern" will show up at the bottom of the screen.
 
 ![unlock with security question](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - You must enter the Gmail account that is associated with the Asus ROG Phone 8 device here before selecting "Next."
 
@@ -522,14 +454,6 @@ You need to log into the Google account that is associated with the Asus ROG Pho
 
 - That's it; from this point forward, you may enter any new PIN or pattern that you can recall to unlock your smartphone.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Google Find My Device
 
 Using your Google account is a superb method for finding the Asus ROG Phone 8 device when lost or stolen.
@@ -544,28 +468,27 @@ To bypass the Android lock screen, all you need to do is sign into the Asus ROG 
 - Confirm it immediately, then input the password you just established on your locked device.
 
 ![enter new password using google find my device](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Many Samsung customers have this issue, which prevents them from using their devices. Try using the "Find My Mobile" feature on your mobile if you wish to unlock it if you're a Samsung user. It would be helpful if you had a Samsung or Android model account.
 
 After that, use Find My Device to unlock your Android phone without losing any data by following the instructions below:
 
 ![unlock samsung without data loss](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-4.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Sign in with your Samsung account at findmymobile.samsung.com.
 - Choose "Lock my screen" from the menu on the left, type a new PIN in the box given, and then click "LOCK."
 
 ![generating new pin using lock my screen](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 
 Your smartphone will be unlocked, and the password will be changed to the new one after a brief delay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Use ADB (Android Debug Bridge)
 
@@ -575,32 +498,20 @@ Without a factory reset, Android phone passwords may also be unlocked using the 
 - Launch the installer after that to begin downloading crucial software for your machine.
 
 ![launch the adb installer to unlock android](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Here, you must use a USB cable to connect your Asus ROG Phone 8 to the computer
 - This will activate the developer option on your smartphone if you navigate to Settings > About Phone > and choose the "Build Number" option seven times.
 - After that, activate USB debugging by going to Settings > Developer Options.
 
 ![activate USB debugging from settings](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
 - Launch the command prompt in the ADB installation directory after your device is connected to the system.
 - Press enter after typing "ADB shell rm /data/system/gesture.key" into the command line.
 
 ![go to system and enter command line](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-8.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Finally, just restart your smartphone and use it as normal.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Hard reset (data loss)
 
 Each brand has a unique method for hard resetting a locked Android device. The methods to factory reset locked Android devices from Samsung, LG, HTC, Sony, and Huawei are compiled here.
@@ -614,9 +525,6 @@ When your phone is locked, you may access the recovery menu of your phone using 
 - Allow a few seconds for the factory reset procedure to finish after selecting Yes, or Factory data reset. The phone will reboot once you pick the Reboot system. Now you may configure it as if it were a brand-new gadget.
 
 ![reboot the system and follow factory reset](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
 ### 5\. Unlock from Forgot Pattern (android 4.4 or lower)
 
@@ -625,9 +533,6 @@ This is another choice that might assist you in unlocking your phone without a f
 Therefore, you have the choice to Backup PIN, which might assist you in unlocking your smartphone, if you are unable to unlock it. To do it, take the following actions:
 
 ![unlock pattern lock using backup pin](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-10.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
 - Click on Android pattern lock.
 - You'll see a notification telling you to try again in 30 seconds after failing many times.
@@ -635,9 +540,6 @@ Therefore, you have the choice to Backup PIN, which might assist you in unlockin
 - Put the backup PIN and OK here.
 - At last, you may unlock your cellphone by entering the backup PIN.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Boot into safe mode
 
 Here's how you can boot into safe mode.
@@ -652,10 +554,6 @@ Here's how you can boot into safe mode.
 - Then you will also see the option to turn off boot.
 - You can get rid of the locked phone by proceeding with that option.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Part 2: Easy Tool To Unlock Android Phone Without Password
 
 If you forget the lock code, you can simply unlock your Android phone using Dr.Fone - Screen Unlock.
@@ -679,9 +577,6 @@ Connect your Android phone to the PC via a USB cable. then click the "Unlock And
 Nearly all Android devices feature locked displays, including Android. Because the recovery kits for different phone models vary, it's important to pick the correct device brand to unlock the lock. Every model of supporting hardware is included in the list.
 
 ![choose the Asus ROG Phone 8 device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
 **Step 3. Switch to download mode**
 
@@ -717,18 +612,12 @@ Dr.Fone - Phone Backup is an excellent solution to keeping data safe and secure 
 **Step 1:** Connect your Android phone to your PC.
 
 ![choose phone backup option from menu](https://images.wondershare.com/drfone/guide/drfone-home.png)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Open Dr.Fone on your PC, then select "Phone Backup" from the menu.
 
 Next, join your Android phone to the computer with a USB cable. The phone must be in USB debugging mode, please. You will be prompted to approve USB Debugging in a pop-up window on the Android phone if your version of Android is higher. Press the OK button if you would.
 
 ![approve usb debugging to connect device](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Click Backup to start backing up the data on your Android device.
 
@@ -748,9 +637,6 @@ When the backup is complete, you may click the View the backup button to see wha
 
 It would be best if you had been able to answer the question, "How to unlock an Android phone without password," using the techniques we have demonstrated here. The most effective way for resetting an Android phone is Wondershare Dr.Fone - Screen Unlock for Android. You may quickly reset a locked Android phone without a password with only a few clicks.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -763,5 +649,26 @@ It would be best if you had been able to answer the question, "How to unlock an 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-final-goodbye-to-youtubes-minis-a-step-by-step-process/"><u>[New] In 2024, Final Goodbye to YouTube's Minis A Step-by-Step Process</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-blueprint-to-dominate-social-platforms/"><u>[New] The Blueprint to Dominate Social Platforms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-cutting-edge-video-processing-free-hd1080p-from-ff-videos/"><u>[Updated] 2024 Approved Cutting Edge Video Processing Free HD/1080P From FF Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-prime-instant-window-photo-viewer-for-2024/"><u>[Updated] Prime Instant Window Photo Viewer for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-fixing-the-cache-miss-issue-on-google-chrome/"><u>Comprehensive Guide: Fixing the Cache Miss Issue on Google Chrome</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-x50-gt-lock-screen-password-by-drfone-android/"><u>How To Change Honor X50 GT Lock Screen Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-vivo-s18-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo S18 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-motorola-razr-40-ultra-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Motorola Razr 40 Ultra? Try These Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-asus-rog-phone-8-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Asus ROG Phone 8 Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-meizu-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Meizu Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g14-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G14 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g84-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G84 5G Bootloader Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-motorola-edge-40-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Motorola Edge 40 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/opencl-dll-deficiency-solutions-explored/"><u>OpenCL DLL Deficiency: Solutions Explored</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-sony-xperia-5-v-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Sony Xperia 5 V</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-fix-for-recurring-valorant-game-crashes-and-errors-on-personal-computers/"><u>Step-by-Step Fix for Recurring Valorant Game Crashes and Errors on Personal Computers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/synthesize-film-selections-on-platform-playlist/"><u>Synthesize Film Selections on Platform Playlist</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-huawei-nova-y91-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Huawei Nova Y91 Phone Pattern Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-asus-rog-phone-7-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Asus ROG Phone 7 Phone</u></a></li>
+</ul></div>
 

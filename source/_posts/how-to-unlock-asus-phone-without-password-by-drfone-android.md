@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Asus Phone Without Password?
-date: 2024-12-15T20:56:25.974Z
-updated: 2024-12-17T21:51:28.574Z
+date: 2024-12-20T16:05:23.207Z
+updated: 2024-12-26T16:18:39.379Z
 tags: 
   - unlock
   - remove screen lock
@@ -30,10 +30,6 @@ As a result, we have created some of the greatest guidelines or, you might say, 
 
 ## Part 1: Unlock Your Locked Screen Without Password By 6 Efficient Ways
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. By your Google account
 
 You can use your Google Account to unlock the Android phone password if, after several tries, you are still unable to do so without doing a factory reset.
@@ -52,7 +48,7 @@ You need to log into the Google account that is associated with the Asus ROG Pho
 - That's it; from this point forward, you may enter any new PIN or pattern that you can recall to unlock your smartphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Google Find My Device
@@ -104,7 +100,7 @@ Without a factory reset, Android phone passwords may also be unlocked using the 
 ![go to system and enter command line](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Finally, just restart your smartphone and use it as normal.
@@ -235,16 +231,12 @@ When the backup is complete, you may click the View the backup button to see wha
 It would be best if you had been able to answer the question, "How to unlock an Android phone without password," using the techniques we have demonstrated here. The most effective way for resetting an Android phone is Wondershare Dr.Fone - Screen Unlock for Android. You may quickly reset a locked Android phone without a password with only a few clicks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Ways on How to Unlock/Bypass/Swipe/Remove Asus ROG Phone 8 Fingerprint Lock
 
 If you cannot remember your pin, pattern or password to access your Android device, this content will introduce you to the most effective method to handle the fingerprint lock, unlocking, bypassing and swiping in Android based gadgets. Your lock screen appears on your phone immediately after you turn your device on and it is there to save your privacy, data also to make your screen user-friendly and more functional. The additional material that definitely helps you to solve your limited access issue in your Android phone can be viewed here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The Best Way to Unlock, Bypass, Swipe and Remove Android Fingerprint Lock
 
@@ -275,10 +267,6 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![best way to unlock Android fingerprint lock-Type the download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4**. Have recovery package downloaded.
 
 ![best way to unlock Android fingerprint lock-Have recovery package downloaded](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
@@ -291,15 +279,31 @@ _Remove Android Screen Lock_
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/TQnsFr9oUHA?list=PLUrYm4QGcoz8IHR2-1WtKqPnJOnSShtFB" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best 10 Fingerprint Lock Apps for Android Gadgets
 
 The lock screen app is a navigation screen that should be user friendly and allow you to jump quickly to those features that you actively use. For those, who want to make their smartphone screens much more functional and fun, we have prepared a list of best 10 Android Fingerprint Lock Apps and Widgets. The list that will be describing the apps will not be in the form of A Ranking or Top 10. The aim of our list is just to share with you those apps which are really good at handling the functions that we need from our gadgets.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1st - Hi Locker
 
 This fingerprint lock for android devices comes with a 3 modes of lock screen: Classic, iOS and Lollipop. Also, it has a separate screen dedicated to your calendar. Cyanogen Mod Style quick launcher is the main feature of Hi Locker. The secondary characteristics include custom greetings, various fonts, automatic wallpaper changes and additional customizations using an arrow key.
 
 ![best way to unlock Android fingerprint lock-Hi Locker](https://images.wondershare.com/drfone/others/hi-locker-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2nd - ICE Unlock Fingerprint Scanner
 
@@ -325,15 +329,15 @@ Whether you prefer having simple or complex, solid or multi colored lock screens
 
 ![best way to unlock Android fingerprint lock-Locker Master](https://images.wondershare.com/drfone/others/locker-master-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6th – Start
 
 With [Start](https://play.google.com/store/apps/details?id=com.celltick.lockscreen), your lock screen becomes into your Start screen. Right from the lock screen, you will have a quick access to the most of apps that you actively use. You can set the security level, enjoy simple but smart navigation characteristics noticeably faster. It is a real fingerprint lock for Android devices which can be your one-stop lock screen application.
 
 ![best way to unlock Android fingerprint lock-Start](https://images.wondershare.com/drfone/others/start.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7th – Solo Locker (DIY Locker)
 
@@ -361,10 +365,6 @@ With over 300,000 downloads and the rate of 4.3 stars, [Fireflies Lock Screen](h
 
 The unlock method that was described in the beginning of our content, is the most functional approach to handle a lock screen problem successfully. In Non-Ranking and No-Comparisons form, we have presented you the list of best 10 fingerprint lock apps for Android devices. Each user is different and that is why there are various applications for your gadget. Try them out and find the one that suits you best!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How To Unlock Any Asus ROG Phone 8 Phone Password Using Emergency Call
 
 Today, smartphones are an extension of people. Securing them with a PIN, passcode, pattern, fingerprint, or face unlock has become the norm. It’s like putting a digital lock on our private world.
@@ -376,7 +376,7 @@ That’s where emergency call bypass is a nifty little trick that can be a lifes
 ![android emergency call screen](https://images.wondershare.com/drfone/article/2024/01/unlock-emergency-call-phone-01.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What Is the Emergency Call Bypass Method?
@@ -421,10 +421,6 @@ While the **emergency call bypass for Android** method is interesting, it’s la
 [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is a comprehensive software solution for various mobile issues, including screen unlocking. It’s especially useful when you’ve forgotten your password, pattern, or PIN. Here’s how you can use Dr.Fone to unlock your screen:
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -483,6 +479,10 @@ Booting into safe mode can bypass third-party lock screens. This method won’t 
 
 In summary, while the emergency call bypass is a thing of the past, there are still various ways to unlock your phone. There’s always a solution, whether through a sophisticated tool like Wondershare Dr.Fone or built-in Android features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 This guide explored **how to bypass the Android lock screen using an emergency call.** It mainly focused on outdated **Android emergency call bypass** and more reliable alternatives. Key takeaways include understanding that while older methods like the emergency call bypass are largely ineffective on modern devices, tools like Wondershare Dr.Fone offer a safe and trusted solution.
@@ -503,22 +503,22 @@ Learning to unlock your phone screen ensures you’re never locked out of your d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-chronicle-samsung-games-with-precision-timing/"><u>[New] 2024 Approved Chronicle Samsung Games with Precision Timing</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlocking-archived-stories-from-facebook-a-digital-handbook/"><u>[New] 2024 Approved Unlocking Archived Stories From Facebook A Digital Handbook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-easy-steps-to-the-top-gaming-video-editing-programs/"><u>[New] In 2024, Easy Steps to the Top Gaming Video Editing Programs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-advancing-your-slow-motion-footage-using-gopro-hero-10/"><u>[Updated] Advancing Your Slow-Motion Footage Using GoPro Hero 10</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-from-no-cash-to-youtube-wealth-unlocking-earnings-at-the-500-subs-level/"><u>[Updated] In 2024, From No Cash to YouTube Wealth Unlocking Earnings at the 500 Subs Level</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unveiling-the-best-phones-for-your-gear-vr-experience-for-2024/"><u>[Updated] Unveiling the Best Phones for Your Gear VR Experience for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-pro-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Lava Blaze Pro 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-2-phone-without-google-account-by-drfone-android/"><u>How to Unlock Lava Yuva 2 Phone without Google Account?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-lava-yuva-3-pro-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Lava Yuva 3 Pro Pattern Lock Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-motorola-moto-g-stylus-2023-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Motorola Moto G Stylus (2023) Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g23-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G23 Phone without Any Data Loss</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-htc-u23-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For HTC U23</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-asus-rog-phone-7-ultimate-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Asus ROG Phone 7 Ultimate Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastering-media-marketing-essential-ig-video-editors/"><u>Mastering Media Marketing Essential IG Video Editors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-asus-by-drfone-android/"><u>Top 10 Password Cracking Tools For Asus</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-the-battle-fixing-age-of-empires-ii-launch-issues-on-windows-11/"><u>Winning the Battle: Fixing Age of Empires II Launch Issues on Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-avoid-spending-discover-the-finest-free-mac-screen-recorders/"><u>[New] In 2024, Avoid Spending Discover the Finest Free Mac Screen Recorders</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-guide-to-screenshot-and-record-mastery-on-mi-11/"><u>[Updated] In 2024, The Ultimate Guide to Screenshot & Record Mastery on Mi 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-step-by-step-perfectly-inserting-songs-on-instagram-stories/"><u>2024 Approved Step-by-Step Perfectly Inserting Songs on Instagram Stories</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-playback-errors-on-firefox-optimizing-your-viewing-experience/"><u>Bypassing Playback Errors on Firefox: Optimizing Your Viewing Experience</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/elevate-your-skills-with-stellars-selection-of-software-tips-and-tricks-for-diy-projects/"><u>Elevate Your Skills with Stellar's Selection of Software Tips and Tricks for DIY Projects</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-corrupted-or-broken-start-menu-on-windows-11-proven-fixes-here/"><u>Fix Corrupted or Broken Start Menu on Windows 11 - Proven Fixes Here</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y55s-5g-2023-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-x-flip-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo X Flip?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-x100-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo X100 Lock Screen Password?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y78t-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y78t to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-galaxy-a34-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Galaxy A34 5G Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-samsung-galaxy-z-flip-5-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Samsung Galaxy Z Flip 5 Phone Now with These Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-collection-of-10-advanced-fcp-tools/"><u>In 2024, The Ultimate Collection of 10 Advanced FCP Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-vivo-s17-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo S17 Pro Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y56-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y56 5G Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-vivo-t2x-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo T2x 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-taskbars-timed-features-on-win-1011/"><u>Unlocking Taskbar's Timed Features on Win 10/11</u></a></li>
 </ul></div>
 

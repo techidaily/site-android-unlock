@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Evaluation: The MSI CODEX R2 Air Cooling System & Performance in Gaming"
-date: 2024-08-17T00:29:25.946Z
-updated: 2024-08-18T00:29:25.946Z
+date: 2024-12-20T16:03:08.242Z
+updated: 2024-12-26T16:33:28.464Z
 tags:
   - desktop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/d8d6563b1e83446e0eb6eee844ba3f9b3df6929ea
 In an interesting turn of events, the first device boasting the highest-end version of Qualcomm's Snapdragon X Elite chipset isn't even a laptop. It's a Mini PC in the form of an official Dev Kit, which undercuts ([or at least matches](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1069194734322795598%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) ) the price of even the lower-end Snapdragon X Plus laptops, and it's set for a full launch on August 23rd, though it's also already available for pre-order on[Arrow.com](https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm) for just $899 USD.
 
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
 
@@ -37,8 +41,9 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -53,8 +58,6 @@ In an interesting turn of events, the first device boasting the highest-end vers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -62,4 +65,18 @@ In an interesting turn of events, the first device boasting the highest-end vers
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-11ipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone 11/iPad/iPod</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-guide-top-10-must-know-ipad-features-and-setups-for-beginners-and-experts-alike-discover-the-best-practices-with-zdnets-expert-advice/"><u>Essential Guide: Top 10 Must-Know iPad Features & Setups for Beginners & Experts Alike - Discover the Best Practices with ZDNet's Expert Advice</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-tecno-camon-20-pro-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Tecno Camon 20 Pro 5G Lock Screen Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g-5g-2023-phone-without-password-by-drfone-android/"><u>How To Unlock Motorola Moto G 5G (2023) Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-asus-rog-phone-7-ultimate-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Asus ROG Phone 7 Ultimate? Try These Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-21-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Meizu 21 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-motorola-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Motorola Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-m2-storage-in-windows-os/"><u>Mastering M.2 Storage in Windows OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-download-of-lexars-usb-drive-software-get-started-fast/"><u>Quick Download of Lexar's USB Drive Software - Get Started Fast</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-software-with-keybindings/"><u>Tailoring Windows Software with Keybindings</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-complete-lexis-audio-editor-experience-critiques-advanced-features-and-tutorials/"><u>Updated The Complete Lexis Audio Editor Experience Critiques, Advanced Features, and Tutorials</u></a></li>
+</ul></div>
 

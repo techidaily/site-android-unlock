@@ -1,7 +1,7 @@
 ---
 title: In 2024, Everything You Need to Know about Lock Screen Settings on your Lava Blaze 2 Pro
-date: 2024-11-15T06:40:24.483Z
-updated: 2024-11-16T05:01:44.297Z
+date: 2024-12-23T16:17:43.864Z
+updated: 2024-12-26T16:28:41.661Z
 tags: 
   - unlock
   - remove screen lock
@@ -34,24 +34,15 @@ Options – Security – Screen Lock – Choose Screen Lock.
 
 Now see how to unlock your lock screen in different ways.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.Slide
 
 This is the most common method of unlocking an android lock screen. On all most all the android device, you'll notice a lock mostly on the right side (sometimes on top) of a round charm. You just have to direct towards the lock and then the lock screen will be unlocked in no time. This method doesn't provide any security (it just protects your device from sudden access by tapping on screen or any of the button) to your device as no password or PIN is required to set the "Slide" unlock.
 
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-3.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Keep your any finger on the middle of the round charm and by keeping your finger pressed, reach on the lock icon. The lock screen will be unlocked just after reaching your finger to the lock icon.
 
@@ -85,17 +76,29 @@ In addition to PIN protection, you can consider it as password by adding some le
 
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6.Fingerprint
 
 In some of the modern Android device, you'll find the feature of fingerprint unlocking. You can find the option through the screen or any dedicated button. By setting your fingerprint, you can unlock your device by tapping your finger on the Lava Blaze 2 Pro device's screen or the dedicated button.
 
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7.Voice
 
 This is also a fun way of unlocking Android lock screen as you can unlock by saying the same voice that you've saved as the unlocking recognition.
 
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Go to the setting from "Voice Unlock" button and record your voice such as "Open My Lava Blaze 2 Pro" or as per your choice with clear sound. Repeat the voice a few more times as to match well. Then set and unlock your device from the lock screen by using the same voice command.
 
@@ -158,6 +161,10 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![bypass Samsung Phone's lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Video on How To Remove Android Lock Screen
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/qXw3JNztGVI" id="video-iframe-t"></iframe>
@@ -173,13 +180,6 @@ For those looking to truly unleash the full potential of their Android device, a
 **OEM lock** might sound like technical jargon to many. However, it’s a key concept for those who wish to dive deeper into Android customization. OEM stands for Original Equipment Manufacturer. Unlocking in this context refers to removing restrictions made by the manufacturer on the Lava Blaze 2 Pro device.
 
 This process allows you to gain deeper access to the Lava Blaze 2 Pro device’s software. Thus, OEM unlocking is often required for customizing or modifying the system at a more advanced level.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Why Enable OEM Unlock?
 
@@ -202,6 +202,10 @@ On the other hand, here are some cons that you must consider before performing t
 - **Security risks.** Root access can make your device more vulnerable to malware and hacking.
 - **Void warranty.** OEM unlocking often voids the manufacturer’s warranty.
 - **Potential for bricking.** Incorrect procedures can render the Lava Blaze 2 Pro device unusable, known as ‘bricking’.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Understanding the Risks
 
@@ -262,6 +266,10 @@ With an OEM unlocked device, the sky’s the limit regarding customization. You 
 
 However, it’s crucial to proceed with caution. Rooting and installing custom ROMs can void your warranty and, if not done correctly, can turn your device into an expensive paperweight (a state often referred to as “bricking”). Always use reliable sources for your custom ROMs and root-access apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus: How To Unlock Your Android Screen When You Forgot Password
 
 [<u>Forgetting the password </u>](https://drfone.wondershare.com/unlock/guide-to-unlock-mi-account-without-password.html) to your Android phone can be a stressful experience. It locks you out of your device. It cuts your access to personal data, contacts, and essential apps. However, aside from OEM unlocking, learning the skill of screen unlocking is incredibly useful in such situations. It’s not just about regaining access. It’s about harnessing control over your device during forgetfulness or emergency.
@@ -271,10 +279,7 @@ However, it’s crucial to proceed with caution. Rooting and installing custom R
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
@@ -332,13 +337,6 @@ Diving into OEM
 
 ## Top 12 Prominent Lava Blaze 2 Pro Fingerprint Not Working Solutions
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1. Optimal Solution: Unlock With Wondershare Dr.Fone Directly
 
 Facing a malfunctioning fingerprint on your Lava Blaze 2 Pro can be frustrating. In this scenario, the most effective resolution is the removal of the registered fingerprint. Yet, traditional methods of removing the fingerprint can be difficult and pose security risks. In this case, going for tools like [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is the best choice. This tool ensures your Pixel device is at no risk.
@@ -364,13 +362,6 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 2. With Dr.Fone, bypassing screen locks can be achieved without data loss.
 3. Fone supports 2000+ Android phones and tablets from over 18 brands for screen unlocking.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step-by-Step Guide To Remove Fingerprint Type Lock on Google Pixel Using Dr.Fone
 
 With Dr.Fone, you can resolve the **Lava Blaze 2 Pro fingerprint sensor not working** issue within minutes. Below is a detailed walkthrough for removing a fingerprint lock on a Google Pixel:
@@ -392,6 +383,10 @@ Afterward, you'll be guided to a subsequent screen prompting you to choose the L
 After entering Recovery Mode, the screen unlocking procedure will initiate automatically. Please wait for the fingerprint removal process to finish. In case of failure, select "Try Again" to attempt unlocking again. Upon successfully unlocking your Android device's screen, tap "Done."
 
 ![screen unlocked successfully](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. 11 Conventional Solutions To Resolve Pixel Fingerprint Not Working
 
@@ -434,13 +429,6 @@ The best way to resolve this issue is to update your Pixel device. Having an out
 **Instructions.** On your Pixel device, access the “Settings” app. Within Settings, scroll down to tap the "System" option. On the following screen, hit the "System update" option to check if any latest update is available. Here, if you see any updates, download and install them promptly. Before initiating the update, ensure your device is connected to a stable Wi-Fi network with sufficient battery charge.
 
 ![update device to latest version](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Dirty Phone or Sensor
 
@@ -526,13 +514,6 @@ While holding the Lava Blaze 2 Pro device, avoid placing your fingers or palms o
 
 ![hold phone properly](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8\. Fingerprint Sensor Not Visible
 
 #### Problem
@@ -558,13 +539,6 @@ The fingerprint sensor may have [low touch sensitivity](https://drfone.wondersha
 Accessories like a screen protector might impact the performance of your Pixel device's touch sensitivity. When using a screen protector, your Pixel enhances touch sensitivity. To do that, navigate to the Settings app and open it. Move to the "Display" window and scroll down to the last option. Toggle on the "Screen protector mode" to increase the screen sensitivity.
 
 ![turn on screen protector mode](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### 2\. Finger Re-Enrollment
 
@@ -595,6 +569,10 @@ Thoroughly examine your Pixel device for any physical damage. These include crac
 Boot the Lava Blaze 2 Pro device in safe mode to determine if third-party apps are causing conflicts. To do that, press the "Power" key with any volume key to access the power menu. Afterward, long-press the "Power Off" option until the "Reboot to Safe Mode" option appears on your device's screen. Press "OK" to reboot into Safe Mode and test the fingerprint sensor's functionality.
 
 ![reboot google pixel to safe mode](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### 3\. Professional Assessment
 
@@ -640,20 +618,18 @@ In summary, this article detailed various methods to fix **the Lava Blaze 2 Pro 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-breaking-down-recordcasts-marketing-claims-for-2024/"><u>[New] Breaking Down RecordCast’s Marketing Claims for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-pitchperception-sound-examination-for-2024/"><u>[New] PitchPerception Sound Examination for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-gaming-hits-with-powerful-hashtag-strategies/"><u>[Updated] 2024 Approved Gaming Hits with Powerful Hashtag Strategies</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-recording-titans-duel/"><u>2024 Approved Recording Titans Duel</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/hashtag-hacks-the-top-25-tactics-to-elevate-your-instagram-profile/"><u>Hashtag Hacks The Top 25 Tactics to Elevate Your Instagram Profile</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-samsung-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Samsung</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-asus-rog-phone-8-pro-phone-by-drfone-android/"><u>How to Reset a Locked Asus ROG Phone 8 Pro Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-f25-pro-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo F25 Pro 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-f34-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-s24-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy S24</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy F15 5G</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/rescue-your-iphones-memories-step-by-step-restoration-techniques-without-previous-saves/"><u>Rescue Your iPhone's Memories: Step-by-Step Restoration Techniques without Previous Saves</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/standard-configuration-for-easy-file-removal-on-windows-using-stellar-eraser-5/"><u>Standard Configuration for Easy File Removal on Windows Using Stellar Eraser 5</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-apex-selection-authoritative-guide-to-best-mesh-wireless-2024-edition/"><u>The Apex Selection: Authoritative Guide to Best Mesh Wireless - 2024 Edition</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-oppo-find-x7-ultra-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-complete-analysis-breaking-down-the-google-podcast-app/"><u>[New] Complete Analysis Breaking Down the Google Podcast App</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-aspects-a-beginner-cookbook-for-asmr-filmmaking/"><u>[New] Elevate Your Aspects A Beginner' Cookbook for ASMR Filmmaking</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-cultivating-a-brand-identity-youtube-visibility-without-spending-for-2024/"><u>[Updated] Cultivating a Brand Identity YouTube Visibility without Spending for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-streamline-your-workflow-with-ez-grabber/"><u>[Updated] Streamline Your Workflow with EZ Grabber</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-motorola-g54-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Motorola G54 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-unresponsive-creative-pebble-audio-devices/"><u>Diagnosing and Repairing Unresponsive Creative Pebble Audio Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Sony</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-nonfunctional-touchpad-on-your-laptop-effective-strategies-and-tips/"><u>Fixing a Nonfunctional Touchpad on Your Laptop – Effective Strategies and Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-asus-rog-phone-7-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Asus ROG Phone 7?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo Y78 5G Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-y78t-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo Y78t</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/kickstarting-a-successful-social-good-campaign-online-for-2024/"><u>Kickstarting a Successful Social Good Campaign Online for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/transform-your-discord-experience-with-top-bot-choices-for-2024/"><u>Transform Your Discord Experience with Top Bot Choices for 2024</u></a></li>
 </ul></div>
 

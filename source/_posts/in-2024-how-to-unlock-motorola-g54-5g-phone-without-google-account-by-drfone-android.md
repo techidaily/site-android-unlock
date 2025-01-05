@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Motorola G54 5G Phone without Google Account?
-date: 2024-12-25T16:50:03.876Z
-updated: 2024-12-26T16:11:45.961Z
+date: 2024-12-28T16:44:22.418Z
+updated: 2025-01-04T20:17:34.370Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,6 +22,10 @@ Uh oh – you’ve forgotten your Android Unlock code, and you can’t get it on
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Bypass Lock Screen on Android device with Google Account (Android Device Manager)
 
 Even if you have a Google account, if your phone isn’t connected to the internet, you cannot access it to unlock your phone. If this sounds familiar, you can always try this method.
@@ -31,10 +35,6 @@ Even if you have a Google account, if your phone isn’t connected to the intern
 Android Device Manager link: <http://www.google.com/android/devicemanager>
 
 ![android Device Manager log in](https://images.wondershare.com/drfone/others/14637942446007.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2\. Once you have logged in, you will automatically be redirected to the Android Device Manager page. If this is your first time, click the “Accept” button.
 
@@ -47,10 +47,6 @@ Android Device Manager link: <http://www.google.com/android/devicemanager>
 4\. The Android Device Manager will then locate your device. Make sure it is turned on!
 
 ![android Device Manager locating device](https://images.wondershare.com/drfone/others/14637942532352.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5\. After it has been located, you will have a few options for what to do next. If you do not know your phone's location, you can call it from this screen, but if you know where it is, click the ‘Enable Lock & Erase’ option.
 
@@ -73,10 +69,6 @@ If you have forgotten your Google Account password, it is still possible to unlo
 1\. On your browser, go to the Google home page and try to sign in. You will fail, but that is good! It will lead you to the next step.
 
 ![android Google web page](https://images.wondershare.com/drfone/others/14637535742329.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2\. Since you cannot sign in on the sign-in page, you can now select the ‘Help’ link.
 
@@ -101,6 +93,10 @@ If you have forgotten your Google Account password, it is still possible to unlo
 7\. Finally, you can unlock your Google account on your Android! Confirm this by clicking the “Change Password” button. Success!
 
 ![android Google reset password input new password](https://images.wondershare.com/drfone/others/14637552534874.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How to Remove Locked Screen on Android using Dr.Fone
 
@@ -134,6 +130,10 @@ Now connect your Android phone connected with the PC, and select the Motorola G5
 **Step 3:** After the process is complete, your Android device should be unlocked, and you can access it without the screen lock.
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -177,7 +177,7 @@ To learn how to get into a locked phone using Dr.Fone, follow these steps:
 ![get into a locked phone with Dr.Fone-Start](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3.** Now, you need to put your Android device in Download mode. To do this, you need to turn your device off by pressing the Power button. Afterward, press the Home, Power, and Volume Down buttons together. After a while, let go of these buttons and press the Volume Up button to enter the Download Mode.
@@ -203,7 +203,7 @@ Google’s Android Device Manager (also known as Find My Device) can be used to 
 ![get into a locked phone-locate the Motorola G54 5G device](https://images.wondershare.com/drfone/article/2017/10/15081758684058.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3.** Choose the “Lock” option to proceed.
@@ -223,14 +223,14 @@ If you are using a Samsung device, you can also use its Find My Mobile service t
 
 ![get into a locked phone-access various features](https://images.wondershare.com/drfone/article/2017/10/15081759638999.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4.** From the provided options on the left panel, click on the “Unlock My Screen” option.
 - **Step 5.** Click on the “Unlock” button again to move past the lock screen of your device.
 
 ![get into a locked phone-Unlock](https://images.wondershare.com/drfone/article/2017/10/15081759851833.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6.** After waiting for a while, you will get the following prompt. From here, you can set up a new lock for your mobile or can click on the “Lock My Screen” option to do the same.
 
@@ -242,6 +242,10 @@ If your device is based on Android 4.4 and earlier versions, you may also use it
 - **Step 2.** This will display the “Forgot Pattern” button on the bottom of the screen. Just tap on it to continue.
 
 ![get into a locked phone-Forgot Pattern](https://images.wondershare.com/drfone/article/2017/10/15081760134210.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3.** On the next screen, you can unlock your device by providing the backup PIN of your device or sign in using the Google credentials of the account linked to the Motorola G54 5G device.
 
@@ -386,6 +390,10 @@ Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/D
 
 ![aircrack](https://images.wondershare.com/images/utilities/aircrack.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features of Aircrack**
 
 - Supportive with both Brute force and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack) cracking techniques
@@ -395,10 +403,6 @@ Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/D
 **Site for Download:**
 
 [http://www.aircrack-ng.org/](http://www.aircrack-ng.org/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. THC Hydra : Multiple services supportive, Network authentication cracker
 
@@ -418,6 +422,10 @@ It can be used to crack passwords of different protocols including HTTPS, HTTP, 
 **Site for Download:**
 
 [https://www.thc.org/thc-hydra/](https://www.thc.org/thc-hydra/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. RainbowCrack : New Innovation in Password Hash Cracker
 
@@ -481,6 +489,10 @@ It is only available for windows operation systems. Tool has a limitation that i
 
 [http://www.hoobie.net/brutus/](http://www.hoobie.net/brutus/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. L0phtCrack : Smart tool for Windows password recovery
 
 Just like OphCrack tool L0phtCrack is also a Windows passwords recovery tool uses hashes to crack passwords, with extra features of Brute force and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack).
@@ -488,10 +500,6 @@ Just like OphCrack tool L0phtCrack is also a Windows passwords recovery tool use
 It normally gains access to these hashes from directories, network servers, or domain controllers. It is capable of doing hash extraction from 32 & 64 bit Windows systems, multiprocessor algorithms, scheduling, and can also perform decoding and monitoring networks. Yet it is still the easiest to use password auditing and recovery software available.
 
 ![phtcrack](https://images.wondershare.com/images/utilities/phtcrack_1233.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of L0phtCrack**
 
@@ -516,10 +524,6 @@ Recently software is updated to new version called Fgdump as Pwdump not work fin
 
 ![pwdump](https://images.wondershare.com/images/utilities/pwdump.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of Pwdump**
 
 - Available for Windows XP, 2000
@@ -540,10 +544,6 @@ It is speedy brute force, parallel and modular tool. Software can perform Brute 
 Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of information. All modules available as an independent .mod file, so no modification is required to extend the list that supports services for brute forcing attack.
 
 ![medusa](https://images.wondershare.com/images/utilities/medusa_1037.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of Medusa**
 
@@ -570,19 +570,22 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-youtube-adverts-recent-changes-and-compliance-for-2024/"><u>[Updated] YouTube Adverts Recent Changes and Compliance for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-for-free-how-to-convert-twitter-videos-to-gifs/"><u>2024 Approved For Free! How to Convert Twitter Videos to GIFS?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-speaking-through-screens-effective-communication-on-youtube/"><u>2024 Approved Speaking Through Screens Effective Communication on YouTube</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-asus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Asus Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-a15-4g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy A15 4G Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-z-fold-5-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy Z Fold 5 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-a79-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo A79 5G Phone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ingenious-intellectual-engagement-best-general-knowledge-channels-for-2024/"><u>Ingenious Intellectual Engagement Best General Knowledge Channels for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-reno-11f-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Oppo Reno 11F 5G</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-meta-store-how-to-add-new-titles-to-your-oculus-quest-2-library/"><u>Navigating the Meta Store: How to Add New Titles to Your Oculus Quest 2 Library</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-6-masterful-automated-speech-to-text-tools-for-2024/"><u>New Top 6 Masterful Automated Speech-to-Text Tools for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-freeing-up-space-by-flushing-your-android-devices-memory/"><u>Step-by-Step Guide: Freeing Up Space by Flushing Your Android Device's Memory</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-z-fold-5-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy Z Fold 5 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-acoustic-imprinting-pc-noises-logged/"><u>[New] In 2024, Acoustic Imprinting PC Noises Logged</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-streamline-your-skype-talks-using-obs-effectively/"><u>[Updated] Streamline Your Skype Talks Using OBS Effectively</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-honor-magic-5-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Honor Magic 5 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-lava-agni-2-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Lava Agni 2 5G?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-t2x-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo T2x 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100a-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y100A Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-m54-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-a60-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel A60 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x100-pro-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo X100 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-v27-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo V27 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://solve-help.techidaily.com/the-battle-of-apples-flagship-tablets-in-depth-comparison-between-ipad-air-5-and-ipad-air-4-for-tech-enthusiasts/"><u>The Battle of Apple's Flagship Tablets: In-Depth Comparison Between iPad Air 5 and iPad Air 4 for Tech Enthusiasts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-galaxy-f04-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Galaxy F04 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-lameencdll-error-for-audio-conversion-in-audacity/"><u>Troubleshooting the lame_enc.dll Error for Audio Conversion in Audacity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unboxing-marketing-strategy-for-2024/"><u>Unboxing Marketing Strategy for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-without-stress-secrets-to-opening-an-ipad-safely/"><u>Unlock Without Stress: Secrets to Opening an iPad Safely</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-6-free-substitutes-for-the-popular-openai-sora-platform/"><u>Unveiling 6 Free Substitutes for the Popular OpenAI Sora Platform</u></a></li>
 </ul></div>
 

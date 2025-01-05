@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Lenovo ThinkPhone Phone Password Without Factory Reset?
-date: 2024-08-09T15:41:45.873Z
-updated: 2024-08-10T15:41:45.873Z
+date: 2024-12-30T21:19:50.729Z
+updated: 2025-01-04T19:53:51.517Z
 tags: 
   - unlock
   - remove screen lock
@@ -19,18 +19,12 @@ You always set up some sort of lock to secure your smartphone to stop others fro
 
 You are in the middle of some things, and you want to make some urgent calls. How to unlock Android phone passwords without a factory reset? What do you do then? There are very easy solutions to this that would help unlock your Android phone in no time without going for the factory reset and losing your valuable data.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Part 1: How to unlock Android password without factory reset using Dr.Fone - Screen Unlock?
 
 Whether you have a pattern or PIN or fingerprint as a password, you can remove any type of password by using the Dr.Fone - Screen Unlock. The only defect is that your data will be wiped out after unlocking the phone successfully. It helps in removing the lock screen on Android phones. Now, if you are thinking about how safe it is, let me assure you that the process is very safe and simple, with no risk of data leakage. This process is supported by most Samsung and LG smartphones without data loss, and you just need to connect your handset to let the Dr.Fone - Screen Unlock start the procedure.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/WOBqlRz2IaY" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
@@ -50,20 +44,18 @@ Follow the following steps to unlock your Android password without factory reset
 
 **Step 1:** Firstly, install and run [Download Dr.Fone –Screen Unlock](https://download.wondershare.com/drfone_unlock_full3372.exe) on your computer. And connect your Android phone to your computer with a USB cable > download.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** After that, select the phone model from the list or choose "I can't find my device model from the list above" on the next screen.
 
 ![start to unlock android password](https://images.wondershare.com/drfone/drfone-android/drfone-lock-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Now, there will be three steps mentioned that you must follow to get your phone into the Download mode. The first is to power off the phone. The second is to press and hold the Volume button along with the Home button and Power button. The third step is to press the volume up the option to get into the download mode.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![boot phone in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 **Step 4:** Once your phone is in download mode, the program will start downloading the recovery package and then unlock your Android password without factory reset or data loss.
@@ -72,9 +64,6 @@ Follow the following steps to unlock your Android password without factory reset
 
 **Step 5:** You will see that the icon showing “Remove Password Completed” will pop up. This whole process takes only a few minutes to get your work done without any loss of any data.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![unlock android password without factory reset](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 ## Part 2: How to unlock Android password without factory reset using Android Device Manager?
@@ -87,19 +76,17 @@ With very simple steps and a few minutes at hand, you can get rid of your passwo
 
 • Now sign in with your Google credentials. Google will start searching for your device. Here you need to choose the Android phone you want to unlock in case it is already not selected.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![drfone](https://images.wondershare.com/drfone/article/2017/10/15090637463876.jpg)
 
 **Step 2.** Here you will see three options: “Ring,” “Lock,” and “Erase.” Select the “Lock” option
 
 **Step 3.** A window will appear where you need to type any temporary password. Do not enter your Google password, and you need not enter the recovery message. Click on “Lock ” again.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter temporary password](https://images.wondershare.com/drfone/article/2017/10/15090638114424.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once successful, you will get a confirmation message below the three buttons: Ring, Lock, and the Erase option.
 
@@ -109,9 +96,6 @@ Once successful, you will get a confirmation message below the three buttons: Ri
 
 You have successfully unlocked your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Unlock Android password using custom recovery and Pattern Password Disable (SD card needed)?
 
 The third way to unlock an Android phone password without a factory reset it using the “custom recovery” technique. To work out this process, you would have to install the custom recovery process. Also, your phone needs to have an SD card. It will be required to send the zip file to the phone since your device is locked. This technique requires access to the Android System folder and rooting your device if not already rooted.
@@ -130,18 +114,12 @@ Through this easy method, you can now access your Android phone without using a 
 
 The problem of getting your mobile locked and not being able to open it is a common problem on Android phones these days. Many of us tend to panic when such problems arise. However, now that we have given some easy solutions and methods to unlock Android phone passwords without factory reset and losing any data, things would be much easier. Thus, you will solve your problems in no time.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Unlock Lenovo ThinkPhone  PIN Code/Pattern Lock/Password
 
 _I have forgotten the pattern, PIN, or password needed to unlock my Lenovo ThinkPhone  smartphone. What should I do?_
 
 If you have a Lenovo ThinkPhone  phone and have forgotten the screen unlock PIN code, pattern lock, or password, you can still access it using some tried and tested tricks and hacks. This article will discuss 5 different ways on how to unlock **Lenovo ThinkPhone  smartphone**. Some methods might work without erasing your data, while others, like factory resetting, may erase all content from your phone. Regardless of which method you use, you will be able to unlock your phone! So, let’s get started!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How to Unlock Lenovo ThinkPhone  With Google Find My Lenovo ThinkPhone?
 
 A way to unlock the Lenovo ThinkPhone  phone is via Google Find My Device feature. While this method can help unlock your phone, it erases all content from it.
@@ -150,9 +128,6 @@ For this method, you need a PC and your Google account details. Here are the ste
 
 **Step 1:** Open your browser and go to [Google Find My Device](https://www.google.com/android/find) on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google account verification](https://images.wondershare.com/drfone/article/2022/05/google-account-verification.jpg)
 
 **Step 2:** Log in to the Google account you used to set up your Lenovo ThinkPhone  phone.
@@ -160,6 +135,10 @@ For this method, you need a PC and your Google account details. Here are the ste
 **Step 3:** It will show you 3 options: Play Sound, Secure Device, and Erase Device.
 
 ![find my device](https://images.wondershare.com/drfone/article/2022/05/google-find-my-device.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And then select “**Erase Device.**”
 
@@ -178,6 +157,10 @@ Another foolproof method on how to unlock Android pattern lock is by using a loc
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/QWpE8NykOWc"></iframe>
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dr.Fone - Screen Unlock is a screen unlock tool that can unlock your Android phone if you forget its screen unlock PIN, password, or pattern in just 5 minutes. It has a simple operation that requires just a few clicks to unlock your phone screen. Plus, this method is reliable, secure, and has a high success rate. However, there’s a possibility that it might not work with older phone models.
 
@@ -200,9 +183,6 @@ Here are the steps to unlock Android phone using Dr.Fone - Screen Unlock (Androi
 
 **Step 2:** Connect your phone to your PC with a USB cable. Now click on the "Android" > "Unlock Android Screen" option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 3:** A device brand will appear. Select your phone’s brand, i.e., Samsung.
@@ -211,20 +191,17 @@ Here are the steps to unlock Android phone using Dr.Fone - Screen Unlock (Androi
 
 **Step 4:** Now, follow the instructions as you see to unlock your Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![begin to remove android lock screen](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
 Your phone is now unlocked, and you can access it without entering a PIN, password, or pattern.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android lock screen bypassed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 Now, if you don’t remember your Google account details and don’t have access to a PC to use a screen unlock tool, you can unlock Android phone using the conventional way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Unlock Lenovo ThinkPhone  with Google Account?
 
@@ -238,8 +215,9 @@ You can unlock your Lenovo ThinkPhone  phone with Google Account in the followin
 ![unlock sony xperia](https://images.wondershare.com/drfone/article/2022/05/how-to-unlock-sony-xperia.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Using Google Account Details
 
 Almost all Android smartphones, including Lenovo ThinkPhone , require you to enter your Google account details when setting up your phone for the first time. This account comes in handy later on in situations where your phone is lost or stolen or if you’re switching to another phone. However, it can also help with basic issues like unlocking your phone in case you forget your Lenovo ThinkPhone  screen unlock PIN, pattern, or password. But to use this method successfully, you need to remember the email address bound to the Lenovo ThinkPhone device and its password.
@@ -263,9 +241,6 @@ For the latter, here are the steps:
 - **Step 3:** Click on “Unlock” after which you will be asked if you want to set a new PIN or pattern. Select “Yes.”
 - **Step 4:** Your Lenovo ThinkPhone  phone will be unlocked, and you can set a new PIN or pattern for your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## How to Unlock Lenovo ThinkPhone  by Hard Reset?
 
 Hard resetting your smartphone usually solves everything! Hence, it can also help you unlock your Lenovo ThinkPhone  phone; however, using this method will erase all the data on your phone. So, if you still want to unlock Lenovo ThinkPhone  phone using this method, only do so if you have backed up your device and have no other way to unlock your phone. This includes forgetting your Google account details or not having access to a PC to download and use Dr Fone - Screen Unlock (Android).
@@ -279,9 +254,6 @@ Here are the steps for it:
 
 Your Lenovo ThinkPhone  phone will be hard reset, and all the locks will be removed. When you turn it on again, you will have to set it up like a new phone using your Google account details.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Unlock Lenovo ThinkPhone  with Lenovo  Companion?
 
 If you've forgotten the screen lock of your Lenovo ThinkPhone  device, you can use Sony's official software, Lenovo  Companion, to unlock your device. Lenovo  Companion is a reliable method that can help you regain access to your Lenovo  without data loss. Here's how to unlock your Lenovo ThinkPhone  using Lenovo  Companion:
@@ -293,6 +265,10 @@ If you've forgotten the screen lock of your Lenovo ThinkPhone  device, you can u
 **Step 2:** Now, plug in your laptop to power, as the process will take some time, and choose "repair my phone/tablet." Here, agree to the warning that you will lose your data and click “Next” to proceed.
 
 ![tap repair my phone tablet](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Allow the program to download files to prepare for the update process and choose your Lenovo ThinkPhone  model. Click “Next” and connect your Lenovo ThinkPhone  to the PC. Ensure that the phone is turned off, and press and hold the "Volume Down" button when connecting the cable to the phone.
 
@@ -318,6 +294,14 @@ An operator lock, also called a carrier lock, constitutes a limitation imposed o
 
 ![enter the sim unlock code](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tip: How to Unlock Bootloader?
 
 Unlocking the bootloader on your Android device provides significant advantages. These actions encompass obtaining root access, installing custom ROMs, configuring custom recoveries, and carrying out advanced procedures. Here's an essential guide on unlocking the bootloader of your Sony device while keeping all precautions in mind:
@@ -335,19 +319,15 @@ Unlock the bootloader with the following command: `fastboot oem unlock 0x<insert
 Verify the bootloader is unlocked and use the command to reboot the system; if not done automatically: `fastboot reboot`
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Forgetting your Lenovo ThinkPhone  screen unlock password, PIN, or pattern is quite common. For such instances, there are several methods that you can use to unlock your screen, 5 of which we have discussed in this article.
 
 If you’re looking for ways that are time-effective and reliable, you can use your Google account or other ways to unlock Lenovo ThinkPhone  and set a new screen lock. However, with these methods, you can lose your data, so we only recommend using them if your device is backed up.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Unlock Lenovo ThinkPhone Phone with Broken Screen
 
 Seeing as the only way to control your Lenovo ThinkPhone deviceis the touch screen, a broken device can cause you a lot of worries. Most people think that there is no way to get their device to work again let alone be able to unlock it if [the screen is broken or cracked](https://www.wondershare.com/android/access-android-phone-with-broken-screen.html). It is, however, important to find a way to unlock the broken device so that you can gain access to your data and create a backup to restore to a new device.
@@ -358,9 +338,6 @@ In this article, we are going to look at a few simple ways you can unlock an And
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/KaWEiQhxBTQ" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Method 1: Using Android Debug Bridge (ADB)
 
 For this method, you will need your device and access to a PC. It is the most powerful method to unlock a broken Android device. It will however only work if you have enabled USB debugging on your android phone. If you haven’t, skip this method and see if method 2 or 3 might be of help.
@@ -403,32 +380,20 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 **Step 1:** Connect the Micro USB side of the OTG adapter to your device and then plug in the USB mouse to the adapter.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![connect broken screen android phone](https://images.wondershare.com/drfone/others/14531933625473.jpg)
 
 **Step 2:** As soon as the Lenovo ThinkPhone devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the Lenovo ThinkPhone device’s password lock.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
 
 You can then go about backing up the contents of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 3: Using your Samsung Account
 
 This method is a reliable way to unlock a Samsung device that has a broken screen or is not working correctly. While it is highly effective you will need to have a Samsung account registered with your device. The problem is that not many Samsung device users have registered their devices with the service. If you are among the lucky few who have, here’s how to use your account to unlock your device.
 
 **Step 1:** Visit the [https://findmymobile.samsung.com/login.do](https://findmymobile.samsung.com/login.do) on your PC or any other device and log in with your account information.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933993021.jpg)
 
 **Step 2:** Select your device from the menu on the left-hand side of the screen.
@@ -437,13 +402,9 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 
 ![unlock android using samsung account](https://images.wondershare.com/drfone/others/14531934188479.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Being unable to unlock your device is never a good place to be. We hope one of the above solutions will work for you. You can then gain access to your device and back up the files and contacts. This way your life doesn’t have to be disrupted- you can just restore the backup on a new device or the old one once the screen is fixed.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -457,5 +418,22 @@ Being unable to unlock your device is never a good place to be. We hope one of t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-annotating-emotions-through-trailer-tunes/"><u>[New] Annotating Emotions Through Trailer Tunes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-the-perks-of-youtube-premium-subscription/"><u>[New] In 2024, Navigating the Perks of YouTube Premium Subscription</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-exploring-iphoneutility-mirror-photo-mastery-tips-for-2024/"><u>[Updated] Exploring iPhone'utility Mirror Photo Mastery Tips for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-timely-broadcasts-for-maximum-impact/"><u>[Updated] Timely Broadcasts for Maximum Impact</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-elite-list-best-online-streaming-options-today/"><u>2024 Approved Elite List Best Online Streaming Options Today</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-cutting-edge-techniques-in-vivacut-detailed-review-and-guide-2024/"><u>Explore Cutting Edge Techniques in VivaCut Detailed Review & Guide 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-cups-printer-connectivity-in-win7/"><u>Fixing CUPS Printer Connectivity in Win7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-and-fix-missing-or-not-detected-msvcr71dll-files/"><u>How to Address and Fix Missing or Not Detected MSVCR71.DLL Files</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-asus-rog-phone-7-ultimate-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Asus ROG Phone 7 Ultimate?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y77t-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y77t Pattern Lock Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-z-fold-5-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy Z Fold 5 Through Google Earth?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-s17-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo S17 Pro Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-samsung-galaxy-s23-fe-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Samsung Galaxy S23 FE Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-oppo-reno-11-pro-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Oppo Reno 11 Pro 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+</ul></div>
 

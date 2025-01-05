@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Huawei Phone without PIN
-date: 2024-12-24T16:38:36.562Z
-updated: 2024-12-26T16:24:38.103Z
+date: 2024-12-28T17:17:01.969Z
+updated: 2025-01-04T16:42:13.265Z
 tags: 
   - unlock
   - remove screen lock
@@ -51,10 +51,6 @@ Note：You can also use these tool to bypass other phone's screen including Huaw
 
 ![unlock your Android PIN-connect your android device](https://images.wondershare.com/drfone/drfone/android-unlock-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**. Select your phone's model in the list provided. Type "000000" on the blank box provide and then click the "Confirm" button.Then follow the guide provided to enter download Mode. You can also Power off the android device, and then press Power, Home and Volume Down button simultaneously and then press the Volume Up in order to enter download mode.
 
 ![unlock your Android PIN-Select your phone's model](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
@@ -62,6 +58,10 @@ Note：You can also use these tool to bypass other phone's screen including Huaw
 **Step 4.** The program will then download recovery package automatically. Be patient until the process is complete. After that you can now remove the lock pin.
 
 ![unlock your Android PIN-download recovery package](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![unlock your Android PIN-remove the lock pin](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
@@ -77,6 +77,10 @@ So how do you set up your android screen lock PIN? Here is a step-by-step guide 
 
 ![enable or disable screen lock PIN-Open ](https://images.wondershare.com/drfone/article/2016/05/14646049425841.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 On your android device, open Settings. You can find the settings app in the app; drawer. You can also tap the cog icon on the notification mode and click Settings.
 
 **Step 2**: Select the "Security" tab under "Personal"
@@ -86,10 +90,6 @@ On your android device, open Settings. You can find the settings app in the app;
 **Step 3**: Once you have clicked on "Security", Go to "Screen Lock." You will be provided with lock screen option such as None, Swipe, Pattern. PIN, and Password.
 
 ![enable or disable screen lock PIN-Go to Screen Lock](https://images.wondershare.com/drfone/article/2016/05/14646063398300.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4**. Click on "PIN" option. You will be prompted to enter preferred 4-didgit PIN number. You will then be required o key in the same 4 digits to confirm your security PIN. Click "OK" and you will have enabled your Android screen lock PIN.
 
@@ -109,10 +109,6 @@ In most occasions, in fact, 99.9%, the first thing that you will see when you po
 
 ![enable or disable screen lock PIN-go to ](https://images.wondershare.com/drfone/article/2016/05/14646076268107.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**. You can then click on "Screen Lock" and select "None" to disable the screen lock PIN.
 
 ![enable or disable screen lock PIN-disable the screen lock PIN](https://images.wondershare.com/drfone/article/2016/05/14646081243209.jpg)
@@ -128,10 +124,6 @@ Email accounts have proven their worth in digital devices beyond sending emails.
 To this day, it is known that Gmail accounts can be removed with or without a password. However, one should know that if they consider deleting their Gmail account, they won't be able to send or receive emails. With that, let's proceed to reveal all essential methods that can be used to **delete a Gmail account permanently**. This article will also focus on a perfect tool that assists in making the process easier.
 
 ![deleting gmail account permanently](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1. Synopsis: Things To Know Before Deleting Gmail Account
 
@@ -158,10 +150,6 @@ For the first method, we will discuss **how to delete a Google account** with yo
 
 ![select gmail to delete](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4.** A new pop-up window opens, demanding another email address that can help connect to other Google services. Provide the email address and continue to click "[Send verification email](https://drfone.wondershare.com/factory-reset-protection/bypass-gmail-phone-verification.html) ." The Gmail account won't be deleted until the user verifies the email sent to the new address.
 
 ![provide alternative email address](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-5.jpg)
@@ -169,6 +157,14 @@ For the first method, we will discuss **how to delete a Google account** with yo
 - **Step 5.** For those who want to save their email data, look for the "Download your data" option in the same window. This leads you to the Google Takeout window, where you need to select the data to include. After selecting the data, define the file type, frequency, and destination for exporting all important data.
 
 ![download data from takeout](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Delete Your Gmail Account From Your Smartphone: Android & iOS
 
@@ -180,6 +176,10 @@ If you use a smartphone device and want to delete your Gmail account from that p
 
 ![access accounts in android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Select the "More" option at the bottom on the following screen. Choose the "Remove account" option in the pop-up menu and provide your credentials to execute the deletion of your Gmail account.
 
 ![remove gmail account android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-8.jpg)
@@ -190,6 +190,10 @@ If you use a smartphone device and want to delete your Gmail account from that p
 
 ![open signed in accounts apple](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Discover the option of "Gmail" in the list of signed-in accounts and continue to the next screen. Select "Delete Account" to remove the account from your iOS device.
 
 ![delete gmail account ios](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-10.jpg)
@@ -197,10 +201,6 @@ If you use a smartphone device and want to delete your Gmail account from that p
 ## Part 4. Don’t Know Password of Device? Reset To Delete Gmail Account
 
 What if you've [forgotten the password](https://drfone.wondershare.com/app-password/find-gmail-password.html) to your smartphone device, and you have to **delete your Gmail account permanently?** In such cases, you are left with the option of accessing the Huawei Nova Y71 device’s Recovery Mode and factory resetting the Huawei Nova Y71 device, where possible. To know how it is done flawlessly, look through the steps provided next:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Android Devices
 
@@ -211,10 +211,6 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 - **Step 2.** Once you boot into the Recovery Mode, use the Power and Volume buttons to scroll through the menu. Scroll down with the Volume buttons and select the "Wipe data/factory reset" option with the Power button.
 
 ![select factory reset option](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3.** Select "Factory data reset" on the next screen and confirm that factory reset your Android device successfully. The device automatically gets out of Recovery Mode and starts normally after resetting.
 
@@ -228,33 +224,37 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 ![recovery mode iphone x or later](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **For iPhone 7 Models:** Hold the “Side” and “Volume Down” button until the Recovery Mode screen appears.
 
 ![recovery mode iphone 7 models](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **For iPhone 6 and Earlier Models:** Hold the "Side" and "Home" buttons simultaneously until the Recovery Mode screen appears.
 
 ![recovery mode iphone 6 or earlier](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-16.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 2.** The device automatically gets detected on Finder/iTunes, and a pop-up appears on the screen. Click "Restore" to reset your iOS device to factory settings.
 
 ![restore ios device](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 5. Remove Gmail Account From Device Without Password: Using Wondershare Dr.Fone
 
 While you seek some appropriate way **to close a Gmail account** from a device whose password you’ve forgotten, you might get into Wondershare Dr.Fone. This all-in-one service offers a unique Screen Unlock feature that helps you restore your device. If you have forgotten the lock screen password of your Android device, Dr.Fone – Screen Unlock (Android) makes it exceptionally easy to recover.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Dr.Fone
 
@@ -270,16 +270,18 @@ While you seek some appropriate way **to close a Gmail account** from a device w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-beyond-likes-understanding-youtubes-true-view-metrics-for-2024/"><u>[New] Beyond Likes Understanding YouTube’s True View Metrics for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo S18 Pro? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-oppo-a59-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Oppo A59 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-x-flip-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo X Flip Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-f34-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-oppo-find-x7-ultra-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Oppo Find X7 Ultra Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-a15-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy A15 5G</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-poco-c51-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Poco C51 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-social-media-sharing-with-convertors-for-2024/"><u>Mastering the Art of Social Media Sharing with Convertors for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restarting-your-dolby-sound-on-windows-10/"><u>Step-by-Step Guide to Restarting Your Dolby Sound on Windows 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-overwatch-simplified-recording-strategies/"><u>[New] 2024 Approved Overwatch Simplified Recording Strategies</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-optimizing-discord-stream-quality-with-these-key-steps-for-2024/"><u>[Updated] Optimizing Discord Stream Quality with These Key Steps for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-samsung-galaxy-a24-unlock-without-password-by-drfone-android/"><u>5 Solutions For Samsung Galaxy A24 Unlock Without Password</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-reasons-to-avoid-intels-14th-gen-cpus/"><u>6 Reasons to Avoid Intel's 14Th-Gen CPUs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-motorola-edge-40-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/analyzing-gameplay-improvements-from-ps4-pro-to-ps5/"><u>Analyzing Gameplay Improvements From PS4 Pro to PS5</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-nokia-c12-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Nokia C12 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-huawei-nova-y91-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Huawei Nova Y91</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-xcover-7-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-leading-live-tv-streams-combo-of-global-and-locals/"><u>In 2024, Leading Live TV Streams Combo of Global and Locals</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-webm-to-mp4-conversion-made-simple-top-10-solutions-for-2024/"><u>New WebM to MP4 Conversion Made Simple Top 10 Solutions for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-f15-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy F15 5G Device</u></a></li>
+<li><a href="https://win11.techidaily.com/turning-batches-into-windows-wonders-the-exe-guide/"><u>Turning Batches Into Windows Wonders: The Exe Guide</u></a></li>
 </ul></div>
 

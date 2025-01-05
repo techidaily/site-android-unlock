@@ -1,7 +1,7 @@
 ---
 title: Top 10 Password Cracking Tools For Motorola Moto G14
-date: 2024-12-25T16:11:00.426Z
-updated: 2024-12-26T16:33:09.200Z
+date: 2024-12-29T23:30:31.468Z
+updated: 2025-01-04T23:58:18.349Z
 tags: 
   - unlock
   - remove screen lock
@@ -64,6 +64,10 @@ Cain & Abel can use techniques of Dictionary Attack, Brute-Force and Cryptanalys
 
 ![cain and abel](https://images.wondershare.com/images/utilities/cain-and-abel_39.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features of Cain & Abel:**
 
 - Used for WEP (Wired Equivalent Privacy) cracking
@@ -83,6 +87,10 @@ John the Ripper is a free multi or cross platform password cracking software. It
 It’s primarily used to crack weak UNIX passwords but also available for Linux, Mac, and Windows. We can run this software against different password encryptions including many password hashes normally found in different UNIX versions. These hashes are DES, LM hash of Windows NT/2000/XP/2003, MD5, and AFS.
 
 ![john the ripper00](https://images.wondershare.com/images/utilities/john-the-ripper00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features of John the Ripper**
 
@@ -113,6 +121,10 @@ Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/D
 
 [http://www.aircrack-ng.org/](http://www.aircrack-ng.org/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. THC Hydra : Multiple services supportive, Network authentication cracker
 
 THC Hydra is a supper fast network password cracking tool. It uses network to crack remote systems passwords.
@@ -120,10 +132,6 @@ THC Hydra is a supper fast network password cracking tool. It uses network to cr
 It can be used to crack passwords of different protocols including HTTPS, HTTP, FTP, SMTP, Cisco, CVS, SQL, SMTP etc. It will give you option that you may supply a dictionary file that contains list of possible passwords. It’s best when we use it in Linux environment.
 
 ![thc hydra](https://images.wondershare.com/images/utilities/thc-hydra.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of THC Hydra**
 
@@ -146,6 +154,10 @@ Password cracking using rainbow table is faster than the normal brute force atta
 
 ![rainbowcrack](https://images.wondershare.com/images/utilities/rainbowcrack_1236.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features of Rainbow Crack**
 
 - Support verity of Rainbow tables
@@ -163,6 +175,10 @@ OphCrack used to crack Windows user passwords with the help of rainbow tables th
 Ophcrack is completely free to download, Windows based password cracker that uses rainbow tables to crack Windows user passwords. It normally cracks LM and NTLM hashes. Software has simple GUI and can runs on different platforms.
 
 ![ophcrack00](https://images.wondershare.com/images/utilities/ophcrack00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features of OphCrack**
 
@@ -205,6 +221,10 @@ Just like OphCrack tool L0phtCrack is also a Windows passwords recovery tool use
 It normally gains access to these hashes from directories, network servers, or domain controllers. It is capable of doing hash extraction from 32 & 64 bit Windows systems, multiprocessor algorithms, scheduling, and can also perform decoding and monitoring networks. Yet it is still the easiest to use password auditing and recovery software available.
 
 ![phtcrack](https://images.wondershare.com/images/utilities/phtcrack_1233.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features of L0phtCrack**
 
@@ -298,10 +318,6 @@ Open Wondershare Dr.Fone and connect your Android device via a USB cable. Once t
 
 ![opt for dr fone screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2: Selecting Google As the Motorola Moto G14 device Brand and Activating Recovery Mode**
 
 Afterward, you'll be guided to a subsequent screen prompting you to choose the Motorola Moto G14 device brand, Google. Once you select the brand, you'll be directed to enter a specific mode corresponding to it. For Google Pixel Devices, the specific mode to enter is Recovery Mode. Simply follow the on-screen instructions to activate Recovery Mode on your device.
@@ -317,10 +333,6 @@ After entering Recovery Mode, the screen unlocking procedure will initiate autom
 ## Part 2. 11 Conventional Solutions To Resolve Pixel Fingerprint Not Working
 
 The solution above using Wondershare Dr.Fone is an effective and comprehensive method. It can tackle fingerprint recognition issues, but sometimes, users may look for simpler alternatives. We will explore conventional solutions that can address Pixel fingerprint problems. Each solution will also explain the underlying reasons for the **Pixel 6 fingerprint sensor** issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Fingerprint Sensor Not Touched Firmly
 
@@ -382,10 +394,6 @@ Use compressed air or a soft brush if there's visible debris or particles around
 
 ![dirty sensor or phone issue](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Screen Protector: Dirty or Damaged
 
 #### Problem
@@ -429,10 +437,6 @@ Remove any dirt, oil, or moisture that might cause issues with the fingerprint s
 Refrain from touching oily or greasy surfaces before using the fingerprint sensor. These substances can transfer onto your fingers, affecting sensor accuracy. If your fingers are dirty or damp, pause to clean them using a dry, clean cloth.
 
 ![cleaning finger to use fingerprint](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Covering Screen if Fingerprint on Screen
 
@@ -491,7 +495,7 @@ Delete existing fingerprints and re-register them. This re-enrollment can someti
 ![add new fingerprint](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-15.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 10\. Other Hardware Issues
@@ -515,10 +519,6 @@ Boot the Motorola Moto G14 device in safe mode to determine if third-party apps 
 ##### 3\. Professional Assessment
 
 If you suspect hardware issues, seek professional help from authorized service centers. A clear sign of hardware issues can be visible damage or the sensor failing to function even in safe mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 11\. Factory Reset as Last Resort
 
@@ -571,6 +571,10 @@ Hi Locker allows password and pattern unlocking.
 
 ![unlock apps for android-Hi Locker](https://images.wondershare.com/drfone/article/2016/05/14631657268767.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2.Lok Lok
 
 Lok Lok has a unique take on the locking screen application niche, allowing you to send drawings to people who use the same application. It has the basic functions of course but it really is only fan when others you know, use the same app as well. This fact kind of restricts this otherwise excellent application but the idea is genius. An Android unlock screen app that allows your creative side to shine through.
@@ -593,10 +597,6 @@ This android unlock app allows pin and pattern unlock, and it also has an intrud
 
 ![unlock apps for android-CM Locker](https://images.wondershare.com/drfone/article/2016/05/14631659122551.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5.Slidelock Locker
 
 Another app that takes advantage of Apple's popularity by bringing in the "slide-to-unlock" mechanics and the general aesthetic qualities of the iOS home screen. In addition to possessing the basic functions, this Android unlock screen app also highlights messages.
@@ -604,7 +604,7 @@ Another app that takes advantage of Apple's popularity by bringing in the "slide
 ![unlock apps for android-Slidelock Locker](https://images.wondershare.com/drfone/article/2016/05/14631659338843.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6.Semper
@@ -635,10 +635,6 @@ How to unlock : You can swipe anywhere on the screen.
 
 ![unlock apps for android-AcDisplay](https://images.wondershare.com/drfone/article/2016/05/14631660873877.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9.C Locker Pro
 
 It would be unjust to call it an Android unlock app, this application is actually a carefully selected package that allows you to do a lot of cools stuff with your new and improved home screen. Not only it supports the usually methods of unlocking like swipe or patterns, but you can actually set double or even triple tap options which is quite unique and a very good idea. The app has every other usual options including setting your favorite apps or showing the lock, as well as the date and the temperature of course.
@@ -648,6 +644,10 @@ Google Play link: [https://play.google.com/store/apps/details?id=com.ccs.lockscr
 How to unlock : This Android unlock screen app allows you to unlock the screen with swiping, patterns or even specific number of taps.
 
 ![unlock apps for android-C Locker Pro](https://images.wondershare.com/drfone/others/c-locker-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Echo Notificaiton Lockscreen
 
@@ -673,21 +673,17 @@ _**Bonus Tips:** Easily bypass Android Lock Screen/Google FRP on Android with [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-flawless-gameplay-controlling-games-via-switch-pro-controller-in-steam-for-2024/"><u>[Updated] Flawless Gameplay Controlling Games via Switch Pro Controller in Steam for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-discover-best-free-video-screen-recorder-options/"><u>2024 Approved Discover Best Free Video Screen Recorder Options</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-seamless-integration-combining-b-roll-and-main-scenes/"><u>2024 Approved Seamless Integration Combining B-Roll and Main Scenes</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-strategies-elevate-your-content-and-creativity-to-new-heights/"><u>ChatGPT Strategies: Elevate Your Content & Creativity to New Heights</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-z-flip-5-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-lava-blaze-curve-5g-phone-by-drfone-android/"><u>How to Reset a Locked Lava Blaze Curve 5G Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-z-fold-5-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy Z Fold 5 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://win-premium.techidaily.com/identifying-your-graphics-card-on-windows-10-a-comprehensive-guide-tips-from-yl-computing/"><u>Identifying Your Graphics Card on Windows 10: A Comprehensive Guide - Tips From YL Computing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y100-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y100 Through Google Earth?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-nokia-c12-plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Nokia C12 Plus Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f34-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F34 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210965862-9781649631404-joyfully-just/"><u>Joyfully Just | Free Book</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-a54-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy A54 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mp4-vs-avi-a-detailed-head-to-head-file-format-showdown/"><u>MP4 vs AVI: A Detailed Head-to-Head File Format Showdown</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-s23-ultra-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-sifting-through-the-elements-of-instagram-stories/"><u>[New] In 2024, Sifting Through the Elements of Instagram Stories</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-breakthrough-strategies-for-rapid-fb-media-delivery/"><u>[Updated] 2024 Approved Breakthrough Strategies for Rapid FB Media Delivery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-science-of-perfectly-timed-episodes/"><u>[Updated] The Science of Perfectly Timed Episodes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-video-experience-free-online-quality-enhancement-tools/"><u>Elevate Your Video Experience Free Online Quality Enhancement Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-more-the-6-convenient-features-you-get-with-the-chatgpt-app-not-just-a-website/"><u>Experience More: The 6 Convenient Features You Get with the ChatGPT App, Not Just a Website!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-x100-pro-by-drfone-android/"><u>Full Guide to Unlock Your Vivo X100 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-a23-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy A23 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-s17t-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo S17t</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-oppo-a38-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo A38 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-a54-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy A54 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

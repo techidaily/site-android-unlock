@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide How to Bypass Swipe Screen to Unlock on Sony Xperia 10 V Device
-date: 2024-08-09T15:43:03.512Z
-updated: 2024-08-10T15:43:03.512Z
+date: 2025-01-02T20:11:42.527Z
+updated: 2025-01-04T17:01:51.429Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,8 +22,9 @@ So, if you have ever been stuck due to a lock code, go through the article to re
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WOBqlRz2IaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to disable Swipe Screen to unlock when you can access the phone?
 
 Some people do not pay much attention to their privacy and will not bother locking their Android devices. They would disable the swipe screen to unlock their devices. Thus, this section will talk about the basic solution to disabling the swipe up to unlock Android devices. Our main focus here is on a disabling method of swiping the screen when your Android device is accessible.
@@ -36,16 +37,10 @@ Let us look at the detailed steps below to remove the swipe screen to unlock the
 
 **Step 3:** It will prompt the tab as “Screen security,” You will be listed with three choices, namely, Screen lock, Lock screen options, and Owner Information.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone screen security](https://images.wondershare.com/drfone/article/2017/10/15090619794806.jpg)
 
 **Step 4:** Select the option called “Screen lock,” The next step is to enter your PIN code for security purposes. This step is carried out in Android phones to ensure you are the original owner of the Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![confirm the screen password](https://images.wondershare.com/drfone/article/2017/10/15090620046961.jpg)
 
 **Step 5:** If you click the PIN code option again, the drop-down menu will be listed with more options. Now select the option “None.”
@@ -55,20 +50,15 @@ Let us look at the detailed steps below to remove the swipe screen to unlock the
 That's all. You have successfully run out of the disable commands for the swipe up to unlock the screen. You can now open and access your device without any security methods.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2:How to remove/bypass Swipe to unlock when the phone is locked?
 
 To unlock your device, the only solution is to follow the [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). If you are looking to unlock the screen when the phone is locked, then this method solidly proves to bypass swipe lock Android when it is locked. It helps to resolve this issue by bypassing or removing the swipe screen without causing any loss to your data. This tool temporarily supports bypassing Android screens without data loss on Samsung and LG. As for other Android phones, all the data will disappear after unlocking with this tool.
 
 The features of this Dr.Fone software are many. It gives a solution to four lock methods: a pin, pattern, fingerprint, and password. It is user-friendly, and even a user with no technical information can also use it with no issue. This tool is only limited to remove the screen lock on Samsung and LG without losing data. Your data will still be wiped out on other Android phones after using this tool.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Remove 4 Types of Android Screen Lock without Data Loss
@@ -98,7 +88,6 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 Pretty simple, right? Dr.Fone - Screen Unlock to the rescue for the issue of swipe screen to unlock.
 
-
 ## Part 3: How to turn off the swipe to unlock when the pattern is enabled?
 
 In this section, we will cover how to turn off the swipe to unlock when the pattern lock of the Sony Xperia 10 V device is enabled. Therefore, here we will go through the process of turning off the swipe to unlock the feature of your device. This structure is formed in some interval of locking the screen.
@@ -113,9 +102,6 @@ The steps below imply turning off of swiping screen instantly:
 
 **Step 3:** To turn off the swipe screen, when the pattern is enabled then, choose “Screen lock” and then click on “NONE.”
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![select none](https://images.wondershare.com/drfone/2020/enable-screen-lock.jpg)
 
 **Step 4:** If you have enabled your pattern choice already, it will again prompt you to enter the pattern. Once you entered the pattern, the swipe screen lock will disappear.
@@ -124,14 +110,9 @@ The steps below imply turning off of swiping screen instantly:
 
 **Note:** Regardless of any situation of forgetting the Android lock password, you can go for an email account set up for swiping into the Android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Now, to sum up, we would say that in this article, we tried to bring out the best solutions for your Android device in such cases wherein you want to disable your screen security. The Dr.Fone - Screen Unlock is simply a proven mechanism that delivers what we need and that, too, without any data loss. We ensure that you can disable the swipe screen to unlock easily and effectively using the methods given above. Hence, you can access your phone by bypassing swipe lock Android even if you forget the screen lock code. So, don't just wait, but bring out the solution for the swipe screen to unlock the Android device with [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) now.
-
-
 
 ## Best Ways on How to Unlock/Bypass/Swipe/Remove Sony Xperia 10 V Fingerprint Lock
 
@@ -140,8 +121,6 @@ If you cannot remember your pin, pattern or password to access your Android devi
 ### The Best Way to Unlock, Bypass, Swipe and Remove Android Fingerprint Lock
 
 [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is a highly straightforward, fast and handy [phone unlocking software](https://drfone.wondershare.com/sim-unlock/android-unlock-software.html). With that particular application, you will be able to solve the lock screen removal issue in 5 minutes. It is really powerful as it can handle 4 types of screen locks such as password, fingerprints, pin and pattern. All you data will not be touched by the app and you do not have to possess some knowledge in tech field. So far, Dr.Fone - Android Lock Screen Removal is available for Samsung Galaxy S, Note and Tab Series and LG series for unlocking without any data losing.Temporarily, this tool can't mantain all the data when unlocking the screen from other mobile devices including Onepus, Xiaomi, iPhone. However really soon, the app will be available for the users of other operating systems. Before you purchase it, you are free to try it. You can acquire the app for 49.95 USD. You will be getting advantage using this app as comes with free lifetime update, also you will receive the keycode in minutes. Comments and feedback on Dr.Fone - Android Lock Screen Removal can be viewed here. You definitely will be interested as the app has 5 stars rating and tons of positive feedback.
-
-
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -162,53 +141,36 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 **Step 2.** Connect your Android phone and then select the Sony Xperia 10 V device mode on the list. If it's not on the list, select "I can't find my device model from the list above".
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![best way to unlock Android fingerprint lock-Connect your Android phone](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 3.** Type the download mode on your Android gadget.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![best way to unlock Android fingerprint lock-Type the download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4**. Have recovery package downloaded.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![best way to unlock Android fingerprint lock-Have recovery package downloaded](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
 **Step 5.** Remove Android lock screen without losing any data.This process will take some times.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![best way to unlock Android fingerprint lock-Remove Android lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 _Remove Android Screen Lock_
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/TQnsFr9oUHA?list=PLUrYm4QGcoz8IHR2-1WtKqPnJOnSShtFB" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Best 10 Fingerprint Lock Apps for Android Gadgets
 
 The lock screen app is a navigation screen that should be user friendly and allow you to jump quickly to those features that you actively use. For those, who want to make their smartphone screens much more functional and fun, we have prepared a list of best 10 Android Fingerprint Lock Apps and Widgets. The list that will be describing the apps will not be in the form of A Ranking or Top 10. The aim of our list is just to share with you those apps which are really good at handling the functions that we need from our gadgets.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### 1st - Hi Locker
 
 This fingerprint lock for android devices comes with a 3 modes of lock screen: Classic, iOS and Lollipop. Also, it has a separate screen dedicated to your calendar. Cyanogen Mod Style quick launcher is the main feature of Hi Locker. The secondary characteristics include custom greetings, various fonts, automatic wallpaper changes and additional customizations using an arrow key.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![best way to unlock Android fingerprint lock-Hi Locker](https://images.wondershare.com/drfone/others/hi-locker-1.jpg)
 
 ### 2nd - ICE Unlock Fingerprint Scanner
@@ -224,13 +186,18 @@ One of many free to download Android Fingerprint Lock app is Finger Scanner. It 
 ![best way to unlock Android fingerprint lock-Finger Scanner](https://images.wondershare.com/drfone/others/finger-scanner.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4th - GO Locker - Theme & Wallpaper
 
 The total downloads of Go – Locker Theme & Wallpaper is close to 1.5 million which has made this app number one with close to 4.5 stars rating on googleplay.com. This real fingerprint lock for android allows you to read incoming messages on your screen, user friendly icons will quickly take you to systems and settings and it has a huge amount of unlocking styles such as Android, iPhone and those that you have never imagined. It successfully handles over 8,000 models of various Android powered gadgets.
 
 ![best way to unlock Android fingerprint lock-GO Locker - Theme & Wallpaper](https://images.wondershare.com/drfone/others/go-locker2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5th - Locker Master- Do It Yourself (DIY) Lock Screen
 
@@ -238,34 +205,26 @@ Whether you prefer having simple or complex, solid or multi colored lock screens
 
 ![best way to unlock Android fingerprint lock-Locker Master](https://images.wondershare.com/drfone/others/locker-master-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6th – Start
 
 With [Start](https://play.google.com/store/apps/details?id=com.celltick.lockscreen), your lock screen becomes into your Start screen. Right from the lock screen, you will have a quick access to the most of apps that you actively use. You can set the security level, enjoy simple but smart navigation characteristics noticeably faster. It is a real fingerprint lock for Android devices which can be your one-stop lock screen application.
 
 ![best way to unlock Android fingerprint lock-Start](https://images.wondershare.com/drfone/others/start.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### 7th – Solo Locker (DIY Locker)
 
 [This particular app](https://play.google.com/store/apps/details?id=com.ztapps.lockermaster) is considered as the world's first DIY that can lock your phone using a photo too. It is really smooth in functioning, lite and always ready to put your privacy onto higher level. Password interface is easily customizable and application shortcuts make your smartphone very easy to use. Solo Locker (DIY) Android fingerprint lock must be immediately downloaded by the people who would like to have an app that offers nearly uncountable wallpapers and design settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![best way to unlock Android fingerprint lock-Solo Locker (DIY Locker)](https://images.wondershare.com/drfone/others/solo-locker-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8th – Widget Locker
 
 Out of all the apps that we have listed here, Widget Locker is the one that is not free to download. It will cost you 2, 99 United States Dollars and it has really attractive features such as a control of the mood and layouts of your smartphone. "Your privacy is the app's number one priority" (that is what the designers of Widget Locker state). Drag and drop options, selectable sliders, Slide to Launch a Camera or Slide to call My Mom options and easy resizing of widgets are some of the really efficient features of this fingerprint lock app for android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![best way to unlock Android fingerprint lock-Widget Locker](https://images.wondershare.com/drfone/others/widget-locker.jpg)
 
 ### 9th - M Locker - KKM Marshmallow 6.0
@@ -274,28 +233,23 @@ This real fingerprint lock app for android is known to the users as A Top Androi
 
 ![best way to unlock Android fingerprint lock-M Locker](https://images.wondershare.com/drfone/others/m-locker.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 10th - Fireflies Lock Screen
 
 With over 300,000 downloads and the rate of 4.3 stars, [Fireflies Lock Screen](https://play.google.com/store/apps/details?id=com.app.free.studio.firefly.locker) more than deserves to be downloaded and installed if you own one of those smartphones that comes with a fingerprint reader. In this app, you can change, resize, command and set almost everything the way you wish. Swipe to jump to a particular app or swipe to remove the notifications. Provides highest level of functionality and you have wide variety of options on locking your device or apps/widgets/folders. The most of comments given to this particular app describe it as "Best of its kind" and this characteristic makes it to be a real fingerprint lock for android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![best way to unlock Android fingerprint lock-Fireflies Lock Screen](https://images.wondershare.com/drfone/others/fireflies-lock-screen.jpg)
 
 The unlock method that was described in the beginning of our content, is the most functional approach to handle a lock screen problem successfully. In Non-Ranking and No-Comparisons form, we have presented you the list of best 10 fingerprint lock apps for Android devices. Each user is different and that is why there are various applications for your gadget. Try them out and find the one that suits you best!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## How to Lock Apps on Sony Xperia 10 V to Protect Your Individual Information
 
 If you are not a fan of having to go through the process of getting through a [pattern](https://drfone.wondershare.com/unlock/pattern-lock.html) or password every time you want to use your phone, the good news is that you don’t have to. There are really just a few Apps on your Android device that have sensitive information you don’t want others getting access to. It would really be great if you could lock those apps individually as opposed to locking the Sony Xperia 10 V device as a whole.
 
 Well, in light of helping you out, this article will address just how you can lock Apps on your device and not have to type in a code every time you want to use the Sony Xperia 10 V device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why you need to Lock Apps on Android?
 
@@ -321,15 +275,16 @@ Step 2: The default password 7777 but you can change this in the Password & Patt
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: The next step is to add apps to the Smart App Protector. Open the Running Tab on Smart Protector and tap on the “Add” button.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-02.jpg)
 
 Step 3: Next, select the apps you would like to protect from the pop up list. Tap on the “Add” button once you have chosen your Apps.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-03.jpg)
 
 Step 4: Now close the app and the Apps chosen will now be password protected.
@@ -337,15 +292,13 @@ Step 4: Now close the app and the Apps chosen will now be password protected.
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Using Hexlock
 
 Step 1: Download Hexlock from the Google Play Store. Once it is installed, open it. You will be required to enter a pattern or PIN. This is the lock code that you will use every time you open the app.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-05.png)
 
 Step 2: Once the PIN or Password is set, you are now ready to lock apps. You can create multiple lists of Apps to be locked ba\_x\_sed on your different needs. As an example, we have chosen the Work panel. Tap on “Start Locking Apps” to start.
@@ -362,9 +315,6 @@ You can then Swipe to the left to move to other lists such as “Home” and pro
 
 There are certain apps that may require to be locked more than others. Of course the choice of which apps you should lock will depend on your own uses and preferences. The following are some of the apps you would like to lock for one reason or another.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. The Messaging App
 
 This is the application that allows you to send and receive messages. You may want to lock this app if you use your device to send messages of a sensitive nature that you would rather keep private. You may also want to lock this app if your device is used by more than one person and you don’t want other users reading your messages.
@@ -377,39 +327,28 @@ Most people use individual email applications such as Yahoo Mail App or Gmail. T
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-09.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### 3\. Google Play Services
 
 This is the application that allows you to download and install applications to your device. You may want to lock this one if you are trying to prevent other users from downloading and installing further apps to your device. This is especially valuable if your device is utilized by children.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Gallery App
 
 The Gallery app displays all the images on your device. The main reason you may want to lock the Gallery app may be because you have sensitive images that are not suitable for all viewers. Again this is ideal if children make use of your device and you have images that you would rather they didn’t see.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Music Pla\_x\_yer App
 
 This is the Application that you use to play the music on your device. You may want to lock it if you don’t want anyone else making changes to your saved audio files and playlists or don’t want someone listening to your audio files.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### 6\. File Manager App
 
 This is the App that displays all of the files that are saved on your device. It is the ultimate app to lock if you have sensitive information on your device that you would rather not share. Locking this app will ensure that all of the files on your device will remain safe from prying eyes.
@@ -417,7 +356,6 @@ This is the App that displays all of the files that are saved on your device. It
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-13.jpg)
 
 Having the ability to lock your Apps is an easy way to keep information out of the limelight. It also allows you to take full control of your device. Try it, it might just be freeing as opposed to locking your entire device.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -431,5 +369,20 @@ Having the ability to lock your Apps is an easy way to keep information out of t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-non-playing-youtube-content-fixed-for-phonestablets/"><u>[New] 2024 Approved Non-Playing YouTube Content Fixed for Phones/Tablets</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-pro-level-video-conferencing-picking-the-best-5-recorders-for-2024/"><u>[Updated] Pro-Level Video Conferencing Picking the Best 5 Recorders for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-compreenas-guide-to-the-best-6-helmet-attachments-for-gopros/"><u>2024 Approved A Compreenas Guide to The Best 6 Helmet Attachments for GOPROs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bid-farewell-to-audio-glitches-a-solution-for-intermittent-sounds-on-windows-1/"><u>Bid Farewell to Audio Glitches: A Solution for Intermittent Sounds on Windows 지난 1</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/engaging-generations-on-social-media-with-tiktok-campaigns/"><u>Engaging Generations on Social Media with TikTok Campaigns</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23plus-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23+ Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-xcover-7-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-oppo-a38-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Oppo A38</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-t2-pro-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-soldering-iron-and-station-reviews-2er-2024/"><u>Top-Rated Soldering Iron & Station Reviews 2Er 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/understanding-youtubes-monthly-revenue-options-for-2024/"><u>Understanding YouTube's Monthly Revenue Options for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/video-storage-assessment-for-128gb-drives/"><u>Video Storage Assessment for 128GB Drives</u></a></li>
+</ul></div>
 

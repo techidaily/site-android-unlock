@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Sony Xperia 1 V Bootloader Easily
-date: 2024-08-09T15:39:40.524Z
-updated: 2024-08-10T15:39:40.524Z
+date: 2024-12-29T22:10:27.743Z
+updated: 2025-01-04T19:27:06.163Z
 tags: 
   - unlock
   - remove screen lock
@@ -29,10 +29,11 @@ Step 1: It is always very important to keep the phone data backed up and more so
 
 As one of the initial measures, backup the Sony Xperia 1 V device completely as bootloader unlocking process will wipe all the data off. So, backup all the data like photos, contacts, multimedia files, documents, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![unlock bootloader htc](https://images.wondershare.com/drfone/article/2016/12/14822577889251.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Go to htcdev.com/bootloader. Ensure that you are registered with HTC and once the sign up is done, log in to HTC dev.
 
@@ -42,26 +43,20 @@ Now, ensure that HTC Sync Manager is installed on the PC.
 
 Step 3: From the bootloader page, select your device using the drop down option as shown in the picture below.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822578344435.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After selecting the Sony Xperia 1 V device, click on “Begin Unlock Bootloader”, and then confirm all the dialogue boxes which come your way on screen.
 
 Step 4: Now, you will be presented with four steps to put the Sony Xperia 1 V device in bootloader mode. Disconnect the Sony Xperia 1 V  device from the PC and turn the Sony Xperia 1 V device off completely. Press the volume down button along with the power button to switch the Sony Xperia 1 V device on in bootloader mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822589729198.jpg)
 
 Step 5: Use the volume keys of the Sony Xperia 1 V device to select Fastboot option along with pressing power button to confirm, after the Sony Xperia 1 V device is in bootloader mode. Now, connect the Sony Xperia 1 V device to the computer using a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822588941681.jpg)
 
 Step 6: Go to Fastboot folder on the PC and holding down the shift key, click on any empty space followed by a click on “Open command window here”.
@@ -101,8 +96,9 @@ Like most people, you probably lock your Sony phone as soon as you turn it on. I
 There are a few different ways to unlock your Sony phone. We'll show you how to do it.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 1. Google Find My Device (Without Password/Pin/Pattern)
 
 If you're like me, you've probably tried a million different ways to unlock your Sony phone, only to be frustrated by the results. Luckily, there's an easy way to unlock your Sony phone using Google's Find My Device feature.
@@ -130,8 +126,9 @@ Follow these steps to unlock the Sony lock screen password without losing data:
 You can use it to unlock your Sony if you have activated the Android Device Manager or Google Find My Device before your phone was locked.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### A few conditions, however, must be met for this to work
 
 - You must turn on your Sony phone.
@@ -140,9 +137,6 @@ You can use it to unlock your Sony if you have activated the Android Device Mana
 - You must be connected to WiFi on your device to log into your Google account.
 - Your phone needs to be set to location.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2. Unlock Sony Lock Screen With Hard Reset
 
 If you perform a hard reset on your Sony lock screen, all data, and user information will be erased, including your screen lock, password, pattern lock, and PIN.
@@ -174,6 +168,10 @@ Follow the steps below on how to unlock the Sony phone pin code:
 - **Step 7**: Change your password or PIN.
 - **Step 8**: You will see your Sony unlocked soon.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 4. Unlock the Keypad With a Security Code
 
 You could reset your Sony lock screen phone using the default security code, even if you haven't set any security code. Here's how to quickly unlock the Sony lock screen security code.
@@ -193,6 +191,10 @@ You could reset your Sony lock screen phone using the default security code, eve
 If you have a classic-style keypad phone or an Android device, unlocking a locked Sony phone keypad is not easy. However, we believe that every problem has a solution. You can unlock Sony Android phones using any of the methods listed above.
 
 _**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a tool that helps you keep your important data safe. It can back up all the important information on your Sony phone, like photos, music, videos, contacts, and more and is compatible with over 8000 Android devices. The backup process is easy and only takes a few clicks. You can also restore your backup to any device you want, and choose which data you want to restore. This is a great way to make sure you never lose your important Sony data!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Unlock Sony Xperia 1 V  Phone Password Without Factory Reset: Full Guide Here
 
@@ -226,24 +228,19 @@ Now, since the previous method of unlocking your Sony Xperia 1 V  phone was depr
 
 Dr.Fone is a collection of several modules unified in a single interface. Each of these modules is designed meticulously to serve a purpose for your device, such as unlocking your phone, repairing your phone, erasing data from your phone or wiping the phone securely, etc. With this approach, users are never encumbered with options. Instead, they can focus on every task in the simplest, easiest manner without worrying about doing something untoward because they could not understand the software. Dr.Fone is fast, intuitive and easy to use.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![wondershare drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 1:** Launch Dr.Fone on your computer. Select the Screen Unlock module.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![drfone screen unlock tool](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 2:** Click Unlock Android Screen.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock motorola phone screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Select the first option – 100% Remove Screen Lock as Sony Xperia 1 V  devices cannot be unlocked without data loss.
 
@@ -251,29 +248,19 @@ Dr.Fone is a collection of several modules unified in a single interface. Each o
 
 **Step 4:** Choose your phone brand carefully – Sony Xperia 1 V  in this case.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![download recovery software to motorola phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 **Step 5:** Complete the instructions to download the software to your phone.
 
 **Step 6:** The software will start downloading, and if everything went smoothly you will see a screen to click Remove Now.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![motorola phone screen unlock](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
 
 **Step 7:** When all is done, you will see the following:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![motorola phone screen unlock process complete](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 Your Sony Xperia 1 V  phone screen is now unlocked. Click the button below to unlock Sony Xperia 1 V  phone password without factory reset now!
-
 
 ## Method 3: Factory Reset Sony Xperia 1 V  Phones (Wipes User Data)
 
@@ -285,6 +272,10 @@ There is a standard factory reset built into every Sony Xperia 1 V  phone to all
 
 **Step 3:** Tap Erase Everything.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 4: Use Google Find My Device To Unlock Sony Xperia 1 V  Phones (Wipes User Data)
 
 Google Find My Device is an online service by Google that is used to locate and track your Android devices. It works like how Apple's Find My works for its range of hardware. Using Find My Device, you can play a sound on the Sony Xperia 1 V device to locate it in the house if you have misplaced it, lock the phone in case it is lost, and wipe the Sony Xperia 1 V device remotely.
@@ -293,35 +284,26 @@ Google Find My Device is an online service by Google that is used to locate and 
 
 **Step 2:** Log in and go to Security > Your Devices:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock motorola phone with google](https://images.wondershare.com/drfone/article/2022/09/full-guide-to-unlock-motorola-phones-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Click Find A Lost Device.
 
 **Step 4:** Select the Android device you want to wipe carefully if you have a few:
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase phone with google](https://images.wondershare.com/drfone/article/2022/09/full-guide-to-unlock-motorola-phones-11.jpg)
 
 **Step 5:** Click Erase Device and confirm.
 
 **Step 6:** After the erasure, your device will need to be set up all over again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 5: Request Service Provider To Unlock Your Sony Xperia 1 V  Phone
 
 If your Sony Xperia 1 V  phone is tied to a service contract and you want to unlock your device to use it with other service providers, this method is for you. You can request your service provider to unlock your Sony Xperia 1 V  phone provided their conditions are met. Usually, they will be happy to oblige if there are no dues and the service period is over.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Bonus Tip: If You Want To Disable Screen Lock
 
 Sometimes, you may not need to secure your device at all. For example, if you have an old device that you want to use as a media player in your car or to give to children to play games, you may not want to password-protect the Sony Xperia 1 V device. This is how to disable screen lock on Android:
@@ -333,14 +315,12 @@ Sometimes, you may not need to secure your device at all. For example, if you ha
 **Step 3:** Choose None and confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Conclusion
 
 There are a handful of methods you can use to unlock a Sony Xperia 1 V  phone in case you forget the password or PIN or pattern. Especially for the old pattern-based screen locks, it is easy to unlock the phone if you know the answers to the security questions in your Google account. However, to unlock Sony Xperia 1 V  phone screen without password on newer Android versions, you need technical knowledge, or you can use third-party software such as Wondershare Dr.Fone. Using Dr.Fone Screen Unlock, you can unlock your phone quickly with no technical mumbo jumbo to confuse you. All you will get is a software that guides you every step of the way so you can unlock Sony Xperia 1 V  phone easily.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -354,5 +334,18 @@ There are a handful of methods you can use to unlock a Sony Xperia 1 V  phone in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-livestream-leaders-guide-elevating-pre-recorded-videos-on-social-media/"><u>[New] 2024 Approved Livestream Leaders' Guide Elevating Pre-Recorded Videos on Social Media</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/crafting-the-perfect-visual-identity-podcast-covers-unveiled/"><u>Crafting the Perfect Visual Identity Podcast Covers Unveiled</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/get-your-free-movie-file-player-for-windows-11-installed-here/"><u>Get Your Free Movie File Player for Windows 11 Installed Here!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-v27-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo V27 Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo S17 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-y200-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo Y200 Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-m34-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy M34 Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smirk-sculptor-image-maker-for-2024/"><u>Smirk Sculptor Image Maker for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-definitive-guide-to-audio-interfaces-in-podcasting/"><u>The Definitive Guide to Audio Interfaces in Podcasting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/wonderfox-dvd-ripper-dvd/"><u>WonderFox DVD Ripper - DVDコンバートソフトとして利用</u></a></li>
+</ul></div>
 

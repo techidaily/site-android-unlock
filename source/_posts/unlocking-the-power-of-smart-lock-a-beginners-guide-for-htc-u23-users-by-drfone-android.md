@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Power of Smart Lock A Beginners Guide for HTC U23 Users
-date: 2024-12-22T16:19:23.714Z
-updated: 2024-12-26T16:37:39.315Z
+date: 2025-01-02T20:17:40.038Z
+updated: 2025-01-04T19:33:14.808Z
 tags: 
   - unlock
   - remove screen lock
@@ -49,6 +49,10 @@ Tap on Settings, which is the gear symbol.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555174399892.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - • Under Screen Security tap Smart Lock.
 - • Here, you need to enter your Screen Lock. If you haven't done so, set up a password and PIN by following the on-screen prompts. The screen Lock is needed every time you have to change the Smart Lock settings.
 
@@ -59,7 +63,7 @@ Within Smart Lock, there are three options for setting the system. You can set u
 ![smart lock android](https://images.wondershare.com/drfone/others/14555176091774.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Turn On Smart Lock For Android with Trusted Devices
@@ -95,6 +99,10 @@ Since you have already paired Bluetooth, it will ask you to choose the HTC U23 d
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555183103300.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Similarly, other Bluetooth and NFC unlock android supported gadgets can be added under the list of Trusted Devices.
 
 ## Part 3: Turn On Smart Lock For Android With Trusted Locations
@@ -125,10 +133,6 @@ Tap on Trusted Places.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555201755742.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tap on Add Trusted Places
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555202394199.jpg)
@@ -153,10 +157,6 @@ Tap on Add Trusted Places
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555205535430.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - • However, it is not yet configured as a Smart Lock option. Tap the location once, and it is enabled.
 - • The switch along the address to the right turns blue, indicating it is enabled.
 - • The work address is now listed under Trusted places for Work.
@@ -166,9 +166,17 @@ Tap on Add Trusted Places
 - • The phone is now configured for the work address and will unlock whenever you are at the location.
 - • Since it works on Google Maps, the feature works through an Internet connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Turn On Smart Lock For Android With Trusted Face
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555207782388.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The feature recognizes your face and then unlocks the HTC U23 device. Once you set up the HTC U23 device to recognize your face as a trusted face, it will unlock the HTC U23 device as soon as it recognizes you.
 
@@ -199,6 +207,10 @@ _How To Improve Facial Recognition In Your Bluetooth and Android NFC Unlock Devi
 
 Smart Lock Android is a great feature and is only going to improve on time. With added security measures being introduced by Google for Bluetooth and NFC unlock android devices, including configuration to Google maps and Gmail, the feature may be one of the most important features to overcome constant blocking of devices even in protected places.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Video on How to Remove Android Lock Screen Without Data Loss
 
 <iframe frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/qXw3JNztGVI" id="video-iframe-t"></iframe>
@@ -214,10 +226,6 @@ If you or someone accidentally forgot or mistyped/misentered your lock password 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WOBqlRz2IaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Note: This tool temporarily support unlocking part of Samsung and LG locked screen without losing data, but other Android phone will be wiped all data if you try to unlock the screen with Dr.Fone - Screen Unlock (Android).
 
@@ -329,10 +337,6 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 
 ![Minimal adb and fastboot installation complete](https://images.wondershare.com/drfone/article/2016/06/14648313566582.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4.** Make sure your device is connected, then go to the Minimal ADB and Fastboot installation directory.
 
 This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[primary drive\]> Program Files \[for 32-bit\] or Program Files (x86) \[for 64-bit\] > Minimal ADB and Fasboot.
@@ -348,16 +352,12 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 ![Minimal adb and fastboot open command](https://images.wondershare.com/drfone/article/2016/06/14648313653169.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 6.** ADB terminal will pop out. Now, the first is to type in ADB _devices_. This is to check if your device is recognized by ADB. If there is no device listed below, try to remove and reconnect your HTC U23 and retype the command. If there are listed devices already, proceed.
 
 ![Minimal adb and fastboot command window adb devices command](https://images.wondershare.com/drfone/article/2016/06/14648317691463.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 7.** Finally, type in the following commands **one by one****.** These commands will remove your lock screen.
 
@@ -396,6 +396,10 @@ One way to unlock your Android phone without losing the data is by utilizing Saf
 
 ![restart android device in safe mode](https://images.wondershare.com/drfone/article/2023/09/unlock-android-phone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6. How to Unlock Android Phone without Any Data Loss Using Google Account (Android 4.4 or lower)
 
 If luckily, you left your Wi-Fi open and luckily connected to the internet, this is the easiest way to unlock your Android phone.
@@ -431,10 +435,6 @@ Techeligible is a useful platform that offers useful solutions to help most Andr
 **Techeligible FRP bypass tools** give solutions and customized advice for popular brands and models. It provides a ton of instructions for Samsung Galaxy M22, M21, Oppo A53, and LG devices. These courses are constantly updated to ensure compatibility with the most recent Android operating system.
 
 ![frp bypass tools](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Useful Features of Techeligible
 
@@ -543,10 +543,6 @@ Blu
  |
 | --- | --- | --- |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Pros of Techeligible
 
 In general, **Techeligible FRP tools** can provide the convenience for users below:
@@ -587,6 +583,10 @@ If you want to reset your devices, you can utilize several bypass APK programs t
 
 ![techeligible frp bypass apk tools](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### PC FRP Tools
 
 PC FRP utilities assist you in connecting devices to the PC. These tools are simple to use and make it simple to reset the HTC U23 devices. You only need to download the relevant file to get started.
@@ -601,6 +601,10 @@ Now check out below the steps on how to use the **Techeligible FRP Bypass** feat
 - **Step 2:** On Techeligible, choose your gadget model from the category page. You can also use the in-site search at the top of the sidebar to rapidly locate solutions for certain models.
 
 ![techeligible select frp brand](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** A full guide will appear on the screen. Download the tools required for your specific phone model according to the guide. Then, follow the instructions for removing your specific device’s FRP lock.
 
@@ -638,10 +642,6 @@ Dr.Fone - Screen Unlock simplifies the daunting task of unlocking an Android dev
 - **Step 4:** From the two options displayed on the screen, select **Remove without Data Loss**.
 
 ![drfone remove without data loss](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 5:** To unlock the Android screen, you must first select the **Brand**, **Device Name**, and **Device Model**. To advance, click the associated checkbox to enable the option that states **I agree with the warning and am ready to proceed**. Click **Next** to proceed with unlocking the screen.
 
@@ -684,16 +684,24 @@ Its user-friendly approach and efficiency make it an ideal alternative to **Tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-direct-dissemination-from-tiktok-to-social-networks/"><u>[New] 2024 Approved Direct Dissemination From TikTok to Social Networks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earnings-demystified-youtube-shorts-revenue-split-explained/"><u>[New] In 2024, Earnings Demystified YouTube Shorts Revenue Split Explained</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unlock-the-power-of-podcasts-15-activities-that-blend-multitasking-and-growth/"><u>[Updated] In 2024, Unlock the Power of Podcasts 15 Activities that Blend Multitasking and Growth</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-educational-videos-cutting-and-assembly-techniques/"><u>2024 Approved Educational Videos Cutting & Assembly Techniques</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-v27-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo V27 Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-leading-4k-hdr-monitors-with-144hz-for-an-immersive-gaming-experience-straight-or-curved-screen-options-available/"><u>Discover the Leading 4K HDR Monitors with 144Hz for an Immersive Gaming Experience : Straight or Curved Screen Options Available</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-7-ultimate-phone-without-pin-by-drfone-android/"><u>How to Unlock Asus ROG Phone 7 Ultimate Phone without PIN</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-s24plus-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy S24+</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-huawei-nova-y91-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Huawei Nova Y91 Face Lock?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-meizu-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Meizu Lock Screen Password?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/innovative-hp-laptop-unveiled-a-bold-move-that-eclipses-apples-bravest-ideas/"><u>Innovative HP Laptop Unveiled: A Bold Move That Eclipses Apple's Bravest Ideas</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-pro-video-editing-compatible-software-across-windows-systems/"><u>[New] Pro Video Editing Compatible Software Across Windows Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-blueprint-making-inspiring-lifestyle-broadcasts/"><u>[Updated] 2024 Approved Blueprint Making Inspiring Lifestyle Broadcasts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-navigating-the-changing-landscape-of-instagram-stories/"><u>[Updated] 2024 Approved Navigating the Changing Landscape of Instagram Stories</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-twitters-viral-video-catalogue-highest-viewers/"><u>[Updated] 2024 Approved Twitter’s Viral Video Catalogue Highest Viewers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-efficient-video-production-tips-embracing-free-luts-in-obs-workflow/"><u>[Updated] Efficient Video Production Tips Embracing Free LUTs in OBS Workflow</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-instant-methods-for-jumbled-youtube-queue-management/"><u>[Updated] In 2024, Instant Methods for Jumbled YouTube Queue Management</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-20-must-try-youtube-tricks-to-boost-views/"><u>[Updated] Unveiling 20 Must-Try YouTube Tricks to Boost Views</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-smartphone-list-for-capturing-crystal-clear-video/"><u>2024 Approved Ultimate Smartphone List for Capturing Crystal Clear Video</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-vidlaughter-start-your-video-journey/"><u>2024 Approved VidLaughter Start Your Video Journey</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-samsung-galaxy-m14-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Samsung Galaxy M14 5G Unlock Without Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-a05s-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Samsung Galaxy A05s</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-motorola-razr-40-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Motorola Razr 40?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-s24plus-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy S24+</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-asus-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Asus?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-asus-rog-phone-7-ultimate-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-f25-pro-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Oppo F25 Pro 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y78-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo Y78 5G</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/swift-and-simple-method-for-screenshots-on-ios-devices-for-2024/"><u>Swift and Simple Method for Screenshots on IOS Devices for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-samsung-galaxy-s23-fe-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Samsung Galaxy S23 FE</u></a></li>
 </ul></div>
 

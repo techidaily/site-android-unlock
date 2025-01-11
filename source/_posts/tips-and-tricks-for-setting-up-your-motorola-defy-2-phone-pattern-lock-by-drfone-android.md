@@ -1,7 +1,7 @@
 ---
 title: Tips and Tricks for Setting Up your Motorola Defy 2 Phone Pattern Lock
-date: 2024-12-22T16:20:23.283Z
-updated: 2024-12-26T16:16:29.174Z
+date: 2025-01-10T16:21:30.827Z
+updated: 2025-01-11T18:15:17.715Z
 tags: 
   - unlock
   - remove screen lock
@@ -33,7 +33,7 @@ A **pattern lock** is used to identify the actual user by your Android phone. It
 So, if you have set a **pattern lock** as a screen lock for your device, you will need to draw the exact pattern every time you log in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Best Tool to Unlock Your Pattern
@@ -62,6 +62,10 @@ You can find the brand compatible with your phone in the following list.
 
 ![supported device brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4. Go into Recovery Mode**
 
 Read the program instructions carefully; entering recovery mode is the prerequisite to unlocking the pattern lock.
@@ -71,6 +75,10 @@ Read the program instructions carefully; entering recovery mode is the prerequis
 **How to get into recovery mode with Bixby**
 
 ![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **How to get into recovery mode without Bixby**
 
@@ -122,10 +130,6 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 ![google account](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4.** To reset the **lock screen pattern**, you must give the correct details of the Google ID previously logged into the Motorola Defy 2 device.
 
 **Step 5.** After giving the correct details, you can provide another pattern lock to the phone.
@@ -150,13 +154,13 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 ![reboot to safe mode](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Clear your lock screen application's data.
 
 Clean data off your lock screen app, uninstall it, and then reboot your device to escape safe mode. When you do so, your phone or Android device will unlock.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Use ADB (USB required for Android 10 and lower)
 
@@ -192,9 +196,17 @@ adb reboot
 
 - Your phone will reboot. After it reboots and requests a security pattern, you can utilize any pattern, and it will unlock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 This guide provides insight into the most common Android issue. Here, we have discussed different techniques to bypass the **pattern lock** on your Android phone. However, we suggest you go for a professional tool while carrying this out. Therefore, you should choose an expert tool like Dr.Fone - Screen Unlock to open the **lock screen pattern**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Top 10 Fingerprint Lock Apps to Lock Your Motorola Defy 2 Phone
 
@@ -235,6 +247,10 @@ Rating: 4.0
 
 Download Link: [AppLock: Fingerprint & PIN](https://play.google.com/store/apps/details?id=com.gamemalt.applocker&hl=en)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. FingerSecurity
 
 As the name suggests, this fingerprint screen lock app can help you attain complete security on your device with your fingerprint. Besides all the popular apps, you can even lock widgets and settings with it. It can also capture the picture of the intruder, letting you know if your device has been tampered with.
@@ -250,6 +266,10 @@ As the name suggests, this fingerprint screen lock app can help you attain compl
 Rating: 4.2
 
 Download Link: [FingerSecurity](https://play.google.com/store/apps/details?id=com.rickclephas.fingersecurity&hl=en)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. App Lock - Real Fingerprint Protection
 
@@ -283,15 +303,15 @@ Rating: 4.4
 
 Download Link: [SpSoft Fingerprint AppLocker](https://play.google.com/store/apps/details?id=com.sp.protector.free&hl=en)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. AppLock by DoMobile Lab
 
 One of the best fingerprint app lockers, it is already used by more than 100 million users worldwide. Even though it locks apps via passwords and PINs, it also provides dedicated support for the fingerprint scanner and locking mechanism. It provides full customization support with the availability of various themes.
 
 ![DoMobile Lab Applock](https://images.wondershare.com/drfone/article/2017/10/15075533416865.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Random keyboard with an invisible pattern lock
 - It has an inbuilt power-saving mode
@@ -303,10 +323,6 @@ One of the best fingerprint app lockers, it is already used by more than 100 mil
 Rating: 4.4
 
 Download Link: [AppLock by DoMobile Lab](https://play.google.com/store/apps/details?id=com.domobile.applockwatcher&hl=en_US&gl=US)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. LOCKit
 
@@ -323,10 +339,6 @@ LOCKit is a complete security app that can help you protect your photos, apps, n
 Rating: 4.6
 
 Download Link: [LOCKit](https://play.google.com/store/apps/details?id=com.ushareit.lockit)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Fingerprint Locker
 
@@ -349,10 +361,6 @@ Setting a fingerprint lock or PIN, password, pattern, or even FRP lock on an And
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Get into Fingerprint Locked Android Phones within Minutes
@@ -363,6 +371,10 @@ Get into Fingerprint Locked Android Phones within Minutes
 - Provide specific removal solutions to promise good success rate
 
 **4,008,670** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -408,10 +420,6 @@ You can ask, "Hey Google, open the Google Assistant settings," and it will show 
 Locate the “Lock Screen” settings and make sure to switch on “Assistant responses on lock screen.”
 
 ![Enable Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. How To Use Google Assistant on Lock Screen
 
@@ -485,10 +493,6 @@ Fortunately, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondersha
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best UnlockJunky Alternative to Solve Your Screen Locks
@@ -518,10 +522,6 @@ As the Dr.Fone Screen Unlock tool supports both Android and iOS, you will need t
 - In this step, you will be directed to select your device brand. Choose the Android device brand you are using and opt for "Remove without Data Loss" if you don't want to lose your data.
 
 ![Choose Remove without Data Loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4:** Define Device Details
 
@@ -571,19 +571,20 @@ However, if you are looking for ways to **unlock phone with Google Assistant**, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-flawless-visual-cuts-mastering-in-and-out-techniques/"><u>[New] 2024 Approved Flawless Visual Cuts Mastering 'In and Out' Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ynamic-and-attractive-youtubes-channel-names-for-modern-vloggers-up-to-156-characters-for-2024/"><u>[New] Dynamic & Attractive YouTubes Channel Names for Modern Vloggers (Up to 156 Characters) for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-essential-methods-for-documenting-overwatch-games/"><u>[Updated] 2024 Approved Essential Methods for Documenting Overwatch Games</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-battlefield-brilliance-the-exclusive-selection-of-top-7-total-war-chronicles/"><u>[Updated] In 2024, Battlefield Brilliance The Exclusive Selection of Top 7 Total War Chronicles</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-s17-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo S17 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-m14-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy M14 5G Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-oppo-find-n3-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo Find N3 Through Google Earth?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-i-screen-mirroring-apple-iphone-x-to-tvlaptop-drfone-by-drfone-ios/"><u>In 2024, How Can I Screen Mirroring Apple iPhone X to TV/Laptop? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo T2 Pro 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-v27e-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo V27e</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-x5-pro-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Poco X5 Pro</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/navigating-through-your-pcs-connection-configurations-with-expertise-from-yl-software/"><u>Navigating Through Your PC's Connection Configurations with Expertise From YL Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformez-votre-fichier-snd-en-mp3-sans-frais-tapez-une-solution-avec-movavi/"><u>Transformez Votre Fichier SND en MP3 Sans Frais - Tapez Une Solution Avec Movavi</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-s17t-by-drfone-android/"><u>Universal Unlock Pattern for Vivo S17t</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-securely-obtain-facebooks-elite-verified-status/"><u>[Updated] In 2024, How to Securely Obtain Facebook’s Elite Verified Status</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-10-zoom-recording-essentials-for-2024/"><u>[Updated] Top 10 Zoom Recording Essentials for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/delving-into-premium-free-lut-world-a-meticulous-rundown-for-2024/"><u>Delving Into Premium-Free LUT World A Meticulous Rundown for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/has-the-stewardship-of-chatgpt-fallen-from-openais-hands/"><u>Has the Stewardship of ChatGPT Fallen From OpenAI's Hands?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-z-flip-5-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-effortless-earnings-channel-size-no-longer-a-challenge/"><u>In 2024, Effortless Earnings Channel Size No Longer a Challenge</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-oppo-reno-11-pro-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo Reno 11 Pro 5G Lock Screen Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y56-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y56 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-audio-acquisition-iphoneipad-edition/"><u>In 2024, The Ultimate Guide to Audio Acquisition IPhone/iPad Edition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-a34-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y02t-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo Y02T</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-big-on-storage-top-rated-ssd-and-hard-drive-specials-for-this-year/"><u>Save Big on Storage: Top Rated SSD & Hard Drive Specials for This Year</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-x90s-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo X90S Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-y100a-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo Y100A Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/transformative-photos-lightroom-techniques-for-stunning-hdr-for-2024/"><u>Transformative Photos Lightroom Techniques for Stunning HDR for 2024</u></a></li>
 </ul></div>
 

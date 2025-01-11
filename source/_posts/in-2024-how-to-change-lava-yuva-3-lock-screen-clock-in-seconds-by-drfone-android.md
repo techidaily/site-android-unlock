@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Change Lava Yuva 3 Lock Screen Clock in Seconds
-date: 2024-12-22T16:18:37.720Z
-updated: 2024-12-26T16:43:41.609Z
+date: 2025-01-04T16:13:24.650Z
+updated: 2025-01-11T19:49:04.729Z
 tags: 
   - unlock
   - remove screen lock
@@ -36,6 +36,10 @@ For devices running Android 11, **changing the lock screen clock** is still avai
 
 ![customizing android lock screen clock](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2: G**o to **Customize Lock screen** > **Clock**. Next, customize or activate the lock screen clock.
 
 **Note**
@@ -60,11 +64,11 @@ In Android 12, the process remains consistent.
 
 ![wallpaper settings on android 12](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2**: Follow the provided instructions to transform your lock screen experience. Replace the oversized clock with dynamic, changing wallpapers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Turn Off the Always-On Display
 
@@ -102,11 +106,11 @@ An alternative method to modify the **Android lock screen clock** involves activ
 
 ![screensaver and new lock screen clock](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-07.jpg)
 
-- **Step 2**: If you want to customize the screensaver clock’s appearance, go to **Settings** > **Display** > **Screensaver.** Choose analog, digital, or night mode.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+- **Step 2**: If you want to customize the screensaver clock’s appearance, go to **Settings** > **Display** > **Screensaver.** Choose analog, digital, or night mode.
 
 ### Method 5: Keep Unread Notifications
 
@@ -128,10 +132,6 @@ Changing the lock screen clock on Samsung phones is similar to the general Andro
 - **Step 1:** Go to **Settings** > **Lock screen** or **Lock screen & security**. Choose **Customize lock screen** > **Clock**, **Clock** **style,** or **Lock screen clock**.
 
 ![customizing lock screen clock on samsung](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-09.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2:** Choose between different styles, such as digital, analog, or others. Some Samsung models offer extra settings like color, size, and more to enhance your lock screen further. Select the one that suits your taste.
 
@@ -155,6 +155,10 @@ If you ever find yourself locked out of your Android device due to a mishap whil
 Accidentally locking yourself out of your Android device can be a stressful experience. Dr.Fone provides a hassle-free solution to unlock your Android screen without losing any data. Whether you’ve locked yourself out or forgot your PIN, Dr.Fone ensures a straightforward and secure unlocking process. Here’s a step-by-step guide to using the tool:
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -243,6 +247,10 @@ We can easily access CUDA through libraries, directives and with the help of dif
 
 Given below is the list of Top10 Password cracking tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Cain and Abel : Top password cracking tool for Windows
 
 Cain & Abel is one of the top cracking tool for password cracking and password recovery for Windows OS.
@@ -262,6 +270,10 @@ Cain & Abel can use techniques of Dictionary Attack, Brute-Force and Cryptanalys
 **Site for Download:**
 
 [http://www.oxid.it](http://www.oxid.it/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. John the Ripper : Multi-platform, Powerful, Flexible password cracking tool
 
@@ -289,10 +301,6 @@ Aircrack is a combination different tools used for Wifi, WEP and WPA passwords c
 Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack) techniques can be used to crack WEP/WPA passwords. Basically it collects and analyzes encrypted packets then using its different tool crack password out of the packets. Although aircrack is available for Windows but there are different issues with this software if we use this in Windows environment, so it’s best when we use it in Linux environment.
 
 ![aircrack](https://images.wondershare.com/images/utilities/aircrack.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of Aircrack**
 
@@ -333,10 +341,6 @@ Password cracking using rainbow table is faster than the normal brute force atta
 
 ![rainbowcrack](https://images.wondershare.com/images/utilities/rainbowcrack_1236.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of Rainbow Crack**
 
 - Support verity of Rainbow tables
@@ -347,10 +351,6 @@ Site for Download:
 
 [http://project-rainbowcrack.com/](http://project-rainbowcrack.com/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. OphCrack : Tool for Windows password cracking
 
 OphCrack used to crack Windows user passwords with the help of rainbow tables that are available in a bootable CD.
@@ -358,6 +358,10 @@ OphCrack used to crack Windows user passwords with the help of rainbow tables th
 Ophcrack is completely free to download, Windows based password cracker that uses rainbow tables to crack Windows user passwords. It normally cracks LM and NTLM hashes. Software has simple GUI and can runs on different platforms.
 
 ![ophcrack00](https://images.wondershare.com/images/utilities/ophcrack00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features of OphCrack**
 
@@ -369,10 +373,6 @@ Ophcrack is completely free to download, Windows based password cracker that use
 **Site for Download:**
 
 [http://ophcrack.sourceforge.net/](http://ophcrack.sourceforge.net/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Brutus : A brute force attack cracker for remote systems
 
@@ -396,6 +396,10 @@ It is only available for windows operation systems. Tool has a limitation that i
 **Site for Download:**
 
 [http://www.hoobie.net/brutus/](http://www.hoobie.net/brutus/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. L0phtCrack : Smart tool for Windows password recovery
 
@@ -438,6 +442,10 @@ Recently software is updated to new version called Fgdump as Pwdump not work fin
 **Site for Download:**
 
 [http://www.darknet.org.uk/](http://www.darknet.org.uk/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Medusa : Speedy network password cracking tool
 
@@ -497,10 +505,6 @@ Follow the following steps to unlock your Android password without factory reset
 
 ![start to unlock android password](https://images.wondershare.com/drfone/drfone-android/drfone-lock-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** Now, there will be three steps mentioned that you must follow to get your phone into the Download mode. The first is to power off the phone. The second is to press and hold the Volume button along with the Home button and Power button. The third step is to press the volume up the option to get into the download mode.
 
 ![boot phone in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
@@ -513,6 +517,10 @@ Follow the following steps to unlock your Android password without factory reset
 
 ![unlock android password without factory reset](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to unlock Android password without factory reset using Android Device Manager?
 
 With very simple steps and a few minutes at hand, you can get rid of your password using Android Device Manager (ADM). This tool will unlock your password without going for a factory reset and losing data. The main feature of the Android device manager will run through the Google account. The installation of a Google account is very important to run out the Android device manager. The Android device will respond immediately once if the phone is switched on. The connectivity of the internet is a must to find the map on the Lava Yuva 3 device. How to unlock Android phone passwords without factory reset? May it be quite interesting to use device manager visuals? The steps are mentioned below:
@@ -521,17 +529,9 @@ With very simple steps and a few minutes at hand, you can get rid of your passwo
 
 ![log in android device manager](https://images.wondershare.com/drfone/article/2017/10/15090637241780.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 • Now sign in with your Google credentials. Google will start searching for your device. Here you need to choose the Android phone you want to unlock in case it is already not selected.
 
 ![drfone](https://images.wondershare.com/drfone/article/2017/10/15090637463876.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2.** Here you will see three options: “Ring,” “Lock,” and “Erase.” Select the “Lock” option
 
@@ -579,22 +579,17 @@ The problem of getting your mobile locked and not being able to open it is a com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/chieve-more-views-tailoring-and-scaling-youtube-images/"><u>[New] Achieve More Views Tailoring and Scaling YouTube Images</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-essential-guide-fetching-twitter-videos-directly-from-mobile/"><u>[New] Essential Guide Fetching Twitter Videos Directly From Mobile</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-leaders-in-the-game-tiktoks-top-videographers/"><u>[New] In 2024, Leaders in the Game TikTok's Top Videographers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-essential-guide-to-creating-stunning-timelapses-using-gopro-software/"><u>[Updated] Essential Guide to Creating Stunning Timelapses Using GoPro Software</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-from-game-to-gigabyte-an-essential-guide/"><u>[Updated] From Game to Gigabyte An Essential Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-find-n3-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Oppo Find N3</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-a24-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy A24</u></a></li>
-<li><a href="https://win-special.techidaily.com/effortless-audio-conversion-on-soundclick-beats-get-your-favorite-beats-in-multiple-formats-mp3-wav-aac-m4a-etc-for-seamless-playback/"><u>Effortless Audio Conversion on SoundClick Beats: Get Your Favorite Beats in Multiple Formats (MP3, WAV, AAC, M4A, Etc.) For Seamless Playback!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x100-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo X100 Phone with Broken Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-y27-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo Y27 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-z-fold-5-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy Z Fold 5 to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-samsung-galaxy-m34-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Samsung Galaxy M34 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-x-fold-2-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo X Fold 2 Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-oppo-a2-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Oppo A2 Device</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-social-media-path-to-influence/"><u>Mastering Social Media: Path to Influence</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/obs-vs-streamlabs-the-ultimate-guide-for-live-streamers-for-2024/"><u>OBS Vs. Streamlabs The Ultimate Guide for Live Streamers for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-the-crash-glitch-in-frostpunk-expert-advice-for-smooth-gaming/"><u>Overcoming the Crash Glitch in Frostpunk: Expert Advice for Smooth Gaming</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/horts-fix-completed-no-more-anxiety-for-2024/"><u>[New] Shorts Fix Completed – No More Anxiety for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-photographers-guide-to-pc-gaming-scenes/"><u>[Updated] 2024 Approved The Photographer’s Guide to PC Gaming Scenes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-creating-revenue-in-gamer-channels/"><u>[Updated] Creating Revenue in Gamer Channels</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-s17e-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo S17e</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-these-exceptional-ai-powered-story-generators-you-need-to-try-out/"><u>Discover These Exceptional AI-Powered Story Generators You Need To Try Out</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fandango-setup-how-to-enjoy-movies-and-ticket-bookings-on-your-amazon-firestick/"><u>Fandango Setup: How to Enjoy Movies & Ticket Bookings on Your Amazon Firestick</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-zte-nubia-z60-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on ZTE Nubia Z60 Ultra Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y55s-5g-2023-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo Y55s 5G (2023) Bootloader Easily</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-v29-pro-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo V29 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-x100-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo X100 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-vivo-v27-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo V27 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
 

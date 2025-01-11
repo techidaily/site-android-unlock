@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Bypass Android Lock Screen Using Emergency Call On Sony Xperia 5 V?
-date: 2024-08-09T15:36:37.009Z
-updated: 2024-08-10T15:36:37.009Z
+date: 2025-01-05T18:36:28.547Z
+updated: 2025-01-11T18:21:42.554Z
 tags: 
   - unlock
   - remove screen lock
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 The main reason why we keep our smartphone locked is to prevent children (or stalkers) checking out our private photos or messages. You don't want anyone to access your pictures, emails, or other important data. What if you forget your pattern or PIN and cannot access your phone? Or someone changes lock screen pattern to leave you annoyed?
 
 To avoid such types of conditions, we have tried and tested the following methods to bypass the Sony lock screen pattern, PIN, password, and fingerprint.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1. Use 'Find My Mobile' feature on Sony Phone
 
@@ -46,9 +50,6 @@ To know how to unlock a Sony phone lock password with Android device manager, ma
 
 ![how to unlock samsung phone lock password-android device manager](https://images.wondershare.com/drfone/others/14623531102514.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 3. Google Login (Supports Only Android 4.4 or Lower)
 
 If your device is still running on Android 4.4 or lower, here's how to bypass the Sony lock screen fast.
@@ -58,9 +59,6 @@ If your device is still running on Android 4.4 or lower, here's how to bypass th
 - Step 3. Enter your Google account login or backup PIN
 - Step 4. Now your phone would be unlocked.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to unlock a samsung phone without the code-google login](https://images.wondershare.com/drfone/others/14623533542919.jpg)
 
 ## Method 4. 'Pattern Password Disable' and Custom Recovery (SD Card needed)
@@ -80,14 +78,8 @@ It is yet another option that will work only when you have enabled USB Debugging
 - Step 1. Connect your device to the PC using USB cable and open command prompt in the adb directory. Type the command "adb shell rm /data/system/gesture.key" and then press "Enter".
 - Step 2. Restart your phone, and a secure lock screen must be gone, and you can access your device. Be sure to set a new PIN, pattern, or password before rebooting again.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![how to unlock a samsung phone without the code-adb command](https://images.wondershare.com/drfone/others/14623546208288.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 6. Factory Reset to Bypass Sony Lock Screen
 
 A factory reset is the best option in almost any case if one of these solutions couldn't work. According to your device type, the process may vary. In most devices, you have to turn off the Sony Xperia 5 V device completely to start the process. But this method will delete all the precious data on the Sony Xperia 5 V device after the factory reset.
@@ -99,16 +91,14 @@ A factory reset is the best option in almost any case if one of these solutions 
 - Step 5. Select it by pressing the Power button.
 - Step 6. Select "Reboot System Now" once the process is done.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to unlock a samsung phone without the code-factory reset](https://images.wondershare.com/drfone/others/14623546631338.jpg)
 
 [Backup your Sony phone](https://drfone.wondershare.com/samsung/samsung-backup.html) regularly in case of any data loss in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 7. Boot into Safe Mode
 
 Chances may be that you are using a third-party lock screen app. Then lucky for you, this way works best to bypass the Sony lock screen. Specifically, you can boot your Sony device into [Android Safe Mode](https://drfone.wondershare.com/android-tips/safe-mode-in-android.html).
@@ -122,6 +112,10 @@ Chances may be that you are using a third-party lock screen app. Then lucky for 
 
 ![how to unlock a samsung phone without the code-android safe mode](https://images.wondershare.com/drfone/others/14623549778321.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 8. Other Methods
 
 - Step 1. Take your friend's phone to call on your locked phone.
@@ -132,18 +126,12 @@ Chances may be that you are using a third-party lock screen app. Then lucky for 
 
 To avoid forgetting your password or PIN next time, be sure to write the pattern or numbers on a text file or paper to keep them safe. If you have to bypass the Sony lock screen pattern, PIN, password, and fingerprint, you may consider using Dr.Fone - Screen Unlock (Android). It is a professional tool that can remove all the fingerprints, pattern, and password lock screens without losing any data on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Sony Xperia 5 V
 
 In addition to passwords and patterns, the fingerprint scanner is one of the hottest features on leading phones of today to lock apps with fingerprint Android. The Fingerprint scanner is the latest fashion in smartphones. You would have observed that with fingerprint scanner going middle-of-the-road, many of the new low-priced phones have also been furnished with this new feature. Although the foremost purpose of the fingerprint scanner is to lock or unlock Your Sony Xperia 5 V, it can also be utilized to lock and unlock your mobile applications. But not all phones are equipped with this feature. The aforesaid feature is easy to use, quick and smart.
 
 However, if your phone has an inbuilt fingerprint scanner but it does not countenance you to lock the individual apps in your mobile with the fingerprint scanner, you do not need to worry at all! There are some apps that can add this option on your phone. And we are here to suggest you the 5 best options to lock apps with the fingerprint on your Android phones out of the many apps available in the app store! Here we go:
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. AppLock
 
 AppLock is rated as the best one of the apps for locking apps on your Android phone. Once you download this app you will notice that it can lock apps with fingerprint practically on your Android phone. It is also capable of locking photos and videos on your device. The app features are secured when you feel that someone is trying to stealthily look at the mobile while you are unlocking your Android phone. Apart from this, you will also get the option to replace the icon so that you are capable of hiding the app. Now the bonus –You can download and use this app absolutely free for locking the apps on your iPhone or Android apps using the fingerprint.
@@ -160,14 +148,8 @@ AppLock is rated as the best one of the apps for locking apps on your Android ph
 
 **Google Rating:** 4.4
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lock apps with fingerprint android-AppLock](https://images.wondershare.com/drfone/article/2017/10/15090398843847.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 2\. App Locker: Fingerprint & Pin
 
 The subsequent name on the list of best app locks using lock apps with the fingerprint on your Android phone is App Locker. Most of the functions and features of this app are similar to the app lock. This lock apps with fingerprint iPhone have a tricky feature though, want to know? This naughty app, along with the app lock facility (using PIN, password, or fingerprint sensor), can trigger a sham crash screen which will trick the impostors to think that your phone is crashed! Isn’t it interesting? One more thing to interest you – it is also free to download and use.
@@ -184,9 +166,6 @@ The subsequent name on the list of best app locks using lock apps with the finge
 
 **Google Rating:** 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lock apps with fingerprint android-Fingerprint & Pin](https://images.wondershare.com/drfone/article/2017/10/15090399098286.jpg)
 
 ## 3\. FingerSecurity
@@ -205,9 +184,6 @@ The next on the list is FingerSecurity - one of the feature-rich lock apps with 
 
 **Google Rating:** 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![lock apps with fingerprint android-FingerSecurity](https://images.wondershare.com/drfone/article/2017/10/15090399282756.jpg)
 
 ## 4\. Norton Applock
@@ -224,14 +200,16 @@ Whenever we have heard the word anti-virus, the first name that comes to our min
 
 **Google Rating:** 4.6
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![lock apps with fingerprint android-Norton Applock](https://images.wondershare.com/drfone/article/2017/10/15090399468920.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Perfect Applock
 
 Perfect App Lock is yet another great lock apps with the fingerprint for Android from the basket of app locks. Like other app locks, this one also features the basics. In addition, it has special features including support for locking Wi-Fi, Bluetooth, and other buckles. It is a tough one to intrude. It tricks the bye passers-by throwing out fake errors and messages to confuse the intruders. This rather makes the thief think that there is a different issue with the phone excluding the app lock. This lock app with fingerprint Android is also available for free. The free and the paid versions offer the exact same features, except that the paid version is free from advertisements.
@@ -247,9 +225,6 @@ Perfect App Lock is yet another great lock apps with the fingerprint for Android
 
 **Google Rating:** 4.5
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![lock apps with fingerprint android-Perfect Applock](https://images.wondershare.com/drfone/article/2017/10/15090399729810.jpg)
 
 Apart from the aforesaid apps, there are many lock apps with fingerprint locking method for Android phones; however, these have been selected purely based on user ratings. If you are using the iPhone, you can have some app locks based on fingerprint sensors like 1Password, Scanner Pro, LastPass, or Mint to lock apps with the fingerprint on your iPhone.
@@ -261,6 +236,10 @@ Do share them with us!!!
 Now since we have told you about the best lock app with a fingerprint for Android that can be used to lock your apps and phone using fingerprint sensors, go ahead downloading one for your device. You can understand the pros and cons by yourself and enjoy the benefits of your downloaded app. You have got the list of five of the best fingerprint scanner apps which are available on the play store. If you have any suggestions you are most welcome to contact us.
 
 Do not forget to share your experiences with the apps mentioned in our article. We are waiting for your response!!!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Unlock Sony Xperia 5 V  PIN Code/Pattern Lock/Password
 
@@ -282,16 +261,10 @@ For this method, you need a PC and your Google account details. Here are the ste
 
 **Step 3:** It will show you 3 options: Play Sound, Secure Device, and Erase Device.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find my device](https://images.wondershare.com/drfone/article/2022/05/google-find-my-device.jpg)
 
  And then select “**Erase Device.**”
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![select erase data](https://images.wondershare.com/drfone/article/2022/05/select-erase-device.jpg)
 
 Selecting this option will erase all content from your device, including screen unlock PIN, password, and pattern.
@@ -300,31 +273,20 @@ Selecting this option will erase all content from your device, including screen 
 
 Use this method only if your phone is backed up so you can restore all your data later.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. How to Unlock Android device Using Lock Remove Tool?
 
 Another foolproof method on how to unlock Android pattern lock is by using a lock removal tool like [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/).
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/QWpE8NykOWc"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 Dr.Fone - Screen Unlock is a screen unlock tool that can unlock your Android phone if you forget its screen unlock PIN, password, or pattern in just 5 minutes. It has a simple operation that requires just a few clicks to unlock your phone screen. Plus, this method is reliable, secure, and has a high success rate. However, there’s a possibility that it might not work with older phone models.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
@@ -344,9 +306,6 @@ Here are the steps to unlock Android phone using Dr.Fone - Screen Unlock (Androi
 
 **Step 2:** Connect your phone to your PC with a USB cable. Now click on the "Android" > "Unlock Android Screen" option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 3:** A device brand will appear. Select your phone’s brand, i.e., Samsung.
@@ -355,20 +314,17 @@ Here are the steps to unlock Android phone using Dr.Fone - Screen Unlock (Androi
 
 **Step 4:** Now, follow the instructions as you see to unlock your Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![begin to remove android lock screen](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
 Your phone is now unlocked, and you can access it without entering a PIN, password, or pattern.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android lock screen bypassed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-Now, if you don’t remember your Google account details and don’t have access to a PC to use a screen unlock tool, you can unlock Android phone using the conventional way.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+Now, if you don’t remember your Google account details and don’t have access to a PC to use a screen unlock tool, you can unlock Android phone using the conventional way.
 
 ## How to Unlock Sony Xperia 5 V  with Google Account?
 
@@ -404,6 +360,10 @@ For the latter, here are the steps:
 - **Step 3:** Click on “Unlock” after which you will be asked if you want to set a new PIN or pattern. Select “Yes.”
 - **Step 4:** Your Sony Xperia 5 V  phone will be unlocked, and you can set a new PIN or pattern for your screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Unlock Sony Xperia 5 V  by Hard Reset?
 
 Hard resetting your smartphone usually solves everything! Hence, it can also help you unlock your Sony Xperia 5 V  phone; however, using this method will erase all the data on your phone. So, if you still want to unlock Sony Xperia 5 V  phone using this method, only do so if you have backed up your device and have no other way to unlock your phone. This includes forgetting your Google account details or not having access to a PC to download and use Dr Fone - Screen Unlock (Android).
@@ -417,22 +377,20 @@ Here are the steps for it:
 
 Your Sony Xperia 5 V  phone will be hard reset, and all the locks will be removed. When you turn it on again, you will have to set it up like a new phone using your Google account details.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Unlock Sony Xperia 5 V  with Sony  Companion?
 
 If you've forgotten the screen lock of your Sony Xperia 5 V  device, you can use Sony's official software, Sony  Companion, to unlock your device. Sony  Companion is a reliable method that can help you regain access to your Sony  without data loss. Here's how to unlock your Sony Xperia 5 V  using Sony  Companion:
 
 **Step 1:** Install and launch Sony Xperia 5 V  Companion from the official website and click “Support Zone.” Move to the "Phone/Tablet Software Update" option on the next screen and tap "Start."
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press the start button](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-1.jpg)
 
 **Step 2:** Now, plug in your laptop to power, as the process will take some time, and choose "repair my phone/tablet." Here, agree to the warning that you will lose your data and click “Next” to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![tap repair my phone tablet](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-2.jpg)
 
 **Step 3:** Allow the program to download files to prepare for the update process and choose your Sony Xperia 5 V  model. Click “Next” and connect your Sony Xperia 5 V  to the PC. Ensure that the phone is turned off, and press and hold the "Volume Down" button when connecting the cable to the phone.
@@ -441,9 +399,6 @@ If you've forgotten the screen lock of your Sony Xperia 5 V  device, you can use
 
 **Step 4:** Once correctly connected to the PC, the program will download the necessary software and upload it to your device. After completing the process, you can unplug the Sony Xperia 5 V device and turn it on.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![updating the xiaomi device](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-4.jpg)
 
 ## How to Remove Operator Lock on Sony Xperia 5 V ?
@@ -484,9 +439,6 @@ Forgetting your Sony Xperia 5 V  screen unlock password, PIN, or pattern is quit
 
 If you’re looking for ways that are time-effective and reliable, you can use your Google account or other ways to unlock Sony Xperia 5 V  and set a new screen lock. However, with these methods, you can lose your data, so we only recommend using them if your device is backed up.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -499,5 +451,21 @@ If you’re looking for ways that are time-effective and reliable, you can use y
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-video-popularity-essential-seo-techniques-for-success/"><u>[New] Elevate Your Video Popularity Essential SEO Techniques for Success</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-13-effortless-revenue-strategies-for-newbies-on-reddit/"><u>[New] Top 13 Effortless Revenue Strategies for Newbies on Reddit</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-harnessing-instagram-video-power-strategizing-for-impact/"><u>[Updated] 2024 Approved Harnessing Instagram Video Power Strategizing for Impact</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-iphone-photography-top-app-picks-x-7/"><u>[Updated] Prime iPhone Photography Top App Picks (X, 7)</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-a34-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy A34 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elite-selection-best-budget-friendly-video-call-software-for-2024/"><u>Elite Selection Best Budget-Friendly Video Call Software for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-moto-e13-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Motorola Moto E13</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/galactic-game-guide-the-top-10-affordable-mmo-titles-for-2024/"><u>Galactic Game Guide The Top 10 Affordable MMO Titles for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-motorola-edge-40-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Motorola Edge 40</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-motorola-moto-g13-by-drfone-android/"><u>How to Show Wi-Fi Password on Motorola Moto G13</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-explore-popular-youtube-comment-sections/"><u>In 2024, Explore Popular YouTube Comment Sections</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-oppo-reno-11f-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Oppo Reno 11F 5G Face Lock?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f04-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F04 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win-dash.techidaily.com/intel-hd-graphics-630-windows-drivers-error-resolution-expert-tips-and-solutions/"><u>Intel HD Graphics 630 Windows Drivers Error Resolution - Expert Tips and Solutions</u></a></li>
+</ul></div>
 

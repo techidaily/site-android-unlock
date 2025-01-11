@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove Forgotten PIN Of Your Asus ROG Phone 8
-date: 2025-01-01T20:40:54.248Z
-updated: 2025-01-04T21:04:02.879Z
+date: 2025-01-04T18:55:36.208Z
+updated: 2025-01-11T16:56:24.523Z
 tags: 
   - unlock
   - remove screen lock
@@ -38,15 +38,19 @@ This is an important issue that needs to be resolved right away. Therefore, some
 
 ![how to find lock system](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Methods to Recover Forgotten Password or PIN
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Google Smart Lock
 
 If you have added a trusted area or device in Google Smart Lock, you can go to that trusted area and reset your password. Alternatively, you can also use trusted devices to unlock your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Google Find My Device
 
@@ -58,10 +62,6 @@ As you are likely aware, every Android device is connected to a Google account. 
 4. Once more, select "Erase." This will reset the Asus ROG Phone 8 device and get rid of the forgot pattern lock.
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Recovery Mode
 
@@ -103,6 +103,10 @@ On the page Recovery Mode, it's the most important step to unlock your device. P
 
 ![click the right buttons](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Congratulations! Now you can access your phone again, and there're no obstacles when you do anything on your phone.
 
 ![access your phone again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
@@ -118,12 +122,16 @@ Answer: No, Dr.Fone is safe for your device, all hardware will be safe, and you 
 Answer: [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a good option for backing up the sensitive data on your device. If you want to know more, don't hesitate and find any required information on our website.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
 
 Any methods mentioned above can work to overcome the obstacle of unlocking the screen with your Android handset. The best thing about all methods we said is that you just need some easy ways to complete the tasks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Lock Your Asus ROG Phone 8 Phone in Style: The Top 5 Gesture Lock Screen Apps
 
@@ -141,10 +149,6 @@ Gestures have become an iconic piece of the entire mobile operating system and e
 - • Press and hold Power Off Button
 
 ![guesture lock screen app](https://images.wondershare.com/drfone/article/2017/10/15074553821605.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 These gestures gave Android developers an idea of creating apps, to make use of new gestures for not only in-phone functionality but also for the most basic smartphone function of locking and unlocking.
 
@@ -184,6 +188,10 @@ Another app that uses gesture to lock/unlock the screen is the Gesture Magic app
 
 ![guesture magic](https://images.wondershare.com/drfone/article/2017/10/15074554938841.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The app already suggests you with predetermined gestures to unlock the screen and open the specific apps. How convenient!
 
 Features – Don’t we all love apps that do not just stick to their main purpose but also come with extra features? This app allows you to launch apps, make calls, send text messages, and quickly access all applications with ease, everything with the help of gestures!  This app needs to use the Asus ROG Phone 8 device Administrator permission in order to work.
@@ -213,7 +221,7 @@ With a 4.4/5-star rating in the Play Store, and with 5,000-10,000 downloads in a
 Download it from - <https://play.google.com/store/apps/details?id=com.vasu.gesturescreenlock&hl=en>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5) Gestos – Gestures
@@ -278,6 +286,10 @@ Cain & Abel can use techniques of Dictionary Attack, Brute-Force and Cryptanalys
 
 ![cain and abel](https://images.wondershare.com/images/utilities/cain-and-abel_39.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features of Cain & Abel:**
 
 - Used for WEP (Wired Equivalent Privacy) cracking
@@ -298,6 +310,10 @@ It’s primarily used to crack weak UNIX passwords but also available for Linux,
 
 ![john the ripper00](https://images.wondershare.com/images/utilities/john-the-ripper00.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features of John the Ripper**
 
 - Supportive with Brute force password cracking and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack)
@@ -316,10 +332,6 @@ Aircrack is a combination different tools used for Wifi, WEP and WPA passwords c
 Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack) techniques can be used to crack WEP/WPA passwords. Basically it collects and analyzes encrypted packets then using its different tool crack password out of the packets. Although aircrack is available for Windows but there are different issues with this software if we use this in Windows environment, so it’s best when we use it in Linux environment.
 
 ![aircrack](https://images.wondershare.com/images/utilities/aircrack.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of Aircrack**
 
@@ -350,6 +362,10 @@ It can be used to crack passwords of different protocols including HTTPS, HTTP, 
 
 [https://www.thc.org/thc-hydra/](https://www.thc.org/thc-hydra/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. RainbowCrack : New Innovation in Password Hash Cracker
 
 RainbowCrack software uses rainbow tables to crack hashes, in other words we can say it uses process of a large-scale time-memory trade for effective and fast password cracking.
@@ -377,10 +393,6 @@ OphCrack used to crack Windows user passwords with the help of rainbow tables th
 Ophcrack is completely free to download, Windows based password cracker that uses rainbow tables to crack Windows user passwords. It normally cracks LM and NTLM hashes. Software has simple GUI and can runs on different platforms.
 
 ![ophcrack00](https://images.wondershare.com/images/utilities/ophcrack00.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of OphCrack**
 
@@ -416,10 +428,6 @@ It is only available for windows operation systems. Tool has a limitation that i
 
 [http://www.hoobie.net/brutus/](http://www.hoobie.net/brutus/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. L0phtCrack : Smart tool for Windows password recovery
 
 Just like OphCrack tool L0phtCrack is also a Windows passwords recovery tool uses hashes to crack passwords, with extra features of Brute force and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack).
@@ -451,10 +459,6 @@ Recently software is updated to new version called Fgdump as Pwdump not work fin
 
 ![pwdump](https://images.wondershare.com/images/utilities/pwdump.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of Pwdump**
 
 - Available for Windows XP, 2000
@@ -465,10 +469,6 @@ Recently software is updated to new version called Fgdump as Pwdump not work fin
 **Site for Download:**
 
 [http://www.darknet.org.uk/](http://www.darknet.org.uk/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Medusa : Speedy network password cracking tool
 
@@ -505,18 +505,22 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-haven.techidaily.com/1721962720996-anticipating-the-official-chatgpt-desktop-release-check-out-our-top-free-open-source-ai-chatbot/"><u>Anticipating the Official ChatGPT Desktop Release? Check Out Our Top Free, Open-Source AI Chatbot!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-x-fold-2-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo X Fold 2 Phone Screen?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy A54 5G?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-lava-blaze-2-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Lava Blaze 2</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-f14-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy F14 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m34-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M34 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-leading-edge-applications-surpassing-traditional-fbx-file-capture/"><u>In 2024, Leading-Edge Applications Surpassing Traditional FBX File Capture</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-depth-video-teaching-manual-expertise-from-movavi/"><u>In-Depth Video Teaching Manual: Expertise From Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-network-hurdles-corrective-measures-for-error-0x800704cf-in-windows/"><u>Overcoming Network Hurdles: Corrective Measures for Error 0X800704CF in Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/surging-through-the-noise-supercharging-telegram-campaigns-for-2024/"><u>Surging Through the Noise Supercharging Telegram Campaigns for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/swiftcut-intuitive-pathways-to-boost-productivity-and-time-saving-techniques/"><u>SwiftCut: Intuitive Pathways to Boost Productivity and Time-Saving Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-unavailable-audiovideo-device-drivers-in-your-computer-setup/"><u>The Ultimate Fix for Unavailable Audio/Video Device Drivers in Your Computer Setup</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620192484-ultimate-guide-to-the-most-profitable-android-gaming-experiences-get-your-moneys-worth/"><u>Ultimate Guide to the Most Profitable Android Gaming Experiences – Get Your Money's Worth!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-zipped-content-unveiled-crafting-srt-text-files/"><u>[New] 2024 Approved Zipped Content Unveiled Crafting Srt Text Files</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-become-a-zoom-maestro-host-with-ease/"><u>[New] Become a Zoom Maestro Host with Ease</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-optimal-storage-expansion-for-sony-a7c/"><u>[Updated] In 2024, Optimal Storage Expansion for Sony A7C</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-through-virtual-lenses-exploring-vr-ar-and-mixed-reality/"><u>[Updated] Through Virtual Lenses Exploring VR, AR, and Mixed Reality</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-razr-40-ultra-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unleash-gaming-potential-using-obs-recording-features/"><u>2024 Approved Unleash Gaming Potential - Using OBS Recording Features</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-x100-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo X100 Pro Unlock Without Password</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-12-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 12 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-fledged-vsco-editing-encyclopedia/"><u>In 2024, Full Fledged VSCO Editing Encyclopedia</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-s17e-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo S17e Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v29e-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo V29e Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y78t-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo Y78t</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-the-editors-pathway-weaving-clips-with-flawless-transitions/"><u>In 2024, The Editors Pathway Weaving Clips with Flawless Transitions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-a25-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy A25 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-y36-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo Y36 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y200-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y200 Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Xiaomi 14 Pro | Dr.fone</u></a></li>
 </ul></div>
 

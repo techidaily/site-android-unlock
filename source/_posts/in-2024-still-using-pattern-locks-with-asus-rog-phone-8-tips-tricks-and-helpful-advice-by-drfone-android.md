@@ -1,7 +1,7 @@
 ---
 title: In 2024, Still Using Pattern Locks with Asus ROG Phone 8? Tips, Tricks and Helpful Advice
-date: 2025-01-03T22:40:15.317Z
-updated: 2025-01-05T00:43:41.602Z
+date: 2025-01-08T18:25:48.784Z
+updated: 2025-01-11T17:55:29.921Z
 tags: 
   - unlock
   - remove screen lock
@@ -81,10 +81,6 @@ To further help you see how easy it might be for anyone to guess your pattern, M
 
 The above data makes it amply clear how using an **easy pattern lock** is actually worse than using a 4-digit PIN, simply because how people are usually using the pattern lock feature.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part III: Tips For Using More Secure Pattern Locks
 
 Now, we know how hard it is to break habits cemented over years of use, so in case you must at all costs use a pattern lock only, the least you can do is try and change your easy pattern lock to a better, more secure hard pattern lock.
@@ -120,6 +116,10 @@ Download the newest version of Dr.Fone from the Wondershare website and launch t
 
 ![drfone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 1: Go to Toolbox > Screen Unlock and click Android.
 
 ![drfone android screen unlock](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
@@ -144,10 +144,6 @@ Your device will be successfully unlocked.
 
 Note that this method wipes all data on the Asus ROG Phone 8 device. There is no way around it. You may be able to unlock select older Samsung devices without data loss. Check [this](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) list for those devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Closing Words
 
 Pattern locks are outdated and not safe to use an **easy pattern lock** – there are no two ways about it. As such, our recommendation is to start using a 6-digit PIN along with biometric or face recognition. However, we do understand that sometimes, you simply cannot use biometrics or face recognition. For those instances, we recommend that you use this guide and create a more secure pattern lock for your device. In case you forgot your pattern, there is always Wondershare Dr.Fone – Screen Unlock (Android) to save the day.
@@ -159,6 +155,10 @@ In today’s tech-driven world, safeguarding your devices is crucial. FRP, or [<
 Among these tools, **Techeligible FRP** stands out, known for its reliability and efficiency in bypassing FRP barriers. Let’s delve into the realm of [<u> FRP bypass</u>](https://drfone.wondershare.com/google-frp-unlock/huawei-frp-tools.html), explore the significance of these tools, and uncover how **Techeligible FRP bypass** simplifies unlocking your device securely.
 
 ![frp bypass](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part I. A Comprehensive Overview of Techeligible
 
@@ -276,7 +276,7 @@ Blu
 | --- | --- | --- |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pros of Techeligible
@@ -287,10 +287,6 @@ In general, **Techeligible FRP tools** can provide the convenience for users bel
 - **Tool Variety.**Various tools cater to different FRP bypass needs.
 - Works with a wide range of diverse Android devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Cons of Techeligible
 
 On the other side, these points disclose the inconvenience Techeligible is facing:
@@ -300,10 +296,6 @@ On the other side, these points disclose the inconvenience Techeligible is facin
 - Website contains several floating advertisements
 
 **Techeligible FRP** simplifies the bypass process with its straightforward interface and an array of tools catering to different device models. Accessible across various phone brands, it offers a user-friendly solution to unlocking your device from FRP barriers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part II. How To Bypass a Phone Using Techeligible?
 
@@ -327,10 +319,6 @@ If you want to reset your devices, you can utilize several bypass APK programs t
 
 ![techeligible frp bypass apk tools](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-05.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### PC FRP Tools
 
 PC FRP utilities assist you in connecting devices to the PC. These tools are simple to use and make it simple to reset the Asus ROG Phone 8 devices. You only need to download the relevant file to get started.
@@ -346,10 +334,6 @@ Now check out below the steps on how to use the **Techeligible FRP Bypass** feat
 
 ![techeligible select frp brand](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** A full guide will appear on the screen. Download the tools required for your specific phone model according to the guide. Then, follow the instructions for removing your specific device’s FRP lock.
 
 ## Part III. Wondershare Dr.Fone: Best Alternative to Techeligible FRP
@@ -357,6 +341,10 @@ Now check out below the steps on how to use the **Techeligible FRP Bypass** feat
 Unlocking an Android device locked by FRP barriers is a little complicated with Techeligible. But fear not, a simpler path awaits with Dr.Fone - Screen Unlock (Android). It stands tall as a user-friendly alternative to the complex process of using Techeligible. It’s designed to streamline the FRP bypass, ensuring a smoother unlocking experience for Android users.
 
 ![drfone unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Advantages of Dr.Fone - Screen Unlock
 
@@ -387,9 +375,17 @@ Dr.Fone - Screen Unlock simplifies the daunting task of unlocking an Android dev
 
 ![drfone remove without data loss](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** To unlock the Android screen, you must first select the **Brand**, **Device Name**, and **Device Model**. To advance, click the associated checkbox to enable the option that states **I agree with the warning and am ready to proceed**. Click **Next** to proceed with unlocking the screen.
 
 ![drfone choose device model](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** When prompted to confirm the process, enter **000000**. To start the software, input the code and then click **Confirm**.
 - **Step 7:** Once you’ve identified your Android device’s model, Dr.Fone will guide you through entering **Download Mode**. Following the on-screen directions will take you to the next steps, where you may complete the operation. The following screens show the status of the screen unlocking procedure, which includes downloading the platform’s required drivers and configuration files.
@@ -424,6 +420,10 @@ Read the information below, but first, let's talk about Android phone passwords 
 
 ![forgot pin](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Importance of the Android Lock System
 
 In general, phone passwords are used to secure your device against unauthorized access and shield your files and data from it. You can try using a pattern, password, PIN, or another method to unlock your device. Although it has many benefits, there are also hazards. Risk in the sense that if you lose your device's password or pattern, you will be unable to access it and will be stuck somewhere.
@@ -435,10 +435,6 @@ This is an important issue that needs to be resolved right away. Therefore, some
 ![how to find lock system](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-2.jpg)
 
 ## Methods to Recover Forgotten Password or PIN
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Google Smart Lock
 
@@ -455,10 +451,6 @@ As you are likely aware, every Android device is connected to a Google account. 
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Recovery Mode
 
 Users of Android smartphones and tablets can troubleshoot various issues with their devices using a feature known as Android Recovery Mode. If you discover that your device is functioning strangely, it might be helpful. Recovery Mode Android technically refers to a unique bootable partition with a recovery application installed inside it.
@@ -466,6 +458,10 @@ Users of Android smartphones and tablets can troubleshoot various issues with th
 However, users can also use it to reset the android password if it is forgotten. The instructions for resetting android devices through recovery mode differ for every android device.
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Dr.Fone - Screen Unlock
 
@@ -499,12 +495,16 @@ On the page Recovery Mode, it's the most important step to unlock your device. P
 
 ![click the right buttons](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Congratulations! Now you can access your phone again, and there're no obstacles when you do anything on your phone.
 
 ![access your phone again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -535,20 +535,19 @@ Any methods mentioned above can work to overcome the obstacle of unlocking the s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/apture-clearness-without-a-tripod-tool-for-2024/"><u>[New] Capture Clearness Without a Tripod Tool for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-gelato-gurus-guide-step-by-step-to-sweet-screen-recording/"><u>[New] Gelato Guru's Guide Step-by-Step to Sweet Screen Recording</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leading-online-repositories-for-text-effect-graphics/"><u>[Updated] Leading Online Repositories for Text Effect Graphics</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-tailored-touch-up-top-6-apps-to-exclude-unwanted-elements-from-photos/"><u>2024 Approved Tailored Touch-Up Top 6 Apps to Exclude Unwanted Elements From Photos</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/diskpart-mastery-selecting-between-clean-and-clean-all-commands/"><u>DiskPart Mastery: Selecting Between 'Clean' And 'Clean All' Commands</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-vivo-x100-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Vivo X100 Pro Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy M14 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y55s-5g-2023-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y55s 5G (2023) Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-v27e-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo V27e Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-v29e-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo V29e Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 11 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/methods-for-reducing-background-distortion/"><u>Methods for Reducing Background Distortion</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-x-flip-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo X Flip</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-quick-uninstall-capabilities-on-windows-systems/"><u>Unleashing Quick-Uninstall Capabilities on Windows Systems</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-gopro-video-editing-simplified-a-free-online-resource/"><u>Updated 2024 Approved GoPro Video Editing Simplified A Free Online Resource</u></a></li>
+<li><a href="https://techtrends.techidaily.com/flacwavmovavimobile/"><u>「FLACファイルからWAVへの変換手順：Movavi・Mobile版ガイド」</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-v27-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo V27 Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/could-you-lose-your-job-for-deploying-chatgpt-insights-on-10-situations/"><u>Could You Lose Your Job for Deploying ChatGPT? Insights on 10 Situations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-up-precious-memory-the-ultimate-trick-to-declutter-your-iphone-and-get-back-gigabytes-smartphone-savvy/"><u>Free Up Precious Memory: The Ultimate Trick to Declutter Your iPhone and Get Back Gigabytes! | Smartphone Savvy</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-lava-yuva-2-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Lava Yuva 2 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y02t-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y02T Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-tecno-spark-20c-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Tecno Spark 20C to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-incessant-removal-in-nvidia-hardware-drivers/"><u>Resolve Incessant Removal in Nvidia Hardware Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-9-methods-to-control-volume-levels-in-windows-11/"><u>Unlock 9 Methods to Control Volume Levels in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-v29-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo V29 Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-process-windows-11-ms-work-installation/"><u>Unveiling the Process: Windows 11 MS Work Installation</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-controller-on-pc-heres-how-to-get-there-quickly-140-chars/"><u>Xbox Controller on PC? Here's How to Get There Quickly (140 Chars)</u></a></li>
 </ul></div>
 

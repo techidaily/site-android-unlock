@@ -1,7 +1,7 @@
 ---
 title: How to Unlock a Network Locked Lava Yuva 3 Pro Phone?
-date: 2024-08-09T15:26:53.113Z
-updated: 2024-08-10T15:26:53.113Z
+date: 2025-01-14T03:47:18.280Z
+updated: 2025-01-16T17:15:37.956Z
 tags: 
   - unlock
   - remove screen lock
@@ -25,9 +25,6 @@ The issue limits the smartphone's functioning to the specific carrier from whom 
 
 In the simplest words, a network-locked Lava Yuva 3 Pro phone means that your device has become carrier-specific. It will now work only with the network provider from where the phone was purchased. Another problem is that there is no automatic unlocking even after the expiry of your contract with the carrier service. Having a network-locked Lava Yuva 3 Pro phone poses undesired connectivity issues.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Why is my phone locked to the network carrier?
 
 Smartphones are network locked by carrier services to prevent customers from switching to a different carrier. Reasons for switching can be the availability of better plans, discounts, etc. Another cause of locking the phones to specific carriers is preventing them from theft and unauthorized usage.
@@ -36,13 +33,14 @@ Smartphones are network locked by carrier services to prevent customers from swi
 
 Unlocking your network-locked phone is legal in every sense. It is however advisable to contact your service provider for addressing the concern. The only downside of unlocking such phones is the loss of device warranty assured at the time of purchase.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. How to Unlock a Network Locked Lava Yuva 3 Pro Phone?
 
 When looking for affordable solutions to address the **Lava Yuva 3 Pro SIM unlock** task, you can follow the methods discussed below:
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Use Network Unlock Code
 
 The safest way to unlock a network-locked Lava Yuva 3 Pro phone is through the network unlock code provided by the carrier service. Here's what you should do:
@@ -76,9 +74,6 @@ Take the following steps to unlock your Lava Yuva 3 Pro phone with the network u
 
 ![network-locked Lava Yuva 3 Pro phone unlocked successfully](https://images.wondershare.com/drfone/article/2022/08/how-to-unlock-a-network-locked-oneplus-phone-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: With a Third-Party Service
 
 If you don't wish to use the carrier unlock code, several third-party services can be availed to unlock a network-locked Lava Yuva 3 Pro device. The UnlockScope application is one such utility to proceed with the process. The tool helps to unlock your network-locked Lava Yuva 3 Pro phone by sending an unlock code on request. Here's how you can work with the tool:
@@ -89,62 +84,41 @@ If you don't wish to use the carrier unlock code, several third-party services c
 
 **Step 2:** Select the details of brand, phone model, IMEI number, country, and network. Then, enter your email address and agree to the app's terms and conditions to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![selecting brand and model of Lava Yuva 3 Pro phone](https://images.wondershare.com/drfone/article/2022/08/how-to-unlock-a-network-locked-oneplus-phone-05.jpg)
 
 **Step 3:** Click on the 'Check Availability and Price' tab; followed by choosing the price and payment method. Finally, tap 'Go to Payment'.
 
 ![providing model specifications of Lava Yuva 3 Pro phone](https://images.wondershare.com/drfone/article/2022/08/how-to-unlock-a-network-locked-oneplus-phone-06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choosing the price and payment method](https://images.wondershare.com/drfone/article/2022/08/how-to-unlock-a-network-locked-oneplus-phone-07.jpg)
 
 **Step 4:** Make the payment and wait for its acknowledgment. You will receive the code once the payment is successful.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![acknowledgment slip of the successful payment](https://images.wondershare.com/drfone/article/2022/08/how-to-unlock-a-network-locked-oneplus-phone-08.jpg)
-
-
 
 ### Dr.Fone - Screen Unlock (Android)
 
 Unlock Your Lava Yuva 3 Pro Phone in a Flash
 
 - Pattern, PIN, password, fingerprints & face screen lock can all be unlocked.
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Bypass Android FRP lock without a PIN or Google account.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Unlock mainstream Android brands like Samsung, Huawei, OnePlus, Xiaomi, etc.
 - No tech knowledge required, Simple, click-through, process.
 
 **3,981,454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. What to ask Before Signing a New Lava Yuva 3 Pro Phone Contract?
 
 Signing in a new Lava Yuva 3 Pro contract has many factors to consider for affordable purchases and consumer safety. When entering into such deals, you should pay head-to-data allowances, upfront costs, price hikes, carrier coverage, roaming charges, contract length, flexibility, etc. A low price is not the only thing that should be taken care of.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4：Bonus Tips: iPhone SIM Unlock to Work on Any Carrier Worldwide
 
 Working with the [**Dr.Fone - Screen Unlock (iOS)**](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) application is advisable to quickly unlock your network-locked iPhone. The tool uses a simple and intuitive method to sort out the issue in just a few simple steps. In addition, the app's responsive interface guides you at every step of the process and ensures complete information security.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (iOS)
 
 iPhone SIM Unlock to Work on Any Carrier Worldwide
@@ -164,9 +138,6 @@ Visit the official Dr.Fone website and download the app to your PC. Install the 
 
 **Step 1:** Launch the app and tap on the 'Remove SIM Locked' function in the main interface.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 !['remove sim locked' function of drfone](https://images.wondershare.com/drfone/guide/remove-iphone-sim-1.png)
 
 **Step 2:** Tap 'Start' to initiate the authorization and verification process. Next, connect your iPhone to the PC and hit the 'Confirmed' button to proceed further.
@@ -175,10 +146,11 @@ Visit the official Dr.Fone website and download the app to your PC. Install the 
 
 **Step 3:** Follow the instructions in the configuration profile sent by Dr.Fone to unlock the iPhone screen. It is necessary to jailbreak your iPhone to remove the SIM lock.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![drfone profile configuration for sim unlock](https://images.wondershare.com/drfone/guide/remove-iphone-sim-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Take the following steps for remove all Wi-Fi networks.
 
@@ -190,14 +162,9 @@ Visit the official Dr.Fone website and download the app to your PC. Install the 
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Technology has a pivotal influence on today's high-tech lifestyles, which is rewarding in several ways, but there are glitches too. The latest ones are the network-locked Lava Yuva 3 Pro devices that have become carrier-specific. When looking for effective solutions to resolve the issue, getting in touch with your service provider is the safest option. You will receive an unlock code to make your device work with different carriers. Another way is to use third-party apps to address the concern. If you want to unlock your iPhone. Searching for a reliable one, you can trust the [**Dr.Fone - Screen Unlock (iOS)**](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) application for a quick and convenient solution.
-
-
 
 ## How to Change Lock Screen Wallpaper on Lava Yuva 3 Pro
 
@@ -209,9 +176,6 @@ Along with the basic methods, the article will redirect its discussion to changi
 
 Every Android smartphone has its interface to follow while changing the lock screen wallpaper or screen saver of the Lava Yuva 3 Pro device. However, before we dive into the Lava Yuva 3 Pro device-specific details, let's dissect the two common methods to change ****the lock screen wallpaper on Android:****
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Pressing Home Screen Method
 
 The first thing to try for changing the lock screen wallpaper includes the long press technique. This technique is available for almost all Android devices, a basic approach to changing lock screen wallpapers. To know how it is done, follow the steps provided below:
@@ -220,9 +184,6 @@ The first thing to try for changing the lock screen wallpaper includes the long 
 
 ****Step 2:**** Select the “Wallpaper” option in the available buttons to lead to another window showing different wallpapers.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on wallpaper icon](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-1.jpg)
 
 ****Step 3:**** Out of all the wallpapers, select any of them and tap on the “Apply” button to set it as your lock screen wallpaper.
@@ -243,9 +204,6 @@ You can also set your favorite picture as the ****Android lock screen wallpaper*
 
 ****Step 2:**** Choose and open the image on the screen, and continue to select the “Three-Dotted” icon on the bottom-right of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on three dots](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-4.jpg)
 
 ****Step 3:**** On selecting the option of “Set as wallpaper,” you will apply the particular image from the Gallery as your lock screen wallpaper.
@@ -258,9 +216,6 @@ The provided methods in the above part are comprehensive in changing the lock sc
 
 For this part, we will bring a guide explaining ****how to change the lock screen wallpaper on Android**** of different brands:
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### For Samsung Users
 
 ****Step 1:**** On unlocking your Samsung, hold the empty space on your home screen to open a set of options. Select "Wallpapers" from the available list and continue to the next screen.
@@ -273,9 +228,6 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 
 ****Step 3:**** Once you observe the image on the preview window, tap on the button on the bottom to set it as your lock screen wallpaper.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![apply the wallpaper](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-8.jpg)
 
 ****Step 1:**** As you access the home screen of your Google Pixel, continue to hold the space. This will open a list of options where you must tap on "Wallpaper & style." Continue to select the "Change wallpaper" option to bring new colors to your Google Pixel.
@@ -288,31 +240,17 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 
 ****Step 3:**** To proceed, specify where you wish to set it as your wallpaper. As the options appear on the front, select the "Lock screen" option and continue to set your wallpaper.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the lock screen option](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-11.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### For Motorola Users
 
 ****Step 1:**** Lead into the “Settings” of your Motorola device and look for the “Wallpaper & style” option in the list.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on wallpaper and style](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** Select any options appearing on the next screen that defines the location from where you will add the new wallpaper. Selecting a particular wallpaper from the available options leads to the "Preview" screen.
 
@@ -344,32 +282,31 @@ Zedge is one of the most premium websites for accessing wallpapers for Android d
 
 ![zedge android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2. <u>Interfacelift</u>
 
 For exclusive access to free wallpapers of multiple categories, Interfacelift provides some impressive and high-quality results. This intuitive wallpaper site provides some captivating options. Along with that, it asserts a special force on photographs of landscapes, which makes it a great site.
 
 ![interfacelift android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-19.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3. <u>Unsplash</u>
 
 Known for keeping royalty-free, high-quality content, Unsplash can be a great Android wallpaper site. Download your favorite wallpapers that will perfectly suit your Android device. Along with its smooth interface, Unsplash offers diversity with its dedicated Unsplash+ plan.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![unsplash android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-20.jpg)
 
 ### 4. <u>Mobile9</u>
 
 For variety, you can always go for Mobile9. This unique, expressive, and productive wallpaper site provides the best Android wallpapers. Following this, it offers multiple diversity of content, including ringtones and books. However, to get your hands on the finest quality wallpaper, do consider trying the site.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mobile9 android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-21.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5. <u>Dribbble</u>
 
@@ -378,8 +315,9 @@ If you seek the best design for your Android lock screen, Dribbble provides the 
 ![dribbble android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-22.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. <u>Wallpapers.com</u>
 
 For a service that provides dedicated Android lock screen wallpapers, Wallpapers.com holds a good position. With the finest wallpapers to use on the Android device, you can also customize the available wallpapers. Dedicated categories make it easy for users to select their favorite wallpaper from the 1000+ options.
@@ -390,9 +328,6 @@ For a service that provides dedicated Android lock screen wallpapers, Wallpapers
 
 There are very few websites that offer the finest quality wallpapers for free. Pexels, being one of them, displays a great interface for users with sub-categorization. With descriptions for every wallpaper, you can select the best one for your device. Find a categorized section of more than 70,000 wallpapers on this platform.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![pexels android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-24.jpg)
 
 ### 8\. <u>Pixabay</u>
@@ -401,9 +336,6 @@ Who won’t have heard of Pixabay as a haven for lock screen wallpapers? This pl
 
 ![pixabay android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 9\. <u>500px</u>
 
 To access the best wallpapers in the world, 500px is a good platform to keep in mind. While it helps a wide community fulfill their tasks, it can be a purposeful option. For diverse operability in the site, users can also sell their work into a global marketplace.
@@ -414,9 +346,6 @@ To access the best wallpapers in the world, 500px is a good platform to keep in 
 
 From desktop to Android wallpapers, Wallpaperswide holds a diverse set of options. This platform is designed to provide a diversity of categories to its users. With a simple interface, it is a great option for gathering content.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wallpaperswide android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-27.jpg)
 
 ## Bonus Part: How To Unlock Android Screen if Forgotten the Password
@@ -432,6 +361,10 @@ Such options make it the finest platform to resolve issues with the Android devi
 You need to download and launch Dr.Fone on your computer and continue to the “Screen Unlock” tool. On accessing the tool, connect your Android device with a cable.
 
 ![choose the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2: Start Unlocking the Android****
 
@@ -449,18 +382,12 @@ If you intend not to lose data, continue to the "Remove without data loss" optio
 
 Put your Android device in Download Mode by powering it off. Continue to press the "Volume Down," "Home," and "Power" buttons simultaneously. After a few seconds, press the "Volume Up" button to enter the Download Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![activate the download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 ****Step 5: Unlock Android Successfully****
 
 The package starts downloading as the Lava Yuva 3 Pro device gets into Download Mode. It will take a while until it completes. Once the download process gets completed, press the “Remove Now” button to remove the Android screen lock.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start removing screen lock](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
 
 ****Image name: lock-screen-wallpaper-on-android-32.jpg****
@@ -468,7 +395,6 @@ The package starts downloading as the Lava Yuva 3 Pro device gets into Download 
 ****Image link:**** [<u>https://images.wondershare.com/drfone/guide/android-unlock-07.png</u>](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
 
 ****Image alt: start removing screen lock****
-
 
 ## Conclusion
 
@@ -480,9 +406,6 @@ Everybody of you is well familiar with Android lock screen and it can be undoubt
 
 Here's a charm that's you can unlock your lock screen by many ways and you've to set the ways from android lock screen settings. Now you'll come to know how to set different types of screen lock, customize Android lock screen, and even unlock your android phone without resetting it as all the ways of unlocking is related to the Lava Yuva 3 Pro device when it's switched on.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Different Ways of Unlocking Your Lava Yuva 3 Pro
 
 First look at the procedures on how you can enable the lock screen functionality from android lock screen settings. To reach the lock screen settings android, you've to follow the path:
@@ -497,48 +420,30 @@ Now see how to unlock your lock screen in different ways.
 
 This is the most common method of unlocking an android lock screen. On all most all the android device, you'll notice a lock mostly on the right side (sometimes on top) of a round charm. You just have to direct towards the lock and then the lock screen will be unlocked in no time. This method doesn't provide any security (it just protects your device from sudden access by tapping on screen or any of the button) to your device as no password or PIN is required to set the "Slide" unlock.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-3.jpg)
 
 Keep your any finger on the middle of the round charm and by keeping your finger pressed, reach on the lock icon. The lock screen will be unlocked just after reaching your finger to the lock icon.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.Face Unlock
 
 This method of unlocking your lock screen needs your Android device to snap a photo of your with its camera. After you set the snapped photo as the unlocking recognition, you could unlock your device through showing your face on the screen.
 
 Capture a picture of your face with your Android device's camera and then set it for logging in into your device. From the lock screen, by just by holding your face, you can log in. It's very interesting, but you should never rely on this method for strong security as this method of unlocking is prone to break easily as an intruder can unlock your device by putting a photo of you in front of your device. Moreover, this method sometimes doesn't work properly. So it's better to go for some other highly secured options for locking your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-4.jpg)
 
 ### 3.Pattern
 
 This is a way of setting pattern for lock screen from a grid of nine dots. You can select the pattern like some letter like Z, L or C etc, but nothing guarantees high security as the set pattern can be easily guessed or be seen while you are unlocking your device. Another problem is that by unlocking with the same pattern, your finger leaves some marks for the pattern's path. By following the path, a stranger can unlock your device. So for little security, you can use pattern unlock method on your Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-5.jpg)
 
 Go to the lock screen setting for Pattern and then set the pattern by sliding your finger from one dot to another, then another and like that way. Remember which pattern you've set in order to unlock your device in the next time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4.PIN
 
 You might be troubled by thinking about the difference between PIN and Password. A little distinction is there for a PIN and that is it consists of numbers only whereas for password, you can associate some alphabetical letters or signs along with numbers.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-6.jpg)
 
 Go to the lock screen setting for PIN and then set a PIN that consists of minimum 4 digits. It's your choice to use 4 or more digit PIN. After setting the PIN, you can access your Android device by putting the PIN in a box from the lock screen. PIN protected lock screen is highly protected if the PIN is set strongly.
@@ -549,18 +454,16 @@ In addition to PIN protection, you can consider it as password by adding some le
 
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6.Fingerprint
 
 In some of the modern Android device, you'll find the feature of fingerprint unlocking. You can find the option through the screen or any dedicated button. By setting your fingerprint, you can unlock your device by tapping your finger on the Lava Yuva 3 Pro device's screen or the dedicated button.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-8.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### 7.Voice
 
 This is also a fun way of unlocking Android lock screen as you can unlock by saying the same voice that you've saved as the unlocking recognition.
@@ -569,9 +472,6 @@ This is also a fun way of unlocking Android lock screen as you can unlock by say
 
 Go to the setting from "Voice Unlock" button and record your voice such as "Open My Lava Yuva 3 Pro" or as per your choice with clear sound. Repeat the voice a few more times as to match well. Then set and unlock your device from the lock screen by using the same voice command.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Customize Android Lock Screen
 
 **Lock Screen Widgets**
@@ -594,8 +494,6 @@ This is an easy way to unlock your Samsung device if you forgot your Samsung's l
 
 **Note:** If your are using Samsung or Lg, then this tool can perfectly remove the locked screen while keeping all the data. As for thoes users who are using Andriod phone, this tool still can help you unlock the screen while you will lose all your data after unlocking.
 
-
-
 ### Dr.Fone - Android Lock Screen Removal
 
 Remove 4 Types of Android Screen Lock without Data Loss
@@ -611,16 +509,10 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 **Step 1.** Run Dr.Fone and choose "Screen Unlock".
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![bypass Samsung Phone's lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2.** Connect your Samsung with USB on computer,then you will see the windows as follow,and select phone model in the list.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bypass Samsung Phone's lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 3.** Enter the download mode on your Samsung device. Follow the guide of the windows.
@@ -635,6 +527,10 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![bypass Samsung Phone's lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5.** When the recovery package is downloaded completed,you can start the process of unlock,the whole process won't lose any data on your device.You can access your device without entering any password or PIN after the process is finished.
 
 ![bypass Samsung Phone's lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
@@ -642,7 +538,6 @@ Remove 4 Types of Android Screen Lock without Data Loss
 ### Video on How To Remove Android Lock Screen
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/qXw3JNztGVI" id="video-iframe-t"></iframe>
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -656,7 +551,23 @@ Remove 4 Types of Android Screen Lock without Data Loss
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-smartest-screens-top-11-general-knowledge-channels/"><u>[New] 2024 Approved Smartest Screens Top 11 General Knowledge Channels</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-x-recorder-for-pc-user-friendly-audio-logger/"><u>[New] 2024 Approved X-Recorder for PC User-Friendly Audio Logger</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-s24-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy S24</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-a14-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy A14 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-y78plus-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo Y78+</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-vivo-y78t-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo Y78t Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y100i-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo Y100i</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastery-over-mobile-batteries-in-depth-review-of-the-zmi-powerpack-20000-unit/"><u>Mastery Over Mobile Batteries: In-Depth Review of the ZMI PowerPack 20,000 Unit</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/navigating-instagram-blocking-basics-for-2024/"><u>Navigating Instagram Blocking Basics for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-media-conversion-from-avis-to-striking-gif-images-via-filmora-software-windowsmacos-for-2024/"><u>Seamless Media Conversion From AVIs to Striking GIF Images via Filmora Software (Windows/macOS) for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oppo-a18-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Oppo A18 Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-ultimate-gaming-performance-an-in-depth-comparison-of-razor-acer-and-msi-exclusive-insights/"><u>Top Picks for Ultimate Gaming Performance : An In-Depth Comparison of Razor, Acer & MSI - Exclusive Insights</u></a></li>
+</ul></div>
 

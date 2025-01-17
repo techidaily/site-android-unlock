@@ -1,7 +1,7 @@
 ---
 title: In 2024, Downloading SamFw FRP Tool 3.0 for Lava Yuva 3
-date: 2025-01-07T19:41:33.260Z
-updated: 2025-01-11T18:22:07.006Z
+date: 2025-01-15T21:42:01.058Z
+updated: 2025-01-17T09:29:56.425Z
 tags: 
   - unlock
   - remove screen lock
@@ -25,10 +25,6 @@ The page discusses and evaluates its effectiveness with a comprehensive review. 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1. A Detailed Introduction of SamFw FRP Tool
 
@@ -74,6 +70,10 @@ Here’s a comprehensive guide to help you bypass FRP using the **Sam FRP bypass
 
 ![frp removal completion pop-up](https://images.wondershare.com/drfone/article/2024/01/samfw-frp-tool-guide-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note**
 
 _It’s important to note that the_ **_**_SamFw FRP Tool_**_** _is only compatible with Windows OS. Users with Mac or Linux systems may need to explore alternative solutions for FRP bypass._
@@ -81,7 +81,7 @@ _It’s important to note that the_ **_**_SamFw FRP Tool_**_** _is only compatib
 If you’re seeking a reliable and flexible alternative to the **SamFw FRP tool**, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Screen Unlock (Android) is the best choice. Its proven track record and various compatibilities offer a seamless solution for Android devices. In addition, it makes it easy to work on FRP lock without a PIN or Google Account. Let’s explore further below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2. Best SamFW FRP Tool Alternative: Wondershare Dr.Fone
@@ -89,6 +89,10 @@ If you’re seeking a reliable and flexible alternative to the **SamFw FRP tool*
 Wondershare Dr.Fone - Screen Unlock (Android) is the go-to choice for many users seeking efficient FRP bypass methods. The app is available for Windows, Mac, and Linux, adding to its versatility. Here are some reasons why it’s the best alternative to the **SamFw FRP Tool**.
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Versatile lock screen removal**. Dr.Fone excels in removing various Android lock screen types. It offers a comprehensive solution for users facing different security challenges.
 - **Pin and Google Account bypass**. The tool bypasses FRP without the need for a PIN or Google Account. It provides a hassle-free experience for users.
@@ -115,13 +119,13 @@ Dr.Fone - Screen Unlock (Android) is the ultimate alternative to the **SamFw FRP
 
 ![debugging smartphone to authorize dr.fone](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Dr.Fone will confirm the removal of the FRP locks from your Android device. After successful removal, the prompt window indicates completion. Click **Done** upon successful execution. If issues persist, retry the process with the **Try Again** option.
 
 ![removed frp status window](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Side-by-Side Comparison Between SamFw Tool and Dr.Fone
 
@@ -143,10 +147,6 @@ Choosing between **SamFw Tool** and Dr.Fone - Screen Unlock (Android) shouldn’
 
 [<u>Ways to Remove FRP Lock on Motorola Phones without a PC</u>](https://drfone.wondershare.com/google-frp-unlock/frp-motorola-guide.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 **SamFw FRP Tool** is a viable option for users with FRP lock issues, particularly on Samsung devices. Its interface and effectiveness in removing FRP are noteworthy features. However, limitations arise with its Windows-only compatibility, which may impact user experience.
@@ -161,15 +161,15 @@ In the last few years, we have seen the launch of numerous Android phones with a
 
 Let’s start our listicle by exploring some of the best fingerprint scanner lock app options available on the Google Play Store.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Fingerprint Pattern App Lock
 
 The Fingerprint Pattern App Lock app will be an ideal solution to safeguard your privacy. Besides locking your mobile screen with fingerprint, pattern, and pin code, it can also lock Facebook Messenger, Snapchat, Instagram, Whatapps, Chrome, or any other apps!
 
 ![Fingerprint Pattern App Lock](https://images.wondershare.com/drfone/article/2021/06/fingerprint-pattern-app-lock.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Full customization
 - It doesn’t require the rooting of the Lava Yuva 3 device
@@ -186,6 +186,10 @@ Download Link: [Fingerprint Pattern App Lock](https://play.google.com/store/apps
 From social media apps to your gallery, this finger lock app can protect almost everything on your device. It comes with tons of features like app time-out, fake crash screen, the inclusion of PIN, and more. All of this can be customized from its settings as well.
 
 ![applock fingerprint pin](https://images.wondershare.com/drfone/article/2017/10/15075532343943.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - It can capture the picture of the intruder
 - Provides a fake crash screen to hide that the app that has been locked
@@ -213,10 +217,6 @@ As the name suggests, this fingerprint screen lock app can help you attain compl
 Rating: 4.2
 
 Download Link: [FingerSecurity](https://play.google.com/store/apps/details?id=com.rickclephas.fingersecurity&hl=en)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. App Lock - Real Fingerprint Protection
 
@@ -273,6 +273,10 @@ LOCKit is a complete security app that can help you protect your photos, apps, n
 
 ![LOCKit](https://images.wondershare.com/drfone/article/2017/10/15075533804457.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Full customization of fingerprint lock with PIN and password
 - Multiple language support
 - Can lock incoming calls and customize the notification bar
@@ -282,10 +286,6 @@ LOCKit is a complete security app that can help you protect your photos, apps, n
 Rating: 4.6
 
 Download Link: [LOCKit](https://play.google.com/store/apps/details?id=com.ushareit.lockit)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Fingerprint Locker
 
@@ -351,10 +351,6 @@ So, look no further if you want to remove your **Android screen lock** in just a
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool to unlock Android Phone Screen!
@@ -382,6 +378,10 @@ For most Brands, it should be "100% Remove Screen Lock". These two solutions unl
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In the supported device brands list, please find the right one for you.
 
 ![device brands list](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -397,6 +397,10 @@ Get into Recovery Mode on Samsung phone with Bixby:
 Get into Recovery Mode on Samsung phone without Bixby:
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Get into Recovery Mode in Samsung phone with Home Button:
 
@@ -434,11 +438,11 @@ Depending on your phone, the steps for this process might vary a little. Most ph
 
 ![wipe data](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After that, your Android will start the process, which can require a few minutes. However, this process will erase all your user data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Use ADB
 
@@ -460,10 +464,6 @@ With your Android phone connected and the cmd opens, enter:
 ![cmd command](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-4.jpg)
 
 After entering, reboot your phone once more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Boot into Safe Mode
 
@@ -501,21 +501,20 @@ Passwords shield our phones from unapproved access, yet we get locked out unexpe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-optimizing-performance-best-practices-for-fast-loading-times-for-2024/"><u>[New] Optimizing Performance Best Practices for Fast Loading Times for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-secrets-of-excellence-in-xbox-gameplay-screenshots/"><u>[Updated] In 2024, Secrets of Excellence in Xbox Gameplay Screenshots</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-refine-your-beauty-videos-with-youtubes-palette-tweaking/"><u>[Updated] Refine Your Beauty Videos with Youtube's Palette Tweaking</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-video-camera-compendium-year/"><u>2024 Approved The Ultimate Video Camera Compendium Year</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-realme-12-proplus-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Realme 12 Pro+ 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-z-flip-5-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elite-gamers-top-picks-best-4k-gaming-screens/"><u>Elite Gamers' Top Picks Best 4K Gaming Screens</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-s17e-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo S17e</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-z-fold-5-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy Z Fold 5 Through Google Earth?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-s17e-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo S17e Pattern Lock Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-oppo-find-n3-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Oppo Find N3 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-motorola-edge-40-pro-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Motorola Edge 40 Pro and Browser | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-s24plus-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy S24+</u></a></li>
-<li><a href="https://media-tips.techidaily.com/seamless-integration-of-xavc-video-files-with-final-cut-pro-nand-fcp-x-editing-software/"><u>Seamless Integration of XAVC Video Files with Final Cut Pro Nand FCP X Editing Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-y100-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo Y100</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-bootloader-easily-by-drfone-android/"><u>How to Unlock Lava Bootloader Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-lava-yuva-3-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Lava Yuva 3 Pro Unlock Without Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-motorola-edge-40-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Motorola Edge 40</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-chuckle-inducing-layout/"><u>In 2024, Optimal Chuckle-Inducing Layout</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-personal-growth-reflections-for-digital-platforms/"><u>In 2024, Personal Growth Reflections for Digital Platforms</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-tecno-pop-7-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Tecno Pop 7 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-huawei-nova-y91-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Huawei Nova Y91 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-lava-yuva-3-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Lava Yuva 3 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-gionee-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Gionee Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-htc-u23-pro-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on HTC U23 Pro</u></a></li>
+<li><a href="https://win-dash.techidaily.com/msi-x470-motherboard-full-driver-installation-file-available-for-download/"><u>MSI X470 Motherboard Full Driver Installation File Available for Download</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pixel-capture-reimagined/"><u>Pixel Capture Reimagined</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-panzoid-structure-packs-for-2024/"><u>Premium Panzoid Structure Packs for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-definitive-guide-to-the-superior-samsung-galaxy-s10-a-smartphone-for-connoisseurs/"><u>The Definitive Guide to the Superior Samsung Galaxy S10 - A Smartphone for Connoisseurs</u></a></li>
+<li><a href="https://win-online.techidaily.com/top-12-utahanuti-pokryvek-pro-chromium-podkladovy-filmova-nahravka/"><u>Top 12 Utahanutí Pokrývek Pro Chromium-Podkladový Filmová Nahrávka</u></a></li>
 </ul></div>
 

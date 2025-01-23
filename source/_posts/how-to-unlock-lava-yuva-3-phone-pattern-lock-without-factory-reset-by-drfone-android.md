@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Lava Yuva 3 Phone Pattern Lock without Factory Reset
-date: 2025-01-12T06:43:45.715Z
-updated: 2025-01-17T07:45:32.804Z
+date: 2025-01-22T16:16:34.942Z
+updated: 2025-01-23T16:15:33.410Z
 tags: 
   - unlock
   - remove screen lock
@@ -23,6 +23,10 @@ Have you been locked out of your Android device and can’t seem to recall its p
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Unlock the Android Phone Pattern with Lock Screen Removal Tool
 
@@ -85,10 +89,6 @@ Step 4. Sign in using the credentials of the Google account that is linked to yo
 
 ![sign in google account-how to unlock android pattern lock without factory reset](https://images.wondershare.com/drfone/article/2017/09/15057364235603.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5. Great! Now you can simply provide (and confirm) the new pattern for your device.
 
 After following these instructions, you would be able to learn how to unlock an Android phone pattern lock without factory reset or causing any harm to your device.
@@ -106,7 +106,7 @@ Step 2. From the interface, you can select the Android device that is linked to 
 ![lock android device](https://images.wondershare.com/drfone/article/2017/09/15057364556808.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3. You will get options to ring it, lock it, or erase it. Select the “Lock” option to proceed.
@@ -118,10 +118,6 @@ Step 4. This will launch a new pop-up window. From here, you can provide a new l
 Step 5. Confirm your choice and save it to remotely change the lock screen password on your device.
 
 In the end, you would be able to learn how to unlock an Android phone pattern lock without a factory reset after following these above-mentioned steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to unlock Android phone pattern lock without factory reset using ADB?
 
@@ -141,11 +137,19 @@ Step 5. Go to Settings > Developer Options and turn on the feature of USB debugg
 
 ![usb debugging](https://images.wondershare.com/drfone/article/2017/09/15057365186961.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6. After connecting your device to the system, launch the command prompt in the installation directory on your respective ADB.
 
 Step 7. Type the command “**ADB shell rm /data/system/gesture.key**” and press enter.
 
 ![adb shell rm](https://images.wondershare.com/drfone/article/2017/09/15057365341304.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 8. Simply restart your device and access it the usual way, without any lock screen pattern or pin.
 
@@ -187,10 +191,6 @@ There will be times when you come into the situation of not knowing what your Gm
 
 ![reset Gmail password on Android-type in your verification code](https://images.wondershare.com/drfone/others/14546022635082.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![reset Gmail password on Android-account assistance](https://images.wondershare.com/drfone/others/14546022939368.jpg)
 
 **Step 6:** After you have done all the previous steps, you will know how to reset your Gmail password directly from your Android device.
@@ -208,7 +208,7 @@ Step 2: Find the Password option in the list. Tap on it to be moved to another s
 ![reset Gmail password on Android-Find the Password option](https://images.wondershare.com/drfone/others/14546023423449.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Bonus Tips
@@ -220,10 +220,6 @@ Gmail is undoubtedly a marvelous tool to use on Android devices, but have you re
 3. You are capable of sorting your mails with a certain level of accuracy once you are fully aware of the features of Gmail app on Android devices. Just click on the email, then choose Settings menu and mark it as "Mark as not important", "Mark important" or "Report to spam" owing to the priority of your email.
 4. Gmail app provided you with the ability to have conversations online, and whenever a message comes, there will be a sound. In case you are in a vital conference, or you don't want to be disturbed by the noise, you can mute it. All you have to do is to tap into the conversation, choose the three dots icon then click on the Mute option in the menu.
 5. Enhance the speed and the accuracy of your search with the use of certain phrases. Let's take an instance to see what Gmail can do for you in this case. If you want to search for the mails which have been sent by a certain person, typefrom:(name of the person on Gmail) in the searching bar. And in case you would love to look for a private message from that person, please type is:chat:(name of the person on Gmail) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Video on How to Reset Gmail Password on Android Devices
 
@@ -296,6 +292,10 @@ Google Assistant will then provide spoken responses and display relevant informa
 
 ![Using Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. Common Problems When Using Google Assistant
 
 Unable to use **Google Assistant to unlock phone** is not the only drawback that users may have encountered in recent changes. Although Google Assistant on the lock screen presents a revolutionary way to interact with your phone, like any technology, it also comes with its share of challenges. Some of the common problems when using Google Assistant are:
@@ -313,10 +313,6 @@ While Google Assistant is adept at understanding individual commands, it may str
 Google Assistant's capabilities are extensive, but there are instances where it may struggle to execute specific tasks. For example, it can’t execute tasks that involve interacting with certain third-party applications or services. You can't also **unlock phone with voice Google Assistant.**
 
 ![Giving command to Google Asisstant on lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tips to Make Voice Google Assistant Recognize Your Commands
 
@@ -347,7 +343,7 @@ Fortunately, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondersha
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
@@ -381,7 +377,7 @@ As the Dr.Fone Screen Unlock tool supports both Android and iOS, you will need t
 ![Choose Remove without Data Loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 4:** Define Device Details
@@ -389,6 +385,10 @@ As the Dr.Fone Screen Unlock tool supports both Android and iOS, you will need t
 Next, make sure to check and confirm the Brand, Device Name, and Device Model to unlock your Android screen. Tick the checkmark that says you agree with the warning and are ready to proceed. Click "Next" to unlock your screen.
 
 ![Check and confirm your device’s details](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Confirm to Unlock Screen
 
@@ -403,7 +403,7 @@ Dr.Fone will then guide you to put your Android device into Download Mode accord
 ![Follow instructions to put Android in Download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After that, you can monitor the progress and wait for a few minutes until it shows “Unlocked successfully.”
@@ -436,18 +436,19 @@ However, if you are looking for ways to **unlock phone with Google Assistant**, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-facetime-audibility-capturing-clear-audio-calls/"><u>[New] 2024 Approved FaceTime Audibility Capturing Clear Audio Calls</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-short-chords-long-stories-musical-roles-played/"><u>[New] 2024 Approved Short Chords, Long Stories Musical Roles Played</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-next-level-action-gopro-hero5-black-meets-hero4-silver/"><u>[Updated] 2024 Approved Next-Level Action GoPro Hero5 Black Meets Hero4 Silver</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-youtube-masterclass-carving-out-your-digital-self/"><u>2024 Approved YouTube Masterclass Carving Out Your Digital Self</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/find-your-ideal-registry-service-the-ultimate-locator-guide/"><u>Find Your Ideal Registry Service: The Ultimate Locator Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g-stylus-5g-2023-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Motorola Moto G Stylus 5G (2023) Phone without Any Data Loss</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Motorola Moto G84 5G?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-huawei-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Huawei Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-wit-wave-twitters-funniest-content/"><u>In 2024, Wit Wave Twitter's Funniest Content</u></a></li>
-<li><a href="https://win11.techidaily.com/is-the-task-scheduler-not-working-on-windows-try-these-fixes/"><u>Is the Task Scheduler Not Working on Windows? Try These Fixes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/pixicapture-studio-winos-series-for-2024/"><u>PixiCapture Studio WinOS Series for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-lava-blaze-2-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Lava Blaze 2 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-meizu-21-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Meizu 21 Device</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-full-picture-the-essence-of-google-podcasts-app-for-2024/"><u>[New] Full Picture The Essence of Google Podcasts App for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-transforming-viewers-into-fans-a-guide-to-igtv-hash-tags/"><u>[New] In 2024, Transforming Viewers Into Fans A Guide to IGTV Hash Tags</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-musics-big-screen-facebooks-top-ten-vids/"><u>[Updated] In 2024, Music's Big Screen Facebook's Top Ten Vids</u></a></li>
+<li><a href="https://article-posts.techidaily.com/astonishingly-fast-finders-of-forlorn-reddit-content-for-2024/"><u>Astonishingly Fast Finders of Forlorn Reddit Content for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-lava-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Lava</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-gionee-f3-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Gionee F3 Pro</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-brother-mfc-l2690dw-printer-driver-free-download-and-update-guide/"><u>Get the Newest Brother MFC-L2690DW Printer Driver | Free Download & Update Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-motorola-moto-g14-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Motorola Moto G14 to Protect Your Individual Information</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-8-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 8 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-s24plus-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy S24+</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-your-smartwatch-now-a-step-by-step-guide-to-activating-the-apple-watchs-double-tap-function-gadget-flow/"><u>Master Your Smartwatch Now: A Step-by-Step Guide to Activating the Apple Watch’s Double Tap Function | Gadget Flow</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-keyboard-issues-spacebar-malfunction-on-microsofts-latest-operating-system/"><u>Resolving Keyboard Issues - Spacebar Malfunction on Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-f54-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy F54 5G Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-t2-pro-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo T2 Pro 5G Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset a Locked Huawei Nova Y91 Phone
-date: 2025-01-15T16:59:24.669Z
-updated: 2025-01-16T16:14:57.171Z
+date: 2025-01-19T16:06:20.049Z
+updated: 2025-01-23T16:05:57.934Z
 tags: 
   - unlock
   - remove screen lock
@@ -23,7 +23,7 @@ There might be some moment when you have accidentally locked your phone and have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Hard Reset Locked Huawei Nova Y91 Phone
@@ -47,7 +47,7 @@ Press and hold the volume up key, along with the power button and home key. You 
 ![reset a locked samsung](https://images.wondershare.com/drfone/article/2016/07/14696881309064.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **3\. How to reset an LG phone that is locked?**
@@ -56,15 +56,15 @@ To unlock your LG Android phone, you will have to press and hold the volume key 
 
 ![reset a locked lg](https://images.wondershare.com/drfone/article/2016/07/14696881591213.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **4\. How to reset a locked Sony phone?**
 
 You have to confirm that your phone is switched off. Press and hold three keys altogether. The keys are Volume Up, Power, and Home keys. You have to release the buttons once you see the logo on the screen. Now follow volume down to scroll down. Power or Home key is used for selection. Choose factory reset or wipe data.
 
 ![reset locked sony](https://images.wondershare.com/drfone/article/2016/07/14696881799322.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **5\. How to reset a locked Motorola phone?**
 
@@ -107,10 +107,6 @@ The first thing that you will have to do is open Dr.Fone on your PC and then cli
 
 ![reset android screen lock with drfone](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4. Remove Lock Screen without Password**
 
 Once the previous step is complete, you will see the lock screen removal process started. After completing the lock screen removal process, you could enter into your phone without needing any password.
@@ -118,6 +114,10 @@ Once the previous step is complete, you will see the lock screen removal process
 ![reset android phone screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -181,6 +181,10 @@ Cain & Abel can use techniques of Dictionary Attack, Brute-Force and Cryptanalys
 
 [http://www.oxid.it](http://www.oxid.it/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. John the Ripper : Multi-platform, Powerful, Flexible password cracking tool
 
 John the Ripper is a free multi or cross platform password cracking software. Its called multi platform as it combines different password cracking features into one package.
@@ -207,10 +211,6 @@ Aircrack is a combination different tools used for Wifi, WEP and WPA passwords c
 Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack) techniques can be used to crack WEP/WPA passwords. Basically it collects and analyzes encrypted packets then using its different tool crack password out of the packets. Although aircrack is available for Windows but there are different issues with this software if we use this in Windows environment, so it’s best when we use it in Linux environment.
 
 ![aircrack](https://images.wondershare.com/images/utilities/aircrack.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of Aircrack**
 
@@ -251,10 +251,6 @@ Password cracking using rainbow table is faster than the normal brute force atta
 
 ![rainbowcrack](https://images.wondershare.com/images/utilities/rainbowcrack_1236.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of Rainbow Crack**
 
 - Support verity of Rainbow tables
@@ -273,10 +269,6 @@ Ophcrack is completely free to download, Windows based password cracker that use
 
 ![ophcrack00](https://images.wondershare.com/images/utilities/ophcrack00.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of OphCrack**
 
 - Available for Windows but also available for Linux, Mac, Unix, and OS X
@@ -287,6 +279,10 @@ Ophcrack is completely free to download, Windows based password cracker that use
 **Site for Download:**
 
 [http://ophcrack.sourceforge.net/](http://ophcrack.sourceforge.net/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Brutus : A brute force attack cracker for remote systems
 
@@ -310,10 +306,6 @@ It is only available for windows operation systems. Tool has a limitation that i
 **Site for Download:**
 
 [http://www.hoobie.net/brutus/](http://www.hoobie.net/brutus/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. L0phtCrack : Smart tool for Windows password recovery
 
@@ -346,6 +338,10 @@ Recently software is updated to new version called Fgdump as Pwdump not work fin
 
 ![pwdump](https://images.wondershare.com/images/utilities/pwdump.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features of Pwdump**
 
 - Available for Windows XP, 2000
@@ -366,6 +362,10 @@ It is speedy brute force, parallel and modular tool. Software can perform Brute 
 Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of information. All modules available as an independent .mod file, so no modification is required to extend the list that supports services for brute forcing attack.
 
 ![medusa](https://images.wondershare.com/images/utilities/medusa_1037.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features of Medusa**
 
@@ -425,6 +425,10 @@ Google Find My Device is a service that lets you remotely lock, track, and wipe 
 
 ![google find my device data reset](https://images.wondershare.com/drfone/article/2022/11/face-unlock-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 1:** Navigate to Find My Device and sign in with your Google account.
 
 **Step 2:** Your phone receives a notification.
@@ -465,6 +469,10 @@ When arriving at this page, we have a lot of options to unlock your device scree
 
 ![most phone brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Enter into Recovery Mode**
 
 Here are examples of Samsung phones via its Recovery Mode to unlock your Android device screen.
@@ -487,17 +495,9 @@ This step in Recovery Mode is the most important to unlock your screen. Please c
 
 ![wipe cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now you can see your device is unlocked successfully
 
 ![unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -517,24 +517,17 @@ There are various methods to bypass Android face lock, but Dr.Fone-Screen Unlock
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-revolutionize-viewing-experience-the-best-yt-reaction-methods/"><u>[New] In 2024, Revolutionize Viewing Experience The Best YT Reaction Methods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-capture-the-moment-professional-techniques-in-hdr-portraiture/"><u>[Updated] Capture the Moment Professional Techniques in HDR Portraiture</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-supercharge-your-youtube-videos-best-mac-mp4-tools/"><u>2024 Approved Supercharge Your YouTube Videos Best Mac MP4 Tools</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/process-extracting-youtube-media-directly-for-2024/"><u>Easy Process Extracting YouTube Media Directly for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96465695-9781600378836-encouragementors/"><u>EncourageMentors | Free Book</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-huawei-nova-y91-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Huawei Nova Y91 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-lava-yuva-2-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Lava Yuva 2?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-asus-rog-phone-7-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Asus ROG Phone 7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-lava-yuva-2-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Lava Yuva 2 Pattern Lock Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-easily-unlock-huawei-screen-by-drfone-android/"><u>In 2024, How To Easily Unlock Huawei Screen?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-lava-yuva-2-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Lava Yuva 2 Pro?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-lava-storm-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Lava Storm 5G Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-lava-yuva-3-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Lava Yuva 3</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-the-market-how-to-choose-the-right-tv/"><u>Navigating the Market: How to Choose the Right TV</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-collection-20-free-adobe-premiere-title-templates/"><u>New 2024 Approved The Ultimate Collection 20 Free Adobe Premiere Title Templates</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-stuck-on-loading-errors-in-football-manager-2021-game/"><u>Resolving 'Stuck on Loading' Errors in Football Manager 2021 Game</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-most-controversial-names-leading-tech-today/"><u>The Most Controversial Names Leading Tech Today</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-motorola-moto-g14-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Motorola Moto G14 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-linkedin-course-selections/"><u>Top-Rated LinkedIn Course Selections</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007116441-solved-origin-wont-load-quickly-and-easily/"><u>[SOLVED] Origin Won’t Load | Quickly & Easily</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-proven-methods-for-obtaining-free-picture-screens/"><u>[Updated] Proven Methods for Obtaining Free Picture Screens</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-lava-yuva-3-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Lava Yuva 3 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/agility-vs-artificial-intelligence-evolution-unpacking-the-latest-findings-in-a-new-study/"><u>Agility Vs. Artificial Intelligence Evolution: Unpacking the Latest Findings in a New Study</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/easy-configuration-modifying-user-account-options-in-the-control-panel-with-yl-softwares-help/"><u>Easy Configuration: Modifying User Account Options in the Control Panel with YL Software's Help</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-vivo-y27s-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Vivo Y27s Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-ultra-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Ultra PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo S17 Pro Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-y56-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Y56 5G Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-m14-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://extra-support.techidaily.com/microsoft-azure-unlocking-speech-to-text-potential-for-2024/"><u>Microsoft Azure Unlocking Speech-to-Text Potential for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-7-mac-friendly-video-players-reviewed/"><u>Top 7 Mac-Friendly Video Players Reviewed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Huawei Nova Y91 Pattern Lock if Forgotten? 6 Ways
-date: 2025-01-14T23:55:37.793Z
-updated: 2025-01-17T04:53:47.406Z
+date: 2025-01-17T16:02:13.016Z
+updated: 2025-01-23T16:09:54.422Z
 tags: 
   - unlock
   - remove screen lock
@@ -48,16 +48,12 @@ Remove Pattern Locks on Android Screen at Ease
 ![how to unlock pattern lock using Dr.Fone - Screen Unlock (Android)](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 2.** Connect your device to the system. Once it is detected, click on the “**Unlock Android Screen**” button.
 
 ![connect android phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3.** Select your device brand to unlock and access reboot instructions, then follow them to complete the process.
 
@@ -76,10 +72,6 @@ Besides Dr.Fone, there are also a few more options to learn how to unlock patter
 - **Step 3.** As you would select your device, you will get various options: erase, lock, and ring.
 
 ![how to unlock pattern](https://images.wondershare.com/drfone/2020/lock.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4.** Click on the “**Lock**” option to change the lock pattern on your device.
 - **Step 5.** Provide the new password for your device and write an optional recovery message.
@@ -104,10 +96,6 @@ If your device is running on Android 4.4 or older versions, then you can also ta
 - **Step 4.** Provide the correct Google credentials of the account that is linked to your device.
 - **Step 5.** Later, you can set a new pattern for your device and confirm it. This will let you access your Android device with the new pattern lock.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: How to Unlock Samsung Phone Pattern Lock Using Samsung Find My Mobile?
 
 Just like Android, Samsung has also developed a dedicated feature for finding a device remotely and performing various other operations on it. The Samsung Find My Mobile service can be used to locate your device, change its lock, wipe its data, and perform a few other tasks as well. Needless to say, the service only works for Samsung Android devices. You can learn how to unlock patterns with this tool by following these instructions:
@@ -123,6 +111,10 @@ Just like Android, Samsung has also developed a dedicated feature for finding a 
 - **Step 3.** Additionally, you can access various other services from here as well. Click on the “Unlock My Device” option to proceed.
 
 ![pattern unlock](https://images.wondershare.com/drfone/article/2017/09/15057373115477.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4.** Now, all you need to do is click on the “Unlock” button to perform pattern unlock on your device.
 - **Step 5.** After unlocking your Samsung device, you will be informed of an on-screen message.
@@ -141,6 +133,10 @@ This is a simple and effective solution to knowing how to unlock patterns on an 
 
 ![android safe mode](https://images.wondershare.com/drfone/article/2017/09/15057373753769.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5.** Later, you can go to the Huawei Nova Y91 device’s Settings > Apps and remove the third-party app as well. In this way, you would be able to learn how to unlock pattern lock for any other app.
 
 ## Part 6: How to Unlock Pattern Lock with the Factory Reset?
@@ -153,6 +149,10 @@ Consider this as your last resort, as it will wipe the data and saved settings o
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/09/15057373935558.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4.** Select the wipe data/factory reset option to perform pattern unlock.
 - **Step 5.** Confirm your choice to factory reset your device.
 
@@ -161,15 +161,15 @@ Consider this as your last resort, as it will wipe the data and saved settings o
 - **Step 6.** Wait for a while as your phone will perform the needed operations.
 - **Step 7.** Later, you can choose to reboot your phone and access it without any lock screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 By following this guide, you would certainly be able to learn how to unlock the pattern lock on your device without much trouble. We recommend using [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) to perform pattern unlock with no data loss. It has a user-friendly interface and is sure to yield the desired results. Now when you know how to unlock patterns on an Android device, you can share this information with others as well to help them!
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Unlock Huawei Nova Y91  Phone Password Without Factory Reset: Full Guide Here
 
@@ -178,10 +178,6 @@ In today's fast-paced digital age, our smartphones are more than just communicat
 But fear not! This comprehensive guide is here to rescue you from the perils of forgotten passwords without factory reset. So, if you're in a bind and need to regain access to your device, read on for a full guide to know **how to unlock Huawei Nova Y91  phone password without factory reset**!
 
 ![how to unlock motorola phone](https://images.wondershare.com/drfone/article/2022/09/full-guide-to-unlock-motorola-phones-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Unlock Huawei Nova Y91  Phones Running Older Android OS (4.4 Or Below) With Google Security Questions
 
@@ -213,29 +209,21 @@ Dr.Fone is a collection of several modules unified in a single interface. Each o
 
 ![drfone screen unlock tool](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Click Unlock Android Screen.
 
 ![unlock motorola phone screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Select the first option – 100% Remove Screen Lock as Huawei Nova Y91  devices cannot be unlocked without data loss.
 
 ![drfone screen unlock choose your brand](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** Choose your phone brand carefully – Huawei Nova Y91  in this case.
 
 ![download recovery software to motorola phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** Complete the instructions to download the software to your phone.
 
@@ -258,6 +246,10 @@ There is a standard factory reset built into every Huawei Nova Y91  phone to all
 **Step 2:** Tap Factory Reset > Reset Phone.
 
 **Step 3:** Tap Erase Everything.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Use Google Find My Device To Unlock Huawei Nova Y91  Phones (Wipes User Data)
 
@@ -380,7 +372,7 @@ You can also use this tool to bypass the locked screen beyond Samsung and LG.Thi
 ![select model in the list](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. Boot your phone into Download mode:
@@ -395,9 +387,17 @@ You can also use this tool to bypass the locked screen beyond Samsung and LG.Thi
 
 ![download recovery package](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5\. When the recovery package download is completed, Dr.Fone toolkit will begin removing the screen lock. This process will not cause any data loss on your Android device, so do not worry. Once the whole procedure is over, you can easily access your Android phone without entering any kind of password. Hurrah!
 
 ![unlock android phone successfully](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Dr.Fone software is currently compatible with Samsung Galaxy S/Note/Tab series, and LG G2/G3/G4 series. For windows, it is compatible with 10/8.1/8/7/XP/Vista.
 
@@ -419,19 +419,16 @@ So, make use of this guide and get back command over your Android phone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-video-discoverability-with-strategic-tagging-on-youtube/"><u>[New] 2024 Approved Elevating Video Discoverability with Strategic Tagging on Youtube</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-10-steps-to-perfect-youtube-reactions-a-trio-guide/"><u>[Updated] 10 Steps to Perfect YouTube Reactions – A Trio Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-capturepros-a-studio-showdown/"><u>2024 Approved CapturePros A Studio Showdown</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-swift-capture-full-spectrum-viewing/"><u>2024 Approved Swift Capture Full Spectrum Viewing</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-v29e-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo V29e? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comparing-windows-cloud-installation-with-standalone-reinstalls/"><u>Comparing Windows Cloud Installation with Standalone Reinstalls</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-voice-communication-issues-in-back-4-blood/"><u>Fixing Voice Communication Issues in 'Back 4 Blood'</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-y77t-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo Y77t? Try These Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-y27-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo Y27 5G Face Lock?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-13-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 13 Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-a24-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy A24 Lock Screen Password</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-leading-choice-for-affordable-high-fidelity-webm-playbacks/"><u>In 2024, The Leading Choice for Affordable, High-Fidelity WebM Playbacks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-x-flip-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo X Flip Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-f34-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-art-of-vlogging-your-ultimate-journey-begins-here/"><u>[Updated] Mastering The Art of Vlogging Your Ultimate Journey Begins Here</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-secure-your-shots-in-the-cloud-unlimited-free-space-plus-charged-premium-solutions/"><u>[Updated] Secure Your Shots in the Cloud Unlimited Free Space + Charged Premium Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-foremost-picks-superior-ringtone-developers/"><u>2024 Approved Foremost Picks Superior Ringtone Developers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-phone-without-pin-by-drfone-android/"><u>How to Unlock Asus Phone without PIN</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-phone-without-google-account-by-drfone-android/"><u>How to Unlock Sony Phone without Google Account?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-11-pro-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 11 Pro With 7 Methods</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-huawei-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Huawei</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Phone without Any Data Loss</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-realme-v30-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Realme V30 Phone Now with These Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-lava-blaze-pro-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-zoom-video-details-step-by-step-methods-for-2024/"><u>Maximizing Zoom Video Details Step-by-Step Methods for 2024</u></a></li>
 </ul></div>
 

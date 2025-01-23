@@ -1,7 +1,7 @@
 ---
 title: How to Remove a Previously Synced Google Account from Your HTC U23 Pro
-date: 2024-08-17T00:23:58.475Z
-updated: 2024-08-18T00:23:58.475Z
+date: 2025-01-22T16:02:22.298Z
+updated: 2025-01-23T16:00:42.306Z
 tags: 
   - unlock
   - remove screen lock
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f
 
 The setting up process of a new Android phone requires you to add a Google account that saves all activities and data of the phone like search history, details of online shipping, play store purchases, and more. Once the account is set, it cannot be changed till you delete everything from your phone. Moreover, with the introduction of FRP lock, even a factory reset will not remove the synced Google account.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how-to-remove-previously-synced-google-account](https://images.wondershare.com/drfone/article/2022/06/main-image.jpg)
 
 So, now what if you want to sell your phone or have purchased a second-hand device that is still associated with the previous owner's Google account? No, worries as there are workarounds available that will help you remove your previously synced google account from your Android device.
@@ -30,17 +27,14 @@ Keep reading to know more in detail about **how to bypass previously synced goog
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/QWNdasc1y1c"></iframe>
 
-
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Part 1: Remove Previously Synced Google Account from Android Phone Without Phone Reset
 
 In this part, we will discuss the methods that can be used for removing the previously synced account from your Android phone without a phone reset.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Removing Google Account using the Android Settings Menu
 
 If you just plan to reset your phone, maybe because of the lag caused by the phone cache, and you know the inconvenience of Google FRP as a protection mechanism, then you can remove Google FRP through the Settings menu.
@@ -53,14 +47,8 @@ The steps for this method are listed below.
 
 To confirm the removal of the account, click on the Remove account button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove-google-account-settings-menu](https://images.wondershare.com/drfone/article/2022/06/settings-menu-account-removal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Remove the Google account from the Android phone using the computer
 
 There is another method using which you can remotely remove the Google account associated with your phone. The steps for the method are listed below.
@@ -73,10 +61,11 @@ There is another method using which you can remotely remove the Google account a
 
 **Note:** This method will actually sign out you from the Google account and will not delete it permanently. To again get access to the account, a notification will appear on your phone to enter the password.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove-google-account-other-devices](https://images.wondershare.com/drfone/article/2022/06/other-device-account-removal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Disable Factory Reset Protection to Bypass Google Account Verification After Factory Reset
 
@@ -86,9 +75,6 @@ Though there are multiple tools available we recommend Dr. Fone - Screen Unlock 
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Phones within Minutes
@@ -106,11 +92,12 @@ Steps to remove FRP lock using Dr. Fone-Screen Unlock (Android)
 
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Next, choose Unlock Android Screen/FRP and then select the Remove Google FRP Lock option.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![drfone screen unlock homepage](https://images.wondershare.com/drfone/drfone/screen_unlock_frp_homepage_1.jpg)
 
 **Step 3:** Next, choose the OS version of your device from the given options, and then using a USB cable, connect your phone to your system.
@@ -123,15 +110,16 @@ Steps to remove FRP lock using Dr. Fone-Screen Unlock (Android)
 
 ![screen unlock bypass google frp](https://images.wondershare.com/drfone/drfone/screen_unlock_frp_android10_1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6:** Next, click on the Android 6/9/10 button, choose Open Settings and select the PIN option to set a PIN to be used in the further steps.
 
 ![google frp removal](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-android-6-9-10-4.png)
 
 **Step 7:** Keep following the steps as they appear till you reach the Google Account Sign-In page. Here click on the Skip option that will successfully remove and bypass the Google Account.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![bypass google lock completed](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
 
 The above given are the brief steps for the FRP bypass process. To learn about the entire process in detail, check [Dr.Fone-Screen Unlock (Android) guide](https://drfone.wondershare.com/guide/google-frp-bypass.html).
@@ -155,6 +143,10 @@ So, if you cannot sign in **with a Google account that was previously synced**,
 With the steps above, you can remove the account **previously synced on this device**.
 
 ![bypass-frp-unlockjunkey](https://images.wondershare.com/drfone/article/2022/06/unlockjunky.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Limitations of using the Unlockjunky method**:
 
@@ -198,9 +190,6 @@ _Shell input key event 66_
 
 **Step 6:** Your phone will now be unlocked and you can proceed to back up its contents.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### Dr.Fone - Screen Unlock (Android)
@@ -214,6 +203,10 @@ The Best Tool to Reset Phones Without Android Factory Reset Codes
 
 **4,008,670** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Using a USB Mouse and the On the Go Adapter
 
 This is a great solution if you don’t have USB debugging enabled on your device. You will need your device, an OTG adapter and a USB mouse. It involves connecting the HTC U23 Pro device to the USB mouse using the OTG adapter. Check if your device can be connected to a USB mouse. You can find an OTG adapter online, they are relatively inexpensive and very useful.
@@ -222,10 +215,11 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 **Step 1:** Connect the Micro USB side of the OTG adapter to your device and then plug in the USB mouse to the adapter.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect broken screen android phone](https://images.wondershare.com/drfone/others/14531933625473.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** As soon as the HTC U23 Pro devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the HTC U23 Pro device’s password lock.
 
@@ -233,9 +227,6 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 You can then go about backing up the contents of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Using your Samsung Account
 
 This method is a reliable way to unlock a Samsung device that has a broken screen or is not working correctly. While it is highly effective you will need to have a Samsung account registered with your device. The problem is that not many Samsung device users have registered their devices with the service. If you are among the lucky few who have, here’s how to use your account to unlock your device.
@@ -244,13 +235,14 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933993021.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Select your device from the menu on the left-hand side of the screen.
 
 **Step 3:** You should see the option “Unlock my screen” on the sidebar. Click on it and you will get instructions on how to access your device.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock android using samsung account](https://images.wondershare.com/drfone/others/14531934188479.jpg)
 
 ## Conclusion
@@ -267,19 +259,17 @@ So don't wait any longer - read on for instructions on how to unlock the HTC pho
 
 Let's get started!
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Easy Ways To Unlock HTC Screen
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sim pin](https://images.wondershare.com/drfone/article/2022/10/unlock-nokia-screen-1.jpg)
 
 Like most people, you probably lock your HTC phone as soon as you turn it on. It's a good way to keep your phone safe from prying eyes and accidental button presses. But what happens when you forget your phone's passcode? Or worse, what if your phone gets locked by a malicious app?
 
 There are a few different ways to unlock your HTC phone. We'll show you how to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1. Google Find My Device (Without Password/Pin/Pattern)
 
@@ -331,6 +321,10 @@ Follow the steps below if you want to know how to unlock the HTC phone keypad wi
 
 Your HTC is now password, pattern lock, screen lock, and PIN-free after a hard reset.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3. Unlock With Answer Security Questions
 
 You can reset the HTC pattern lock using Google security questions without losing data.
@@ -346,9 +340,6 @@ Follow the steps below on how to unlock the HTC phone pin code:
 - **Step 7**: Change your password or PIN.
 - **Step 8**: You will see your HTC unlocked soon.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 4. Unlock the Keypad With a Security Code
 
 You could reset your HTC lock screen phone using the default security code, even if you haven't set any security code. Here's how to quickly unlock the HTC lock screen security code.
@@ -369,9 +360,6 @@ If you have a classic-style keypad phone or an Android device, unlocking a locke
 
 _**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a tool that helps you keep your important data safe. It can back up all the important information on your HTC phone, like photos, music, videos, contacts, and more and is compatible with over 8000 Android devices. The backup process is easy and only takes a few clicks. You can also restore your backup to any device you want, and choose which data you want to restore. This is a great way to make sure you never lose your important HTC data!_
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -384,10 +372,22 @@ _**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-frolic-fables-a-vhs-review-of-the-comical-epic/"><u>[New] 2024 Approved 'Frolic Fables' - A VHS Review of The Comical Epic</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-spectrum-of-immersive-tech-vr-vs-ar-and-more/"><u>[New] 2024 Approved The Spectrum of Immersive Tech VR Vs. AR and More</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-essential-apps-for-invisible-story-watching-for-2024/"><u>[New] Essential Apps for Invisible Story Watching for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-best-videography-tools-for-ios-devices/"><u>[Updated] 2024 Approved Best Videography Tools for iOS Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-an-all-inclusive-guide-to-initiate-multiplatform-communication-via-skype-groups/"><u>[Updated] In 2024, An All-Inclusive Guide to Initiate Multiplatform Communication via Skype Groups</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1716069077364-updated-in-2024-pinnacle-playtime-the-greatest-action-adventure-game-lineup-ever/"><u>[Updated] In 2024, Pinnacle Playtime The Greatest Action-Adventure Game Lineup Ever!</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-12-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-7-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Asus ROG Phone 7 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-meizu-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Meizu Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-lava-storm-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Lava Storm 5G Face Lock?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-motorola-moto-g-stylus-5g-2023-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Motorola Moto G Stylus 5G (2023) Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-moto-g84-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Moto G84 5G Device</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/professional-screen-capture-for-gotomeeting-users/"><u>Professional Screen Capture for GoToMeeting Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-mysterious-dx-error-in-lol/"><u>Resolved: Mysterious DX Error in LoL</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-huawei-nova-y91-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Huawei Nova Y91 Device</u></a></li>
+</ul></div>
 

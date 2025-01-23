@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Bypass Android Lock Screen Using Emergency Call On Asus ROG Phone 8 Pro?
-date: 2025-01-15T17:52:51.938Z
-updated: 2025-01-16T22:01:29.872Z
+date: 2025-01-19T16:03:54.660Z
+updated: 2025-01-23T16:01:57.992Z
 tags: 
   - unlock
   - remove screen lock
@@ -51,6 +51,10 @@ To know how to unlock a Asus phone lock password with Android device manager, ma
 
 ![how to unlock samsung phone lock password-android device manager](https://images.wondershare.com/drfone/others/14623531102514.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3. Google Login (Supports Only Android 4.4 or Lower)
 
 If your device is still running on Android 4.4 or lower, here's how to bypass the Asus lock screen fast.
@@ -61,10 +65,6 @@ If your device is still running on Android 4.4 or lower, here's how to bypass th
 - Step 4. Now your phone would be unlocked.
 
 ![how to unlock a samsung phone without the code-google login](https://images.wondershare.com/drfone/others/14623533542919.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4. 'Pattern Password Disable' and Custom Recovery (SD Card needed)
 
@@ -100,6 +100,10 @@ A factory reset is the best option in almost any case if one of these solutions 
 
 [Backup your Asus phone](https://drfone.wondershare.com/samsung/samsung-backup.html) regularly in case of any data loss in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 7. Boot into Safe Mode
 
 Chances may be that you are using a third-party lock screen app. Then lucky for you, this way works best to bypass the Asus lock screen. Specifically, you can boot your Asus device into [Android Safe Mode](https://drfone.wondershare.com/android-tips/safe-mode-in-android.html).
@@ -133,6 +137,10 @@ Along with the basic methods, the article will redirect its discussion to changi
 
 Every Android smartphone has its interface to follow while changing the lock screen wallpaper or screen saver of the Asus ROG Phone 8 Pro device. However, before we dive into the Asus ROG Phone 8 Pro device-specific details, let's dissect the two common methods to change ****the lock screen wallpaper on Android:****
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Pressing Home Screen Method
 
 The first thing to try for changing the lock screen wallpaper includes the long press technique. This technique is available for almost all Android devices, a basic approach to changing lock screen wallpapers. To know how it is done, follow the steps provided below:
@@ -146,6 +154,10 @@ The first thing to try for changing the lock screen wallpaper includes the long 
 ****Step 3:**** Out of all the wallpapers, select any of them and tap on the “Apply” button to set it as your lock screen wallpaper.
 
 ![select the required wallpaper](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Using Your Gallery
 
@@ -205,17 +217,9 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 
 ![tap on wallpaper and style](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ****Step 2:**** Select any options appearing on the next screen that defines the location from where you will add the new wallpaper. Selecting a particular wallpaper from the available options leads to the "Preview" screen.
 
 ![select wallapaper source option](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ****Step 3:**** Continue to select the "Lock Screen" option on the preview screen and tap on the "Tick" icon at the bottom. To confirm, tap "Lock screen" to change the wallpaper on the lock screen of your Motorola.
 
@@ -254,10 +258,6 @@ For exclusive access to free wallpapers of multiple categories, Interfacelift pr
 Known for keeping royalty-free, high-quality content, Unsplash can be a great Android wallpaper site. Download your favorite wallpapers that will perfectly suit your Android device. Along with its smooth interface, Unsplash offers diversity with its dedicated Unsplash+ plan.
 
 ![unsplash android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-20.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4. [<u>Mobile9</u>](https://www.mobile9.com/)
 
@@ -300,14 +300,6 @@ To access the best wallpapers in the world, 500px is a good platform to keep in 
 From desktop to Android wallpapers, Wallpaperswide holds a diverse set of options. This platform is designed to provide a diversity of categories to its users. With a simple interface, it is a great option for gathering content.
 
 ![wallpaperswide android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-27.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Part: How To Unlock Android Screen if Forgotten the Password
 
@@ -357,10 +349,6 @@ The package starts downloading as the Asus ROG Phone 8 Pro device gets into Down
 
 The details provided are comprehensive in helping you change ****the lockscreen wallpaper on Android****. While learning unique ways, along with dedicated techniques for smartphones, we are sure that you are clear about how to change lock screen picture on Android phone.Why not take a try now? This article has also introduced some of the best sites to download Android wallpapers. For effective results and to save your locked device from getting useless, use Dr.Fone – Screen Unlock.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How To Track IMEI Number Of Asus ROG Phone 8 Pro Through Google Earth?
 
 When losing your phone, having a reliable tool at your fingertips can make all the difference. That tool is IMEI tracking, your secret weapon for locating your lost or stolen device. IMEI is a unique number that every mobile device possesses. It's like a fingerprint for your phone.
@@ -383,9 +371,17 @@ Many current smartphones include GPS receivers that allow them to pinpoint their
 
 ![iphone location services](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Google Earth can be downloaded and installed on your computer or mobile device. It works with Windows, macOS, Android, and iOS. Download it from your device's **Google Earth** website or the app store.
 
 ![install google earth android](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Sign in to Google Earth using the Google Account linked to the phone you want to track. This step is required to acquire location data and [monitor IMEI numbers](https://drfone.wondershare.com/android-unlock/check-imei-number-location.html) using Google Earth.
 - **Step 4:** Launch Google Earth on your computer or mobile device, then select **Your timeline** from the Google Maps menu. The operation will take you to the Google Maps Timeline page.
@@ -403,7 +399,7 @@ Many current smartphones include GPS receivers that allow them to pinpoint their
 Now that you know the truth behind **tracking an IMEI number through Google Earth**, let's talk about other ways to track your phone using your IMEI number. This section will discuss some of your other options when it comes to IMEI number location tracking.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Using a Third-Party App
@@ -450,10 +446,6 @@ Below are the drawbacks of using IMEI trackers:
 
 In summary, an IMEI tracker can be a valuable tool for locating lost or stolen mobile devices with its location accuracy and compatibility with various devices. However, it comes with limitations related to privacy and network dependency.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bonus: An Effective Method for Other iPhone Issues Like Locked Screens
 
 In the previous sections, this article delved into IMEI tracking, which helps you accurately locate your lost or stolen phone. However, imagine this scenario: you've found your long-lost iPhone, but there's a problem. You can't remember the password, PIN, or pattern to unlock it. So this time, let's go over one of the most common issues smartphone owners encounter: being locked out of their devices.
@@ -489,6 +481,10 @@ Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone ea
 
 ![drfone device model system version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** The following screen reveals the status of the iOS firmware download on the platform. If you want to stop the procedure, click the **Stop** button. In cases when the iOS firmware is downloading slowly on the platform, utilize the **Copy** button to copy the URL for manually downloading the iOS firmware.
 - **Step 6:** After successfully downloading the iOS firmware, it is confirmed and displayed on the next screen. Continue by clicking the **Unlock Now** button to begin the unlocking procedure.
 - **Step 7:** A prompt window displays on the screen, asking for procedure confirmation. Enter the indicated code and tap **Unlock** to proceed with the final result.
@@ -501,7 +497,11 @@ Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone ea
 ![drfone ios lock screen removed completely](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -524,17 +524,20 @@ But that's not all. This article also introduced and divulged an amazing and rel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-capture-discord-talks-best-ways-to-record-live-streaming-sessions/"><u>[New] Capture Discord Talks Best Ways to Record Live Streaming Sessions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-are-there-legal-constraints-in-capturing-online-video-screenshots/"><u>[New] In 2024, Are There Legal Constraints in Capturing Online Video Screenshots?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-seamless-integration-of-obs-and-zoom-services/"><u>[Updated] Seamless Integration of OBS and Zoom Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-conversion-of-nef-images-with-movavi-no-download-needed/"><u>Free Online Conversion of NEF Images with Movavi: No Download Needed!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-sony-xperia-1-v-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Sony Xperia 1 V Phone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-survive-and-thrive-on-the-streak-frontier/"><u>In 2024, How to Survive and Thrive on the Streak Frontier</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-huawei-p60-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Huawei P60 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g13-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G13 Phone without Google Account?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-lava-blaze-2-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Lava Blaze 2 5G Device</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-unparalleled-video-gear-top-5-slow-cams/"><u>In 2024, Unparalleled Video Gear Top 5 Slow Cams</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/overcoming-crc-errors-effective-strategies-for-trouble-free-dvd-rip-using-dvd-shrink/"><u>Overcoming CRC Errors: Effective Strategies for Trouble-Free DVD Rip Using DVD Shrink</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tverpc/"><u>TVer番組のPCでの無料ダウンロードに最適なツールを見つける方法</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-redmi-note-13-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Redmi Note 13 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/effective-methods-for-stable-windows-11-photos-viewing-for-2024/"><u>Effective Methods for Stable Windows 11 Photos Viewing for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/expert-analysis-of-the-lenovo-thinkbook-13-gen-4-the-new-era-of-portability-for-business-users/"><u>Expert Analysis of the Lenovo ThinkBook 13 Gen 4: The New Era of Portability for Business Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-evaluation-nintendo-switch-outshines-rivals-as-top-portable-game-system/"><u>Expert Evaluation: Nintendo Switch Outshines Rivals as Top Portable Game System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-restore-functionality-of-non-responsive-wireless-keyboards-in-windows-environments/"><u>How to Restore Functionality of Non-Responsive Wireless Keyboards in Windows Environments</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-asus-rog-phone-8-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Asus ROG Phone 8 Unlock Without Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-huawei-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Huawei</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-motorola-edge-40-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Motorola Edge 40 Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-htc-u23-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your HTC U23 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-asus-rog-phone-7-ultimate-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Asus ROG Phone 7 Ultimate Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-asus-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Asus Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/riding-the-wave-of-change-how-ai-will-phase-out-certain-careers-yet-spark-opportunities-in-novel-domains-zdnet/"><u>Riding the Wave of Change: How AI Will Phase Out Certain Careers Yet Spark Opportunities in Novel Domains | ZDNet</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/top-30-fastest-portable-car-chargers-under-50-find-your-ideal-anker-option-here/"><u>Top 30 Fastest Portable Car Chargers Under $50 – Find Your Ideal Anker Option Here</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix OEM Unlock Missing on Huawei P60?
-date: 2024-08-17T00:26:02.069Z
-updated: 2024-08-18T00:26:02.069Z
+date: 2025-01-17T16:01:18.022Z
+updated: 2025-01-23T16:01:59.215Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,14 +21,8 @@ However, this freedom comes with some trade-offs. Most manufacturers will void y
 
 If you encounter the **OEM unlock missing** on your Android phone despite wanting to unlock your bootloader, this article can help. You will learn the step-by-step guide for the different methods to fix the **missing OEM unlock** option. Before diving into solutions, let's explore why this option might be unavailable in the first place.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using a phone at work](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Why Is OEM Unlock Missing on Your Device?
 
 Finding that OEM Unlock is missing on your Android phones can be frustrating, particularly if you plan to modify your software or install a custom ROM. But don't worry. There are several possible explanations for this. Let's explore some of the most common reasons:
@@ -41,9 +35,6 @@ Bootloader Already Unlocked
 
 In some cases, the **Android OEM Unlock Missing** issue arises [<u>when the bootloader has already been unlocked</u>](https://drfone.wondershare.com/unlock/how-to-unlock-xiaomi-bootloader.html). Relocking the bootloader might make the option reappear. But exercise caution as this process can erase device data.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![oem unlock option greyed out](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-02.jpg)
 
 Developer Options Not Enabled
@@ -94,28 +85,12 @@ Regain control in minutes with Dr.Fone. First, download the app to your desktop 
 
 ![dr.fone homepage interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2:** Specify the Huawei P60 device type for screen lock removal.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select device type interface](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
 
 - **Step 3:** Select **Unlock Android Screen** to proceed.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone screen unlock tools](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 4:** Choose the brand of your phone from the supported brands.
@@ -128,9 +103,6 @@ Regain control in minutes with Dr.Fone. First, download the app to your desktop 
 
 - **Step 5:** The screen unlock process is underway. If it encounters trouble, click **Try Again**. Once Dr.Fone successfully unlocks your Android device, tap **Done**.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![screen lock successfully removed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 Now that you've regained access to your device thanks to Dr.Fone - Screen Unlock, you can move forward with enabling the **OEM unlock missing** option. Next up, we'll guide you through the steps in several ways. Let's start with the Developer options.
@@ -148,24 +120,23 @@ Developer Options, a hidden menu in Android, offers advanced features like app d
 - **Step 4:** Go back to **Settings** \> **System** and find the **Developer options** menu.
 - **Step 5:** Scroll down and tap the toggle switch next to **Enable OEM Unlock** to turn it on.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable oem unlock developer option](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** A warning message explaining the risks of turning on the OEM unlock will appear. Read it carefully and tap **Enable** if you want to proceed.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![turn on oem unlock](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** Enter your PIN or password to confirm the unlock when prompted
 - **Step 8:** Your device will reboot, and OEM Unlocking will be enabled.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How To Fix OEM Unlock Missing by Adjusting Date and Time?
 
 Some manufacturers intentionally delay the availability of the OEM unlock after a software update for security reasons. Changing the date to a past date before the update rolled out can trick the system into displaying the option, as it thinks the update hasn't happened yet. It is a temporary fix, and the option will likely disappear again later when the Huawei P60 device automatically syncs the correct date.
@@ -177,9 +148,6 @@ If you intend to try this method, follow these steps to **enable OEM unlock miss
 - **Step 3:** Tap on **Date and Time**.
 - **Step 4:** Turn off **Automatic date and time**.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off automatic date and time](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-11.jpg)
 
 - **Step 5:** Tap on **Set date** and choose the desired older date from the calendar.
@@ -189,15 +157,20 @@ If you intend to try this method, follow these steps to **enable OEM unlock miss
 
 ![turn off auto update system](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 9:** Go to **Settings** > **Software update**, then turn off **Auto download over Wi-Fi**.
 
 ![turn off auto download over wi-fi](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This method should **enable the OEM unlock missing** issue. Otherwise, proceed to the next section for another solution.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How To Fix OEM Unlock Missing by Removing SIM Card?
 
 Certain carriers restrict bootloader unlocking on their devices to ensure compatibility and prevent unauthorized modifications. For these phones, unlocking the SIM card becomes crucial before you can toggle the OEM unlock option. Here are the steps to fix the **OEM Unlock missing** or greyed out using SIM card removal:
@@ -219,8 +192,6 @@ While these methods provide a solid foundation, it's always wise to research ste
 
 _**Tips:** Forget your device password and can't get access to it? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
 ## 5 Solutions For Huawei P60  Unlock Without Password
 
 One out of three people forget their phone's password every day or make continuous wrong attempts that lock their phone. However, you can't unlock your phone without the screen lock pattern or password. If you are an Huawei P60  user, and you can't remember your device's pattern or password, we have the best solution or you. Here, you will find the easiest and foolproof methods for an **Huawei P60  pattern unlock**.
@@ -231,22 +202,16 @@ Here is the complete guide with five methods to unlock an Huawei  device that wo
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/PNC9VCRYu18" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Lock System About Huawei P60  
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1: Lock Types
 
 Before we move towards the **Huawei P60  pattern unlock**, let's talk about its lock types and security system. Huawei P60  is one of the older versions of Huawei  android phones that was released in 2016. At that time, only flagship phones from each brand came with features like fingerprint sensors and facial unlock. Huawei P60  doesn't offer these lock types. You can only set up a screen lock as a password, pattern, and PIN. You can also lock apps on Huawei P60  with its privacy password settings.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2: How to Set Them up?
 
 Follow these steps to set up any type of lock on your Huawei P60  .
@@ -263,6 +228,10 @@ You can easily remove the lock screen of your Huawei P60  if you remember your p
 - Go to “Settings” and follow the previous steps to open the "Lockscreen Password" settings.
 - Disable the lock screen by tapping on the "Enable Lock Screen" button once.
 - Enter your password or pattern and wait for the system to remove the screen lock.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: 5 Solutions to Unlock Huawei P60  Without Password or Pattern
 
@@ -282,9 +251,6 @@ You can use the Google Find My Device for your **Huawei P60  pattern unlock**. I
 
 Here is how you can do an **Huawei P60  pattern unlock without PC**. You don't need any third-party software or device for this method. Every step is easy to follow, and it only takes a few minutes for you to unlock your phone. This method requires your Google account and password. Don't use this method if you don't know your Google password. If you are a beginner, it is better to use other methods because this method involves the risk of blocking your device. Follow these steps to unlock your Huawei  device using your Google Account.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Huawei P60  lock screen](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-02.jpg)
 
 - Enter a random password or PIN on your phone's lock screen five times.
@@ -298,10 +264,11 @@ Here is how you can do an **Huawei P60  pattern unlock without PC**. You don't n
 
 If you want to unlock your Huawei  phone, you can also answer some security questions and reset the password. This method does not work on all Huawei  devices, but you can use it for **Huawei P60  screen unlock without PC**. You will see various questions if your Google account is linked with the Huawei P60 device. All questions are based on your profile and credentials. You have to answer precisely with proper spaces. Here are the steps to unlock Huawei P60  with security questions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Huawei P60  forgot pattern interface](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Use a random password or PIN five times and wait for the 30 seconds alert message.
 - Tap on the “Forgot Pattern” option and move to the next screen.
@@ -309,9 +276,6 @@ If you want to unlock your Huawei  phone, you can also answer some security ques
 - Tap on the “Next” button and answer every question that comes up.
 - If you give correct answers, the system will open the screen lock.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### 4: Hard Reset (data loss)
 
 A hard reset would be the best solution if you forgot your phone's lock screen password or pattern. However, you can unlock your phone with your Google account as well. Do a hard reset if you can't remember your Google account password and don't want to use third-party tools. The only problem with hard resetting is that you lose all your data, images, files, settings, and personalization. That is why you can't recover any of your data after the hard reset if you don't have a data backup. The process of hard reset is different for every device. Here are the steps for **Huawei P60  pattern unlock without a PC** through a hard reset.
@@ -324,15 +288,16 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 
 ![volume down and power key](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Select the Language using the volume keys to navigate and the power key to select.
 
 ![select device language](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-06.jpg)
 
 - Go to the "Wipe Data and Cache" option and select twice using the power key.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode menu](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-07.jpg)
 
 - For confirmation, select the “OK” option and wait for the system to reboot.
@@ -364,18 +329,12 @@ Open Dr.Fone on the PC with a USB cable connected to your phone > click “Scree
 
 With the button “Unlock Android Screen”, you can unlock your Huawei P60  via this part.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 3. Select Unlock mode: 100% Remove Screen Lock**
 
 When you’re on this page, “100% Remove Screen Lock” can unlock most phone brands’ screens. Because of the different recovery modes of different phone models, selecting the Huawei P60 device brand plays a great role in removing the lock.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 4. Now, it's time to start removing the lock screen**
@@ -387,7 +346,6 @@ Follow the guide step by step to complete all steps, these steps are important t
 Now, no password or pattern to stop you from using your Huawei P60  !
 
 ![unlock successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
 
 ## Conclusion
 
@@ -413,9 +371,6 @@ As one of the initial measures, backup the Huawei P60 device completely as bootl
 
 Step 2: Go to htcdev.com/bootloader. Ensure that you are registered with HTC and once the sign up is done, log in to HTC dev.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822578154999.jpg)
 
 Now, ensure that HTC Sync Manager is installed on the PC.
@@ -428,16 +383,14 @@ After selecting the Huawei P60 device, click on “Begin Unlock Bootloader”, a
 
 Step 4: Now, you will be presented with four steps to put the Huawei P60 device in bootloader mode. Disconnect the Huawei P60  device from the PC and turn the Huawei P60 device off completely. Press the volume down button along with the power button to switch the Huawei P60 device on in bootloader mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822589729198.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: Use the volume keys of the Huawei P60 device to select Fastboot option along with pressing power button to confirm, after the Huawei P60 device is in bootloader mode. Now, connect the Huawei P60 device to the computer using a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822588941681.jpg)
 
 Step 6: Go to Fastboot folder on the PC and holding down the shift key, click on any empty space followed by a click on “Open command window here”.
@@ -456,8 +409,11 @@ Step 10: On the Huawei P60 , one message will appear asking if you want to unloc
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822585759420.jpg)
 
-Use volume keys to select and power button to confirm. Once this is done, the Huawei P60  device will restart once and it’s done. The device is now bootloader unlocked.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+Use volume keys to select and power button to confirm. Once this is done, the Huawei P60  device will restart once and it’s done. The device is now bootloader unlocked.
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -471,11 +427,20 @@ Use volume keys to select and power button to confirm. Once this is done, the Hu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-sizing-up-how-to-make-videos-work-in-instagram-bests/"><u>[New] 2024 Approved Sizing Up How to Make Videos Work in Instagram Bests</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-hidden-gems-for-private-insta-story-viewing/"><u>[Updated] Hidden Gems for Private Insta Story Viewing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/crowdstrikes-cto-warns-generative-ai-emerges-as-a-major-threat-to-business-security/"><u>CrowdStrike's CTO Warns: Generative AI Emerges as a Major Threat to Business Security</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Asus Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-razr-40-ultra-phone-without-pin-by-drfone-android/"><u>How to Unlock Motorola Razr 40 Ultra Phone without PIN</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-meizu-21-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Meizu 21 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-sonys-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Sonys Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/les-deux-methodes-pour-synchroniser-automatiquement-vos-images-vers-votre-compte-dropbox/"><u>Les Deux Méthodes Pour Synchroniser Automatiquement Vos Images Vers Votre Compte Dropbox</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newest-lenovo-webcam-driver-upgrade-released-optimized-for-windows-7-operating-system/"><u>Newest Lenovo Webcam Driver Upgrade Released - Optimized for Windows 7 Operating System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-launch-hurdles-in-the-latest-city-skylines-game/"><u>Overcoming Launch Hurdles in the Latest City Skylines Game</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/steps-to-unlink-external-hardware-from-windows-os/"><u>Steps to Unlink External Hardware From Windows OS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-tips-tuning-your-snapchat-videos-for-maximum-impact/"><u>Top Tips Tuning Your Snapchat Videos for Maximum Impact</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-lava-blaze-curve-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Lava Blaze Curve 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Delete Gmail Account With/Without Password On Meizu 21 Pro
-date: 2025-01-18T16:00:42.098Z
-updated: 2025-01-23T16:08:37.694Z
+date: 2025-01-29T19:46:04.887Z
+updated: 2025-01-31T03:36:14.866Z
 tags: 
   - unlock
   - remove screen lock
@@ -47,29 +47,25 @@ For the first method, we will discuss **how to delete a Google account** with yo
 
 ![proceed to delete a google service](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3.** You will be led to a new screen where you need to provide your password credentials again. On successfully providing your password, look for the “Gmail” option on the next screen. Click the “Trash” icon to continue deleting the Gmail account.
 
 ![select gmail to delete](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4.** A new pop-up window opens, demanding another email address that can help connect to other Google services. Provide the email address and continue to click "[Send verification email](https://drfone.wondershare.com/factory-reset-protection/bypass-gmail-phone-verification.html) ." The Gmail account won't be deleted until the user verifies the email sent to the new address.
 
 ![provide alternative email address](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5.** For those who want to save their email data, look for the "Download your data" option in the same window. This leads you to the Google Takeout window, where you need to select the data to include. After selecting the data, define the file type, frequency, and destination for exporting all important data.
 
 ![download data from takeout](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3. Delete Your Gmail Account From Your Smartphone: Android & iOS
 
@@ -85,15 +81,15 @@ If you use a smartphone device and want to delete your Gmail account from that p
 
 ![remove gmail account android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### iOS Devices
 
 - **Step 1.** Open your iPhone's "Settings" app and scroll down to the "Mail" option. You will find the "Accounts" option on the following screen, which you need to tap to proceed.
 
 ![open signed in accounts apple](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** Discover the option of "Gmail" in the list of signed-in accounts and continue to the next screen. Select "Delete Account" to remove the account from your iOS device.
 
@@ -141,10 +137,6 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 While you seek some appropriate way **to close a Gmail account** from a device whose password you’ve forgotten, you might get into Wondershare Dr.Fone. This all-in-one service offers a unique Screen Unlock feature that helps you restore your device. If you have forgotten the lock screen password of your Android device, Dr.Fone – Screen Unlock (Android) makes it exceptionally easy to recover.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Features of Wondershare Dr.Fone
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
@@ -166,6 +158,10 @@ Whether it is your latest Samsung or other Android smartphone, the process is ea
 2. Provides support to the latest Android devices, along with all mainstream brands.
 3. You can recover your device with and without data loss, according to your discretion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps To Remove Google Account While Removing Screen Lock
 
 The following steps highlight the way to remove screen lock from your Android device, which would also cover removing the Google Account automatically:
@@ -181,10 +177,6 @@ To start with the process, launch Dr.Fone on your computer and navigate to the "
 As you direct into the next window, select the brand of your Android device. Continue to select “100% Remove Screen Lock” from the following window.
 
 ![perform advanced screen lock](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3. Follow the Instructions and Successfully Remove the Screen Lock**
 
@@ -218,6 +210,10 @@ Step 2: Go to htcdev.com/bootloader. Ensure that you are registered with HTC and
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822578154999.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, ensure that HTC Sync Manager is installed on the PC.
 
 Step 3: From the bootloader page, select your device using the drop down option as shown in the picture below.
@@ -230,9 +226,17 @@ Step 4: Now, you will be presented with four steps to put the Meizu 21 Pro devic
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822589729198.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Use the volume keys of the Meizu 21 Pro device to select Fastboot option along with pressing power button to confirm, after the Meizu 21 Pro device is in bootloader mode. Now, connect the Meizu 21 Pro device to the computer using a USB cable.
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822588941681.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 6: Go to Fastboot folder on the PC and holding down the shift key, click on any empty space followed by a click on “Open command window here”.
 
@@ -250,11 +254,11 @@ Step 10: On the Meizu 21 Pro , one message will appear asking if you want to unl
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822585759420.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Use volume keys to select and power button to confirm. Once this is done, the Meizu 21 Pro  device will restart once and it’s done. The device is now bootloader unlocked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Unlock Meizu 21 Pro Phone Pattern Lock without Factory Reset
 
@@ -315,10 +319,6 @@ Step 2. Tap on the “**Forgot Pattern**” option located at the bottom of the 
 
 ![forgot android pattern](https://images.wondershare.com/drfone/article/2017/09/15057363904017.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3. This will provide different ways to access your phone. Select the Google Account details and tap on the “Next” option.
 
 ![enter google account details](https://images.wondershare.com/drfone/article/2017/09/15057364067715.jpg)
@@ -326,10 +326,6 @@ Step 3. This will provide different ways to access your phone. Select the Google
 Step 4. Sign in using the credentials of the Google account that is linked to your device.
 
 ![sign in google account-how to unlock android pattern lock without factory reset](https://images.wondershare.com/drfone/article/2017/09/15057364235603.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5. Great! Now you can simply provide (and confirm) the new pattern for your device.
 
@@ -357,6 +353,10 @@ Step 5. Confirm your choice and save it to remotely change the lock screen passw
 
 In the end, you would be able to learn how to unlock an Android phone pattern lock without a factory reset after following these above-mentioned steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to unlock Android phone pattern lock without factory reset using ADB?
 
 By using Android Debug Bridge (ADB), you can also learn how to unlock the Android pattern lock without a factory reset. Though, this is a more time-consuming and complicated process than other alternatives like Dr.Fone. Nevertheless, you can learn how to remove pattern lock on Android without factory reset using ADB with these instructions:
@@ -375,6 +375,10 @@ Step 5. Go to Settings > Developer Options and turn on the feature of USB debugg
 
 ![usb debugging](https://images.wondershare.com/drfone/article/2017/09/15057365186961.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6. After connecting your device to the system, launch the command prompt in the installation directory on your respective ADB.
 
 Step 7. Type the command “**ADB shell rm /data/system/gesture.key**” and press enter.
@@ -382,10 +386,6 @@ Step 7. Type the command “**ADB shell rm /data/system/gesture.key**” and pre
 ![adb shell rm](https://images.wondershare.com/drfone/article/2017/09/15057365341304.jpg)
 
 Step 8. Simply restart your device and access it the usual way, without any lock screen pattern or pin.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -405,22 +405,16 @@ Now when you know how to unlock the Android phone pattern lock without a factory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-filmmakers-essentials-the-quintessential-5-camera-strategies/"><u>[New] A Filmmaker's Essentials The Quintessential 5 Camera Strategies</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-video-splitting-wins-ranking-recorder-titans/"><u>[New] In 2024, Video Splitting Wins Ranking Recorder Titans?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-lean-cloud-archive-efficient-low-cost-large-data/"><u>[Updated] 2024 Approved Lean Cloud Archive Efficient, Low-Cost Large Data</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-optimize-clarity-mastering-close-up-techniques-in-videoleap/"><u>[Updated] 2024 Approved Optimize Clarity Mastering Close-Up Techniques in Videoleap</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-laughter-loops-in-musical-landscape/"><u>2024 Approved Laughter Loops in Musical Landscape</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-motorola-edge-40-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Motorola Edge 40 Pro Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-agni-2-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Lava Agni 2 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-asus-rog-phone-8-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Asus ROG Phone 8</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-lava-yuva-2-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Lava Yuva 2 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-huawei-p60-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Huawei P60 to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lava-yuva-3-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lava Yuva 3 Phone that is Locked?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-motorola-moto-g23-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Motorola Moto G23 Phone?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-updates-how-to-install-logitech-wireless-mice-on-windows-systems/"><u>Latest Updates: How to Install Logitech Wireless Mice on Windows Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-gionee-f3-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Gionee F3 Pro? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola Moto G Stylus 5G (2023)</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-tutorial-exploiting-googles-automatic-transcription-features/"><u>[New] Advanced Tutorial Exploiting Google's Automatic Transcription Features</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-v27e-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-huawei-nova-y71-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Huawei Nova Y71?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-motorola-moto-g13-phone-by-drfone-android/"><u>How to Reset a Locked Motorola Moto G13 Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-a05-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy A05 Phone?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 11 Pro Max</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-a05-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy A05</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-compass-for-content-creators-steering-towards-viral-instagram-success-for-2024/"><u>The Compass for Content Creators Steering Towards Viral Instagram Success for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-editing-apps-revolutionize-your-photo-backgrounds-for-2024/"><u>Top Editing Apps Revolutionize Your Photo Backgrounds for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ustream-overview-plus-similar-services/"><u>Ustream Overview + Similar Services</u></a></li>
 </ul></div>
 

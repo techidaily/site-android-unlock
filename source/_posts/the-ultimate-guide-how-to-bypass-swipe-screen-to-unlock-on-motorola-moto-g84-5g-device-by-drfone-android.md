@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide How to Bypass Swipe Screen to Unlock on Motorola Moto G84 5G Device
-date: 2025-01-22T16:08:21.425Z
-updated: 2025-01-23T16:06:15.920Z
+date: 2025-01-24T23:39:52.849Z
+updated: 2025-01-30T18:45:03.443Z
 tags: 
   - unlock
   - remove screen lock
@@ -26,10 +26,6 @@ So, if you have ever been stuck due to a lock code, go through the article to re
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to disable Swipe Screen to unlock when you can access the phone?
 
 Some people do not pay much attention to their privacy and will not bother locking their Android devices. They would disable the swipe screen to unlock their devices. Thus, this section will talk about the basic solution to disabling the swipe up to unlock Android devices. Our main focus here is on a disabling method of swiping the screen when your Android device is accessible.
@@ -48,19 +44,11 @@ Let us look at the detailed steps below to remove the swipe screen to unlock the
 
 ![confirm the screen password](https://images.wondershare.com/drfone/article/2017/10/15090620046961.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5:** If you click the PIN code option again, the drop-down menu will be listed with more options. Now select the option “None.”
 
 ![disable swipe screen](https://images.wondershare.com/drfone/article/2017/10/15090620295520.jpg)
 
 That's all. You have successfully run out of the disable commands for the swipe up to unlock the screen. You can now open and access your device without any security methods.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2:How to remove/bypass Swipe to unlock when the phone is locked?
 
@@ -87,6 +75,10 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![start to unlock Android swipe screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** To enable the download mode on your Android device, shut down your phone>Simultaneously, press the volume down, Home button, and Power button >Press the Volume up button. Once your device is in download mode, the recovery kit will get downloaded.
 
 ![boot in download mode](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -96,10 +88,6 @@ Remove 4 Types of Android Screen Lock without Data Loss
 ![android phone unlocked](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 Pretty simple, right? Dr.Fone - Screen Unlock to the rescue for the issue of swipe screen to unlock.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to turn off the swipe to unlock when the pattern is enabled?
 
@@ -141,6 +129,10 @@ Let's get started!
 
 ![sim pin](https://images.wondershare.com/drfone/article/2022/10/unlock-nokia-screen-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Like most people, you probably lock your Motorola phone as soon as you turn it on. It's a good way to keep your phone safe from prying eyes and accidental button presses. But what happens when you forget your phone's passcode? Or worse, what if your phone gets locked by a malicious app?
 
 There are a few different ways to unlock your Motorola phone. We'll show you how to do it.
@@ -156,6 +148,10 @@ Follow these steps to unlock the Motorola lock screen password without losing da
 - **Step 1**: Sign into your Google account and navigate the Find My Device website.
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/10/unlock-nokia-screen-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2**: Sign in with your Google account, which you used on your locked Motorola phone.
 - **Step 3**: The Android Device Manager dashboard will show your locked Motorola with three options: Ring, Lock, and Erase.
@@ -194,10 +190,6 @@ Follow the steps below if you want to know how to unlock the Motorola phone keyp
 - **Step 7**: With the “Power” key, select "Reboot system now" from the next display.
 
 Your Motorola is now password, pattern lock, screen lock, and PIN-free after a hard reset.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3. Unlock With Answer Security Questions
 
@@ -244,6 +236,10 @@ Users of Android phones can benefit from data and file protection tools like pas
 
 ![fingerprint warning](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you use a wrong password or a fingerprint unlock, it can permanently lock your Android device.
 
 We can use many practical methods to remove the Android phone lock screen fingerprint. For example:
@@ -280,15 +276,15 @@ Open Dr.Fone on your PC, then among all the tools, choose "Screen Unlock."
 
 ![user interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Select a device type.**
 
 We are in this part to provide you with two ways to unlock practically any Android handset, including those made by Samsung, Huawei, OPPO, Vivo, Lenovo, LG, and others. It's crucial to choose the right device brand to unlock the lock because the recovery modes for various phone models vary. The list contains every supported device model.
 
 ![remove screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Here you will have some brands to choose from, don't make it wrong.
 
@@ -310,15 +306,15 @@ _(Get into Recovery Mode in Samsung phone with the Home button)_
 
 ![mode with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Instructions to Wipe Cache Partition**
 
 In this part, it is the final but crucial step to unlock your device; if you click any wrong button, your phone may not work anymore.
 
 ![wipe data to unlock](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 OK, you already passed the unlock process; locks like pattern, password, or fingerprint disappear!
 
@@ -350,14 +346,10 @@ It might be a complicated case if you cannot reset your lock screen fingerprint 
 ![mobile repair](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why does not Fingerprint Work
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Fingerprint Hardware Module Problems
 
@@ -367,11 +359,19 @@ The fingerprint module should be clean, just like a clean finger is. Unfortunate
 
 Please inspect the fingerprint module for any fluids or debris and clean it with a dry cloth to resolve this. If the dirt is on the module, clean it with wipes or a moist cloth wet with water.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Software Update
 
 Another software-related issue that may occur because " fingerprint sensor not working" issue is a software defect. Try checking if you have a pending update on your device and install it. Moreover, if the problem started after a system update, you may wait for a new update to fix the problem or go back to the previous update.
 
 ![software update](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To install an update, open the Settings app, tap on 'System,' pick 'System Update,' and download and install any pending update.
 
@@ -382,7 +382,7 @@ If you have a device with under-display fingerprint scanner, you might need to c
 ![phone screen clean](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -403,22 +403,22 @@ Any method can solve the problems of using your device with your Android handset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-list-top-9-multi-device-collaboration-apps-iosandroid-reviewed/"><u>[New] 2024 Approved Essential List Top 9 Multi-Device Collaboration Apps iOS/Android Reviewed</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-bluescreenview-functions/"><u>Demystifying BlueScreenView Functions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-nova-y91-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Huawei Nova Y91 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/identifying-premium-hdr-camera-options/"><u>Identifying Premium HDR Camera Options</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-best-ai-youtube-script-writers-and-the-ultimate-guide/"><u>In 2024, Best AI YouTube Script Writers and The Ultimate Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-meizu-21-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Meizu 21 Pro</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-realme-gt-neo-5-se-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Realme GT Neo 5 SE Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-asus-rog-phone-8-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Asus ROG Phone 8</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lava-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lava Phone that is Locked?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-6-lite-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 6 Lite Phone without Google Account?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premier-20-anime-theme-melodies/"><u>In 2024, Premier 20 Anime Theme Melodies</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-y27s-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo Y27s IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-lava-storm-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Lava Storm 5G Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-lava-blaze-2-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Lava Blaze 2</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-oppo-reno-11-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo Reno 11 Pro 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-motorola-moto-g73-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Motorola Moto G73 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ffortless-youtube-playback-downloading-content-to-idevices/"><u>[New] Effortless Youtube Playback Downloading Content to iDevices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-surviving-youtubes-copyright-enforcement-hurdles/"><u>[Updated] 2024 Approved Surviving YouTube's Copyright Enforcement Hurdles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-masterclass-10-secrets-to-effective-livestreaming-cricket-games/"><u>[Updated] Masterclass 10 Secrets to Effective Livestreaming Cricket Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-strategic-evasion-the-best-room-escapes-ranked/"><u>2024 Approved Strategic Evasion The Best Room Escapes Ranked</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/automated-data-collection-with-the-help-of-cookiebot-enhancing-your-websites-user-experience/"><u>Automated Data Collection with the Help of Cookiebot: Enhancing Your Website's User Experience</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/utter-plus-for-2024/"><u>ClipCutter Plus for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-moto-g13-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Motorola Moto G13</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-oppo-a38-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Oppo A38? Try These Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-motorola-moto-g-stylus-2023-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Motorola Moto G Stylus (2023) Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17t-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo S17t Bootloader Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-s17-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo S17 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-professional-shutter-sense-the-prime-6-4k-dslr-selections/"><u>In 2024, Professional Shutter Sense The Prime 6 4K DSLR Selections</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-revamp-iphone-photos-effective-red-eye-removal-for-free/"><u>In 2024, Revamp iPhone Photos Effective Red-Eye Removal for FREE</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/is-your-facebook-video-more-engaging-in-a-vertical-format-in-2024/"><u>Is Your Facebook Video More Engaging in a Vertical Format, In 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-reno-11-pro-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Reno 11 Pro 5G Device</u></a></li>
 </ul></div>
 

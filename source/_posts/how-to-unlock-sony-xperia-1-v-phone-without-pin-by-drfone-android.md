@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Sony Xperia 1 V Phone without PIN
-date: 2025-01-21T16:11:34.841Z
-updated: 2025-01-23T16:09:10.904Z
+date: 2025-01-23T23:56:40.011Z
+updated: 2025-01-30T21:22:53.043Z
 tags: 
   - unlock
   - remove screen lock
@@ -64,7 +64,7 @@ Note：You can also use these tool to bypass other phone's screen including Huaw
 Well done! you have now removed the distressing pin on your phone. Next time put a pin that you can easily remember.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2.How To Enable Your Android Screen Lock PIN
@@ -76,10 +76,6 @@ So how do you set up your android screen lock PIN? Here is a step-by-step guide 
 **Step 1**. Open "Settings" on your Phone
 
 ![enable or disable screen lock PIN-Open ](https://images.wondershare.com/drfone/article/2016/05/14646049425841.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 On your android device, open Settings. You can find the settings app in the app; drawer. You can also tap the cog icon on the notification mode and click Settings.
 
@@ -96,10 +92,14 @@ On your android device, open Settings. You can find the settings app in the app;
 ![enable or disable screen lock PIN-confirm your security PIN](https://images.wondershare.com/drfone/article/2016/05/14646069136524.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Good job. You will have to enter this PIN whenever your phone sleeps or when you reboot your phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How to Disable Your Android Screen Lock PIN
 
@@ -112,6 +112,10 @@ In most occasions, in fact, 99.9%, the first thing that you will see when you po
 **Step 2.** In the interface that opens, go to "Security"
 
 ![enable or disable screen lock PIN-go to ](https://images.wondershare.com/drfone/article/2016/05/14646076268107.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**. You can then click on "Screen Lock" and select "None" to disable the screen lock PIN.
 
@@ -131,6 +135,10 @@ Most of the time, we use Android phones, we get faced with the need to access th
 
 ## Part 1: Show Wifi Password on Rooted Android Device
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What is Rooting?
 
 First of all, what does rooting mean? You have probably used a Windows computer or even Linux. For the case of Windows, when installing a new program or software, it always prompts a dialog box saying, "Administrator permission required to run this program." If you don't have the administrator permission, you won't install the program. In Android, this is called rooting. In simple terms, it means having the root permission to your phone. Some Android apps will require you the root permission, e.g., flashing your ROM. In this part, we will explain how you can show the Wi-Fi password on your Android with root.
@@ -138,10 +146,6 @@ First of all, what does rooting mean? You have probably used a Windows computer 
 To find the Wi-Fi passwords on your Android phone, you need to have an app to explore files which also supports a root user. In this case, ES FileExplorer or Root Explorer will come in handy. However, it turns out that the latter is offered at $3. Let's use the free ES File Explorer.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556285763404.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps of getting Wi-Fi password on Android with root
 
@@ -163,6 +167,10 @@ This will drop down a list of controls. Scroll down and find the **Root Explorer
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556293052566.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Get the passwords' file.
 
 Go back to ES file explorer, and this time, find the folder named **data**.
@@ -180,14 +188,10 @@ Make sure that you don't edit anything in the file. You might mess up with impor
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556294042257.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As you can see above, we have found the Wi-Fi passwords on the android device. On each network profile, we have the name of the network represented by _name (ssid="{the name}")_, the network's password represented by _psk_, the network's access point represented by _key\_mgmt=WPA-PSK_ and its priority represented by _priority_.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Show Wifi Password on Android without Root
 
@@ -225,6 +229,10 @@ Here, we would like to test whether the ABD is working properly. To do this, con
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556329984622.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Find the Android wifi password.
 
 Now, it is time to type the given command in the command prompt and type: _adb pull /data/misc/wifi/wpa\_supplicant.conf c:/wpa\_supplicant.conf_. This will fetch the file from your phone to the local disc C drive of the PC.
@@ -237,10 +245,6 @@ Lastly, open the file with a notepad, and there you go.
 
 Now you learned how to show the wifi password on your Android device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Pattern Locks Are Unsafe: Secure Your Sony Xperia 1 V Phone Now with These Tips
 
 Pattern locks have been available for about as long as people can remember, and they have been hugely popular with people thanks to how easy it is to simply swipe your screen and unlock your smartphone, as against, say, keying in the 4-digit PIN/ 6-digit PIN. However, pattern locks are easy to crack, and today, we bring you all you want to know about pattern locks and how to create a **hard pattern lock**. Further to this, we also tell you how to move beyond pattern locks and what to do in case you forgot the hard pattern lock you just set and are unable to unlock your smartphone.
@@ -248,7 +252,11 @@ Pattern locks have been available for about as long as people can remember, and 
 ![creating more secure pattern locks](https://images.wondershare.com/drfone/article/2023/09/hard-pattern-lock-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What You Need to Know About Pattern Locks
@@ -279,10 +287,6 @@ Security, or rather, the lack of it, is the lone disadvantage of using a pattern
 
 The research found that 64% of test subjects who were shown videos of people unlocking their phones could correctly guess a 6-point pattern lock, that too after viewing the video only once! That number shot up to 80% if they were allowed to see the video again. That is simply astounding and a nightmare for security. When it comes to PINs, only 11% could guess a 6-digit PIN after viewing the unlocking video once, and that number shot up to 27% when they could see the video two times.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How To Create a Hard Pattern Lock (Including Remembering Complex Patterns)
 
 Now, if you must continue using a pattern lock, let’s help you know how to create a hard pattern lock that would not be as easy to decipher as easy pattern locks. For that, you should know how people use pattern locks, the kind of pattern locks they create, and the ones that are the most commonly used pattern locks. That way, you can avoid those fallacies and create a hard pattern lock for your smartphone.
@@ -306,10 +310,6 @@ These are some of the most common pattern locks people create:
 - \- patterns in any other simple shape, such as square, triangle, star, etc.
 
 To understand how this is a security nightmare, the possible combinations for a 4-point pattern are a measly 1624, whereas by adding just 1 more point to the pattern and creating a 5-point pattern, the number of possible combinations becomes 7152, an increase of 5528 combinations. In stark contrast, creating a 9-point pattern would give you over 140,000 possible combinations!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.2: How to Create a Hard Pattern Lock
 
@@ -352,18 +352,22 @@ Just in case you set a hard pattern lock and promptly forgot that abstruse patte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-instagram-live-broadcasting-unseen-and-unknown-for-2024/"><u>[Updated] Instagram Live Broadcasting Unseen and Unknown for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-reimagining-home-entertainment-with-lgs-bp550-update/"><u>[Updated] Reimagining Home Entertainment with LG's BP550 Update</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-economical-systems-optimized-by-ideal-obs-settings/"><u>2024 Approved Economical Systems Optimized by Ideal OBS Settings</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-tidied-missing-miniature-videos-on-youtube/"><u>2024 Approved Tidied Missing Miniature Videos on YouTube</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-a14-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy A14 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-naraka-bladepoint-performance-fixes-for-framerate-hiccups-and-freezes/"><u>Boost Naraka: Bladepoint Performance – Fixes for Framerate Hiccups and Freezes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/cooler-masters-super-ultrawide-gaming-monitor-a-giant-57-inch-dual-4k-mini-led-display-perfect-for-gamers/"><u>Cooler Master's Super Ultrawide Gaming Monitor: A Giant 57-Inch, Dual-4K, Mini LED Display Perfect for Gamers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-x-fold-2-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo X Fold 2 to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a05s-phone-without-pin-by-drfone-android/"><u>How to Unlock Samsung Galaxy A05s Phone without PIN</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-t2-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo T2 5G Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-x100-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo X100 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/perfecting-the-art-of-whatsapp-call-logging/"><u>Perfecting the Art of WhatsApp Call Logging</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-getting-the-most-out-of-your-game-with-fraps-for-2024/"><u>[Updated] Getting the Most Out of Your Game with Fraps for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-discovering-video-producers-digital-command-center/"><u>2024 Approved Discovering Video Producers' Digital Command Center</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-a25-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oppo-reno-11-pro-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Oppo Reno 11 Pro 5G?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-guide-to-d-link-default-passwords-new-update-jul-2024/"><u>Essential Guide to D-Link Default Passwords – New Update (Jul 2024)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-expert-convertir-avec-succes-des-avchd-m2ts-en-format-mp4-fidelement-les-solutions-les-plus-efficaces/"><u>Guide Expert : Convertir Avec Succès Des AVCHD M2TS en Format MP4 Fidèlement - Les Solutions Les Plus Efficaces</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-motorola-moto-g14-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Motorola Moto G14 Phone Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oneplus-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked OnePlus Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-asus-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Asus</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-m14-4g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy M14 4G Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-x100-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo X100? Try These Fixes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-xiaomi-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Xiaomi Is Unlocked</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17t-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17t Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-inconsistent-mouse-navigation-7-tactics/"><u>Overcoming Inconsistent Mouse Navigation: 7 Tactics</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-a54-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy A54 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-supreme-joy-con-and-controller-compendium-nintendo-switch-2024/"><u>The Supreme Joy-Con & Controller Compendium (Nintendo Switch, 2024)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209780349-9781633411708-utterly-wicked/"><u>Utterly Wicked | Free Book</u></a></li>
 </ul></div>
 

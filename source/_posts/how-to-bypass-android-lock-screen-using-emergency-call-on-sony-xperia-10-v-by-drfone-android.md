@@ -1,7 +1,7 @@
 ---
 title: How to Bypass Android Lock Screen Using Emergency Call On Sony Xperia 10 V?
-date: 2024-08-24T09:29:04.911Z
-updated: 2024-08-25T09:29:04.911Z
+date: 2025-01-24T02:48:51.341Z
+updated: 2025-01-30T21:51:36.670Z
 tags: 
   - unlock
   - remove screen lock
@@ -19,9 +19,6 @@ The main reason why we keep our smartphone locked is to prevent children (or sta
 
 To avoid such types of conditions, we have tried and tested the following methods to bypass the Sony lock screen pattern, PIN, password, and fingerprint.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1. Use 'Find My Mobile' feature on Sony Phone
 
 All Sony devices come with the "Find My Mobile" feature. To bypass the Sony lock screen pattern, PIN, password, and fingerprint, you can just follow the below steps to get it done.
@@ -32,9 +29,6 @@ All Sony devices come with the "Find My Mobile" feature. To bypass the Sony lock
 - Step 4. Click the "Lock" button at the bottom
 - Step 5. Within a few minutes, it will change the lock screen password to the PIN so that you can unlock your device.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to unlock samsung phone lock password-find my mobile](https://images.wondershare.com/drfone/others/14623529847658.jpg)
 
 ## Method 2. Use Android Device Manager to Bypass Sony Password
@@ -50,14 +44,8 @@ To know how to unlock a Sony phone lock password with Android device manager, ma
 - Step 7. Now you must get the password field on your phone where you can enter your new password, and your phone will be unlocked.
 - Step 8. Go to lock screen settings on your device and disable the temporary password.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![how to unlock samsung phone lock password-android device manager](https://images.wondershare.com/drfone/others/14623531102514.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3. Google Login (Supports Only Android 4.4 or Lower)
 
 If your device is still running on Android 4.4 or lower, here's how to bypass the Sony lock screen fast.
@@ -67,14 +55,12 @@ If your device is still running on Android 4.4 or lower, here's how to bypass th
 - Step 3. Enter your Google account login or backup PIN
 - Step 4. Now your phone would be unlocked.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to unlock a samsung phone without the code-google login](https://images.wondershare.com/drfone/others/14623533542919.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 4. 'Pattern Password Disable' and Custom Recovery (SD Card needed)
 
 To bypass the Sony lock screen in this method, you ought to be an advanced user who knows what are "custom recovery" and "rooting". You have to install any kind of customer recovery, and you should have an SD card on your phone. SD card is required to move a ZIP file to the phone, and it is the only way to transfer the file when the Sony Xperia 10 V device is locked.
@@ -105,12 +91,13 @@ A factory reset is the best option in almost any case if one of these solutions 
 - Step 5. Select it by pressing the Power button.
 - Step 6. Select "Reboot System Now" once the process is done.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![how to unlock a samsung phone without the code-factory reset](https://images.wondershare.com/drfone/others/14623546631338.jpg)
 
 [Backup your Sony phone](https://drfone.wondershare.com/samsung/samsung-backup.html) regularly in case of any data loss in the future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 7. Boot into Safe Mode
 
@@ -123,10 +110,11 @@ Chances may be that you are using a third-party lock screen app. Then lucky for 
 - Step 5. Reboot your device and get out of safe mode.
 - Step 6. Now the irritating lock screen app is removed completely.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to unlock a samsung phone without the code-android safe mode](https://images.wondershare.com/drfone/others/14623549778321.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 8. Other Methods
 
@@ -144,14 +132,12 @@ The Sony series has made a significant splash in the smartphone market. It capti
 
 It will cover various ways toperform a **Sony Xperia 10 V unlock**, no matter the context of what you need unlocking for. This ensures you can enjoy every aspect of your shiny new Pixel to the fullest. Whether you’re a tech enthusiast or a casual user, these tips and tricks will help you master your Sony device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Sony Xperia 10 V series lineup](https://images.wondershare.com/drfone/article/2024/01/google-pixel-7-unlock-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Ways That Sony Lets You Unlock Your Sony Xperia 10 V
 
 Sony Xperia 10 V  are more than just smartphones; they are gateways to a personalized and secure user experience. To access the myriad of features these devices offer, Google provides several unlocking methods, ensuring both convenience and security. Here are these options:
@@ -160,9 +146,6 @@ Sony Xperia 10 V  are more than just smartphones; they are gateways to a persona
 - Similar to a PIN but potentially more secure due to the allowance of a longer combination of numbers and letters. A passcode is ideal for those who seek an extra layer of security. You set it up in the security settings and use it to unlock your phone just like a PIN but with the added complexity of alphanumeric characters.
 - **Face Unlock.Pixel’s Face Unlock** uses advanced facial recognition software. It scans your face to grant access, offering a hands-free and quick way to unlock your Pixel. This feature can be activated in the security settings and requires a simple glance at your phone to unlock.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![woman holding a Sony Xperia 10 V](https://images.wondershare.com/drfone/article/2024/01/google-pixel-7-unlock-02.jpg)
 
 - [**<u><b>Fingerprint Unlock</b></u>**](https://drfone.wondershare.com/google-frp-unlock/google-pixel-frp-bypass.html)**.** This method uses your unique fingerprint as a key. It’s fast, secure, and convenient. The Pixel 6a, 6, and 7 fingerprint scanners are actually under the display. Register your fingerprint in the settings, then touch the sensor to gain access.
@@ -186,19 +169,12 @@ To do this, perform the steps below:
 
 - **Step 1:** Download and install Dr.Fone on your computer. Then, connect your Pixel phone to it with a cable.
 
-
 **Step 2:** Go to **Toolbox** > **Screen Unlock.** Then, use a connector to connect your Pixel device to the PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 3:** Select **Android** on this page.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone screen unlock home](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
 
 - **Step 4:** Choose **Unlock Android Screen**, and select your phone’s brand (Google) in the following brand list.
@@ -217,15 +193,16 @@ To do this, perform the steps below:
 
 ![download mode instructions](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 8:** Click **Done** after the process has finished.
 
 ![screen unlock success](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 _**Tips:** Is your Pixel locked accidently? Are you searching for a powerful tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Entering Into Safe Mode
 
 Safe Mode is a diagnostic mode in Android that can help bypass third-party lock screen apps. It’s useful if you’ve used a third-party app for your lock screen.
@@ -241,16 +218,10 @@ Force resetting or flashing a new ROM can be considered a last resort. They invo
 
 Remember, while these methods can effectively unlock your device, they also come with risks. Always [<u>back up your data regularly</u>](https://drfone.wondershare.com/backup/android-backup-software.html), and use these methods responsibly, considering their potential to erase your data or affect your device’s warranty.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Bonus: How To Perform a SIM Unlock on Sony
 
 [<u>Unlocking the SIM </u>](https://drfone.wondershare.com/sim-unlock/android-sim-unlock-code-generator.html) on your Sony, particularly the Sony Xperia 10 V  , opens up a world of flexibility, especially for those who frequently travel or wish to switch carriers. This process can be accomplished for free through your carrier, provided certain conditions are met. Dive into the steps and considerations for performing a SIM unlock on your Sony.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Understanding the Prerequisites
 
 Before proceeding with the SIM unlock, ensure you’re in good standing with your carrier. This means:
@@ -266,6 +237,10 @@ Different carriers have varying requirements for a SIM unlock, so your first mov
 Here are the steps to SIM **unlock your Sony Xperia 10 V**,These generally involve the following steps but are still subject to the official instructions of your carrier:
 
 ![sim and unlock](https://images.wondershare.com/drfone/article/2024/01/%20google-pixel-7-unlock-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 1:** Open the Phone app and dial \*#06# on your Sony. This will display your phone’s IMEI number. Note this number down for future reference.
 - **Step 2:** Call your carrier and request a SIM unlock code. You’ll likely need to provide your Sony’s IMEI number.
@@ -285,6 +260,10 @@ This generally involves the following steps:
 
 By following these steps, you can successfully unlock the SIM of your Sony device, ensuring you can enjoy your phone with the carrier of your choice, wherever your travels may take you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Important Considerations
 
 Remember, unlocking the SIM doesn’t absolve you from your carrier contract. You’re still obligated to make timely payments as per your agreement. The primary advantage of unlocking your SIM is the freedom to use your Sony Xperia 10 V with any carrier’s SIM card, offering greater flexibility and control over your mobile experience. Thus, it is encouraged not to do anything illegal to avoid future complications.
@@ -295,20 +274,6 @@ This article explored various methods to **unlock Sony Xperia 10 V**,It delved i
 
 Wondershare Dr.Fone is a reliable tool for those challenging moments when you forget your passcode. It offers a straightforward solution for screen unlocking and ensures you keep your phone functional and handy at all times.
 
-
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Unlock Sony Xperia 10 V Phone without Any Data Loss
 
 In today's digital age, our Android phones serve as the primary hub of our lives, holding a treasure trove of personal and professional data. Yet, the frustration of being locked out due to forgotten passwords or malfunctioning security features can be overwhelming, compounded by the fear of data loss during the recovery process. However, there's a beacon of hope - a way to unlock your Android phone without any data loss. In this comprehensive guide, we will explore the latest techniques, tools, and methods to regain access to your Android device safely without a password, PIN, or fingerprint. Let's dive into it now.
@@ -322,8 +287,6 @@ If you or someone accidentally forgot or mistyped/misentered your lock password 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 Note: This tool temporarily support unlocking part of Samsung and LG locked screen without losing data, but other Android phone will be wiped all data if you try to unlock the screen with Dr.Fone - Screen Unlock (Android).
-
-
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -342,16 +305,10 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 **Step 2.** Then, you should see the "Screen Unlock" tool, so proceed into it. After that,  click "Android" > "Unlock Android Screen."
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Dr.Fone home](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 3.** Then choose "Remove without Data loss" to unlock part Samsung/LG devices without data loss and find your device model.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Dr.Fone android Lock Screen Removal](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
 **Step 4.** Follow the instructions on the program to get the Android phone into "Download Mode."
@@ -372,7 +329,6 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 That's how to unlock an Android phone with just one click using Wondershare's Dr.Fone. If your device is not Samsung or LG, you can use a more advanced mode to [unlock your phone](https://drfone.wondershare.com/guide/android-lock-screen-removal.html).
 
-
 ## Part 2. How to Unlock Android Phone with Aroma File Manager (with Data Loss)/h2>
 
 If you weren't able to open your Wi-Fi or data connection or enable USB Debugging, this is the way for you to unlock your lock screen. This could be a bit complicated, but it should work.
@@ -385,9 +341,6 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 **Step 2.** Go to your Downloads folders and copy the downloaded zip file.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Copy Aroma zip file](https://images.wondershare.com/drfone/article/2016/06/14647610755085.jpg)
 
 **Step 3.** Plug into your PC a memory card that you can insert into your phone later. Then, go to your list of connected devices and select the memory card.
@@ -396,26 +349,21 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 **Step 4.** Paste the copied Aroma zip file. Once copied, eject it from your PC, then insert it into your Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Paste aroma file manager](https://images.wondershare.com/drfone/article/2016/06/14647610796449.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![arom file manager pasted](https://images.wondershare.com/drfone/article/2016/06/14647610819837.jpg)
 
 **Step 5.** Enter Recovery Mode for your device. Each Android device has its own ways of entering recovery mode, so take a look at this [link](http://www.digitaltrends.com/mobile/use-recovery-mode-android/) and find your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Enter recovery mode android](https://images.wondershare.com/drfone/article/2016/06/14647615647569.jpg)
 
 **Step 6.** When you are already in Android Recovery Mode, use your volume keys to navigate to ''apply update from external storage'', then select the zip file you copied a while ago. It will be flashed on your device.
 
 ![Android system recovery](https://images.wondershare.com/drfone/article/2016/06/14647615657193.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 7.** After it, restart, and recovery mode will reopen as Aroma File Manager, so go to its settings and select ''Automount all devices on start'', then restart. Back in Aroma File Manager, go to the directory data>system. Check if the ff. exist. If they do, delete them. Then restart again.
 
@@ -426,9 +374,6 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 - signature.key
 - sparepassword.key
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![arom file manager](https://images.wondershare.com/drfone/article/2016/06/14647610871048.jpg)
 
 Now you have your device booted up, and your Android lock screen is still locked, just gesture in or enter anything. It will be unlocked. And that's how to unlock an Android phone using your device.
@@ -441,27 +386,26 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 
 **Step 1.** Go to [Minimal ADB and Fastboot](https://androidmtk.com/download-minimal-adb-and-fastboot-tool) download page.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Minimal adb and fastboot dowload page](https://images.wondershare.com/drfone/article/2016/06/14648313491726.jpg)
 
 **Step 2.** Download the tool's latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Minimal adb and fastboot downloaded](https://images.wondershare.com/drfone/article/2016/06/14648313521345.jpg)
 
 **Step 3.** Open the downloaded Minimal ADB and Fastbootzip file and install it.
 
 ![Minimal adb and fastboot installer zip](https://images.wondershare.com/drfone/article/2016/06/14648313544528.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Minimal adb and fastboot setup](https://images.wondershare.com/drfone/article/2016/06/14648313551732.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Minimal adb and fastboot installation complete](https://images.wondershare.com/drfone/article/2016/06/14648313566582.jpg)
 
 **Step 4.** Make sure your device is connected, then go to the Minimal ADB and Fastboot installation directory.
@@ -476,9 +420,6 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 
 **Step 5.** Inside the folder, hold the Shift key on your keyboard, then right-click your mouse. An additional "Open command window here" will appear so select that.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Minimal adb and fastboot open command](https://images.wondershare.com/drfone/article/2016/06/14648313653169.jpg)
 
 **Step 6.** ADB terminal will pop out. Now, the first is to type in ADB _devices_. This is to check if your device is recognized by ADB. If there is no device listed below, try to remove and reconnect your Sony Xperia 10 V and retype the command. If there are listed devices already, proceed.
@@ -496,9 +437,6 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 - _name='lockscreen.lockedoutpermanently';_
 - _.quit_
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![Minimal adb and fastboot adb shell command](https://images.wondershare.com/drfone/article/2016/06/14648317729484.jpg)
 
 This would work if you have your USB debugging turned on before it was locked. That's how to unlock Android using ADB.
@@ -533,9 +471,6 @@ If luckily, you left your Wi-Fi open and luckily connected to the internet, this
 
 **Step 1:** Retry the incorrect password or pattern until the ''Forgotten Password/Pattern'' appears below. Then select that.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android forgot pattern lock](https://images.wondershare.com/drfone/article/2016/06/14648495587136.jpg)
 
 **Step 2:** Check ''Enter your Google Account details'' then tap next.
@@ -547,7 +482,6 @@ If luckily, you left your Wi-Fi open and luckily connected to the internet, this
 ![Account unlock Google](https://images.wondershare.com/drfone/article/2016/06/14648495811338.jpg)
 
 You will be given the option to input a new password or pattern right after you enter your Google account details. But if not, Google must have emailed you your temporary password or pattern that you will input to unlock your lock screen.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -561,11 +495,22 @@ You will be given the option to input a new password or pattern right after you 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevating-online-presence-how-to-flawlessly-transmit-upside-down-videos-on-youtube-for-2024/"><u>[New] Elevating Online Presence How to Flawlessly Transmit Upside-Down Videos on Youtube for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-no-pay-all-gain-the-fcp-freedom-guide-for-2024/"><u>[Updated] No Pay, All Gain The FCP Freedom Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimize-cinematography-anywhere-with-luts-simply/"><u>[Updated] Optimize Cinematography Anywhere with LUTs, Simply</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-exploring-youtubes-strategy-for-video-short-promotion/"><u>2024 Approved Exploring YouTube's Strategy for Video Short Promotion</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-y27-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo Y27 5G Unlock Without Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-lava-storm-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Lava Storm 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-moto-g84-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Moto G84 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-a15-5g-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy A15 5G Easily?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-y02t-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo Y02T Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-y78-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo Y78 5G Face Lock?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-y56-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo Y56 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-14-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 14 files after scanning? | Stellar</u></a></li>
+<li><a href="https://fox-http.techidaily.com/wondershare-photo-story-platinum-for-2024/"><u>Wondershare Photo Story Platinum for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/yl-softwares-expert-tips-on-deleting-directories-in-windows-how-to-article/"><u>YL Software's Expert Tips on Deleting Directories in Windows - How-To Article</u></a></li>
+</ul></div>
 

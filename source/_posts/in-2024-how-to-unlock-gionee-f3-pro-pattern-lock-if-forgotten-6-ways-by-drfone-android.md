@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Gionee F3 Pro Pattern Lock if Forgotten? 6 Ways
-date: 2025-01-16T16:01:35.872Z
-updated: 2025-01-23T16:13:53.228Z
+date: 2025-01-26T17:04:50.014Z
+updated: 2025-01-30T20:37:13.388Z
 tags: 
   - unlock
   - remove screen lock
@@ -51,10 +51,6 @@ Remove Pattern Locks on Android Screen at Ease
 
 ![connect android phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3.** Select your device brand to unlock and access reboot instructions, then follow them to complete the process.
 
 ![boot phone in download mode](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -62,6 +58,14 @@ Remove Pattern Locks on Android Screen at Ease
 - **Step 4.** You will be notified when the process is completed. Simply disconnect your Gionee F3 Pro and access it without any pattern lock.
 
 ![pattern lock removed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Unlock Pattern Lock with Android Device Manager?
 
@@ -73,13 +77,17 @@ Besides Dr.Fone, there are also a few more options to learn how to unlock patter
 
 ![how to unlock pattern](https://images.wondershare.com/drfone/2020/lock.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4.** Click on the “**Lock**” option to change the lock pattern on your device.
 - **Step 5.** Provide the new password for your device and write an optional recovery message.
 
 ![set new lock screen](https://images.wondershare.com/drfone/article/2017/09/15057371966761.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 6.** Apply these changes and exit the window to change the lock on your device.
@@ -108,6 +116,10 @@ Just like Android, Samsung has also developed a dedicated feature for finding a 
 
 ![find my mobile](https://images.wondershare.com/drfone/article/2017/09/15057372744992.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** You can select your device from the left panel. By default, it will provide its location on the map.
 
 ![select the Gionee F3 Pro device](https://images.wondershare.com/drfone/article/2017/09/15057372918464.jpg)
@@ -118,10 +130,6 @@ Just like Android, Samsung has also developed a dedicated feature for finding a 
 
 - **Step 4.** Now, all you need to do is click on the “Unlock” button to perform pattern unlock on your device.
 - **Step 5.** After unlocking your Samsung device, you will be informed of an on-screen message.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: How to Unlock Android Pattern Lock in Safe Mode?
 
@@ -137,10 +145,6 @@ This is a simple and effective solution to knowing how to unlock patterns on an 
 
 ![android safe mode](https://images.wondershare.com/drfone/article/2017/09/15057373753769.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5.** Later, you can go to the Gionee F3 Pro device’s Settings > Apps and remove the third-party app as well. In this way, you would be able to learn how to unlock pattern lock for any other app.
 
 ## Part 6: How to Unlock Pattern Lock with the Factory Reset?
@@ -153,17 +157,13 @@ Consider this as your last resort, as it will wipe the data and saved settings o
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/09/15057373935558.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4.** Select the wipe data/factory reset option to perform pattern unlock.
 - **Step 5.** Confirm your choice to factory reset your device.
 
 ![factory reset device](https://images.wondershare.com/drfone/article/2017/09/15057374154915.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 6.** Wait for a while as your phone will perform the needed operations.
@@ -183,10 +183,6 @@ Among these tools, **Techeligible FRP** stands out, known for its reliability an
 
 ![frp bypass](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part I. A Comprehensive Overview of Techeligible
 
 Techeligible is a useful platform that offers useful solutions to help most Android users. It’s especially useful for individuals stuck with FRP locks or wanting to unlock their mobile devices. But Techiligible’s arsenal doesn’t stop there. Third-party tools are available for practically any Android problem. There’s even a Techeligible app called Quick Shortcut Maker, which allows you to create shortcuts to your Android device’s settings.
@@ -203,6 +199,10 @@ Check out the main features that Techeligible has to offer below:
 - **Unlocking Android Smartphones.**The tools assist users in unlocking Android smartphones. It also does not require passwords or Google account information.
 - **FRP APK Download.**Techeligible makes it simple to obtain FRP APK utilities.
 - **File Management.**It assists in the management of critical files to improve the overall user experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Where and How To Download FRP Tools by Techeligible
 
@@ -309,6 +309,10 @@ In general, **Techeligible FRP tools** can provide the convenience for users bel
 - **User-Friendly Interface.**Simple steps for hassle-free device unlocking.
 - **Tool Variety.**Various tools cater to different FRP bypass needs.
 - Works with a wide range of diverse Android devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cons of Techeligible
 
@@ -427,10 +431,6 @@ The main reason why we keep our smartphone locked is to prevent children (or sta
 
 To avoid such types of conditions, we have tried and tested the following methods to bypass the Gionee lock screen pattern, PIN, password, and fingerprint.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1. Use 'Find My Mobile' feature on Gionee Phone
 
 All Gionee devices come with the "Find My Mobile" feature. To bypass the Gionee lock screen pattern, PIN, password, and fingerprint, you can just follow the below steps to get it done.
@@ -457,6 +457,14 @@ To know how to unlock a Gionee phone lock password with Android device manager, 
 - Step 8. Go to lock screen settings on your device and disable the temporary password.
 
 ![how to unlock samsung phone lock password-android device manager](https://images.wondershare.com/drfone/others/14623531102514.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3. Google Login (Supports Only Android 4.4 or Lower)
 
@@ -501,15 +509,7 @@ A factory reset is the best option in almost any case if one of these solutions 
 
 ![how to unlock a samsung phone without the code-factory reset](https://images.wondershare.com/drfone/others/14623546631338.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Backup your Gionee phone](https://drfone.wondershare.com/samsung/samsung-backup.html) regularly in case of any data loss in the future.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 7. Boot into Safe Mode
 
@@ -548,22 +548,24 @@ To avoid forgetting your password or PIN next time, be sure to write the pattern
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-a-visual-revolution-integrating-3d-effects-into-your-photoshop-layouts/"><u>[New] A Visual Revolution Integrating 3D Effects Into Your Photoshop Layouts</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-essential-steps-for-cropping-images-on-websites/"><u>[New] In 2024, Essential Steps for Cropping Images on Websites</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-optimal-strategies-for-editing-and-upgrading-youtube-profiles/"><u>[Updated] In 2024, Optimal Strategies for Editing and Upgrading YouTube Profiles</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-y77t-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo Y77t Unlock Without Password</u></a></li>
-<li><a href="https://some-tips.techidaily.com/half-the-population-desires-ai-assistance-for-these-tasks-insights-from-a-zdnet-study/"><u>Half the Population Desires AI Assistance for These Tasks: Insights From a ZDNet Study</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-samsung-galaxy-m54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Samsung Galaxy M54 5G?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-t2x-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo T2x 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-y27-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo Y27 5G Phone?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-7-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 7 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-y27-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Y27 5G Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-m54-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy M54 5G</u></a></li>
-<li><a href="https://article-posts.techidaily.com/vidvault-secrets-how-to-reverse-iphone-media-for-2024/"><u>Vidvault Secrets How to Reverse iPhone Media for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-outlook-a-step-by-step-to-unique-calendar-design/"><u>Windows Outlook: A Step-by-Step to Unique Calendar Design</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-microsoft-wireless-display-adapter-glitches-on-windows-11/"><u>Winning the Battle Against Microsoft Wireless Display Adapter Glitches on Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-your-video-pacing-with-these-snapchat-tips/"><u>[New] Perfect Your Video Pacing with These Snapchat Tips</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-create-and-showcase-innovative-discord-flags-for-profile-spotlight/"><u>[Updated] In 2024, Create and Showcase Innovative Discord Flags for Profile Spotlight</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-new-gamma-playstation-emulator-now-available-for-ios-in-apples-app-store/"><u>1. New Gamma PlayStation Emulator Now Available for iOS in Apple's App Store!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-earning-the-big-bucks-as-a-youtube-star/"><u>2024 Approved Earning the Big Bucks as a YouTube Star</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-experience-the-magic-of-free-voice-change-for-valorant-gaming/"><u>2024 Approved Experience the Magic of Free Voice Change for Valorant Gaming</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-from-blurry-beginnings-transforming-your-videography-with-instagram-techniques/"><u>2024 Approved From Blurry Beginnings Transforming Your Videography with Instagram Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-wi-fi-fix-for-microsoft-surface-users-facing-connection-problems/"><u>DIY Wi-Fi Fix for Microsoft Surface Users Facing Connection Problems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-m34-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy M34 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y78t-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo Y78t</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-s17-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo S17 Lock Screen Password?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-leading-animals-in-play-androids-favorites-list/"><u>In 2024, Leading Animals in Play Android's Favorites List</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-s17-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo S17</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-oppo-a59-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo A59 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-samsung-galaxy-z-flip-5-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Samsung Galaxy Z Flip 5 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-a24-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy A24 Users</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-how-to-translate-youtube-videos-to-english-subtitles/"><u>New In 2024, How to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-f14-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy F14 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-z-fold-5-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy Z Fold 5 Device</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-premier-online-spots-for-fetching-lofi-visuals-and-melodies/"><u>Updated 2024 Approved Premier Online Spots for Fetching Lofi Visuals & Melodies</u></a></li>
 </ul></div>
 

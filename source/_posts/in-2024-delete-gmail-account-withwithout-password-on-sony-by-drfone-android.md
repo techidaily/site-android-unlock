@@ -1,7 +1,7 @@
 ---
 title: In 2024, Delete Gmail Account With/Without Password On Sony
-date: 2025-01-19T16:02:02.708Z
-updated: 2025-01-23T16:03:05.515Z
+date: 2025-01-23T23:56:54.292Z
+updated: 2025-01-30T20:44:18.981Z
 tags: 
   - unlock
   - remove screen lock
@@ -25,6 +25,10 @@ To this day, it is known that Gmail accounts can be removed with or without a pa
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Synopsis: Things To Know Before Deleting Gmail Account
 
@@ -84,7 +88,7 @@ If you use a smartphone device and want to delete your Gmail account from that p
 ![delete gmail account ios](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4. Don’t Know Password of Device? Reset To Delete Gmail Account
@@ -126,7 +130,11 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 ![restore ios device](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-17.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5. Remove Gmail Account From Device Without Password: Using Wondershare Dr.Fone
@@ -136,10 +144,6 @@ While you seek some appropriate way **to close a Gmail account** from a device w
 ### Key Features of Wondershare Dr.Fone
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -158,10 +162,6 @@ Whether it is your latest Samsung or other Android smartphone, the process is ea
 2. Provides support to the latest Android devices, along with all mainstream brands.
 3. You can recover your device with and without data loss, according to your discretion.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Steps To Remove Google Account While Removing Screen Lock
 
 The following steps highlight the way to remove screen lock from your Android device, which would also cover removing the Google Account automatically:
@@ -171,6 +171,10 @@ The following steps highlight the way to remove screen lock from your Android de
 To start with the process, launch Dr.Fone on your computer and navigate to the "Toolbox" section. Proceed to the "Screen Unlock" feature, which opens a new window. After selecting "Android" as your device type, select "Unlock Android Screen" from the available options.
 
 ![select to unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.Select Device Brand and Unlock Mechanism**
 
@@ -189,7 +193,7 @@ According to your selected device brand, Dr.Fone provides guidelines for enterin
 This article has specifically provided you with some important details on **how to delete a Gmail account** with ease. The article explains everything from the methods of deleting it from the computer to removing it from the Sony Xperia 5 V device. Furthermore, it also serves as a guidance for those who have forgotten their device passwords. For that, they've provided an insight into Wondershare Dr.Fone – Screen Unlock and its unique functions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How To Fix OEM Unlock Missing on Sony Xperia 5 V?
@@ -201,10 +205,6 @@ However, this freedom comes with some trade-offs. Most manufacturers will void y
 If you encounter the **OEM unlock missing** on your Android phone despite wanting to unlock your bootloader, this article can help. You will learn the step-by-step guide for the different methods to fix the **missing OEM unlock** option. Before diving into solutions, let's explore why this option might be unavailable in the first place.
 
 ![using a phone at work](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Why Is OEM Unlock Missing on Your Device?
 
@@ -219,6 +219,10 @@ Bootloader Already Unlocked
 In some cases, the **Android OEM Unlock Missing** issue arises [<u>when the bootloader has already been unlocked</u>](https://drfone.wondershare.com/unlock/how-to-unlock-xiaomi-bootloader.html). Relocking the bootloader might make the option reappear. But exercise caution as this process can erase device data.
 
 ![oem unlock option greyed out](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Developer Options Not Enabled
 
@@ -271,10 +275,6 @@ Regain control in minutes with Dr.Fone. First, download the app to your desktop 
 - **Step 2:** Specify the Sony Xperia 5 V device type for screen lock removal.
 
 ![select device type interface](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3:** Select **Unlock Android Screen** to proceed.
 
@@ -329,6 +329,10 @@ If you intend to try this method, follow these steps to **enable OEM unlock miss
 
 ![turn off automatic date and time](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Tap on **Set date** and choose the desired older date from the calendar.
 - **Step 6:** Tap on **Set time** and choose the desired time from the clock.
 - **Step 7:** Tap on **Done** to save the changes.
@@ -351,10 +355,6 @@ Certain carriers restrict bootloader unlocking on their devices to ensure compat
 
 ![android factory data reset](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Review the warning and tap **Reset** to confirm.
 - **Step 4:** Once the reset is complete, your phone will restart. Connect to Wi-Fi when prompted.
 - **Step 5:** Skip any prompts to log in to your Google or email account. Then, repeat the process to open the **Developer Options** in the previous sections.
@@ -366,10 +366,6 @@ Having the **OEM Unlock missing** or greyed out can leave Android users feeling 
 While these methods provide a solid foundation, it's always wise to research steps specific to your phone model. And never forget – caution is key. If things get technical, don't hesitate to seek help from online communities or professional repair services.
 
 _**Tips:** Forget your device password and can't get access to it? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Unlock Sony Xperia 5 V Phone with Broken Screen
 
@@ -426,7 +422,7 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 ![connect broken screen android phone](https://images.wondershare.com/drfone/others/14531933625473.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** As soon as the Sony Xperia 5 V devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the Sony Xperia 5 V device’s password lock.
@@ -442,6 +438,10 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 **Step 1:** Visit the [https://findmymobile.samsung.com/login.do](https://findmymobile.samsung.com/login.do) on your PC or any other device and log in with your account information.
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933993021.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Select your device from the menu on the left-hand side of the screen.
 
@@ -467,24 +467,17 @@ Being unable to unlock your device is never a good place to be. We hope one of t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unveiling-the-best-apps-to-master-sound-transformation/"><u>[New] 2024 Approved Unveiling the Best Apps to Master Sound Transformation</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-choosing-hdr-over-sdr-elevating-your-video-creation-process/"><u>[New] Choosing HDR over SDR Elevating Your Video Creation Process</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-innovative-investigation-vll-on-app-standards/"><u>[New] In 2024, Innovative Investigation VLL on App Standards</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-explore-the-cheapest-deals-on-top-tier-gopros/"><u>[Updated] In 2024, Explore the Cheapest Deals on Top-Tier GoPros</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mysterious-rotation-of-videos-on-the-social-app/"><u>[Updated] Mysterious Rotation of Videos on the Social App</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-comprehensible-guide-to-fb-page-rank-boosting/"><u>2024 Approved The Comprehensible Guide to FB Page Rank Boosting</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/acoustic-architects-leading-sites-to-buy-skype-tones-for-2024/"><u>Acoustic Architects Leading Sites to Buy Skype Tones for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/crafting-the-future-revolutionary-tools-for-3d-modelers-for-2024/"><u>Crafting the Future Revolutionary Tools for 3D Modelers for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/garmin-vivomove-hr-watch-evaluation-the-perfect-fusion-of-style-and-activity-tracking/"><u>Garmin Vivomove HR Watch Evaluation: The Perfect Fusion of Style and Activity Tracking</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-asus-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Asus Unlock Without Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-motorola-moto-g84-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Motorola Moto G84 5G Face Lock?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-lava-blaze-2-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Lava Blaze 2 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-lava-yuva-3-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Lava Yuva 3 Through Google Earth?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-asus-rog-phone-8-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Asus ROG Phone 8 Pro Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-asus-rog-phone-7-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Asus ROG Phone 7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-htc-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent HTC Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/latest-tech-blog-movavi-screencapture-update-for-2024/"><u>Latest Tech Blog Movavi ScreenCapture Update for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-motorola-moto-e13-by-drfone-android/"><u>Universal Unlock Pattern for Motorola Moto E13</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-asus-rog-phone-8-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Asus ROG Phone 8 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-from-boredom-to-attention-unveiling-the-6-key-videos-for-2024/"><u>[New] From Boredom to Attention Unveiling the 6 Key Videos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beating-the-heat-substitutes-for-xsplit/"><u>[Updated] Beating the Heat Substitutes for XSplit</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-galaxy-s23-ultra-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lava-blaze-2-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Lava Blaze 2 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-lava-yuva-2-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Lava Yuva 2 Pro Lock Screen Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-lenovo-lock-screen-password-by-drfone-android/"><u>How to Reset your Lenovo Lock Screen Password</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-play-8t-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor Play 8T</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-streamlining-ad-revenue-post-monetization-yt-tips-and-tricks/"><u>In 2024, Streamlining Ad Revenue Post-Monetization YT Tips & Tricks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y27s-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y27s Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tailor-your-iphone-experience-on-ios-18-mastering-the-art-of-customizing-the-control-center-featuring-expert-tips/"><u>Tailor Your iPhone Experience on iOS 18: Mastering the Art of Customizing the Control Center, Featuring Expert Tips</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-oppo-a79-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Oppo A79 5G</u></a></li>
+<li><a href="https://win-top.techidaily.com/understanding-keyword-root-variations-how-stemming-enhances-your-seo-strategy/"><u>Understanding Keyword Root Variations - How Stemming Enhances Your SEO Strategy</u></a></li>
 </ul></div>
 

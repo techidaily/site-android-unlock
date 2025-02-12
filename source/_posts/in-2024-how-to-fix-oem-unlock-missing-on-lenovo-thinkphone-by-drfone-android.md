@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix OEM Unlock Missing on Lenovo ThinkPhone?
-date: 2025-01-27T17:44:00.822Z
-updated: 2025-01-31T01:12:06.733Z
+date: 2025-02-06T16:03:43.749Z
+updated: 2025-02-12T16:02:57.174Z
 tags: 
   - unlock
   - remove screen lock
@@ -41,6 +41,10 @@ Bootloader Already Unlocked
 In some cases, the **Android OEM Unlock Missing** issue arises [<u>when the bootloader has already been unlocked</u>](https://drfone.wondershare.com/unlock/how-to-unlock-xiaomi-bootloader.html). Relocking the bootloader might make the option reappear. But exercise caution as this process can erase device data.
 
 ![oem unlock option greyed out](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Developer Options Not Enabled
 
@@ -102,6 +106,10 @@ Regain control in minutes with Dr.Fone. First, download the app to your desktop 
 
 ![dr.fone screen unlock supported brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:**
 
 **The following steps will vary based on your device's manufacturer. Please refer to the instructions on your screen to proceed into Download or Recovery mode.**
@@ -109,6 +117,10 @@ Regain control in minutes with Dr.Fone. First, download the app to your desktop 
 - **Step 5:** The screen unlock process is underway. If it encounters trouble, click **Try Again**. Once Dr.Fone successfully unlocks your Android device, tap **Done**.
 
 ![screen lock successfully removed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now that you've regained access to your device thanks to Dr.Fone - Screen Unlock, you can move forward with enabling the **OEM unlock missing** option. Next up, we'll guide you through the steps in several ways. Let's start with the Developer options.
 
@@ -186,6 +198,10 @@ _**Tips:** Forget your device password and can't get access to it? No worries as
 They have been along for a long, long time now – pattern locks – the easiest of all smartphone locks. You just swipe your finger across to create an **easy pattern lock** of your choosing and that’s it, it becomes your new screen lock. No more remembering tedious digits! So, why have these easy pattern locks become outdated, and why do people still continue to use them? Let’s take a dive and find out all about pattern locks.
 
 ![creating more secure pattern locks](https://images.wondershare.com/drfone/article/2023/09/easy-pattern-lock-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part I: Things To Know About Pattern Locks
 
@@ -280,7 +296,7 @@ Download the newest version of Dr.Fone from the Wondershare website and launch t
 ![drfone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 1: Go to Toolbox > Screen Unlock and click Android.
@@ -307,13 +323,13 @@ Your device will be successfully unlocked.
 
 Note that this method wipes all data on the Lenovo ThinkPhone device. There is no way around it. You may be able to unlock select older Samsung devices without data loss. Check [this](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) list for those devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Closing Words
 
 Pattern locks are outdated and not safe to use an **easy pattern lock** – there are no two ways about it. As such, our recommendation is to start using a 6-digit PIN along with biometric or face recognition. However, we do understand that sometimes, you simply cannot use biometrics or face recognition. For those instances, we recommend that you use this guide and create a more secure pattern lock for your device. In case you forgot your pattern, there is always Wondershare Dr.Fone – Screen Unlock (Android) to save the day.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Unlock Lenovo ThinkPhone Phone without Any Data Loss
 
@@ -361,22 +377,22 @@ Remove 4 Types of Android Screen Lock without Data Loss
 ![Dr.Fone android Lock Screen Removal](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5.** The loading process will take you a few minutes because it is going to verify first your device's compatibility.
 
 ![Dr.Fone removing lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6.** Wait until everything is done. You should then see your device already has no lock screen.
 
 ![Dr.Fone lock screen removed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 That's how to unlock an Android phone with just one click using Wondershare's Dr.Fone. If your device is not Samsung or LG, you can use a more advanced mode to [unlock your phone](https://drfone.wondershare.com/guide/android-lock-screen-removal.html).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. How to Unlock Android Phone with Aroma File Manager (with Data Loss)/h2>
 
@@ -409,10 +425,6 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 **Step 6.** When you are already in Android Recovery Mode, use your volume keys to navigate to ''apply update from external storage'', then select the zip file you copied a while ago. It will be flashed on your device.
 
 ![Android system recovery](https://images.wondershare.com/drfone/article/2016/06/14647615657193.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 7.** After it, restart, and recovery mode will reopen as Aroma File Manager, so go to its settings and select ''Automount all devices on start'', then restart. Back in Aroma File Manager, go to the directory data>system. Check if the ff. exist. If they do, delete them. Then restart again.
 
@@ -447,11 +459,11 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 
 ![Minimal adb and fastboot setup](https://images.wondershare.com/drfone/article/2016/06/14648313551732.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Minimal adb and fastboot installation complete](https://images.wondershare.com/drfone/article/2016/06/14648313566582.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** Make sure your device is connected, then go to the Minimal ADB and Fastboot installation directory.
 
@@ -463,10 +475,6 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 
 ![Minimal adb and fastboot folder](https://images.wondershare.com/drfone/article/2016/06/14648313625020.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5.** Inside the folder, hold the Shift key on your keyboard, then right-click your mouse. An additional "Open command window here" will appear so select that.
 
 ![Minimal adb and fastboot open command](https://images.wondershare.com/drfone/article/2016/06/14648313653169.jpg)
@@ -474,10 +482,6 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 **Step 6.** ADB terminal will pop out. Now, the first is to type in ADB _devices_. This is to check if your device is recognized by ADB. If there is no device listed below, try to remove and reconnect your Lenovo ThinkPhone and retype the command. If there are listed devices already, proceed.
 
 ![Minimal adb and fastboot command window adb devices command](https://images.wondershare.com/drfone/article/2016/06/14648317691463.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 7.** Finally, type in the following commands **one by one****.** These commands will remove your lock screen.
 
@@ -504,15 +508,7 @@ Google Find My Device is another handy way to unlock your locked Android device.
 
 ![tap on erase device option](https://images.wondershare.com/drfone/article/2023/09/unlock-android-phone-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** You will now be asked to confirm your identity through a Google account password or using a pass-key. Afterward, follow the on-screen instructions to erase and unlock your Android device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: How to Unlock Android Phone without Losing Data in Safe Mode
 
@@ -523,6 +519,10 @@ One way to unlock your Android phone without losing the data is by utilizing Saf
 **Step 2:** After a while, you will see the "Safe Mode" option on your screen with some basic instructions. Now, you can use the button to boot into Safe Mode and remove the screen lock application.
 
 ![restart android device in safe mode](https://images.wondershare.com/drfone/article/2023/09/unlock-android-phone-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6. How to Unlock Android Phone without Any Data Loss Using Google Account (Android 4.4 or lower)
 
@@ -558,17 +558,19 @@ You will be given the option to input a new password or pattern right after you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-action-cams-reduce-jitter-for-smooth-videos/"><u>[New] Best Action Cams Reduce Jitter for Smooth Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-master-video-transformation-a-complete-guide-to-rotating-in-vlc-for-2024/"><u>[Updated] Master Video Transformation A Complete Guide to Rotating in VLC for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-y27s-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo Y27s Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-valorants-perpetual-loading-problem-for-smooth-gameplay/"><u>How to Resolve Valorant's Perpetual Loading Problem for Smooth Gameplay</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-lava-yuva-2-by-drfone-android/"><u>How to Show Wi-Fi Password on Lava Yuva 2</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-bootloader-easily-by-drfone-android/"><u>How to Unlock Nubia Bootloader Easily</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-s17e-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo S17e</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-exploring-the-world-with-a-vr-headset/"><u>In 2024, Exploring the World with a VR Headset</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-zte-nubia-z60-ultra-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your ZTE Nubia Z60 Ultra FRP Locks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-x-flip-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo X Flip</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-s17es-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo S17es Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/leading-edge-social-media-movie-batch/"><u>Leading Edge Social Media Movie Batch</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-seconds-for-a-high-quality-20mb-video/"><u>[New] Seconds for a High-Quality 20MB Video</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-live-video-quest-evaluating-the-strengths-of-obs-and-twitch-studio/"><u>[Updated] 2024 Approved Live Video Quest Evaluating the Strengths of OBS and Twitch Studio</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeos-complimentary-guide-essential-video-editing-skills-for-2024/"><u>[Updated] Vimeo’s Complimentary Guide Essential Video Editing Skills for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-asus-by-drfone-android/"><u>Full Guide to Unlock Your Asus</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-v29-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo V29 Phone Screen?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-a15-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy A15 5G Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-oppo-a2-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Oppo A2 Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Phone with Broken Screen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/openai-alternatives-revealed-discover-5-techniques-to-leverage-chatgpts-capabilities-without-an-account/"><u>OpenAI Alternatives Revealed: Discover 5 Techniques to Leverage ChatGPT's Capabilities without an Account</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-oppo-a79-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Oppo A79 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-fixes-for-intermittent-speaker-failures-on-windows-11-systems/"><u>The Ultimate Fixes for Intermittent Speaker Failures on Windows 11 Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultrabook-assessment-balancing-portability-and-power/"><u>Ultrabook Assessment: Balancing Portability and Power</u></a></li>
 </ul></div>
 

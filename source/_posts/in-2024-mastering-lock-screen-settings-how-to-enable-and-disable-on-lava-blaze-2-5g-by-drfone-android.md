@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering Lock Screen Settings How to Enable and Disable on Lava Blaze 2 5G
-date: 2025-01-24T22:35:11.357Z
-updated: 2025-01-31T00:07:30.470Z
+date: 2025-02-08T16:03:44.237Z
+updated: 2025-02-12T16:07:45.194Z
 tags: 
   - unlock
   - remove screen lock
@@ -42,10 +42,6 @@ If you have spent time searching and looking for features of your Android device
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Disable Android Lock Screen
 
 To certain customers, the lock screen can do more harm than good, and they would prefer to disable the screen lock on their Android devices. This process is also an easy one to follow, as long as you still hold good memory of the security code.
@@ -58,13 +54,13 @@ To certain customers, the lock screen can do more harm than good, and they would
 
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555321966246.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 · Step 3: Once you have done the previous step, a brand new screen will appear and then you will be asked to fill in your PIN code. This is a step that helps guarantee that you are the true owner of the Android device.
 
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555322112292.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: As soon as you have confirmed the right PIN code in the bar provided, you will then be presented to the next drop-down menu. A similar screen will appear which shows you plenty of choices. Tap on the top of that list, which is a bar called None.
 
@@ -90,10 +86,6 @@ Step 1: Open the Settings menu from the main screen. Then tap on the Credential 
 
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14556834486843.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Continue to tap on the Clear Credentials (Remove all certificates) option. Then next click on the OK button. Wait for some seconds until your Android device has finished the process.
 
 Step 3: To make sure that the previous step has been performed successfully, try looking at the bottom of the drop-down menu. If the Clear Credentials (Remove all certificates) are grey out and can not be selected, then you have managed to do it.
@@ -107,6 +99,10 @@ Step 4: Now that the problem is solved, you can feel free to turn back to your S
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555323367933.jpg)![disable lock screen android](https://images.wondershare.com/drfone/others/14555323405268.jpg)
 
 This is pretty weird, but actually, it is one of the most common troubles that many users have complained about. But to your surprise, the solution is very simple and easy. All you have to do is to reset your password, but with a little change. Your password MUST include at least ONE NUMBER in it. Confirm your new password then you will be able to disable the lock screen Android as usual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip: Remove Android Screen Lock If Forgotten Password/Pattern
 
@@ -125,10 +121,6 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Steps on How to Unlock Forgotten Password in Android Phones
 
 **Step 1:** Launch Dr.Fone and click on Screen Unlock from the primary window.
@@ -138,6 +130,10 @@ Remove 4 Types of Android Screen Lock without Data Loss
 **Step 2:** Connect your Android device to the computer via USB cable. The program will recognize the phone directly. Select the phone model or "I can't find my device model from the list above" to continue.
 
 ![disable android lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Follow the instruction on the program exactly to set the phone to Download Mode. First, you will need to Power off your Phone. Secondly, Press on Volume Down, Home button, and Power button simultaneously. Thirdly press the Volume up button to navigate until the phone enters Download mode.
 
@@ -165,6 +161,10 @@ Here you will see how to set up a screen lock on your Android device:
 
 ![screen lock](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Quickly Unlock Your Screen By Dr.Fone
 
 ### Dr.Fone - Screen Unlock
@@ -190,21 +190,25 @@ The Best Tool to unlock Android Phone Screen!
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2. Select Unlock Android Screen**
 
 This is the page to start your unlock process with two options here, please select" Unlock Android Screen" to unlock your device screen.
 
 ![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3. Select device model**
 
 For most Brands, it should be "100% Remove Screen Lock". These two solutions unlock screens for almost all Android devices, for example, Samsung, Huawei, OPPO, Vivo, Lenovo, LG, etc.
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In the supported device brands list, please find the right one for you.
 
@@ -218,17 +222,9 @@ Get into Recovery Mode on Samsung phone with Bixby:
 
 ![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Get into Recovery Mode on Samsung phone without Bixby:
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Get into Recovery Mode in Samsung phone with Home Button:
 
@@ -244,10 +240,6 @@ You're now able to access your Android device again when the whole process is ov
 
 ![finish the process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Solutions to Unlock Android Screen
 
 ### 1\. Google Find My Device
@@ -257,10 +249,6 @@ You're now able to access your Android device again when the whole process is ov
 ![find my device](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-2.jpg)
 
 **Step 2:** Click "Erase my device," which you will see on the left half of your screen. After affirming the Delete capability, your phone will boot into recovery and begin playing out a production line reset. It is difficult to stop or drop on your android gadget when you endorse this activity. Regardless of whether you shut down your Android phone - the reboot will continue on startup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Recovery Mode
 
@@ -303,6 +291,10 @@ After entering, reboot your phone once more.
 
 **Step 2:** Clear data from your lock screen application, uninstall and reboot your phone to escape the Safe mode. When you do so, your Android **screen lock** will unlock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Crash Lock Screen
 
 This strategy to sidestep a locked screen is only a crisis workaround for the phones in this classification.
@@ -328,6 +320,10 @@ However, this freedom comes with some trade-offs. Most manufacturers will void y
 If you encounter the **OEM unlock missing** on your Android phone despite wanting to unlock your bootloader, this article can help. You will learn the step-by-step guide for the different methods to fix the **missing OEM unlock** option. Before diving into solutions, let's explore why this option might be unavailable in the first place.
 
 ![using a phone at work](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why Is OEM Unlock Missing on Your Device?
 
@@ -403,6 +399,10 @@ Regain control in minutes with Dr.Fone. First, download the app to your desktop 
 
 ![dr.fone screen unlock supported brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:**
 
 **The following steps will vary based on your device's manufacturer. Please refer to the instructions on your screen to proceed into Download or Recovery mode.**
@@ -412,6 +412,10 @@ Regain control in minutes with Dr.Fone. First, download the app to your desktop 
 ![screen lock successfully removed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 Now that you've regained access to your device thanks to Dr.Fone - Screen Unlock, you can move forward with enabling the **OEM unlock missing** option. Next up, we'll guide you through the steps in several ways. Let's start with the Developer options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How To Enable OEM Unlock Missing From the Developer Options?
 
@@ -447,10 +451,6 @@ If you intend to try this method, follow these steps to **enable OEM unlock miss
 - **Step 4:** Turn off **Automatic date and time**.
 
 ![turn off automatic date and time](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 5:** Tap on **Set date** and choose the desired older date from the calendar.
 - **Step 6:** Tap on **Set time** and choose the desired time from the clock.
@@ -500,16 +500,21 @@ _**Tips:** Forget your device password and can't get access to it? No worries as
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-exploring-top-iphone-video-editors-cameo-and-filmorago-face-off-for-2024/"><u>[New] Exploring Top iPhone Video Editors Cameo & FilmoraGo Face-Off for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-entering-income-territory-with-a-thousand-followers/"><u>2024 Approved Entering Income Territory with a Thousand Followers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-edge-40-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Edge 40</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-motorola-edge-40-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Motorola Edge 40 Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/highlighting-the-superiority-win11-over-macos-details/"><u>Highlighting The Superiority: Win11 over MacOS Details</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y27-4g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y27 4G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-xcover-7-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy XCover 7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-a18-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Oppo A18</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-tecno-pova-5-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Tecno Pova 5 Pro to Another | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/step-into-expertise-modifying-numbers-on-tiktok-profiles-for-2024/"><u>Step Into Expertise Modifying Numbers on TikTok Profiles for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-instructions-to-uninstall-apps-on-samsungs-latest-tv-models/"><u>Ultimate Instructions to Uninstall Apps on Samsung's Latest TV Models</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-expertly-remove-items-from-iphone-photo-with-top-6-apps/"><u>[Updated] 2024 Approved Expertly Remove Items From iPhone Photo with Top 6 Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-4k-unveiled-hp-dreamcolors-technological-leap/"><u>[Updated] 4K Unveiled HP DreamColor's Technological Leap</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-moments-of-quietude-top-idle-smartphone-games-for-2024/"><u>[Updated] Moments of Quietude Top Idle Smartphone Games for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y27-5g-lock-screen-password-by-drfone-android/"><u>How To Change Vivo Y27 5G Lock Screen Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-v29-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo V29 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-t2-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo T2 5G Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Samsung Galaxy S23</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-a05-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy A05 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-m54-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy M54 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-s23-fe-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy S23 FE Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-nokia-c300-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Nokia C300? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/integrated-sound-and-vision-workspace-for-2024/"><u>Integrated Sound & Vision Workspace for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/smart-streaming-showdown-roku-against-fire-tv-stick-which-wins/"><u>Smart Streaming Showdown: Roku Against Fire TV Stick – Which Wins?</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-50-hottest-music-videos-for-mixing-the-ultimate-dj-guide-from-june-2017/"><u>Top 50 Hottest Music Videos for Mixing: The Ultimate DJ Guide From June 2017</u></a></li>
 </ul></div>
 

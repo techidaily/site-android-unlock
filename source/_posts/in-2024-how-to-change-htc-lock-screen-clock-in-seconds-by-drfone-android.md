@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Change HTC Lock Screen Clock in Seconds
-date: 2025-01-26T23:58:12.779Z
-updated: 2025-01-30T20:43:42.355Z
+date: 2025-02-11T16:08:26.288Z
+updated: 2025-02-12T16:01:41.104Z
 tags: 
   - unlock
   - remove screen lock
@@ -84,10 +84,6 @@ Originally, there was no provision to **change the lock screen clock in Android 
 
 ![double line clock android settings](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-06.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2:** Toggle the **Double-line clock** off.
 
 **_**_Note_**_**
@@ -103,6 +99,10 @@ An alternative method to modify the **Android lock screen clock** involves activ
 ![screensaver and new lock screen clock](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-07.jpg)
 
 - **Step 2**: If you want to customize the screensaver clock’s appearance, go to **Settings** > **Display** > **Screensaver.** Choose analog, digital, or night mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Keep Unread Notifications
 
@@ -125,6 +125,10 @@ Changing the lock screen clock on Samsung phones is similar to the general Andro
 
 ![customizing lock screen clock on samsung](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Choose between different styles, such as digital, analog, or others. Some Samsung models offer extra settings like color, size, and more to enhance your lock screen further. Select the one that suits your taste.
 
 If you’d rather remove the lock screen clock on your Samsung device, follow these steps:
@@ -141,6 +145,10 @@ If you ever find yourself locked out of your Android device due to a mishap whil
 [<u>How To Easily Unlock Nokia Screen: 4 Effective Methods</u>](https://drfone.wondershare.com/unlock/nokia-lock-screen.html)
 
 [<u>How to Change Lock Screen Wallpaper on Android</u>](https://drfone.wondershare.com/unlock/lock-screen-wallpaper-on-android.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. How To Unlock Accidentally Locked Android Screen
 
@@ -191,6 +199,10 @@ Whether you own a Samsung or LG device, Dr.Fone allows you to unlock your phone 
 
 Dr.Fone is compatible with a vast array of Android models. It supports over 2000 devices, making it a versatile solution for Android users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Knowing **how to change the lock screen clocks** on your Android offers a personalized touch. Android 12 users can effortlessly adjust settings, while Android 11 and older versions require a manual setup. Samsung owners, meanwhile, enjoy a similar but unique customization process. Follow the steps outlined above for those seeking to remove the lock screen entirely.
@@ -221,10 +233,6 @@ This is the most common method of unlocking an android lock screen. On all most 
 
 Keep your any finger on the middle of the round charm and by keeping your finger pressed, reach on the lock icon. The lock screen will be unlocked just after reaching your finger to the lock icon.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.Face Unlock
 
 This method of unlocking your lock screen needs your Android device to snap a photo of your with its camera. After you set the snapped photo as the unlocking recognition, you could unlock your device through showing your face on the screen.
@@ -233,19 +241,11 @@ Capture a picture of your face with your Android device's camera and then set it
 
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3.Pattern
 
 This is a way of setting pattern for lock screen from a grid of nine dots. You can select the pattern like some letter like Z, L or C etc, but nothing guarantees high security as the set pattern can be easily guessed or be seen while you are unlocking your device. Another problem is that by unlocking with the same pattern, your finger leaves some marks for the pattern's path. By following the path, a stranger can unlock your device. So for little security, you can use pattern unlock method on your Android device.
 
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Go to the lock screen setting for Pattern and then set the pattern by sliding your finger from one dot to another, then another and like that way. Remember which pattern you've set in order to unlock your device in the next time.
 
@@ -263,10 +263,6 @@ In addition to PIN protection, you can consider it as password by adding some le
 
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6.Fingerprint
 
 In some of the modern Android device, you'll find the feature of fingerprint unlocking. You can find the option through the screen or any dedicated button. By setting your fingerprint, you can unlock your device by tapping your finger on the HTC U23 Pro device's screen or the dedicated button.
@@ -274,7 +270,7 @@ In some of the modern Android device, you'll find the feature of fingerprint unl
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7.Voice
@@ -328,10 +324,6 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![bypass Samsung Phone's lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3.** Enter the download mode on your Samsung device. Follow the guide of the windows.
 
 - 1.Power off the phone.
@@ -344,9 +336,17 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![bypass Samsung Phone's lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5.** When the recovery package is downloaded completed,you can start the process of unlock,the whole process won't lose any data on your device.You can access your device without entering any password or PIN after the process is finished.
 
 ![bypass Samsung Phone's lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Video on How To Remove Android Lock Screen
 
@@ -378,10 +378,6 @@ Tap on Settings, which is the gear symbol.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555171833750.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - • Click on Personal and tap on Security.
 - • Go to Advanced and tap on Trust agents and make sure Smart Lock is turned on.
 
@@ -395,10 +391,6 @@ Tap on Settings, which is the gear symbol.
 Within Smart Lock, there are three options for setting the system. You can set up trusted devices, trusted face, and trusted places individually, combining two or all three at the same time. You can choose just one trusted face, but you have the option to set up as many trusted devices and trusted places as needed.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555176091774.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Turn On Smart Lock For Android with Trusted Devices
 
@@ -447,6 +439,10 @@ On a new Android phone, visit Settings>Personal.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555199012102.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then Lock Screen and Security.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555199294567.jpg)
@@ -458,6 +454,10 @@ Then Secure Lock Settings.
 Tap Smart Lock.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555200954549.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tap on Trusted Places.
 
@@ -504,6 +504,10 @@ The feature recognizes your face and then unlocks the HTC U23 Pro device. Once y
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555208588486.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 PRECAUTION:  At best, this can be the first level of security, as one who resembles you to some extent can unlock the HTC U23 Pro device. Photographs are not stored in the system. The device does hold necessary data to recognize your face, and the security level is determined by how good the HTC U23 Pro device is configured. The data is not accessed by any app or loaded onto a Google server for backup.
 
 _Setting Up Trusted Face_
@@ -516,10 +520,6 @@ _Setting Up Trusted Face_
 The device begins to gather data about your face. The trusted face icon appears. As a backup, in case Smart Lock does not recognize your face, use the manual system by applying the PIN or password to unlock the HTC U23 Pro device.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555211623749.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In case Trusted Face is not required, tap on reset Trusted Face appearing under the Trusted Face menu. Tap on Reset to reset the option.
 
@@ -551,20 +551,20 @@ Smart Lock Android is a great feature and is only going to improve on time. With
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-superior-7-streamers-choice-for-videos/"><u>[New] Superior 7 Streamer's Choice for Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-background-excision-tool-affinity-photo/"><u>[Updated] In 2024, Background Excision Tool Affinity Photo</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-free-online-solutions-for-instantaneous-gif-conversion/"><u>2024 Approved Best Free Online Solutions For Instantaneous GIF Conversion</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia G22? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/effortless-mp4-creation-from-facebook-feed/"><u>Effortless MP4 Creation From Facebook Feed</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/how-to-change-youtube-video-playback-speed-desktopmobile-for-2024/"><u>How to Change YouTube Video Playback Speed [Desktop/Mobile] for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-react-when-your-windows-cant-find-powershell/"><u>How to React When Your Windows Can't Find PowerShell?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-f15-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy F15 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-a24-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy A24</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-best-starter-cameras-for-child-filmmakers-in-splashy-settings/"><u>In 2024, Best Starter Cameras For Child Filmmakers in Splashy Settings</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-y27-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo Y27 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-oppo-find-n3-flip-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Oppo Find N3 Flip Phone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-6s-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 6s</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-m54-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy M54 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ultimate-list-10-prime-video-cameras-for-pcs/"><u>[Updated] In 2024, Ultimate List 10 Prime Video Cameras for PCs</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-a2-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-latest-endeavor-discover-whats-brewing-with-its-new-game-mode-top-3-insights-revealed/"><u>Apple's Latest Endeavor: Discover What's Brewing with Its New Game Mode - Top 3 Insights Revealed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/choosing-the-right-screen-recorder-outside-of-xbox/"><u>Choosing the Right Screen Recorder, Outside of Xbox</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-reno-11-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Oppo Reno 11 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-samsung-galaxy-f14-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Samsung Galaxy F14 5G Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-y100i-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo Y100i Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-samsung-lock-screen-password-by-drfone-android/"><u>How to Reset your Samsung Lock Screen Password</u></a></li>
+<li><a href="https://techtrends.techidaily.com/identifying-supporters-a-guide-to-monitoring-saves-on-instagram/"><u>Identifying Supporters: A Guide to Monitoring Saves on Instagram</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-y100a-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo Y100A</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-oppo-a18-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Oppo A18 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategies-for-secure-unmarked-photography-procurement/"><u>Strategies for Secure, Unmarked Photography Procurement</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808324928-success-story-navigating-past-windows-11-install-problems-and-winning/"><u>Success Story: Navigating Past Windows 11 Install Problems and Winning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-benefits-mastering-chatgpt-for-career-enhancement/"><u>Top 6 Benefits: Mastering ChatGPT for Career Enhancement</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y02t-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y02T Users</u></a></li>
 </ul></div>
 

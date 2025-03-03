@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Enable USB Debugging on a Locked Huawei P60 Phone
-date: 2025-02-08T16:06:13.093Z
-updated: 2025-02-12T16:05:04.255Z
+date: 2025-02-28T09:29:37.055Z
+updated: 2025-03-02T20:49:48.089Z
 tags: 
   - unlock
   - remove screen lock
@@ -40,10 +40,6 @@ Outlined below are some of the barriers, scenarios, and limitations, shedding li
 - **Limited functionality.**The phone’s locked state restricts the usual methods of accessing developer settings and USB debugging options.
 - **Security measures.**For security reasons, most devices limit access to sensitive settings when the phone is locked, making it tricky to enable USB debugging.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Scenarios Requiring USB Debugging on a Locked Phone
 
 Unlocking your phone’s potential becomes crucial in moments of crisis. Explore below some of the scenarios where enabling USB debugging on a locked Android device becomes your beacon of hope:
@@ -73,10 +69,6 @@ Enabling USB debugging on a locked phone can feel like navigating a maze with no
 
 ![drfone home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Why Unlocking First Makes Sense
 
 Attempting to **enable USB debugging on locked phones** can hit roadblocks. That’s why unlocking your device first becomes a game-changer. Dr.Fone – Screen Unlock (Android) is the hero of this story, simplifying the process and ensuring a hassle-free experience.
@@ -104,10 +96,6 @@ Below are the steps on how you can unlock your Android device using Dr.Fone:
 
 ![drfone unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** After that, you’ll be taken to a new screen where you can choose the brand of your mobile device.
 
 ![drfone screen unlock select device brand](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -123,10 +111,6 @@ Below are the steps on how you can unlock your Android device using Dr.Fone:
 - **Step 6:** Type **000000** when asked to confirm the process. After entering the code, click **Confirm** to run the program.
 
 ![drfone screen unlock confirm](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 7:** Once you’ve recognized your Android device’s model, Dr. Fone will walk you through entering **Download Mode**. Following the on-screen prompts will take you directly to the next screen. It then depicts the progress of the screen unlocking procedure, in which the platform’s required drivers and configuration files are downloaded.
 
@@ -158,14 +142,6 @@ But fear not! This comprehensive guide is here to rescue you from the perils of 
 
 ![how to unlock motorola phone](https://images.wondershare.com/drfone/article/2022/09/full-guide-to-unlock-motorola-phones-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Unlock Huawei P60  Phones Running Older Android OS (4.4 Or Below) With Google Security Questions
 
 Up until Android version 4.4, you could lock your phone screen with a pattern. Google allowed you to unlock the phone by answering security questions in case you forgot the pattern. Since these may also be easily guessed by people who are in possession of your device illegally, Google deprecated this method after Android 4.4. However, the phones running Android 4.4 or lower are still allowed to be unlocked using this method. So, if you have an old Huawei P60  with Android 4.4 or earlier, here is **how to unlock Huawei P60  phone password without factory reset**:
@@ -179,10 +155,6 @@ Up until Android version 4.4, you could lock your phone screen with a pattern. G
 **Step 3:** Sign into the Google account that matches with the Google account on the phone.
 
 **Step 4:** Lastly, create a new pattern to unlock your Huawei P60  phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Side Tip
 
@@ -203,10 +175,6 @@ Dr.Fone is a collection of several modules unified in a single interface. Each o
 **Step 2:** Click Unlock Android Screen.
 
 ![unlock motorola phone screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Select the first option – 100% Remove Screen Lock as Huawei P60  devices cannot be unlocked without data loss.
 
@@ -271,10 +239,6 @@ Sometimes, you may not need to secure your device at all. For example, if you ha
 **Step 2:** Enter the PIN or pattern.
 
 **Step 3:** Choose None and confirm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -349,10 +313,6 @@ On your android device, open Settings. You can find the settings app in the app;
 
 ![enable or disable screen lock PIN-confirm your security PIN](https://images.wondershare.com/drfone/article/2016/05/14646069136524.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Good job. You will have to enter this PIN whenever your phone sleeps or when you reboot your phone.
 
 ## Part 3. How to Disable Your Android Screen Lock PIN
@@ -389,19 +349,16 @@ Enabling screen lock on your Android is the smartest thing to do especially if y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-tune-your-status-on-whatsapp/"><u>[New] 2024 Approved Tune Your Status on WhatsApp</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-zoom-strategy-for-videoleap-videos/"><u>[New] The Ultimate Zoom Strategy for Videoleap Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-visionary-views-discovering-futures-best-frame-apps/"><u>2024 Approved Visionary Views Discovering Future's Best Frame Apps</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/2024s-leading-asus-wireless-network-devices-a-comprehensive-review/"><u>2024'S Leading Asus Wireless Network Devices: A Comprehensive Review</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-a05-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy A05</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-motorola-moto-g-5g-2023-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Moto G 5G (2023) Fingerprint Lock</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boosting-performance-discover-how-linking-your-oura-ring-with-strava-can-revolutionize-training-setup-guide/"><u>Boosting Performance: Discover How Linking Your Oura Ring with Strava Can Revolutionize Training - Setup Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-y02t-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo Y02T Face Lock?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y02t-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y02T Phone that is Locked?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/premier-sites-for-tweeting-in-a-post-twitter-era/"><u>Premier Sites for Tweeting in a Post-Twitter Era</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oppo-f25-pro-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Oppo F25 Pro 5G Device</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-iphone-burst-mode-shooting/"><u>The Ultimate Guide to iPhone Burst Mode Shooting</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-10-streaming-services-worth-a-try-for-2024/"><u>Updated Top 10 Streaming Services Worth a Try for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-portrait-perfection-free-official-passport-image-generator-download/"><u>[New] In 2024, Portrait Perfection Free, Official Passport Image Generator Download</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-peak-level-hd-mastery-in-the-markets-top-recorders/"><u>[Updated] 2024 Approved Peak-Level HD Mastery in the Market's Top Recorders</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-effective-card-choices-for-design-enthusiasts/"><u>Cost-Effective Card Choices for Design Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dells-new-contenders-the-impressive-fusion-of-performance-and-style-in-the-xps-16-9640-and-xps-14-9440-plus-a-sneak-peek-at-their-unique-characteristics/"><u>Dell's New Contenders: The Impressive Fusion of Performance & Style in the XPS 16 (9640) & XPS 14 (9440), Plus a Sneak Peek at Their Unique Characteristics</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-most-recent-driver-downloads-for-your-brother-hl-l2360dw-all-in-one-printer/"><u>Get the Most Recent Driver Downloads for Your Brother HL-L2360DW All-in-One Printer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-lava-blaze-pro-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Lava Blaze Pro 5G?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-xperia-5-v-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Sony Xperia 5 V Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-asus-rog-phone-7-ultimate-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-asus-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Asus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/last-chance-to-snag-top-costco-cyber-monday-offers-premier-deals-on-electronics-await-with-our-guide/"><u>Last Chance to Snag Top Costco Cyber Monday Offers: Premier Deals on Electronics Await with Our Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-motorola-defy-2-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Motorola Defy 2</u></a></li>
 </ul></div>
 

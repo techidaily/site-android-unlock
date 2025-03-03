@@ -1,7 +1,7 @@
 ---
 title: In 2024, 6 Proven Ways to Unlock Sony Xperia 10 V Phone When You Forget the Password
-date: 2025-02-08T16:00:31.536Z
-updated: 2025-02-12T16:05:10.654Z
+date: 2025-03-02T03:27:53.136Z
+updated: 2025-03-02T16:56:59.227Z
 tags: 
   - unlock
   - remove screen lock
@@ -36,10 +36,6 @@ Face unlock uses your device's front-facing camera to recognize your face and un
 
 ![face and fingerprint unlock](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 However, you must use the face or fingerprint unlock correctly on your Android phone. The tips below can prove helpful:
 
 - **Step 1:** Make sure your face or fingerprint is registered correctly on the Sony Xperia 10 V device.
@@ -62,10 +58,6 @@ Dr.Fone is an all-in-one tool that allows you to completely recover lost files f
 - Work for Samsung Galaxy S/Note/Tab series, [LG G2/G3/G4](https://drfone.wondershare.com/unlock/unlock-lg-phone-forgot-password.html), Huawei, Xiaomi, Lenovo, etc.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -205,10 +197,6 @@ In addition to passwords and patterns, the fingerprint scanner is one of the hot
 
 However, if your phone has an inbuilt fingerprint scanner but it does not countenance you to lock the individual apps in your mobile with the fingerprint scanner, you do not need to worry at all! There are some apps that can add this option on your phone. And we are here to suggest you the 5 best options to lock apps with the fingerprint on your Android phones out of the many apps available in the app store! Here we go:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. AppLock
 
 AppLock is rated as the best one of the apps for locking apps on your Android phone. Once you download this app you will notice that it can lock apps with fingerprint practically on your Android phone. It is also capable of locking photos and videos on your device. The app features are secured when you feel that someone is trying to stealthily look at the mobile while you are unlocking your Android phone. Apart from this, you will also get the option to replace the icon so that you are capable of hiding the app. Now the bonus –You can download and use this app absolutely free for locking the apps on your iPhone or Android apps using the fingerprint.
@@ -244,14 +232,6 @@ The subsequent name on the list of best app locks using lock apps with the finge
 **Google Rating:** 4.5
 
 ![lock apps with fingerprint android-Fingerprint & Pin](https://images.wondershare.com/drfone/article/2017/10/15090399098286.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. FingerSecurity
 
@@ -340,10 +320,6 @@ This is an important issue that needs to be resolved right away. Therefore, some
 
 If you have added a trusted area or device in Google Smart Lock, you can go to that trusted area and reset your password. Alternatively, you can also use trusted devices to unlock your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Google Find My Device
 
 As you are likely aware, every Android device is connected to a Google account. As a result, if you'd like, you may also use it to unlock Android. You'll need to know your Google account login information for this. When you're ready, use these instructions to find out how to unlock a phone password.
@@ -355,10 +331,6 @@ As you are likely aware, every Android device is connected to a Google account. 
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Recovery Mode
 
 Users of Android smartphones and tablets can troubleshoot various issues with their devices using a feature known as Android Recovery Mode. If you discover that your device is functioning strangely, it might be helpful. Recovery Mode Android technically refers to a unique bootable partition with a recovery application installed inside it.
@@ -366,10 +338,6 @@ Users of Android smartphones and tablets can troubleshoot various issues with th
 However, users can also use it to reset the android password if it is forgotten. The instructions for resetting android devices through recovery mode differ for every android device.
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Dr.Fone - Screen Unlock
 
@@ -407,14 +375,6 @@ Congratulations! Now you can access your phone again, and there're no obstacles 
 
 ![access your phone again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 1. Will Dr.Fone - Screen Unlock Do Harm To My Sony Xperia 10 V?
@@ -443,18 +403,20 @@ Any methods mentioned above can work to overcome the obstacle of unlocking the s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-premium-4k-tvs-the-ultimate-list/"><u>[New] 2024 Approved Premium 4K TVs – The Ultimate List</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-comprehensive-techniques-for-iphones-in-virtual-space/"><u>[New] Comprehensive Techniques for iPhones in Virtual Space</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-incremental-volume-easing-in-logic-pro-audio-workflows/"><u>[New] Incremental Volume Easing in Logic Pro Audio Workflows</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-facebook-cover-video-introduction-size-format-and-time/"><u>[Updated] 2024 Approved Facebook Cover Video Introduction, Size, Format & Time</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oppo-reno-11f-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Oppo Reno 11F 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-lenovo-thinkphone-unlock-without-password-by-drfone-android/"><u>5 Solutions For Lenovo ThinkPhone Unlock Without Password</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevate-your-videography-7-free-sound-effects-collection/"><u>Elevate Your Videography - 7 Free Sound Effects Collection</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-motorola-razr-40-ultra-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Motorola Razr 40 Ultra Phone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-v29-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo V29</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-online-gaming-earnings-in-the-future/"><u>In 2024, Online Gaming Earnings in the Future</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-y77t-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo Y77t Phone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/standing-and-exploiting-youtubes-featured-slot-for-maximum-reach-for-2024/"><u>Understanding and Exploiting YouTube's Featured Slot for Maximum Reach for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-art-of-effortless-video-size-transformation-on-macos/"><u>[New] 2024 Approved The Art of Effortless Video Size Transformation on MacOS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-estimating-24-hour-films-data-footprint/"><u>[Updated] 2024 Approved Estimating 24-Hour Film's Data Footprint</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>[Updated] Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-thorough-reconnaissance-the-full-review-for-bublcams-panoramic-masterpiece/"><u>[Updated] Thorough Reconnaissance The Full Review for Bublcam's Panoramic Masterpiece</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-investigating-changes-over-time-in-windows-movie-maker/"><u>2024 Approved Investigating Changes Over Time in Windows Movie Maker</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-12-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi 12 Phones with/without a PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-motorola-moto-g73-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Motorola Moto G73 5G Face Lock?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-motorola-defy-2-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Motorola Defy 2 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-tecno-camon-20-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Tecno Camon 20 Data? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-lava-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Lava Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-lava-blaze-pro-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Lava Blaze Pro 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-htc-u23-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock HTC U23 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-lava-yuva-3-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Lava Yuva 3 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-editing-odyssey-journey-to-photo-mastery-for-2024/"><u>The Editing Odyssey Journey to Photo Mastery for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-bokeh-editing-apps-for-mobile-devices/"><u>Top Bokeh Editing Apps for Mobile Devices</u></a></li>
 </ul></div>
 
